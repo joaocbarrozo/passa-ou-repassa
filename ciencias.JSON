@@ -1,0 +1,2004 @@
+{
+    "questions": [
+        {
+            "question": "Qual é a principal função da clorofila nas plantas?",
+            "options": [
+                "Armazenar energia",
+                "Realizar a fotossíntese",
+                "Proteger contra predadores",
+                "Transportar água"
+            ],
+            "correctAnswer": "Realizar a fotossíntese"
+        },
+        {
+            "question": "O que caracteriza uma reação química?",
+            "options": [
+                "Mudança de estado físico",
+                "Mudança na temperatura",
+                "Mudança na composição das substâncias",
+                "Mudança na cor"
+            ],
+            "correctAnswer": "Mudança na composição das substâncias"
+        },
+        {
+            "question": "Qual é a função dos hormônios no corpo humano?",
+            "options": [
+                "Produzir energia",
+                "Regular funções fisiológicas",
+                "Defender o organismo",
+                "Transportar oxigênio"
+            ],
+            "correctAnswer": "Regular funções fisiológicas"
+        },
+        {
+            "question": "Qual é a principal fonte de energia para a maioria dos seres vivos?",
+            "options": [
+                "Energia solar",
+                "Energia química",
+                "Energia térmica",
+                "Energia elétrica"
+            ],
+            "correctAnswer": "Energia química"
+        },
+        {
+            "question": "O que é a biodiversidade?",
+            "options": [
+                "Variedade de espécies em um ecossistema",
+                "Quantidade de organismos em um habitat",
+                "Número de células em um organismo",
+                "Diversidade de climas em uma região"
+            ],
+            "correctAnswer": "Variedade de espécies em um ecossistema"
+        },
+        {
+            "question": "Qual é a função do sistema respiratório?",
+            "options": [
+                "Transportar nutrientes",
+                "Realizar a troca gasosa",
+                "Produzir hormônios",
+                "Filtrar o sangue"
+            ],
+            "correctAnswer": "Realizar a troca gasosa"
+        },
+        {
+            "question": "Qual é a principal causa do efeito estufa?",
+            "options": [
+                "Desmatamento",
+                "Queima de combustíveis fósseis",
+                "Uso de pesticidas",
+                "Poluição das águas"
+            ],
+            "correctAnswer": "Queima de combustíveis fósseis"
+        },
+        {
+            "question": "O que é um ecossistema?",
+            "options": [
+                "Conjunto de organismos de uma mesma espécie",
+                "Conjunto de organismos e seu ambiente",
+                "Conjunto de células que formam um tecido",
+                "Conjunto de reações químicas em um organismo"
+            ],
+            "correctAnswer": "Conjunto de organismos e seu ambiente"
+        },
+        {
+            "question": "Qual é a função dos glóbulos brancos no sangue?",
+            "options": [
+                "Transportar oxigênio",
+                "Coagular o sangue",
+                "Defender o organismo contra infecções",
+                "Regular a temperatura do corpo"
+            ],
+            "correctAnswer": "Defender o organismo contra infecções"
+        },
+        {
+            "question": "Qual é a principal função do fígado no corpo humano?",
+            "options": [
+                "Produzir insulina",
+                "Filtrar o sangue e metabolizar substâncias",
+                "Armazenar oxigênio",
+                "Produzir bile"
+            ],
+            "correctAnswer": "Filtrar o sangue e metabolizar substâncias"
+        },
+        {
+            "question": "Qual é a principal função das mitocôndrias nas células?",
+            "options": [
+                "Produzir proteínas",
+                "Realizar a fotossíntese",
+                "Produzir energia",
+                "Armazenar material genético"
+            ],
+            "correctAnswer": "Produzir energia"
+        },
+        {
+            "question": "O que é a cadeia alimentar?",
+            "options": [
+                "Sequência de reações químicas em um organismo",
+                "Relação entre organismos em um ecossistema",
+                "Conjunto de organismos de uma mesma espécie",
+                "Processo de decomposição de matéria orgânica"
+            ],
+            "correctAnswer": "Relação entre organismos em um ecossistema"
+        },
+        {
+            "question": "Qual é a função do sistema nervoso?",
+            "options": [
+                "Produzir hormônios",
+                "Controlar e coordenar as funções do corpo",
+                "Transportar oxigênio",
+                "Realizar a digestão"
+            ],
+            "correctAnswer": "Controlar e coordenar as funções do corpo"
+        },
+        {
+            "question": "Qual é a principal função das enzimas no organismo?",
+            "options": [
+                "Acelerar reações químicas",
+                "Armazenar energia",
+                "Transportar oxigênio",
+                "Defender o organismo"
+            ],
+            "correctAnswer": "Acelerar reações químicas"
+        },
+        {
+            "question": "O que é a poluição do ar?",
+            "options": [
+                "Contaminação da água",
+                "Contaminação do solo",
+                "Presença de substâncias nocivas na atmosfera",
+                "Desmatamento"
+            ],
+            "correctAnswer": "Presença de substâncias nocivas na atmosfera"
+        },
+        {
+            "question": "Qual é a função dos rins no corpo humano?",
+            "options": [
+                "Filtrar o sangue e produzir urina",
+                "Produzir hormônios",
+                "Transportar oxigênio",
+                "Regular a temperatura do corpo"
+            ],
+            "correctAnswer": "Filtrar o sangue e produzir urina"
+        },
+        {
+            "question": "Qual é a principal causa da acidificação dos oceanos?",
+            "options": [
+                "Desmatamento",
+                "Queima de combustíveis fósseis",
+                "Aumento da temperatura global",
+                "Absorção de CO2 pela água do mar"
+            ],
+            "correctAnswer": "Absorção de CO2 pela água do mar"
+        },
+        {
+            "question": "O que é a fotossíntese?",
+            "options": [
+                "Processo de respiração das plantas",
+                "Conversão de luz solar em energia química",
+                "Decomposição de matéria orgânica",
+                "Produção de oxigênio a partir do dióxido de carbono"
+            ],
+            "correctAnswer": "Conversão de luz solar em energia química"
+        },
+        {
+            "question": "Qual é a função do sistema imunológico?",
+            "options": [
+                "Produzir energia",
+                "Defender o organismo contra infecções",
+                "Regular a temperatura do corpo",
+                "Transportar nutrientes"
+            ],
+            "correctAnswer": "Defender o organismo contra infecções"
+        },
+        {
+            "question": "Qual é a principal função da pele no corpo humano?",
+            "options": [
+                "Proteger contra infecções",
+                "Regular a temperatura",
+                "Produzir vitamina D",
+                "Todas as alternativas estão corretas"
+            ],
+            "correctAnswer": "Todas as alternativas estão corretas"
+        },
+        {
+            "question": "Qual é a principal função do sistema endócrino?",
+            "options": [
+                "Produzir energia",
+                "Regular funções corporais através de hormônios",
+                "Transportar oxigênio",
+                "Defender o organismo contra infecções"
+            ],
+            "correctAnswer": "Regular funções corporais através de hormônios"
+        },
+        {
+            "question": "O que caracteriza uma reação de oxidação?",
+            "options": [
+                "Aumento do número de elétrons",
+                "Perda de elétrons",
+                "Aumento do número de prótons",
+                "Formação de ligações covalentes"
+            ],
+            "correctAnswer": "Perda de elétrons"
+        },
+        {
+            "question": "Qual é a principal função das proteínas no organismo?",
+            "options": [
+                "Armazenar energia",
+                "Transportar oxigênio",
+                "Catalisar reações químicas e formar estruturas",
+                "Regular a temperatura"
+            ],
+            "correctAnswer": "Catalisar reações químicas e formar estruturas"
+        },
+        {
+            "question": "Qual é a diferença entre um vírus e uma bactéria?",
+            "options": [
+                "Vírus são unicelulares, enquanto bactérias são multicelulares",
+                "Bactérias têm metabolismo próprio, enquanto vírus dependem de células hospedeiras",
+                "Vírus são maiores que bactérias",
+                "Bactérias não causam doenças, enquanto vírus causam"
+            ],
+            "correctAnswer": "Bactérias têm metabolismo próprio, enquanto vírus dependem de células hospedeiras"
+        },
+        {
+            "question": "Qual é a principal consequência do aquecimento global?",
+            "options": [
+                "Aumento da biodiversidade",
+                "Derretimento das calotas polares",
+                "Aumento da produção de oxigênio",
+                "Diminuição da temperatura média da Terra"
+            ],
+            "correctAnswer": "Derretimento das calotas polares"
+        },
+        {
+            "question": "O que é a teoria da evolução das espécies proposta por Charles Darwin?",
+            "options": [
+                "A ideia de que todas as espécies são imutáveis",
+                "A teoria de que as espécies evoluem por seleção natural",
+                "A crença de que os organismos são criados por um ser superior",
+                "A noção de que a evolução ocorre apenas em ambientes aquáticos"
+            ],
+            "correctAnswer": "A teoria de que as espécies evoluem por seleção natural"
+        },
+        {
+            "question": "Qual é a função do DNA nas células?",
+            "options": [
+                "Armazenar energia",
+                "Codificar informações genéticas",
+                "Produzir hormônios",
+                "Realizar a fotossíntese"
+            ],
+            "correctAnswer": "Codificar informações genéticas"
+        },
+        {
+            "question": "Qual é o papel dos decompositores em um ecossistema?",
+            "options": [
+                "Produzir energia",
+                "Consumir organismos vivos",
+                "Decompor matéria orgânica e reciclar nutrientes",
+                "Controlar a população de herbívoros"
+            ],
+            "correctAnswer": "Decompor matéria orgânica e reciclar nutrientes"
+        },
+        {
+            "question": "O que é a homeostase?",
+            "options": [
+                "A capacidade de um organismo de manter condições internas estáveis",
+                "O processo de reprodução de organismos",
+                "A interação entre diferentes espécies em um ecossistema",
+                "A adaptação de organismos ao ambiente"
+            ],
+            "correctAnswer": "A capacidade de um organismo de manter condições internas estáveis"
+        },
+        {
+            "question": "Qual é a principal função da clorofila nas plantas?",
+            "options": [
+                "Armazenar energia",
+                "Realizar a fotossíntese",
+                "Proteger contra predadores",
+                "Transportar água"
+            ],
+            "correctAnswer": "Realizar a fotossíntese"
+        },
+        {
+            "question": "Qual é a principal função do sistema nervoso central?",
+            "options": [
+                "Controlar a respiração",
+                "Processar informações e coordenar respostas",
+                "Regular a temperatura corporal",
+                "Produzir hormônios"
+            ],
+            "correctAnswer": "Processar informações e coordenar respostas"
+        },
+        {
+            "question": "O que é a osmose?",
+            "options": [
+                "Movimento de solutos de uma região de menor concentração para uma de maior concentração",
+                "Movimento de água através de uma membrana semipermeável",
+                "Difusão de gases em um líquido",
+                "Transporte ativo de íons"
+            ],
+            "correctAnswer": "Movimento de água através de uma membrana semipermeável"
+        },
+        {
+            "question": "Qual é a principal função do sistema imunológico?",
+            "options": [
+                "Produzir energia",
+                "Defender o organismo contra patógenos",
+                "Regular a temperatura do corpo",
+                "Transportar nutrientes"
+            ],
+            "correctAnswer": "Defender o organismo contra patógenos"
+        },
+        {
+            "question": "O que caracteriza uma reação endotérmica?",
+            "options": [
+                "Liberação de calor",
+                "Absorção de calor",
+                "Mudança de estado físico",
+                "Reação que ocorre espontaneamente"
+            ],
+            "correctAnswer": "Absorção de calor"
+        },
+        {
+            "question": "Qual é a função do sistema linfático?",
+            "options": [
+                "Produzir hormônios",
+                "Transportar oxigênio",
+                "Defender o organismo e drenar fluidos",
+                "Regular a temperatura do corpo"
+            ],
+            "correctAnswer": "Defender o organismo e drenar fluidos"
+        },
+        {
+            "question": "Qual é a principal causa da resistência bacteriana aos antibióticos?",
+            "options": [
+                "Uso excessivo de antibióticos",
+                "Falta de higiene",
+                "Contaminação ambiental",
+                "Alimentação inadequada"
+            ],
+            "correctAnswer": "Uso excessivo de antibióticos"
+        },
+        {
+            "question": "O que é a biodiversidade?",
+            "options": [
+                "A variedade de organismos em um ecossistema",
+                "A quantidade de água em um habitat",
+                "A diversidade de climas em uma região",
+                "A quantidade de nutrientes no solo"
+            ],
+            "correctAnswer": "A variedade de organismos em um ecossistema"
+        },
+        {
+            "question": "Qual é a função das mitocôndrias na célula?",
+            "options": [
+                "Produzir energia através da respiração celular",
+                "Armazenar material genético",
+                "Sintetizar proteínas",
+                "Realizar a fotossíntese"
+            ],
+            "correctAnswer": "Produzir energia através da respiração celular"
+        },
+        {
+            "question": "Qual é a principal função do fígado no metabolismo?",
+            "options": [
+                "Produzir insulina",
+                "Armazenar glicose e metabolizar substâncias",
+                "Filtrar o sangue",
+                "Produzir bile"
+            ],
+            "correctAnswer": "Armazenar glicose e metabolizar substâncias"
+        },
+        {
+            "question": "O que é a seleção natural?",
+            "options": [
+                "O processo pelo qual organismos se adaptam ao ambiente",
+                "A escolha de parceiros para reprodução",
+                "A extinção de espécies",
+                "A variação genética em uma população"
+            ],
+            "correctAnswer": "O processo pelo qual organismos se adaptam ao ambiente"
+        },
+        {
+            "question": "Qual é a unidade básica da vida?",
+            "options": [
+                "Tecido",
+                "Célula",
+                "Órgão",
+                "Sistema"
+            ],
+            "correctAnswer": "Célula"
+        },
+        {
+            "question": "Qual é a fórmula química da água?",
+            "options": [
+                "H2O",
+                "CO2",
+                "O2",
+                "H2"
+            ],
+            "correctAnswer": "H2O"
+        },
+        {
+            "question": "O que é fotossíntese?",
+            "options": [
+                "Processo de respiração das plantas",
+                "Processo de produção de energia pelas plantas",
+                "Processo de decomposição de matéria orgânica",
+                "Processo de absorção de nutrientes do solo"
+            ],
+            "correctAnswer": "Processo de produção de energia pelas plantas"
+        },
+        {
+            "question": "Qual é a função principal dos glóbulos vermelhos?",
+            "options": [
+                "Defender o organismo contra infecções",
+                "Transportar oxigênio pelo corpo",
+                "Coagular o sangue",
+                "Regular a temperatura do corpo"
+            ],
+            "correctAnswer": "Transportar oxigênio pelo corpo"
+        },
+        {
+            "question": "O que é um ecossistema?",
+            "options": [
+                "Conjunto de seres vivos e ambientes interligados",
+                "Conjunto de organismos de uma mesma espécie",
+                "Área desprovida de vida",
+                "Região específica com características climáticas iguais"
+            ],
+            "correctAnswer": "Conjunto de seres vivos e ambientes interligados"
+        },
+        {
+            "question": "Qual é a principal fonte de energia para a Terra?",
+            "options": [
+                "Petróleo",
+                "Vento",
+                "Sol",
+                "Água"
+            ],
+            "correctAnswer": "Sol"
+        },
+        {
+            "question": "O que é a camada de ozônio?",
+            "options": [
+                "Camada de gases que protege a Terra do frio",
+                "Camada de água que cobre a Terra",
+                "Camada da atmosfera que filtra os raios UV",
+                "Camada de solos férteis da Terra"
+            ],
+            "correctAnswer": "Camada da atmosfera que filtra os raios UV"
+        },
+        {
+            "question": "O que é a biodiversidade?",
+            "options": [
+                "Número total de espécies em um ecossistema",
+                "A variedade de organismos vivos em um ambiente",
+                "Quantidade de plantas em uma floresta",
+                "Número de espécies extintas em um local"
+            ],
+            "correctAnswer": "A variedade de organismos vivos em um ambiente"
+        },
+        {
+            "question": "O que são proteínas?",
+            "options": [
+                "Moléculas que fornecem energia rápida ao corpo",
+                "Moléculas que ajudam na construção e reparação dos tecidos",
+                "Moléculas que armazenam informações genéticas",
+                "Moléculas que transportam oxigênio no sangue"
+            ],
+            "correctAnswer": "Moléculas que ajudam na construção e reparação dos tecidos"
+        },
+        {
+            "question": "O que é um átomo?",
+            "options": [
+                "Menor unidade da matéria",
+                "Maior unidade da matéria",
+                "Partícula que compõe a luz",
+                "Molécula de uma substância"
+            ],
+            "correctAnswer": "Menor unidade da matéria"
+        },
+        {
+            "question": "Qual é a principal função dos ribossomos na célula?",
+            "options": [
+                "Produção de energia",
+                "Síntese de proteínas",
+                "Transporte de nutrientes",
+                "Armazenamento de material genético"
+            ],
+            "correctAnswer": "Síntese de proteínas"
+        },
+        {
+            "question": "O que é mitose?",
+            "options": [
+                "Divisão celular que resulta em quatro células filhas",
+                "Divisão celular que resulta em duas células idênticas à célula-mãe",
+                "Processo de replicação do DNA",
+                "Processo de produção de RNA"
+            ],
+            "correctAnswer": "Divisão celular que resulta em duas células idênticas à célula-mãe"
+        },
+        {
+            "question": "Qual é a principal diferença entre um vírus e uma bactéria?",
+            "options": [
+                "Os vírus possuem estrutura celular, enquanto as bactérias não possuem",
+                "Os vírus são organismos vivos, enquanto as bactérias não são",
+                "Os vírus necessitam de um hospedeiro para se reproduzir, enquanto as bactérias podem se reproduzir de forma independente",
+                "Os vírus possuem parede celular, enquanto as bactérias possuem capsídeo"
+            ],
+            "correctAnswer": "Os vírus necessitam de um hospedeiro para se reproduzir, enquanto as bactérias podem se reproduzir de forma independente"
+        },
+        {
+            "question": "Qual é a função dos vasos xilema nas plantas?",
+            "options": [
+                "Transportar água e nutrientes das raízes para as folhas",
+                "Transportar açúcar das folhas para as raízes",
+                "Armazenar energia",
+                "Proteger a planta contra patógenos"
+            ],
+            "correctAnswer": "Transportar água e nutrientes das raízes para as folhas"
+        },
+        {
+            "question": "O que é homeostase?",
+            "options": [
+                "Capacidade de um organismo produzir energia",
+                "Processo de regulação e manutenção do ambiente interno de um organismo",
+                "Processo de crescimento e desenvolvimento de um organismo",
+                "Capacidade de um organismo se locomover"
+            ],
+            "correctAnswer": "Processo de regulação e manutenção do ambiente interno de um organismo"
+        },
+        {
+            "question": "Qual é a função da mitocôndria na célula?",
+            "options": [
+                "Produzir proteínas",
+                "Produzir energia na forma de ATP",
+                "Armazenar material genético",
+                "Realizar fotossíntese"
+            ],
+            "correctAnswer": "Produzir energia na forma de ATP"
+        },
+        {
+            "question": "O que é um gene?",
+            "options": [
+                "Segmento de DNA que codifica uma proteína",
+                "Molécula de RNA que transporta aminoácidos",
+                "Unidade básica dos ácidos nucleicos",
+                "Estrutura que armazena energia na célula"
+            ],
+            "correctAnswer": "Segmento de DNA que codifica uma proteína"
+        },
+        {
+            "question": "O que é um ácido nucleico?",
+            "options": [
+                "Molécula que forma a parede celular das plantas",
+                "Polímero de nucleotídeos que armazena e transmite informações genéticas",
+                "Lipídio que compõe a membrana celular",
+                "Proteína que catalisa reações químicas na célula"
+            ],
+            "correctAnswer": "Polímero de nucleotídeos que armazena e transmite informações genéticas"
+        },
+        {
+            "question": "O que é um ecótono?",
+            "options": [
+                "Zona de transição entre dois ecossistemas diferentes",
+                "Área de alta biodiversidade dentro de um ecossistema",
+                "Região onde ocorre a decomposição de matéria orgânica",
+                "Local onde se encontra uma única espécie dominante"
+            ],
+            "correctAnswer": "Zona de transição entre dois ecossistemas diferentes"
+        },
+        {
+            "question": "O que é eutrofização?",
+            "options": [
+                "Processo de formação de rochas sedimentares",
+                "Enriquecimento de corpos d'água com nutrientes, levando ao crescimento excessivo de algas",
+                "Aumento da quantidade de oxigênio em um corpo d'água",
+                "Redução da biodiversidade em um ecossistema"
+            ],
+            "correctAnswer": "Enriquecimento de corpos d'água com nutrientes, levando ao crescimento excessivo de algas"
+        },
+        {
+            "question": "Qual é o papel do complexo de Golgi em uma célula eucariótica?",
+            "options": [
+                "Síntese de proteínas",
+                "Modificação e empacotamento de proteínas",
+                "Produção de ATP",
+                "Degradação de substâncias tóxicas"
+            ],
+            "correctAnswer": "Modificação e empacotamento de proteínas"
+        },
+        {
+            "question": "Qual é a principal função dos cloroplastos nas células vegetais?",
+            "options": [
+                "Armazenamento de energia na forma de glicogênio",
+                "Síntese de proteínas",
+                "Respiração celular",
+                "Fotossíntese"
+            ],
+            "correctAnswer": "Fotossíntese"
+        },
+        {
+            "question": "O que ocorre durante o processo de tradução no ciclo celular?",
+            "options": [
+                "Replicação do DNA",
+                "Síntese de RNA a partir do DNA",
+                "Síntese de proteínas a partir do RNA",
+                "Divisão celular"
+            ],
+            "correctAnswer": "Síntese de proteínas a partir do RNA"
+        },
+        {
+            "question": "Qual é a principal diferença entre a reprodução assexuada e a reprodução sexuada?",
+            "options": [
+                "A reprodução assexuada envolve a fusão de gametas, enquanto a reprodução sexuada não envolve",
+                "A reprodução sexuada resulta em maior diversidade genética, enquanto a reprodução assexuada não",
+                "A reprodução assexuada ocorre apenas em plantas, enquanto a reprodução sexuada ocorre apenas em animais",
+                "A reprodução sexuada é um processo mais rápido do que a reprodução assexuada"
+            ],
+            "correctAnswer": "A reprodução sexuada resulta em maior diversidade genética, enquanto a reprodução assexuada não"
+        },
+        {
+            "question": "Qual é o efeito do aumento da concentração de dióxido de carbono na atmosfera sobre o aquecimento global?",
+            "options": [
+                "Diminui a temperatura global",
+                "Aumenta a concentração de ozônio na estratosfera",
+                "Aumenta o efeito estufa, elevando a temperatura global",
+                "Reduz a incidência de radiação ultravioleta"
+            ],
+            "correctAnswer": "Aumenta o efeito estufa, elevando a temperatura global"
+        },
+        {
+            "question": "Qual é a função principal dos lisossomos em uma célula animal?",
+            "options": [
+                "Produzir energia na forma de ATP",
+                "Armazenar água e nutrientes",
+                "Degradar substâncias e organelas celulares",
+                "Realizar a fotossíntese"
+            ],
+            "correctAnswer": "Degradar substâncias e organelas celulares"
+        },
+        {
+            "question": "O que é um plasmídeo?",
+            "options": [
+                "Fragmento de DNA circular encontrado em bactérias",
+                "Segmento de RNA que codifica proteínas",
+                "Organela responsável pela respiração celular",
+                "Proteína que catalisa reações químicas"
+            ],
+            "correctAnswer": "Fragmento de DNA circular encontrado em bactérias"
+        },
+        {
+            "question": "O que é seleção natural?",
+            "options": [
+                "Processo pelo qual organismos mais aptos sobrevivem e se reproduzem",
+                "Mecanismo pelo qual espécies se extinguem",
+                "Processo de manipulação genética em laboratório",
+                "Método de reprodução assexuada"
+            ],
+            "correctAnswer": "Processo pelo qual organismos mais aptos sobrevivem e se reproduzem"
+        },
+        {
+            "question": "Qual é a função dos telômeros nas células eucarióticas?",
+            "options": [
+                "Promover a divisão celular",
+                "Prevenir a degradação das extremidades dos cromossomos",
+                "Regular a expressão gênica",
+                "Facilitar a recombinação genética"
+            ],
+            "correctAnswer": "Prevenir a degradação das extremidades dos cromossomos"
+        },
+        {
+            "question": "O que é fluxo gênico?",
+            "options": [
+                "Transferência de genes entre populações diferentes",
+                "Mutação de genes dentro de uma população",
+                "Seleção natural dentro de uma população",
+                "Recombinação genética durante a meiose"
+            ],
+            "correctAnswer": "Transferência de genes entre populações diferentes"
+        },
+        {
+            "question": "O que é a deriva genética?",
+            "options": [
+                "Processo pelo qual novas espécies surgem a partir de uma população ancestral",
+                "Mudança aleatória na frequência dos alelos de uma população",
+                "Transferência de genes entre populações diferentes",
+                "Processo de adaptação de uma espécie ao ambiente"
+            ],
+            "correctAnswer": "Mudança aleatória na frequência dos alelos de uma população"
+        },
+        {
+            "question": "Qual é a função dos clorofluorcarbonetos (CFCs) na camada de ozônio?",
+            "options": [
+                "Proteger a camada de ozônio",
+                "Destruir moléculas de ozônio na estratosfera",
+                "Aumentar a produção de ozônio na atmosfera",
+                "Reduzir a radiação ultravioleta que atinge a Terra"
+            ],
+            "correctAnswer": "Destruir moléculas de ozônio na estratosfera"
+        },
+        {
+            "question": "O que é um quiasma em genética?",
+            "options": [
+                "Região do cromossomo onde ocorre a replicação do DNA",
+                "Ponto de cruzamento entre cromátides homólogas durante a meiose",
+                "Local onde se inicia a transcrição do RNA",
+                "Segmento de DNA que codifica uma proteína específica"
+            ],
+            "correctAnswer": "Ponto de cruzamento entre cromátides homólogas durante a meiose"
+        },
+        {
+            "question": "Qual é a principal diferença entre a meiose e a mitose?",
+            "options": [
+                "A meiose resulta em células geneticamente idênticas, enquanto a mitose não",
+                "A meiose ocorre em células somáticas, enquanto a mitose ocorre em células germinativas",
+                "A meiose resulta em quatro células haploides, enquanto a mitose resulta em duas células diploides",
+                "A meiose não envolve a replicação do DNA, enquanto a mitose sim"
+            ],
+            "correctAnswer": "A meiose resulta em quatro células haploides, enquanto a mitose resulta em duas células diploides"
+        },
+        {
+            "question": "Qual é a principal função da vitamina C no organismo humano?",
+            "options": [
+                "Fortalecer os ossos e dentes",
+                "Auxiliar na coagulação do sangue",
+                "Atuar como antioxidante e ajudar na absorção de ferro",
+                "Promover a produção de energia nas células"
+            ],
+            "correctAnswer": "Atuar como antioxidante e ajudar na absorção de ferro"
+        },
+        {
+            "question": "O que é um ecossistema?",
+            "options": [
+                "Conjunto de seres vivos de uma mesma espécie",
+                "Conjunto de organismos que habitam um mesmo bioma",
+                "Interação entre os seres vivos e o ambiente físico em uma determinada área",
+                "Região desprovida de vida"
+            ],
+            "correctAnswer": "Interação entre os seres vivos e o ambiente físico em uma determinada área"
+        },
+        {
+            "question": "O que são estômatos nas plantas?",
+            "options": [
+                "Células que realizam a fotossíntese",
+                "Estruturas responsáveis pela transpiração e troca gasosa",
+                "Órgãos de reprodução das plantas",
+                "Glândulas que secretam resinas e óleos"
+            ],
+            "correctAnswer": "Estruturas responsáveis pela transpiração e troca gasosa"
+        },
+        {
+            "question": "Qual é o principal papel dos neutrófilos no sistema imunológico?",
+            "options": [
+                "Produzir anticorpos",
+                "Fagocitar e destruir micro-organismos patogênicos",
+                "Regular a resposta imune",
+                "Auxiliar na coagulação do sangue"
+            ],
+            "correctAnswer": "Fagocitar e destruir micro-organismos patogênicos"
+        },
+        {
+            "question": "O que é um fenótipo?",
+            "options": [
+                "Conjunto de genes de um organismo",
+                "Expressão física ou bioquímica de um genótipo",
+                "Sequência de nucleotídeos no DNA",
+                "Processo de mutação genética"
+            ],
+            "correctAnswer": "Expressão física ou bioquímica de um genótipo"
+        },
+        {
+            "question": "Qual é o principal componente da parede celular das plantas?",
+            "options": [
+                "Quitina",
+                "Celulose",
+                "Glicogênio",
+                "Amido"
+            ],
+            "correctAnswer": "Celulose"
+        },
+        {
+            "question": "O que são enzimas?",
+            "options": [
+                "Proteínas que catalisam reações químicas",
+                "Lipídios que armazenam energia",
+                "Ácidos nucleicos que contêm informação genética",
+                "Carboidratos que fornecem energia rápida"
+            ],
+            "correctAnswer": "Proteínas que catalisam reações químicas"
+        },
+        {
+            "question": "Qual é a principal função do sistema linfático?",
+            "options": [
+                "Transportar oxigênio no sangue",
+                "Produzir hormônios",
+                "Remover resíduos e toxinas do corpo",
+                "Defender o organismo contra infecções"
+            ],
+            "correctAnswer": "Defender o organismo contra infecções"
+        },
+        {
+            "question": "O que é um bioma?",
+            "options": [
+                "Conjunto de genes em um organismo",
+                "Área de interação entre diferentes espécies",
+                "Conjunto de ecossistemas com características climáticas semelhantes",
+                "Processo de adaptação das plantas ao ambiente"
+            ],
+            "correctAnswer": "Conjunto de ecossistemas com características climáticas semelhantes"
+        },
+        {
+            "question": "Qual é o papel do RNA mensageiro (mRNA) na célula?",
+            "options": [
+                "Armazenar informação genética",
+                "Transportar aminoácidos para os ribossomos",
+                "Transferir informação genética do DNA para a síntese de proteínas",
+                "Catalisar reações químicas no citoplasma"
+            ],
+            "correctAnswer": "Transferir informação genética do DNA para a síntese de proteínas"
+        },
+        {
+            "question": "O que é potencial hídrico?",
+            "options": [
+                "Energia armazenada nas ligações químicas das moléculas de água",
+                "Energia potencial gerada pela diferença de pressão entre duas regiões",
+                "Medida da capacidade da água de realizar trabalho em um sistema",
+                "Capacidade da água de dissolver substâncias"
+            ],
+            "correctAnswer": "Medida da capacidade da água de realizar trabalho em um sistema"
+        },
+        {
+            "question": "Qual é a função dos anticorpos no sistema imunológico?",
+            "options": [
+                "Destruir células infectadas por vírus",
+                "Produzir hormônios",
+                "Neutralizar e marcar antígenos para destruição",
+                "Ativar a coagulação do sangue"
+            ],
+            "correctAnswer": "Neutralizar e marcar antígenos para destruição"
+        },
+        {
+            "question": "O que é fixação do nitrogênio?",
+            "options": [
+                "Processo de absorção de nitratos pelas plantas",
+                "Transformação do nitrogênio atmosférico em compostos utilizáveis por organismos vivos",
+                "Conversão de amônia em nitrito por bactérias",
+                "Liberação de nitrogênio no solo através da decomposição de matéria orgânica"
+            ],
+            "correctAnswer": "Transformação do nitrogênio atmosférico em compostos utilizáveis por organismos vivos"
+        },
+        {
+            "question": "Qual é a principal característica das células-tronco?",
+            "options": [
+                "Capacidade de realizar fotossíntese",
+                "Capacidade de se diferenciar em diversos tipos celulares",
+                "Produção de proteínas específicas",
+                "Capacidade de transportar oxigênio"
+            ],
+            "correctAnswer": "Capacidade de se diferenciar em diversos tipos celulares"
+        },
+        {
+            "question": "O que é bioacumulação?",
+            "options": [
+                "Aumento da concentração de substâncias tóxicas em organismos ao longo da cadeia alimentar",
+                "Processo de crescimento populacional de uma espécie",
+                "Acúmulo de nutrientes no solo",
+                "Aumento da diversidade genética em uma população"
+            ],
+            "correctAnswer": "Aumento da concentração de substâncias tóxicas em organismos ao longo da cadeia alimentar"
+        },
+        {
+            "question": "O que é acidificação dos oceanos?",
+            "options": [
+                "Diminuição do pH dos oceanos devido ao aumento do dióxido de carbono atmosférico",
+                "Aumento da salinidade da água do mar",
+                "Redução da temperatura dos oceanos",
+                "Aumento da concentração de minerais nos oceanos"
+            ],
+            "correctAnswer": "Diminuição do pH dos oceanos devido ao aumento do dióxido de carbono atmosférico"
+        },
+        {
+            "question": "Qual é a função do ciclo de Krebs na respiração celular?",
+            "options": [
+                "Produção de glicose a partir de piruvato",
+                "Geração de ATP e precursores metabólicos para a cadeia de transporte de elétrons",
+                "Conversão de ATP em ADP",
+                "Armazenamento de energia na forma de lipídios"
+            ],
+            "correctAnswer": "Geração de ATP e precursores metabólicos para a cadeia de transporte de elétrons"
+        },
+        {
+            "question": "O que são transposons e qual é sua função no genoma?",
+            "options": [
+                "Segmentos de RNA que catalisam reações químicas",
+                "Elementos genéticos móveis que podem causar mutações",
+                "Proteínas que regulam a expressão gênica",
+                "Sequências de DNA responsáveis pela replicação"
+            ],
+            "correctAnswer": "Elementos genéticos móveis que podem causar mutações"
+        },
+        {
+            "question": "Qual é a principal característica dos organismos autotróficos?",
+            "options": [
+                "Capacidade de produzir seu próprio alimento a partir de substâncias inorgânicas",
+                "Dependência de outros organismos para obter energia",
+                "Capacidade de se locomover em busca de alimento",
+                "Produção de energia a partir da fermentação"
+            ],
+            "correctAnswer": "Capacidade de produzir seu próprio alimento a partir de substâncias inorgânicas"
+        },
+        {
+            "question": "Como a teoria do equilíbrio pontuado explica a evolução das espécies?",
+            "options": [
+                "Evolução lenta e contínua ao longo do tempo",
+                "Períodos de estabilidade evolutiva intercalados por rápidas mudanças",
+                "Adaptação gradual a novos ambientes",
+                "Seleção natural constante e uniforme"
+            ],
+            "correctAnswer": "Períodos de estabilidade evolutiva intercalados por rápidas mudanças"
+        },
+        {
+            "question": "Qual é a função das proteínas chaperonas no organismo?",
+            "options": [
+                "Catalisar reações bioquímicas",
+                "Assistir no dobramento adequado de outras proteínas",
+                "Transportar oxigênio no sangue",
+                "Regular a expressão de genes"
+            ],
+            "correctAnswer": "Assistir no dobramento adequado de outras proteínas"
+        },
+        {
+            "question": "O que é um organismo eucarioto?",
+            "options": [
+                "Organismo com células que possuem núcleo definido por membrana",
+                "Organismo sem membrana nuclear",
+                "Organismo unicelular",
+                "Organismo que realiza apenas reprodução assexuada"
+            ],
+            "correctAnswer": "Organismo com células que possuem núcleo definido por membrana"
+        },
+        {
+            "question": "Qual é o papel do NADH e do FADH2 na respiração celular?",
+            "options": [
+                "Armazenar energia em ligações de fosfato",
+                "Fornecer elétrons para a cadeia de transporte de elétrons",
+                "Catalisar a formação de ATP",
+                "Transportar oxigênio para as mitocôndrias"
+            ],
+            "correctAnswer": "Fornecer elétrons para a cadeia de transporte de elétrons"
+        },
+        {
+            "question": "Como os íons de hidrogênio contribuem para a produção de ATP na cadeia de transporte de elétrons?",
+            "options": [
+                "Fornecem a energia necessária para a fosforilação do ADP",
+                "Criam um gradiente de concentração que promove a síntese de ATP",
+                "Desencadeiam a liberação de oxigênio das mitocôndrias",
+                "Ativam as enzimas que degradam a glicose"
+            ],
+            "correctAnswer": "Criam um gradiente de concentração que promove a síntese de ATP"
+        },
+        {
+            "question": "O que é epigenética e como ela afeta a expressão gênica?",
+            "options": [
+                "Estudo das mutações genéticas e seus efeitos",
+                "Mudanças na expressão gênica causadas por modificações no DNA e proteínas associadas, sem alterar a sequência de nucleotídeos",
+                "Recombinação genética durante a meiose",
+                "Interação entre diferentes genes para produzir um fenótipo"
+            ],
+            "correctAnswer": "Mudanças na expressão gênica causadas por modificações no DNA e proteínas associadas, sem alterar a sequência de nucleotídeos"
+        },
+        {
+            "question": "O que é ressonância magnética nuclear (RMN) e como ela é utilizada na biologia molecular?",
+            "options": [
+                "Técnica para sequenciar o DNA",
+                "Método para determinar a estrutura tridimensional de moléculas",
+                "Processo para amplificar fragmentos de DNA",
+                "Técnica para visualizar células vivas em tempo real"
+            ],
+            "correctAnswer": "Método para determinar a estrutura tridimensional de moléculas"
+        },
+        {
+            "question": "Qual é o papel dos lisossomos na célula animal?",
+            "options": [
+                "Produção de energia",
+                "Síntese de proteínas",
+                "Degradação de material celular danificado",
+                "Armazenamento de nutrientes"
+            ],
+            "correctAnswer": "Degradação de material celular danificado"
+        },
+        {
+            "question": "O que é ciclo do carbono?",
+            "options": [
+                "Ciclo que descreve a formação de moléculas de oxigênio na atmosfera",
+                "Movimentação do carbono através da biosfera, atmosfera, hidrosfera e litosfera",
+                "Processo de decomposição de compostos nitrogenados",
+                "Transferência de fósforo entre os seres vivos e o solo"
+            ],
+            "correctAnswer": "Movimentação do carbono através da biosfera, atmosfera, hidrosfera e litosfera"
+        },
+        {
+            "question": "Qual é a função dos microrganismos decompositores no ecossistema?",
+            "options": [
+                "Produzir energia a partir da luz solar",
+                "Decompor matéria orgânica e reciclar nutrientes",
+                "Fixar nitrogênio atmosférico",
+                "Converter energia química em energia térmica"
+            ],
+            "correctAnswer": "Decompor matéria orgânica e reciclar nutrientes"
+        },
+        {
+            "question": "O que são cadeias tróficas?",
+            "options": [
+                "Representações das relações alimentares entre diferentes organismos em um ecossistema",
+                "Processos bioquímicos que ocorrem dentro das células",
+                "Fluxo de energia através de um organismo",
+                "Sequência de mutações genéticas em uma população"
+            ],
+            "correctAnswer": "Representações das relações alimentares entre diferentes organismos em um ecossistema"
+        },
+        {
+            "question": "Como a seleção artificial difere da seleção natural?",
+            "options": [
+                "A seleção natural é um processo controlado por humanos, enquanto a seleção artificial ocorre na natureza",
+                "A seleção artificial ocorre na natureza, enquanto a seleção natural é controlada por humanos",
+                "A seleção natural resulta em adaptações ao ambiente, enquanto a seleção artificial resulta em características desejadas pelo homem",
+                "A seleção natural só ocorre em plantas, enquanto a seleção artificial só ocorre em animais"
+            ],
+            "correctAnswer": "A seleção natural resulta em adaptações ao ambiente, enquanto a seleção artificial resulta em características desejadas pelo homem"
+        },
+        {
+            "question": "O que é fototropismo?",
+            "options": [
+                "Movimento das plantas em resposta à luz",
+                "Produção de energia pela fotossíntese",
+                "Adaptação das plantas a diferentes tipos de solo",
+                "Crescimento das plantas em direção à água"
+            ],
+            "correctAnswer": "Movimento das plantas em resposta à luz"
+        },
+        {
+            "question": "O que é uma mutação gênica?",
+            "options": [
+                "Alteração na sequência de nucleotídeos de um gene",
+                "Replicação do DNA sem erros",
+                "Transferência de genes entre diferentes espécies",
+                "Síntese de proteínas a partir do RNA"
+            ],
+            "correctAnswer": "Alteração na sequência de nucleotídeos de um gene"
+        },
+        {
+            "question": "Qual é a principal função da hemoglobina no sangue?",
+            "options": [
+                "Transporte de oxigênio dos pulmões para os tecidos do corpo",
+                "Produção de anticorpos",
+                "Regulação da temperatura corporal",
+                "Coagulação do sangue"
+            ],
+            "correctAnswer": "Transporte de oxigênio dos pulmões para os tecidos do corpo"
+        },
+        {
+            "question": "O que é um alelo?",
+            "options": [
+                "Forma alternativa de um gene",
+                "Segmento de RNA responsável pela síntese de proteínas",
+                "Conjunto de proteínas produzidas por uma célula",
+                "Região do cromossomo onde ocorre a recombinação genética"
+            ],
+            "correctAnswer": "Forma alternativa de um gene"
+        },
+        {
+            "question": "O que são bioindicadores?",
+            "options": [
+                "Organismos utilizados para monitorar a saúde ambiental",
+                "Substâncias químicas que catalisam reações biológicas",
+                "Dispositivos utilizados em laboratório para análise genética",
+                "Métodos de reprodução seletiva"
+            ],
+            "correctAnswer": "Organismos utilizados para monitorar a saúde ambiental"
+        },
+        {
+            "question": "O que é biodiversidade?",
+            "options": [
+                "A variedade de vida em um dado ecossistema",
+                "A quantidade de água disponível em um ambiente",
+                "A distribuição das temperaturas ao longo do ano",
+                "A taxa de crescimento populacional de uma espécie"
+            ],
+            "correctAnswer": "A variedade de vida em um dado ecossistema"
+        },
+        {
+            "question": "Qual é a função dos cloroplastos nas células vegetais?",
+            "options": [
+                "Armazenar amido",
+                "Realizar a respiração celular",
+                "Capturar energia luminosa para a fotossíntese",
+                "Desintoxicar a célula"
+            ],
+            "correctAnswer": "Capturar energia luminosa para a fotossíntese"
+        },
+        {
+            "question": "Qual é a principal característica de um organismo autotrófico?",
+            "options": [
+                "Produzir seu próprio alimento a partir de substâncias inorgânicas",
+                "Dependência de outros organismos para obter nutrientes",
+                "Capacidade de realizar a digestão intracelular",
+                "Reprodução exclusivamente assexuada"
+            ],
+            "correctAnswer": "Produzir seu próprio alimento a partir de substâncias inorgânicas"
+        },
+        {
+            "question": "O que é homeostase?",
+            "options": [
+                "A capacidade de um organismo manter um ambiente interno estável",
+                "A habilidade de um organismo se mover ativamente",
+                "A capacidade de um organismo responder a estímulos externos",
+                "A adaptação de um organismo ao seu ambiente"
+            ],
+            "correctAnswer": "A capacidade de um organismo manter um ambiente interno estável"
+        },
+        {
+            "question": "O que são alelos?",
+            "options": [
+                "Diferentes formas de um mesmo gene",
+                "Segmentos de RNA mensageiro",
+                "Proteínas que catalisam reações químicas",
+                "Moléculas de ATP"
+            ],
+            "correctAnswer": "Diferentes formas de um mesmo gene"
+        },
+        {
+            "question": "Qual é a função dos lisossomos nas células animais?",
+            "options": [
+                "Armazenar nutrientes",
+                "Degradar material celular velho ou danificado",
+                "Produzir ATP",
+                "Realizar a fotossíntese"
+            ],
+            "correctAnswer": "Degradar material celular velho ou danificado"
+        },
+        {
+            "question": "O que é o efeito estufa?",
+            "options": [
+                "Aquecimento global causado pela poluição",
+                "Retenção de calor na atmosfera terrestre devido aos gases estufa",
+                "Aumento da camada de ozônio na estratosfera",
+                "Reflexão da radiação solar pela superfície terrestre"
+            ],
+            "correctAnswer": "Retenção de calor na atmosfera terrestre devido aos gases estufa"
+        },
+        {
+            "question": "Qual é a principal função da mitocôndria?",
+            "options": [
+                "Produzir energia na forma de ATP",
+                "Armazenar material genético",
+                "Sintetizar proteínas",
+                "Degradar substâncias tóxicas"
+            ],
+            "correctAnswer": "Produzir energia na forma de ATP"
+        },
+        {
+            "question": "O que é um gene?",
+            "options": [
+                "Unidade de informação genética responsável por uma característica específica",
+                "Proteína que acelera reações químicas",
+                "Molécula de glicose armazenada nas células",
+                "Segmento de RNA responsável pela síntese de proteínas"
+            ],
+            "correctAnswer": "Unidade de informação genética responsável por uma característica específica"
+        },
+        {
+            "question": "O que é um ecossistema?",
+            "options": [
+                "Conjunto de organismos de uma mesma espécie",
+                "Interação entre seres vivos e o ambiente em uma área específica",
+                "Área geográfica com características climáticas iguais",
+                "Sequência de eventos evolutivos ao longo do tempo"
+            ],
+            "correctAnswer": "Interação entre seres vivos e o ambiente em uma área específica"
+        },
+        {
+            "question": "O que são plasmídeos e qual é sua função nas bactérias?",
+            "options": [
+                "Segmentos de RNA que regulam a expressão gênica",
+                "Fragmentos de DNA circular que podem transferir genes entre bactérias",
+                "Proteínas que catalisam reações químicas",
+                "Lipídios que compõem a membrana celular"
+            ],
+            "correctAnswer": "Fragmentos de DNA circular que podem transferir genes entre bactérias"
+        },
+        {
+            "question": "O que é potencial de ação em uma célula nervosa?",
+            "options": [
+                "Movimento de íons através da membrana plasmática que gera um sinal elétrico",
+                "Capacidade de uma célula nervosa de realizar a mitose",
+                "Produção de energia na forma de ATP",
+                "Difusão de neurotransmissores na sinapse"
+            ],
+            "correctAnswer": "Movimento de íons através da membrana plasmática que gera um sinal elétrico"
+        },
+        {
+            "question": "Qual é a função do complexo de Golgi na célula?",
+            "options": [
+                "Produção de ATP",
+                "Síntese de proteínas",
+                "Modificação, empacotamento e transporte de proteínas e lipídios",
+                "Degradação de substâncias tóxicas"
+            ],
+            "correctAnswer": "Modificação, empacotamento e transporte de proteínas e lipídios"
+        },
+        {
+            "question": "O que é a teoria endossimbiótica?",
+            "options": [
+                "Teoria que explica a origem das mitocôndrias e cloroplastos como antigos procariotos que foram englobados por células eucarióticas",
+                "Teoria que descreve a evolução dos organismos multicelulares",
+                "Teoria que detalha a formação da membrana celular",
+                "Teoria que aborda a reprodução sexuada em organismos unicelulares"
+            ],
+            "correctAnswer": "Teoria que explica a origem das mitocôndrias e cloroplastos como antigos procariotos que foram englobados por células eucarióticas"
+        },
+        {
+            "question": "Qual é a diferença entre reprodução sexuada e assexuada?",
+            "options": [
+                "A reprodução sexuada envolve a fusão de gametas, enquanto a assexuada não",
+                "A reprodução assexuada gera maior variabilidade genética que a sexuada",
+                "A reprodução sexuada ocorre apenas em plantas e a assexuada em animais",
+                "A reprodução assexuada é um processo mais complexo que a sexuada"
+            ],
+            "correctAnswer": "A reprodução sexuada envolve a fusão de gametas, enquanto a assexuada não"
+        },
+        {
+            "question": "O que é fluxo gênico?",
+            "options": [
+                "Movimentação de genes entre populações distintas",
+                "Mutação de genes dentro de uma mesma população",
+                "Expressão gênica constante ao longo de gerações",
+                "Isolamento reprodutivo entre populações"
+            ],
+            "correctAnswer": "Movimentação de genes entre populações distintas"
+        },
+        {
+            "question": "O que são proto-oncogenes?",
+            "options": [
+                "Genes que promovem a morte celular programada",
+                "Genes que, quando mutados, podem se transformar em oncogenes e causar câncer",
+                "Segmentos de DNA responsáveis pela produção de anticorpos",
+                "Proteínas que atuam na sinalização celular"
+            ],
+            "correctAnswer": "Genes que, quando mutados, podem se transformar em oncogenes e causar câncer"
+        },
+        {
+            "question": "O que é a bomba de sódio e potássio e qual sua função nas células?",
+            "options": [
+                "Enzima que catalisa a síntese de ATP",
+                "Proteína que transporta sódio para fora e potássio para dentro da célula, mantendo o potencial de repouso da membrana",
+                "Mecanismo de transporte passivo que equilibra os íons na célula",
+                "Canal iônico que facilita a entrada de glicose na célula"
+            ],
+            "correctAnswer": "Proteína que transporta sódio para fora e potássio para dentro da célula, mantendo o potencial de repouso da membrana"
+        },
+        {
+            "question": "Qual é o papel dos telômeros na replicação do DNA?",
+            "options": [
+                "Facilitam a iniciação da replicação",
+                "Protegem as extremidades dos cromossomos e impedem a perda de informações genéticas",
+                "Aumentam a taxa de mutação",
+                "Regulam a expressão gênica durante a replicação"
+            ],
+            "correctAnswer": "Protegem as extremidades dos cromossomos e impedem a perda de informações genéticas"
+        },
+        {
+            "question": "O que é a zona de interseção entre dois biomas distintos chamada?",
+            "options": [
+                "Biocenose",
+                "Ecótono",
+                "Habitat",
+                "Biosfera"
+            ],
+            "correctAnswer": "Ecótono"
+        },
+        {
+            "question": "Qual é a função principal das mitocôndrias nas células?",
+            "options": [
+                "Produzir proteínas",
+                "Transportar nutrientes",
+                "Produzir energia na forma de ATP",
+                "Armazenar material genético"
+            ],
+            "correctAnswer": "Produzir energia na forma de ATP"
+        },
+        {
+            "question": "O que é a fotossíntese?",
+            "options": [
+                "Processo de respiração das plantas",
+                "Produção de energia pelas plantas a partir da luz solar",
+                "Decomposição de matéria orgânica",
+                "Absorção de nutrientes do solo"
+            ],
+            "correctAnswer": "Produção de energia pelas plantas a partir da luz solar"
+        },
+        {
+            "question": "Qual é a unidade básica da vida?",
+            "options": [
+                "Órgão",
+                "Célula",
+                "Tecido",
+                "Sistema"
+            ],
+            "correctAnswer": "Célula"
+        },
+        {
+            "question": "Qual é o principal gás responsável pelo efeito estufa?",
+            "options": [
+                "Oxigênio",
+                "Dióxido de carbono",
+                "Nitrogênio",
+                "Argônio"
+            ],
+            "correctAnswer": "Dióxido de carbono"
+        },
+        {
+            "question": "O que são enzimas?",
+            "options": [
+                "Proteínas que catalisam reações químicas",
+                "Carboidratos que fornecem energia",
+                "Lipídios que armazenam energia",
+                "Ácidos nucleicos que contêm informação genética"
+            ],
+            "correctAnswer": "Proteínas que catalisam reações químicas"
+        },
+        {
+            "question": "O que é a clorofila?",
+            "options": [
+                "Um tipo de proteína encontrada no sangue",
+                "Um pigmento verde presente nos cloroplastos das plantas",
+                "Uma molécula que armazena energia",
+                "Um ácido nucleico que armazena informação genética"
+            ],
+            "correctAnswer": "Um pigmento verde presente nos cloroplastos das plantas"
+        },
+        {
+            "question": "Qual é o papel dos glóbulos brancos no corpo humano?",
+            "options": [
+                "Transporte de oxigênio",
+                "Produção de hormônios",
+                "Defesa contra infecções",
+                "Armazenamento de gordura"
+            ],
+            "correctAnswer": "Defesa contra infecções"
+        },
+        {
+            "question": "O que é um ecossistema?",
+            "options": [
+                "Conjunto de organismos de uma mesma espécie",
+                "Interação entre seres vivos e o ambiente em uma determinada área",
+                "Área desprovida de vida",
+                "Região com um único tipo de planta"
+            ],
+            "correctAnswer": "Interação entre seres vivos e o ambiente em uma determinada área"
+        },
+        {
+            "question": "Qual é a principal função da hemoglobina no sangue?",
+            "options": [
+                "Transportar oxigênio dos pulmões para os tecidos",
+                "Produzir energia",
+                "Regular a temperatura do corpo",
+                "Coagular o sangue"
+            ],
+            "correctAnswer": "Transportar oxigênio dos pulmões para os tecidos"
+        },
+        {
+            "question": "O que são hormônios?",
+            "options": [
+                "Proteínas que catalisam reações",
+                "Lipídios que armazenam energia",
+                "Sinais químicos que regulam diversas funções no corpo",
+                "Ácidos nucleicos que contêm informações genéticas"
+            ],
+            "correctAnswer": "Sinais químicos que regulam diversas funções no corpo"
+        },
+        {
+            "question": "Qual é a função do ácido desoxirribonucleico (DNA) nas células?",
+            "options": [
+                "Armazenar energia",
+                "Catalisar reações bioquímicas",
+                "Armazenar e transmitir informações genéticas",
+                "Regular a pressão osmótica"
+            ],
+            "correctAnswer": "Armazenar e transmitir informações genéticas"
+        },
+        {
+            "question": "O que é uma cadeia alimentar?",
+            "options": [
+                "Sequência de eventos em que a energia é transferida de um organismo para outro",
+                "Distribuição dos organismos em diferentes habitats",
+                "Ciclo de nutrientes em um ecossistema",
+                "Interação entre predadores e presas"
+            ],
+            "correctAnswer": "Sequência de eventos em que a energia é transferida de um organismo para outro"
+        },
+        {
+            "question": "Qual é a principal diferença entre vírus e bactérias?",
+            "options": [
+                "Vírus possuem estrutura celular, enquanto bactérias não possuem",
+                "Bactérias são organismos multicelulares, enquanto vírus são unicelulares",
+                "Vírus necessitam de um hospedeiro para se reproduzir, enquanto bactérias podem se reproduzir de forma independente",
+                "Bactérias são sempre patogênicas, enquanto vírus não são"
+            ],
+            "correctAnswer": "Vírus necessitam de um hospedeiro para se reproduzir, enquanto bactérias podem se reproduzir de forma independente"
+        },
+        {
+            "question": "O que é um ecossistema?",
+            "options": [
+                "Conjunto de organismos de uma mesma espécie",
+                "Região com condições climáticas semelhantes",
+                "Interação entre os seres vivos e o ambiente físico em uma determinada área",
+                "Área geográfica sem vida"
+            ],
+            "correctAnswer": "Interação entre os seres vivos e o ambiente físico em uma determinada área"
+        },
+        {
+            "question": "Qual é a função da clorofila nas plantas?",
+            "options": [
+                "Armazenar nutrientes",
+                "Captar luz para a fotossíntese",
+                "Transportar água e sais minerais",
+                "Proteger contra herbívoros"
+            ],
+            "correctAnswer": "Captar luz para a fotossíntese"
+        },
+        {
+            "question": "O que é a biotecnologia?",
+            "options": [
+                "Estudo dos processos biológicos em plantas",
+                "Aplicação de processos biológicos em tecnologia e indústria",
+                "Conjunto de técnicas para a conservação ambiental",
+                "Processo de manipulação genética em laboratório"
+            ],
+            "correctAnswer": "Aplicação de processos biológicos em tecnologia e indústria"
+        },
+        {
+            "question": "Qual é a função dos ribossomos na célula?",
+            "options": [
+                "Sintetizar proteínas",
+                "Produzir energia",
+                "Armazenar informações genéticas",
+                "Regular a divisão celular"
+            ],
+            "correctAnswer": "Sintetizar proteínas"
+        },
+        {
+            "question": "O que é eutrofização?",
+            "options": [
+                "Aumento da produção de oxigênio em ambientes aquáticos",
+                "Crescimento excessivo de algas devido ao aumento de nutrientes",
+                "Acúmulo de metais pesados nos solos",
+                "Diminuição da biodiversidade em um ecossistema"
+            ],
+            "correctAnswer": "Crescimento excessivo de algas devido ao aumento de nutrientes"
+        },
+        {
+            "question": "Qual é a função das enzimas no metabolismo celular?",
+            "options": [
+                "Fornecer energia para as reações químicas",
+                "Catalisar reações bioquímicas",
+                "Transportar oxigênio para as células",
+                "Regular a pressão osmótica"
+            ],
+            "correctAnswer": "Catalisar reações bioquímicas"
+        },
+        {
+            "question": "O que é a genética?",
+            "options": [
+                "Estudo das interações entre os seres vivos e o ambiente",
+                "Estudo da composição química das células",
+                "Estudo da hereditariedade e da variação dos organismos",
+                "Estudo dos processos de crescimento e desenvolvimento"
+            ],
+            "correctAnswer": "Estudo da hereditariedade e da variação dos organismos"
+        },
+        {
+            "question": "Qual é a fórmula química da água?",
+            "options": [
+                "H2O",
+                "CO2",
+                "O2",
+                "H2"
+            ],
+            "correctAnswer": "H2O"
+        },
+        {
+            "question": "O que é a clorofila?",
+            "options": [
+                "Um tipo de proteína no sangue",
+                "Um pigmento verde nas plantas",
+                "Uma molécula de energia",
+                "Um ácido nucleico"
+            ],
+            "correctAnswer": "Um pigmento verde nas plantas"
+        },
+        {
+            "question": "Qual é a função dos glóbulos vermelhos?",
+            "options": [
+                "Transportar oxigênio pelo corpo",
+                "Produzir hormônios",
+                "Defender o corpo contra infecções",
+                "Coagular o sangue"
+            ],
+            "correctAnswer": "Transportar oxigênio pelo corpo"
+        },
+        {
+            "question": "Qual é a principal fonte de energia para a Terra?",
+            "options": [
+                "Petróleo",
+                "Vento",
+                "Sol",
+                "Água"
+            ],
+            "correctAnswer": "Sol"
+        },
+        {
+            "question": "O que é um ecossistema?",
+            "options": [
+                "Conjunto de seres vivos de uma mesma espécie",
+                "Interação entre seres vivos e ambiente físico",
+                "Área desprovida de vida",
+                "Região com características climáticas iguais"
+            ],
+            "correctAnswer": "Interação entre seres vivos e ambiente físico"
+        },
+        {
+            "question": "Qual é a função da vitamina C no corpo humano?",
+            "options": [
+                "Fortalecer ossos e dentes",
+                "Auxiliar na coagulação do sangue",
+                "Atuar como antioxidante",
+                "Promover a produção de energia"
+            ],
+            "correctAnswer": "Atuar como antioxidante"
+        },
+        {
+            "question": "O que são hormônios?",
+            "options": [
+                "Proteínas que catalisam reações",
+                "Lipídios que armazenam energia",
+                "Sinais químicos reguladores",
+                "Ácidos nucleicos que contêm informações genéticas"
+            ],
+            "correctAnswer": "Sinais químicos reguladores"
+        },
+        {
+            "question": "Qual é a função dos lisossomos nas células animais?",
+            "options": [
+                "Armazenar nutrientes",
+                "Degradar material celular danificado",
+                "Produzir ATP",
+                "Realizar fotossíntese"
+            ],
+            "correctAnswer": "Degradar material celular danificado"
+        },
+        {
+            "question": "O que é o efeito estufa?",
+            "options": [
+                "Aquecimento global causado pela poluição",
+                "Retenção de calor na atmosfera por gases",
+                "Aumento da camada de ozônio",
+                "Reflexão da radiação solar pela Terra"
+            ],
+            "correctAnswer": "Retenção de calor na atmosfera por gases"
+        },
+        {
+            "question": "Qual é a principal função da mitocôndria?",
+            "options": [
+                "Produzir energia na forma de ATP",
+                "Armazenar material genético",
+                "Sintetizar proteínas",
+                "Degradar substâncias tóxicas"
+            ],
+            "correctAnswer": "Produzir energia na forma de ATP"
+        },
+        {
+            "question": "Qual é o papel da membrana plasmática nas células?",
+            "options": [
+                "Produzir energia",
+                "Síntese de proteínas",
+                "Controle da entrada e saída de substâncias",
+                "Armazenamento de nutrientes"
+            ],
+            "correctAnswer": "Controle da entrada e saída de substâncias"
+        },
+        {
+            "question": "O que é um gene?",
+            "options": [
+                "Unidade de informação genética responsável por uma característica específica",
+                "Proteína que acelera reações químicas",
+                "Molécula de glicose armazenada nas células",
+                "Segmento de RNA responsável pela síntese de proteínas"
+            ],
+            "correctAnswer": "Unidade de informação genética responsável por uma característica específica"
+        },
+        {
+            "question": "Qual é a principal função dos ribossomos?",
+            "options": [
+                "Produzir ATP",
+                "Destruir substâncias tóxicas",
+                "Sintetizar proteínas",
+                "Transportar oxigênio"
+            ],
+            "correctAnswer": "Sintetizar proteínas"
+        },
+        {
+            "question": "O que são mutações genéticas?",
+            "options": [
+                "Alterações na sequência de nucleotídeos de um gene",
+                "Transferência de genes entre espécies diferentes",
+                "Produção de proteínas específicas",
+                "Recombinações gênicas durante a meiose"
+            ],
+            "correctAnswer": "Alterações na sequência de nucleotídeos de um gene"
+        },
+        {
+            "question": "O que é bioacumulação?",
+            "options": [
+                "Aumento da concentração de substâncias tóxicas em organismos ao longo da cadeia alimentar",
+                "Processo de decomposição de matéria orgânica",
+                "Acúmulo de nutrientes no solo",
+                "Reprodução de organismos em ambientes aquáticos"
+            ],
+            "correctAnswer": "Aumento da concentração de substâncias tóxicas em organismos ao longo da cadeia alimentar"
+        },
+        {
+            "question": "Qual é o papel da insulina no corpo humano?",
+            "options": [
+                "Aumentar a produção de hormônios sexuais",
+                "Regular os níveis de açúcar no sangue",
+                "Promover a digestão de gorduras",
+                "Produzir glóbulos brancos"
+            ],
+            "correctAnswer": "Regular os níveis de açúcar no sangue"
+        },
+        {
+            "question": "O que são estômatos nas plantas?",
+            "options": [
+                "Células que realizam fotossíntese",
+                "Estruturas responsáveis pela transpiração e troca gasosa",
+                "Órgãos de reprodução",
+                "Vasos condutores de seiva"
+            ],
+            "correctAnswer": "Estruturas responsáveis pela transpiração e troca gasosa"
+        },
+        {
+            "question": "Qual é a diferença entre um organismo autotrófico e um heterotrófico?",
+            "options": [
+                "Organismos autotróficos produzem seu próprio alimento, enquanto heterotróficos dependem de outros organismos",
+                "Organismos autotróficos realizam reprodução sexuada, enquanto heterotróficos realizam reprodução assexuada",
+                "Organismos autotróficos são multicelulares, enquanto heterotróficos são unicelulares",
+                "Organismos autotróficos possuem clorofila, enquanto heterotróficos não possuem"
+            ],
+            "correctAnswer": "Organismos autotróficos produzem seu próprio alimento, enquanto heterotróficos dependem de outros organismos"
+        },
+        {
+            "question": "O que é homeostase?",
+            "options": [
+                "Capacidade de um organismo produzir energia",
+                "Processo de manutenção de um ambiente interno estável",
+                "Capacidade de um organismo se locomover",
+                "Processo de reprodução celular"
+            ],
+            "correctAnswer": "Processo de manutenção de um ambiente interno estável"
+        },
+        {
+            "question": "O que é eutrofização?",
+            "options": [
+                "Processo de formação de rochas sedimentares",
+                "Aumento de nutrientes em corpos d'água, levando ao crescimento excessivo de algas",
+                "Aumento da temperatura dos oceanos",
+                "Diminuição da acidez dos solos"
+            ],
+            "correctAnswer": "Aumento de nutrientes em corpos d'água, levando ao crescimento excessivo de algas"
+        },
+        {
+            "question": "Qual é a fórmula química do dióxido de carbono?",
+            "options": [
+                "H2O",
+                "CO2",
+                "O2",
+                "N2"
+            ],
+            "correctAnswer": "CO2"
+        },
+        {
+            "question": "Qual é a função da mitose nas células?",
+            "options": [
+                "Produzir energia",
+                "Dividir células para o crescimento e reparação",
+                "Armazenar nutrientes",
+                "Eliminar resíduos celulares"
+            ],
+            "correctAnswer": "Dividir células para o crescimento e reparação"
+        },
+        {
+            "question": "O que são anticorpos?",
+            "options": [
+                "Células que transportam oxigênio",
+                "Proteínas do sistema imunológico que neutralizam antígenos",
+                "Enzimas digestivas",
+                "Lipídios que armazenam energia"
+            ],
+            "correctAnswer": "Proteínas do sistema imunológico que neutralizam antígenos"
+        },
+        {
+            "question": "O que é a camada de ozônio?",
+            "options": [
+                "Camada da Terra composta por rochas sedimentares",
+                "Camada na atmosfera que filtra raios UV do sol",
+                "Região do núcleo terrestre",
+                "Parte inferior da crosta terrestre"
+            ],
+            "correctAnswer": "Camada na atmosfera que filtra raios UV do sol"
+        },
+        {
+            "question": "Qual é a função dos cloroplastos nas plantas?",
+            "options": [
+                "Produzir energia através da fotossíntese",
+                "Desintoxicar a célula",
+                "Armazenar energia em forma de amido",
+                "Regular o metabolismo celular"
+            ],
+            "correctAnswer": "Produzir energia através da fotossíntese"
+        },
+        {
+            "question": "O que é homeostase?",
+            "options": [
+                "Manutenção de um ambiente interno estável no organismo",
+                "Produção de energia em células vegetais",
+                "Síntese de proteínas no citoplasma",
+                "Respiração celular"
+            ],
+            "correctAnswer": "Manutenção de um ambiente interno estável no organismo"
+        },
+        {
+            "question": "Qual é o principal componente da parede celular das plantas?",
+            "options": [
+                "Quitina",
+                "Glicogênio",
+                "Celulose",
+                "Amido"
+            ],
+            "correctAnswer": "Celulose"
+        },
+        {
+            "question": "O que são genes?",
+            "options": [
+                "Unidades de herança que codificam características",
+                "Moléculas de lipídios",
+                "Açúcares que fornecem energia",
+                "Vitaminas essenciais"
+            ],
+            "correctAnswer": "Unidades de herança que codificam características"
+        },
+        {
+            "question": "Qual é a função da hemoglobina?",
+            "options": [
+                "Transportar oxigênio no sangue",
+                "Armazenar energia",
+                "Catalisar reações enzimáticas",
+                "Regular a temperatura corporal"
+            ],
+            "correctAnswer": "Transportar oxigênio no sangue"
+        },
+        {
+            "question": "O que é eutrofização?",
+            "options": [
+                "Aumento de nutrientes em corpos d'água, levando ao crescimento excessivo de algas",
+                "Diminuição da salinidade dos oceanos",
+                "Formação de sedimentos em rios e lagos",
+                "Desmatamento de áreas florestais"
+            ],
+            "correctAnswer": "Aumento de nutrientes em corpos d'água, levando ao crescimento excessivo de algas"
+        },
+        {
+            "question": "O que é o ciclo da água?",
+            "options": [
+                "O movimento de água entre a superfície da Terra e a atmosfera",
+                "O armazenamento de água nos oceanos",
+                "A evaporação da água das plantas",
+                "A formação de gelo nas regiões polares"
+            ],
+            "correctAnswer": "O movimento de água entre a superfície da Terra e a atmosfera"
+        },
+        {
+            "question": "Qual é o papel da insulina no corpo humano?",
+            "options": [
+                "Regular os níveis de glicose no sangue",
+                "Promover a digestão de proteínas",
+                "Aumentar a produção de hormônios sexuais",
+                "Auxiliar na absorção de vitaminas"
+            ],
+            "correctAnswer": "Regular os níveis de glicose no sangue"
+        },
+        {
+            "question": "O que são ácidos nucleicos?",
+            "options": [
+                "Proteínas que catalisam reações químicas",
+                "Lipídios que armazenam energia",
+                "Moléculas que armazenam e transmitem informação genética",
+                "Carboidratos que fornecem energia"
+            ],
+            "correctAnswer": "Moléculas que armazenam e transmitem informação genética"
+        },
+        {
+            "question": "O que é a seleção natural?",
+            "options": [
+                "Processo pelo qual organismos mais aptos sobrevivem e se reproduzem",
+                "Criação de novas espécies em laboratório",
+                "Adaptação de organismos ao clima",
+                "Transferência de genes entre espécies diferentes"
+            ],
+            "correctAnswer": "Processo pelo qual organismos mais aptos sobrevivem e se reproduzem"
+        },
+        {
+            "question": "O que é um bioma?",
+            "options": [
+                "Conjunto de seres vivos em um ambiente aquático",
+                "Área geográfica com condições climáticas e tipos de vegetação específicos",
+                "Interação de predadores e presas em um ecossistema",
+                "Grupo de organismos da mesma espécie"
+            ],
+            "correctAnswer": "Área geográfica com condições climáticas e tipos de vegetação específicos"
+        },
+        {
+            "question": "Qual é a função da camada de ozônio na atmosfera terrestre?",
+            "options": [
+                "Refletir a luz solar",
+                "Proteger a Terra dos raios ultravioletas",
+                "Aumentar a temperatura global",
+                "Controlar a quantidade de dióxido de carbono"
+            ],
+            "correctAnswer": "Proteger a Terra dos raios ultravioletas"
+        },
+        {
+            "question": "O que é a fotossíntese?",
+            "options": [
+                "Processo de respiração das plantas",
+                "Produção de energia pelas plantas a partir da luz solar",
+                "Transformação de nutrientes em energia química",
+                "Digestão de alimentos pelas plantas"
+            ],
+            "correctAnswer": "Produção de energia pelas plantas a partir da luz solar"
+        },
+        {
+            "question": "Qual é a função dos glóbulos brancos?",
+            "options": [
+                "Transportar oxigênio",
+                "Defender o corpo contra infecções",
+                "Coagular o sangue",
+                "Armazenar gordura"
+            ],
+            "correctAnswer": "Defender o corpo contra infecções"
+        },
+        {
+            "question": "O que são mutações?",
+            "options": [
+                "Alterações na sequência de DNA",
+                "Processo de reprodução celular",
+                "Movimentação de proteínas na célula",
+                "Transformação de lipídios em carboidratos"
+            ],
+            "correctAnswer": "Alterações na sequência de DNA"
+        },
+        {
+            "question": "O que é a acidificação dos oceanos?",
+            "options": [
+                "Redução do pH dos oceanos devido ao aumento de dióxido de carbono na atmosfera",
+                "Aumento da salinidade da água do mar",
+                "Diminuição da temperatura dos oceanos",
+                "Aumento da quantidade de matéria orgânica"
+            ],
+            "correctAnswer": "Redução do pH dos oceanos devido ao aumento de dióxido de carbono na atmosfera"
+        },
+        {
+            "question": "O que é a genética?",
+            "options": [
+                "Estudo dos processos de crescimento e desenvolvimento",
+                "Estudo da hereditariedade e variação dos organismos",
+                "Estudo das interações entre os seres vivos e o ambiente",
+                "Estudo da composição química das células"
+            ],
+            "correctAnswer": "Estudo da hereditariedade e variação dos organismos"
+        },
+        {
+            "question": "O que é um ecossistema?",
+            "options": [
+                "Conjunto de organismos de uma mesma espécie",
+                "Área geográfica com condições climáticas iguais",
+                "Interação entre seres vivos e o ambiente em uma área específica",
+                "Região desprovida de vida"
+            ],
+            "correctAnswer": "Interação entre seres vivos e o ambiente em uma área específica"
+        },
+        {
+            "question": "Qual é a função das mitocôndrias nas células?",
+            "options": [
+                "Produzir energia na forma de ATP",
+                "Armazenar nutrientes",
+                "Sintetizar proteínas",
+                "Regular a divisão celular"
+            ],
+            "correctAnswer": "Produzir energia na forma de ATP"
+        },
+        {
+            "question": "O que são enzimas?",
+            "options": [
+                "Proteínas que catalisam reações bioquímicas",
+                "Lipídios que armazenam energia",
+                "Carboidratos que fornecem energia rápida",
+                "Ácidos nucleicos que contêm informação genética"
+            ],
+            "correctAnswer": "Proteínas que catalisam reações bioquímicas"
+        },
+        {
+            "question": "O que é eutrofização?",
+            "options": [
+                "Aumento de nutrientes em corpos d'água, levando ao crescimento excessivo de algas",
+                "Processo de formação de rochas sedimentares",
+                "Diminuição da acidez dos solos",
+                "Aumento da temperatura dos oceanos"
+            ],
+            "correctAnswer": "Aumento de nutrientes em corpos d'água, levando ao crescimento excessivo de algas"
+        },
+        {
+            "question": "Qual é a função da clorofila nas plantas?",
+            "options": [
+                "Captar luz para a fotossíntese",
+                "Armazenar nutrientes",
+                "Desintoxicar a célula",
+                "Transportar água e sais minerais"
+            ],
+            "correctAnswer": "Captar luz para a fotossíntese"
+        },
+        {
+            "question": "O que é o efeito estufa?",
+            "options": [
+                "Retenção de calor na atmosfera terrestre devido aos gases estufa",
+                "Aquecimento global causado pela poluição",
+                "Aumento da camada de ozônio na estratosfera",
+                "Reflexão da radiação solar pela superfície terrestre"
+            ],
+            "correctAnswer": "Retenção de calor na atmosfera terrestre devido aos gases estufa"
+        },
+        {
+            "question": "O que é uma mutação gênica?",
+            "options": [
+                "Alteração na sequência de nucleotídeos de um gene",
+                "Transferência de genes entre diferentes espécies",
+                "Replicação do DNA sem erros",
+                "Síntese de proteínas a partir do RNA"
+            ],
+            "correctAnswer": "Alteração na sequência de nucleotídeos de um gene"
+        },
+        {
+            "question": "Qual é a função dos glóbulos brancos no corpo humano?",
+            "options": [
+                "Transportar oxigênio no sangue",
+                "Produzir anticorpos",
+                "Regular a temperatura corporal",
+                "Defender o organismo contra infecções"
+            ],
+            "correctAnswer": "Defender o organismo contra infecções"
+        },
+        {
+            "question": "O que são hormônios?",
+            "options": [
+                "Sinais químicos que regulam diversas funções no corpo",
+                "Lipídios que armazenam energia",
+                "Ácidos nucleicos que contêm informações genéticas",
+                "Proteínas que catalisam reações"
+            ],
+            "correctAnswer": "Sinais químicos que regulam diversas funções no corpo"
+        }
+    ]
+}
