@@ -1,56 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Passa ou Repassa</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
+
 <body>
-    <!--
-    https://www.youtube.com/watch?v=0ptqh3RkZsY
-    Matemática
-        Álgebra
-        Geometria
-        Cálculo
-        Estatística
-    Ciências 
-        Biologia
-        Química
-        Física
-        Ciências da Terra
-    Geografia
-        Geografia Física
-        Geografia Humana
-        Cartografia
-    História
-        História Geral
-        História do Brasil
-        História da Arte
-    Literatura
-        Literatura Brasileira
-        Literatura Mundial
-        Análise Literária
-    Línguas
-        Português
-        Inglês
-        Espanhol
-        Francês
-    Educação Física
-        Esportes
-        Saúde e Bem-Estar
-        Anatomia
-    Artes
-        Artes Visuais
-        Música
-        Teatro
-        Dança
-    Tecnologia
-        Informática
-        Programação
-        Redes de Computadores
-    Filosofia
-        Ética
-        Lógica
-        Filosofia Política-->
+    <!-- Body container -->
+    <div id="body-container" class="row">
+        <!-- Team A container -->
+        <div id="team-a-container" class="col-3">
+            <!-- Team A info container -->
+            <h2 id="team-a-name"> Team A</h2>
+            <h2><span id="team-a-score" class="badge bg-info">0</span></h2>
+        </div>
+        <!-- Question selector container -->
+        <div id="question-container" class="col-6">
+            <div id="theme-selection">
+                <h2 id="team-a-name"> Selecione o tema</h2>
+                <button id="btn-science" class="btn btn-success">Ciências</button>
+            </div>
+            <div id="question">
+                <h3 id="team-playing-text"></h3>
+                <h4 id="question-text"></h4>
+                <form action="" class="form-control">
+                    <div>
+                        <input type="radio" name="option" id="option1">
+                        <label id="label-option1" for="option"></label>
+                    </div>
+                    <div>
+                        <input type="radio" name="option" id="option2">
+                        <label id="label-option2" for="option"></label>
+                    </div>
+                    <div>
+                        <input type="radio" name="option" id="option3">
+                        <label id="label-option3" for="option"></label>
+                    </div>
+                    <div>
+                        <input type="radio" name="option" id="option4">
+                        <label id="label-option4" for="option"></label>
+                    </div>
+                </form>
+                <button id="btn-answer" class="btn btn-success m-1">Confirma</button>
+                <div id="correct-answer-container" class="d-none">
+                    <p id="correct-answer"></p>
+                    <button id="btn-next-question">Proxima</button>
+                </div>
+            </div>
+
+        </div>
+        <!-- Team B container -->
+        <div id="team-b-container" class="col-3">
+            <!-- Team B info container -->
+            <h2 id="team-b-name"> Team B</h2>
+            <h2><span id="team-b-score" class="badge bg-info">0</span></h2>
+        </div>
+    </div>
+    <h1 id="text-header"></h1>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <script>
+        // Scores elements
+        const teamAScoreSpan = document.getElementById("team-a-score");
+        const teamBScoreSpan = document.getElementById("team-b-score");
+
+        // Control variables
+        const teams = [{ "name": "Team A", "score": teamAScoreSpan}, { "name": "Team B", "score": teamBScoreSpan}];
+        let teamPlaying = teams[0];
+
+        // urls for each topic
+        const science = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/ciencias.JSON";
+
+        // Buttons elements
+        const btnScience = document.getElementById("btn-science");
+        const btnAnswer = document.getElementById("btn-answer");
+        const btnNextQuestion = document.getElementById("btn-next-question");
+
+        // Questions elements
+        const teamPlayingText = document.getElementById("team-playing-text");
+        const questionText = document.getElementById("question-text");
+        const option1 = document.getElementById("label-option1");
+        const option2 = document.getElementById("label-option2");
+        const option3 = document.getElementById("label-option3");
+        const option4 = document.getElementById("label-option4");
+        const option1Radio = document.getElementById("option1");
+        const option2Radio = document.getElementById("option2");
+        const option3Radio = document.getElementById("option3");
+        const option4Radio = document.getElementById("option4");
+
+        // function to shuffle array
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                // Generate a random index from 0 to i 
+                const j = Math.floor(Math.random() * (i + 1));
+                // Swap elements at index i and j 
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        // Function to get a random question from a specific topic
+        function randomQuestion(url) {
+            fetch(url).then(response => {
+                if (!response.ok) {
+                    throw new Error("Network response was not ok")
+                }
+                return response.json();
+            })
+                .then(data => {
+                    const questionsArr = data.questions;
+                    // Select a random question
+                    const randomIndex = Math.floor(Math.random() * questionsArr.length);
+                    const question = questionsArr[randomIndex];
+                    // Shuffle the options
+                    let optionsArr = shuffleArray(question.options);
+                    // Show the question and options
+                    teamPlayingText.textContent = `${teamPlaying.name} responda corretamente.`
+                    questionText.textContent = question.question
+                    option1.textContent = optionsArr[0];
+                    option2.textContent = optionsArr[1];
+                    option3.textContent = optionsArr[2];
+                    option4.textContent = optionsArr[3];
+                    option1Radio.value = optionsArr[0];
+                    option2Radio.value = optionsArr[1];
+                    option3Radio.value = optionsArr[2];
+                    option4Radio.value = optionsArr[3];
+                    // Check answer
+                    btnAnswer.addEventListener('click', () => {
+                        // Check selected answer
+                        console.log("Botão confirma clicado")
+                        const options = document.getElementsByName("option");
+                        let answer;
+                        for (let i = 0; i < options.length; i++) {
+                            if (options[i].checked) {
+                                console.log(`${i} checked`);
+                                answer = options[i].value;
+                                console.log(answer)
+                                break;
+                            }
+                        }
+                        // Check if answer is correct
+                        console.log(answer);
+                        console.log(question.correctAnswer);
+                        if (answer == question.correctAnswer) {
+                           teamPlaying.score.textContent = parseInt(teamPlaying.score.textContent) + 100;
+                        } else {
+                            teamPlaying = teams[(teams.indexOf(teamPlaying) + 1) % 2];
+                        }
+                    })
+                })
+                .catch(error => {
+                    console.error("There was a problem with the fetch operation:", error);
+                });
+        }
+        btnScience.addEventListener('click', () => randomQuestion(science));
+    </script>
 </body>
+
 </html>
