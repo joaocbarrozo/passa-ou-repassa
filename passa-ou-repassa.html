@@ -20,11 +20,11 @@
         </div>
         <!-- Question selector container -->
         <div id="question-container" class="col-6">
-            <div id="theme-selection">
+            <div id="theme-selection-container">
                 <h2 id="team-a-name"> Selecione o tema</h2>
                 <button id="btn-science" class="btn btn-success">Ciências</button>
             </div>
-            <div id="question">
+            <div id="question" class="d-none">
                 <h3 id="team-playing-text"></h3>
                 <h4 id="question-text"></h4>
                 <form action="" class="form-control">
@@ -46,6 +46,7 @@
                     </div>
                 </form>
                 <button id="btn-answer" class="btn btn-success m-1">Confirma</button>
+                <!-- Container correct answer -->
                 <div id="correct-answer-container" class="d-none">
                     <p id="correct-answer"></p>
                     <button id="btn-next-question">Proxima</button>
@@ -66,12 +67,16 @@
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
     <script>
+        // Containers elements
+        const divCorrectAnswer = document.getElementById("correct-answer-container");
+        const divThemeSelection = document.getElementById("theme-selection-container");
+        const divQuestion = document.getElementById("question");
         // Scores elements
         const teamAScoreSpan = document.getElementById("team-a-score");
         const teamBScoreSpan = document.getElementById("team-b-score");
 
         // Control variables
-        const teams = [{ "name": "Team A", "score": teamAScoreSpan}, { "name": "Team B", "score": teamBScoreSpan}];
+        const teams = [{ "name": "Team A", "score": teamAScoreSpan }, { "name": "Team B", "score": teamBScoreSpan }];
         let teamPlaying = teams[0];
 
         // urls for each topic
@@ -85,6 +90,7 @@
         // Questions elements
         const teamPlayingText = document.getElementById("team-playing-text");
         const questionText = document.getElementById("question-text");
+        const radios = document.getElementsByName("option");
         const option1 = document.getElementById("label-option1");
         const option2 = document.getElementById("label-option2");
         const option3 = document.getElementById("label-option3");
@@ -93,6 +99,7 @@
         const option2Radio = document.getElementById("option2");
         const option3Radio = document.getElementById("option3");
         const option4Radio = document.getElementById("option4");
+        const correctAnswer = document.getElementById("correct-answer");
 
         // function to shuffle array
         function shuffleArray(array) {
@@ -105,8 +112,22 @@
             return array;
         }
 
+        // Function to select theme
+        function selectTheme() {
+            divThemeSelection.classList.remove('d-none');
+            divQuestion.classList.add("d-none");
+            divCorrectAnswer.classList.add("d-none");
+            // Uncheck radios 
+            for (let i = 0; i < radios.length; i++) {
+                radios[i].checked = false;
+            }
+            btnScience.addEventListener('click', () => randomQuestion(science));
+        }
+
         // Function to get a random question from a specific topic
         function randomQuestion(url) {
+            divThemeSelection.classList.add('d-none');
+            divQuestion.classList.remove("d-none");
             fetch(url).then(response => {
                 if (!response.ok) {
                     throw new Error("Network response was not ok")
@@ -131,35 +152,36 @@
                     option2Radio.value = optionsArr[1];
                     option3Radio.value = optionsArr[2];
                     option4Radio.value = optionsArr[3];
+                    correctAnswer.textContent = question.correctAnswer;
                     // Check answer
                     btnAnswer.addEventListener('click', () => {
+                        divCorrectAnswer.classList.remove('d-none');
                         // Check selected answer
-                        console.log("Botão confirma clicado")
-                        const options = document.getElementsByName("option");
                         let answer;
-                        for (let i = 0; i < options.length; i++) {
-                            if (options[i].checked) {
+                        for (let i = 0; i < radios.length; i++) {
+                            if (radios[i].checked) {
                                 console.log(`${i} checked`);
-                                answer = options[i].value;
-                                console.log(answer)
-                                break;
+                                answer = radios[i].value;
                             }
                         }
                         // Check if answer is correct
                         console.log(answer);
                         console.log(question.correctAnswer);
                         if (answer == question.correctAnswer) {
-                           teamPlaying.score.textContent = parseInt(teamPlaying.score.textContent) + 100;
+                            teamPlaying.score.textContent = parseInt(teamPlaying.score.textContent) + 100;
+                            correctAnswer.classList.add("bg-success")
                         } else {
                             teamPlaying = teams[(teams.indexOf(teamPlaying) + 1) % 2];
+                            correctAnswer.classList.add("bg-danger")
                         }
                     })
                 })
                 .catch(error => {
                     console.error("There was a problem with the fetch operation:", error);
                 });
+            btnNextQuestion.addEventListener("click", selectTheme);
         }
-        btnScience.addEventListener('click', () => randomQuestion(science));
+        selectTheme();
     </script>
 </body>
 
