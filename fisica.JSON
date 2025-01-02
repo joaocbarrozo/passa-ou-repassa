@@ -1,0 +1,2004 @@
+{
+    "questions": [
+        {
+            "question": "Um carro de 1000 kg está se movendo a uma velocidade de 20 m/s. Qual é a energia cinética do carro?",
+            "options": [
+                "200.000 J",
+                "400.000 J",
+                "1.000.000 J",
+                "2.000.000 J"
+            ],
+            "correctAnswer": "200.000 J"
+        },
+        {
+            "question": "Um bloco de massa 5 kg é puxado por uma força de 15 N. Qual é a aceleração do bloco?",
+            "options": [
+                "1 m/s²",
+                "2 m/s²",
+                "3 m/s²",
+                "4 m/s²"
+            ],
+            "correctAnswer": "3 m/s²"
+        },
+        {
+            "question": "Um objeto em queda livre atinge o solo após 4 segundos. Qual é a altura de onde ele caiu, desconsiderando a resistência do ar?",
+            "options": [
+                "80 m",
+                "40 m",
+                "20 m",
+                "160 m"
+            ],
+            "correctAnswer": "80 m"
+        },
+        {
+            "question": "Um corpo é lançado verticalmente para cima com uma velocidade inicial de 30 m/s. Qual é a altura máxima que ele atinge? (Considere g = 10 m/s²)",
+            "options": [
+                "45 m",
+                "90 m",
+                "135 m",
+                "180 m"
+            ],
+            "correctAnswer": "45 m"
+        },
+        {
+            "question": "Um carro freia e reduz sua velocidade de 25 m/s para 5 m/s em 5 segundos. Qual é a desaceleração do carro?",
+            "options": [
+                "4 m/s²",
+                "5 m/s²",
+                "6 m/s²",
+                "7 m/s²"
+            ],
+            "correctAnswer": "4 m/s²"
+        },
+        {
+            "question": "Um objeto de 2 kg está em repouso e é submetido a uma força de 10 N. Qual será sua velocidade após 5 segundos?",
+            "options": [
+                "1 m/s",
+                "2 m/s",
+                "5 m/s",
+                "10 m/s"
+            ],
+            "correctAnswer": "1 m/s"
+        },
+        {
+            "question": "Um pêndulo simples tem um comprimento de 2 m. Qual é o período de oscilação do pêndulo? (Considere g = 10 m/s²)",
+            "options": [
+                "1 s",
+                "2 s",
+                "3 s",
+                "4 s"
+            ],
+            "correctAnswer": "2 s"
+        },
+        {
+            "question": "Um bloco de 10 kg está em uma superfície horizontal e é puxado por uma força de 50 N. Se o coeficiente de atrito entre o bloco e a superfície é 0,2, qual é a aceleração do bloco?",
+            "options": [
+                "2 m/s²",
+                "3 m/s²",
+                "4 m/s²",
+                "5 m/s²"
+            ],
+            "correctAnswer": "3 m/s²"
+        },
+        {
+            "question": "Um corpo de 3 kg está em movimento circular com um raio de 2 m e uma velocidade de 6 m/s. Qual é a força centrípeta atuando sobre ele?",
+            "options": [
+                "9 N",
+                "18 N",
+                "27 N",
+                "36 N"
+            ],
+            "correctAnswer": "27 N"
+        },
+        {
+            "question": "Um carro de 800 kg está subindo uma ladeira com um ângulo de 30°. Qual é a componente da força gravitacional que atua ao longo da ladeira?",
+            "options": [
+                "400 N",
+                "600 N",
+                "800 N",
+                "1000 N"
+            ],
+            "correctAnswer": "400 N"
+        },
+        {
+            "question": "Um bloco de 5 kg é puxado por uma força de 20 N em uma superfície horizontal sem atrito. Qual é a aceleração do bloco?",
+            "options": [
+                "2 m/s²",
+                "3 m/s²",
+                "4 m/s²",
+                "5 m/s²"
+            ],
+            "correctAnswer": "4 m/s²"
+        },
+        {
+            "question": "Um objeto é lançado verticalmente para cima com uma velocidade inicial de 20 m/s. Qual é a altura máxima que ele atinge? (Considere g = 10 m/s²)",
+            "options": [
+                "20 m",
+                "30 m",
+                "40 m",
+                "50 m"
+            ],
+            "correctAnswer": "20 m"
+        },
+        {
+            "question": "Um carro de 1200 kg está em movimento a uma velocidade constante de 72 km/h. Qual é a força resultante atuando sobre o carro?",
+            "options": [
+                "0 N",
+                "120 N",
+                "240 N",
+                "360 N"
+            ],
+            "correctAnswer": "0 N"
+        },
+        {
+            "question": "Um corpo de 10 kg está em repouso e é submetido a uma força de 50 N. Qual será a sua velocidade após 5 segundos?",
+            "options": [
+                "5 m/s",
+                "10 m/s",
+                "15 m/s",
+                "20 m/s"
+            ],
+            "correctAnswer": "10 m/s"
+        },
+        {
+            "question": "Um objeto de 2 kg está em queda livre. Qual é a força gravitacional que atua sobre ele? (Considere g = 10 m/s²)",
+            "options": [
+                "10 N",
+                "15 N",
+                "20 N",
+                "25 N"
+            ],
+            "correctAnswer": "20 N"
+        },
+        {
+            "question": "Um carro de 1000 kg está a 36 km/h e freia até parar em 5 segundos. Qual é a desaceleração média do carro?",
+            "options": [
+                "1 m/s²",
+                "2 m/s²",
+                "3 m/s²",
+                "4 m/s²"
+            ],
+            "correctAnswer": "2 m/s²"
+        },
+        {
+            "question": "Um corpo de 4 kg está em um plano inclinado de 30° em relação à horizontal. Qual é a componente da força gravitacional que atua paralelamente ao plano?",
+            "options": [
+                "10 N",
+                "20 N",
+                "30 N",
+                "40 N"
+            ],
+            "correctAnswer": "20 N"
+        },
+        {
+            "question": "Um projétil é lançado horizontalmente de uma altura de 45 m. Qual é o tempo que ele leva para atingir o solo? (Considere g = 10 m/s²)",
+            "options": [
+                "3 s",
+                "4 s",
+                "5 s",
+                "6 s"
+            ],
+            "correctAnswer": "3 s"
+        },
+        {
+            "question": "Um carro de 1500 kg está em movimento a 90 km/h. Qual é a energia cinética do carro?",
+            "options": [
+                "1125 J",
+                "1680 J",
+                "2025 J",
+                "2250 J"
+            ],
+            "correctAnswer": "2025 J"
+        },
+        {
+            "question": "Um corpo de 6 kg está em um movimento circular com um raio de 3 m e uma velocidade de 9 m/s. Qual é a força centrípeta atuando sobre ele?",
+            "options": [
+                "15 N",
+                "18 N",
+                "27 N",
+                "36 N"
+            ],
+            "correctAnswer": "27 N"
+        },
+        {
+            "question": "Um bloco de 8 kg é puxado para cima com uma força de 100 N. Qual é a aceleração do bloco? (Considere g = 10 m/s²)",
+            "options": [
+                "2 m/s²",
+                "4 m/s²",
+                "6 m/s²",
+                "8 m/s²"
+            ],
+            "correctAnswer": "4 m/s²"
+        },
+        {
+            "question": "Um carro de 1200 kg está em uma curva com um raio de 50 m e uma velocidade de 20 m/s. Qual é a força centrípeta necessária para mantê-lo na curva?",
+            "options": [
+                "240 N",
+                "480 N",
+                "720 N",
+                "960 N"
+            ],
+            "correctAnswer": "480 N"
+        },
+        {
+            "question": "Um corpo de 15 kg é colocado em um plano inclinado de 45°. Qual é a força normal que atua sobre ele? (Considere g = 10 m/s²)",
+            "options": [
+                "75 N",
+                "100 N",
+                "150 N",
+                "200 N"
+            ],
+            "correctAnswer": "150 N"
+        },
+        {
+            "question": "Um objeto é lançado verticalmente para baixo com uma velocidade inicial de 5 m/s. Após 3 segundos, qual será sua velocidade? (Considere g = 10 m/s²)",
+            "options": [
+                "25 m/s",
+                "20 m/s",
+                "15 m/s",
+                "10 m/s"
+            ],
+            "correctAnswer": "35 m/s"
+        },
+        {
+            "question": "Um carro de 1000 kg está a 54 km/h e colide com um obstáculo, parando em 2 segundos. Qual é a força média exercida sobre o carro durante a colisão?",
+            "options": [
+                "250 N",
+                "500 N",
+                "750 N",
+                "1000 N"
+            ],
+            "correctAnswer": "750 N"
+        },
+        {
+            "question": "Um corpo de 3 kg é colocado em um movimento circular com um raio de 4 m e uma velocidade de 8 m/s. Qual é a força centrípeta atuando sobre ele?",
+            "options": [
+                "6 N",
+                "12 N",
+                "24 N",
+                "36 N"
+            ],
+            "correctAnswer": "24 N"
+        },
+        {
+            "question": "Um bloco de 10 kg desliza em uma superfície horizontal com um coeficiente de atrito cinético de 0,2. Qual é a força de atrito que atua sobre ele?",
+            "options": [
+                "10 N",
+                "20 N",
+                "30 N",
+                "40 N"
+            ],
+            "correctAnswer": "20 N"
+        },
+        {
+            "question": "Um corpo de 5 kg é solto de uma altura de 20 m. Qual é a velocidade do corpo ao atingir o solo? (Considere g = 10 m/s²)",
+            "options": [
+                "10 m/s",
+                "14 m/s",
+                "20 m/s",
+                "28 m/s"
+            ],
+            "correctAnswer": "20 m/s"
+        },
+        {
+            "question": "Um carro de 1500 kg está em uma estrada plana e acelera de 0 a 100 km/h em 10 segundos. Qual é a força média aplicada ao carro?",
+            "options": [
+                "150 N",
+                "300 N",
+                "450 N",
+                "600 N"
+            ],
+            "correctAnswer": "450 N"
+        },
+        {
+            "question": "Um corpo de 12 kg está em um plano inclinado de 30°. Qual é a componente da força gravitacional que atua paralelamente ao plano? (Considere g = 10 m/s²)",
+            "options": [
+                "30 N",
+                "60 N",
+                "90 N",
+                "120 N"
+            ],
+            "correctAnswer": "60 N"
+        },
+        {
+            "question": "Um corpo de 4 kg é lançado verticalmente para cima com uma velocidade inicial de 20 m/s. Qual é a altura máxima que ele atinge? (Considere g = 10 m/s²)",
+            "options": [
+                "20 m",
+                "30 m",
+                "40 m",
+                "50 m"
+            ],
+            "correctAnswer": "20 m"
+        },
+        {
+            "question": "Um carro de 800 kg está em uma curva com um raio de 25 m e uma velocidade de 15 m/s. Qual é a força centrípeta necessária para mantê-lo na curva?",
+            "options": [
+                "180 N",
+                "240 N",
+                "320 N",
+                "360 N"
+            ],
+            "correctAnswer": "480 N"
+        },
+        {
+            "question": "Um bloco de 5 kg é puxado para cima com uma força de 60 N. Qual é a aceleração do bloco? (Considere g = 10 m/s²)",
+            "options": [
+                "2 m/s²",
+                "4 m/s²",
+                "6 m/s²",
+                "8 m/s²"
+            ],
+            "correctAnswer": "2 m/s²"
+        },
+        {
+            "question": "Um corpo de 10 kg é colocado em um plano inclinado de 30°. Qual é a força normal que atua sobre ele? (Considere g = 10 m/s²)",
+            "options": [
+                "50 N",
+                "60 N",
+                "70 N",
+                "80 N"
+            ],
+            "correctAnswer": "86,6 N"
+        },
+        {
+            "question": "Um carro de 1200 kg está a 72 km/h e freia até parar em 4 segundos. Qual é a desaceleração média do carro?",
+            "options": [
+                "2 m/s²",
+                "3 m/s²",
+                "4 m/s²",
+                "5 m/s²"
+            ],
+            "correctAnswer": "5 m/s²"
+        },
+        {
+            "question": "Um corpo de 3 kg está em um movimento circular com um raio de 2 m e uma velocidade de 6 m/s. Qual é a força centrípeta atuando sobre ele?",
+            "options": [
+                "9 N",
+                "18 N",
+                "27 N",
+                "36 N"
+            ],
+            "correctAnswer": "54 N"
+        },
+        {
+            "question": "Um bloco de 2 kg desliza em uma superfície horizontal com um coeficiente de atrito cinético de 0,1. Qual é a força de atrito que atua sobre ele? (Considere g = 10 m/s²)",
+            "options": [
+                "2 N",
+                "4 N",
+                "6 N",
+                "8 N"
+            ],
+            "correctAnswer": "2 N"
+        },
+        {
+            "question": "Um corpo de 6 kg é solto de uma altura de 45 m. Qual é a velocidade do corpo ao atingir o solo? (Considere g = 10 m/s²)",
+            "options": [
+                "15 m/s",
+                "30 m/s",
+                "45 m/s",
+                "60 m/s"
+            ],
+            "correctAnswer": "30 m/s"
+        },
+        {
+            "question": "Um carro de 1500 kg está em movimento a 90 km/h. Qual é a energia cinética do carro?",
+            "options": [
+                "1125 J",
+                "1680 J",
+                "2025 J",
+                "2250 J"
+            ],
+            "correctAnswer": "2025 J"
+        },
+        {
+            "question": "Um corpo de 5 kg é puxado para cima com uma força de 60 N. Qual é a aceleração do corpo? (Considere g = 10 m/s²)",
+            "options": [
+                "1 m/s²",
+                "2 m/s²",
+                "3 m/s²",
+                "4 m/s²"
+            ],
+            "correctAnswer": "2 m/s²"
+        },
+        {
+            "question": "Um corpo de 10 kg é lançado verticalmente para cima com uma velocidade inicial de 25 m/s. Qual é a altura máxima que ele atinge? (Considere g = 10 m/s²)",
+            "options": [
+                "31,25 m",
+                "62,5 m",
+                "125 m",
+                "156,25 m"
+            ],
+            "correctAnswer": "31,25 m"
+        },
+        {
+            "question": "Um carro de 1200 kg está em uma curva com um raio de 30 m e uma velocidade de 18 m/s. Qual é a força centrípeta necessária para mantê-lo na curva?",
+            "options": [
+                "216 N",
+                "432 N",
+                "648 N",
+                "864 N"
+            ],
+            "correctAnswer": "432 N"
+        },
+        {
+            "question": "Um bloco de 4 kg é puxado para cima com uma força de 50 N. Qual é a aceleração do bloco? (Considere g = 10 m/s²)",
+            "options": [
+                "1 m/s²",
+                "2,5 m/s²",
+                "5 m/s²",
+                "7,5 m/s²"
+            ],
+            "correctAnswer": "2,5 m/s²"
+        },
+        {
+            "question": "Um corpo de 15 kg está em um plano inclinado de 60°. Qual é a componente da força gravitacional que atua paralelamente ao plano? (Considere g = 10 m/s²)",
+            "options": [
+                "75 N",
+                "100 N",
+                "130 N",
+                "150 N"
+            ],
+            "correctAnswer": "130 N"
+        },
+        {
+            "question": "Um carro de 1000 kg está a 72 km/h e colide com um obstáculo, parando em 3 segundos. Qual é a força média exercida sobre o carro durante a colisão?",
+            "options": [
+                "200 N",
+                "400 N",
+                "600 N",
+                "800 N"
+            ],
+            "correctAnswer": "800 N"
+        },
+        {
+            "question": "Um corpo de 5 kg é solto de uma altura de 20 m. Qual é a velocidade do corpo ao atingir o solo? (Considere g = 10 m/s²)",
+            "options": [
+                "10 m/s",
+                "14 m/s",
+                "20 m/s",
+                "28 m/s"
+            ],
+            "correctAnswer": "20 m/s"
+        },
+        {
+            "question": "Um bloco de 3 kg desliza em uma superfície horizontal com um coeficiente de atrito cinético de 0,3. Qual é a força de atrito que atua sobre ele? (Considere g = 10 m/s²)",
+            "options": [
+                "9 N",
+                "6 N",
+                "3 N",
+                "12 N"
+            ],
+            "correctAnswer": "9 N"
+        },
+        {
+            "question": "Um corpo de 8 kg está em um movimento circular com um raio de 4 m e uma velocidade de 10 m/s. Qual é a força centrípeta atuando sobre ele?",
+            "options": [
+                "20 N",
+                "40 N",
+                "50 N",
+                "80 N"
+            ],
+            "correctAnswer": "20 N"
+        },
+        {
+            "question": "Um carro de 1500 kg está em movimento a 90 km/h. Qual é a energia cinética do carro?",
+            "options": [
+                "1125 J",
+                "1680 J",
+                "2025 J",
+                "2250 J"
+            ],
+            "correctAnswer": "2025 J"
+        },
+        {
+            "question": "Um corpo de 6 kg é puxado para cima com uma força de 80 N. Qual é a aceleração do corpo? (Considere g = 10 m/s²)",
+            "options": [
+                "1 m/s²",
+                "2 m/s²",
+                "3 m/s²",
+                "4 m/s²"
+            ],
+            "correctAnswer": "4 m/s²"
+        },
+        {
+            "question": "Um bloco de 5 kg está em repouso em uma superfície horizontal. Qual é a força normal que a superfície exerce sobre o bloco?",
+            "options": [
+                "50 N",
+                "25 N",
+                "0 N",
+                "10 N"
+            ],
+            "correctAnswer": "50 N"
+        },
+        {
+            "question": "Um carro de 1000 kg está se movendo a uma velocidade de 20 m/s. Qual é sua energia cinética?",
+            "options": [
+                "20000 J",
+                "40000 J",
+                "10000 J",
+                "5000 J"
+            ],
+            "correctAnswer": "200000 J"
+        },
+        {
+            "question": "Uma força de 30 N é aplicada para mover um objeto de 5 kg para cima, contra a gravidade. Qual é a aceleração do objeto?",
+            "options": [
+                "6 m/s²",
+                "3 m/s²",
+                "9 m/s²",
+                "0 m/s²"
+            ],
+            "correctAnswer": "6 m/s²"
+        },
+        {
+            "question": "Um corpo de 10 kg está pendurado em uma corda. Qual é a tensão na corda?",
+            "options": [
+                "100 N",
+                "10 N",
+                "9.8 N",
+                "0 N"
+            ],
+            "correctAnswer": "98 N"
+        },
+        {
+            "question": "Um objeto é lançado verticalmente para cima com uma velocidade inicial de 10 m/s. Qual será a altura máxima atingida?",
+            "options": [
+                "5.1 m",
+                "4.9 m",
+                "10.2 m",
+                "9.8 m"
+            ],
+            "correctAnswer": "5.1 m"
+        },
+        {
+            "question": "Um bloco desliza por um plano inclinado sem atrito com uma aceleração de 3 m/s². Qual é o ângulo do plano inclinado?",
+            "options": [
+                "17°",
+                "30°",
+                "45°",
+                "60°"
+            ],
+            "correctAnswer": "17°"
+        },
+        {
+            "question": "Um objeto de 2 kg está em um elevador que está subindo com uma aceleração de 2 m/s². Qual é a força resultante no objeto?",
+            "options": [
+                "4 N",
+                "20 N",
+                "24 N",
+                "8 N"
+            ],
+            "correctAnswer": "24 N"
+        },
+        {
+            "question": "Uma mola tem uma constante elástica de 200 N/m. Quanto a mola se estende quando uma força de 100 N é aplicada?",
+            "options": [
+                "0.5 m",
+                "1 m",
+                "2 m",
+                "0.2 m"
+            ],
+            "correctAnswer": "0.5 m"
+        },
+        {
+            "question": "Um corpo de 2 kg é lançado horizontalmente de uma altura de 10 m. Qual é o tempo que leva para atingir o solo?",
+            "options": [
+                "1 s",
+                "2 s",
+                "3 s",
+                "4 s"
+            ],
+            "correctAnswer": "1.4 s"
+        },
+        {
+            "question": "Um motor exerce uma força de 500 N para mover um carro de 1000 kg. Qual é a aceleração do carro?",
+            "options": [
+                "0.5 m/s²",
+                "1 m/s²",
+                "2 m/s²",
+                "5 m/s²"
+            ],
+            "correctAnswer": "0.5 m/s²"
+        },
+        {
+            "question": "Um ciclista está pedalando a uma velocidade constante de 5 m/s. Se ele aumentasse sua velocidade para 10 m/s, como a energia cinética mudaria?",
+            "options": [
+                "Dobrar",
+                "Triplicar",
+                "Quadruplicar",
+                "Ficar a mesma"
+            ],
+            "correctAnswer": "Quadruplicar"
+        },
+        {
+            "question": "Um bloco de 4 kg está se movendo em uma superfície com atrito com uma aceleração de 2 m/s². Qual é a força de atrito atuando sobre o bloco?",
+            "options": [
+                "2 N",
+                "4 N",
+                "8 N",
+                "10 N"
+            ],
+            "correctAnswer": "8 N"
+        },
+        {
+            "question": "Um projétil é disparado horizontalmente a partir de uma altura de 45 m. Quanto tempo leva para atingir o solo?",
+            "options": [
+                "3 s",
+                "4.5 s",
+                "6 s",
+                "9 s"
+            ],
+            "correctAnswer": "3 s"
+        },
+        {
+            "question": "Um corpo é empurrado contra uma parede com uma força de 50 N. A força normal exercida pela parede é:",
+            "options": [
+                "50 N",
+                "25 N",
+                "100 N",
+                "0 N"
+            ],
+            "correctAnswer": "50 N"
+        },
+        {
+            "question": "Um bloco de massa 2 kg está em repouso em uma superfície inclinada a 30°. Qual é a força de atrito necessária para manter o bloco em repouso?",
+            "options": [
+                "9.8 N",
+                "17 N",
+                "5 N",
+                "15 N"
+            ],
+            "correctAnswer": "9.8 N"
+        },
+        {
+            "question": "Um carro de 1500 kg acelera de 0 a 20 m/s em 5 segundos. Qual é a força resultante agindo sobre o carro?",
+            "options": [
+                "3000 N",
+                "6000 N",
+                "1500 N",
+                "1000 N"
+            ],
+            "correctAnswer": "6000 N"
+        },
+        {
+            "question": "Um trabalhador levanta uma caixa de 10 kg a uma altura de 2 metros. Qual é o trabalho realizado pelo trabalhador?",
+            "options": [
+                "20 J",
+                "98 J",
+                "196 J",
+                "100 J"
+            ],
+            "correctAnswer": "196 J"
+        },
+        {
+            "question": "Qual é a aceleração de um objeto que cai livremente sob a ação da gravidade na Terra?",
+            "options": [
+                "8.9 m/s²",
+                "9.8 m/s²",
+                "10 m/s²",
+                "10.8 m/s²"
+            ],
+            "correctAnswer": "9.8 m/s²"
+        },
+        {
+            "question": "Um carro está se movendo a 10 m/s e freia até parar em 5 segundos. Qual é a aceleração negativa (desaceleração) do carro?",
+            "options": [
+                "-1 m/s²",
+                "-2 m/s²",
+                "-3 m/s²",
+                "-4 m/s²"
+            ],
+            "correctAnswer": "-2 m/s²"
+        },
+        {
+            "question": "Um objeto de 0,5 kg é lançado horizontalmente com uma velocidade de 4 m/s. Qual é o momento linear do objeto?",
+            "options": [
+                "2 kg·m/s",
+                "4 kg·m/s",
+                "1 kg·m/s",
+                "0.5 kg·m/s"
+            ],
+            "correctAnswer": "2 kg·m/s"
+        },
+        {
+            "question": "Qual das seguintes opções melhor descreve a Primeira Lei de Newton?",
+            "options": [
+                "A força é igual à massa vezes a aceleração.",
+                "Para cada ação, há uma reação igual e oposta.",
+                "Um corpo em repouso permanece em repouso e um corpo em movimento permanece em movimento, a menos que uma força externa atue sobre ele.",
+                "A energia não pode ser criada nem destruída."
+            ],
+            "correctAnswer": "Um corpo em repouso permanece em repouso e um corpo em movimento permanece em movimento, a menos que uma força externa atue sobre ele."
+        },
+        {
+            "question": "O que é trabalho em termos de física?",
+            "options": [
+                "A quantidade de energia utilizada por uma máquina.",
+                "A força aplicada a um objeto dividida pela distância que ele se move.",
+                "A força aplicada a um objeto ao longo de uma distância.",
+                "A mudança na velocidade de um objeto."
+            ],
+            "correctAnswer": "A força aplicada a um objeto ao longo de uma distância."
+        },
+        {
+            "question": "Qual é a unidade de medida da força no Sistema Internacional de Unidades (SI)?",
+            "options": [
+                "Joule",
+                "Newton",
+                "Watt",
+                "Pascal"
+            ],
+            "correctAnswer": "Newton"
+        },
+        {
+            "question": "Qual é a definição de velocidade escalar média?",
+            "options": [
+                "A distância total percorrida dividida pelo tempo total.",
+                "A mudança na velocidade por unidade de tempo.",
+                "A razão entre a força aplicada e a massa do objeto.",
+                "A direção do movimento de um objeto."
+            ],
+            "correctAnswer": "A distância total percorrida dividida pelo tempo total."
+        },
+        {
+            "question": "Como se define aceleração?",
+            "options": [
+                "A mudança na velocidade por unidade de tempo.",
+                "A distância percorrida por unidade de tempo.",
+                "A força aplicada por unidade de massa.",
+                "A energia cinética dividida pela massa."
+            ],
+            "correctAnswer": "A mudança na velocidade por unidade de tempo."
+        },
+        {
+            "question": "O que acontece com a energia potencial gravitacional de um objeto quando ele é elevado a uma altura maior?",
+            "options": [
+                "Ela aumenta.",
+                "Ela diminui.",
+                "Ela permanece a mesma.",
+                "Ela se transforma em energia cinética."
+            ],
+            "correctAnswer": "Ela aumenta."
+        },
+        {
+            "question": "O que é momento linear (ou quantidade de movimento)?",
+            "options": [
+                "A massa de um objeto vezes sua velocidade.",
+                "A força aplicada a um objeto ao longo de uma distância.",
+                "A energia cinética dividida pela velocidade.",
+                "A mudança na aceleração por unidade de tempo."
+            ],
+            "correctAnswer": "A massa de um objeto vezes sua velocidade."
+        },
+        {
+            "question": "Qual é a Terceira Lei de Newton?",
+            "options": [
+                "A força é igual à massa vezes a aceleração.",
+                "Para cada ação, há uma reação igual e oposta.",
+                "Um corpo em repouso permanece em repouso e um corpo em movimento permanece em movimento, a menos que uma força externa atue sobre ele.",
+                "A energia não pode ser criada nem destruída."
+            ],
+            "correctAnswer": "Para cada ação, há uma reação igual e oposta."
+        },
+        {
+            "question": "O que é uma máquina simples em termos de física?",
+            "options": [
+                "Um dispositivo que pode mudar a direção ou a magnitude de uma força.",
+                "Um sistema que converte energia térmica em energia mecânica.",
+                "Um mecanismo que utiliza eletricidade para realizar trabalho.",
+                "Um aparelho que mede a força de um objeto."
+            ],
+            "correctAnswer": "Um dispositivo que pode mudar a direção ou a magnitude de uma força."
+        },
+        {
+            "question": "Qual das seguintes opções é um exemplo de energia cinética?",
+            "options": [
+                "Um livro em uma prateleira alta.",
+                "Água armazenada em uma represa.",
+                "Um carro em movimento.",
+                "Um elástico esticado."
+            ],
+            "correctAnswer": "Um carro em movimento."
+        },
+        {
+            "question": "Qual é a unidade de medida da energia no Sistema Internacional de Unidades (SI)?",
+            "options": [
+                "Newton",
+                "Joule",
+                "Watt",
+                "Pascal"
+            ],
+            "correctAnswer": "Joule"
+        },
+        {
+            "question": "O que é velocidade vetorial?",
+            "options": [
+                "A distância total percorrida por unidade de tempo.",
+                "A razão entre a deslocação e o tempo.",
+                "A força aplicada em um objeto em movimento.",
+                "A energia cinética de um corpo."
+            ],
+            "correctAnswer": "A razão entre a deslocação e o tempo."
+        },
+        {
+            "question": "Como se define força?",
+            "options": [
+                "A capacidade de realizar trabalho.",
+                "A mudança na aceleração por unidade de tempo.",
+                "A interação que pode mudar o movimento de um objeto.",
+                "A energia armazenada em um sistema."
+            ],
+            "correctAnswer": "A interação que pode mudar o movimento de um objeto."
+        },
+        {
+            "question": "Qual é a Segunda Lei de Newton?",
+            "options": [
+                "A força é igual à massa vezes a aceleração.",
+                "Para cada ação, há uma reação igual e oposta.",
+                "Um corpo em repouso permanece em repouso e um corpo em movimento permanece em movimento, a menos que uma força externa atue sobre ele.",
+                "A energia não pode ser criada nem destruída."
+            ],
+            "correctAnswer": "A força é igual à massa vezes a aceleração."
+        },
+        {
+            "question": "O que é energia potencial elástica?",
+            "options": [
+                "A energia de um objeto em movimento.",
+                "A energia armazenada em um objeto devido à sua posição.",
+                "A energia armazenada em um objeto devido à sua deformação.",
+                "A energia térmica de um sistema."
+            ],
+            "correctAnswer": "A energia armazenada em um objeto devido à sua deformação."
+        },
+        {
+            "question": "O que determina a intensidade da força gravitacional entre dois corpos?",
+            "options": [
+                "A massa dos corpos e a distância entre eles.",
+                "A velocidade dos corpos e a distância entre eles.",
+                "A energia cinética dos corpos.",
+                "A energia potencial dos corpos."
+            ],
+            "correctAnswer": "A massa dos corpos e a distância entre eles."
+        },
+        {
+            "question": "Qual é a definição de impulso em física?",
+            "options": [
+                "A mudança na energia cinética de um corpo.",
+                "A força aplicada em um objeto por um período de tempo.",
+                "A velocidade de um objeto em um instante específico.",
+                "A energia potencial de um corpo em repouso."
+            ],
+            "correctAnswer": "A força aplicada em um objeto por um período de tempo."
+        },
+        {
+            "question": "O que é um sistema conservativo?",
+            "options": [
+                "Um sistema onde a energia total é conservada.",
+                "Um sistema onde a força é constante.",
+                "Um sistema onde a massa é constante.",
+                "Um sistema onde a aceleração é zero."
+            ],
+            "correctAnswer": "Um sistema onde a energia total é conservada."
+        },
+        {
+            "question": "Qual é a relação entre o trabalho e a energia?",
+            "options": [
+                "O trabalho realizado é igual à variação da energia cinética.",
+                "O trabalho realizado é igual à força aplicada.",
+                "O trabalho realizado é igual ao tempo de aplicação da força.",
+                "O trabalho realizado é inversamente proporcional à energia potencial."
+            ],
+            "correctAnswer": "O trabalho realizado é igual à variação da energia cinética."
+        },
+        {
+            "question": "O que é uma força centrípeta?",
+            "options": [
+                "Uma força que atua ao longo de um raio e puxa um objeto em direção ao centro de sua trajetória circular.",
+                "Uma força que atua em um ângulo reto com a trajetória do objeto.",
+                "Uma força que empurra um objeto para fora de sua trajetória circular.",
+                "Uma força que atua em um objeto em movimento retilíneo."
+            ],
+            "correctAnswer": "Uma força que atua ao longo de um raio e puxa um objeto em direção ao centro de sua trajetória circular."
+        },
+        {
+            "question": "Qual é a unidade de medida da energia no Sistema Internacional de Unidades (SI)?",
+            "options": [
+                "Newton (N)",
+                "Joule (J)",
+                "Watt (W)",
+                "Pascal (Pa)"
+            ],
+            "correctAnswer": "Joule (J)"
+        },
+        {
+            "question": "O que é velocidade vetorial?",
+            "options": [
+                "A razão entre a deslocação e o tempo.",
+                "A distância total percorrida por unidade de tempo.",
+                "A força aplicada em um objeto em movimento.",
+                "A energia cinética de um corpo."
+            ],
+            "correctAnswer": "A razão entre a deslocação e o tempo."
+        },
+        {
+            "question": "Como se define força?",
+            "options": [
+                "A capacidade de realizar trabalho.",
+                "A mudança na aceleração por unidade de tempo.",
+                "A interação que pode mudar o movimento de um objeto.",
+                "A energia armazenada em um sistema."
+            ],
+            "correctAnswer": "A interação que pode mudar o movimento de um objeto."
+        },
+        {
+            "question": "Qual é a Segunda Lei de Newton?",
+            "options": [
+                "A força é igual à massa vezes a aceleração.",
+                "Para cada ação, há uma reação igual e oposta.",
+                "Um corpo em repouso permanece em repouso e um corpo em movimento permanece em movimento, a menos que uma força externa atue sobre ele.",
+                "A energia não pode ser criada nem destruída."
+            ],
+            "correctAnswer": "A força é igual à massa vezes a aceleração."
+        },
+        {
+            "question": "O que é energia potencial elástica?",
+            "options": [
+                "A energia armazenada em um objeto devido à sua deformação.",
+                "A energia de um objeto em movimento.",
+                "A energia armazenada em um objeto devido à sua posição.",
+                "A energia térmica de um sistema."
+            ],
+            "correctAnswer": "A energia armazenada em um objeto devido à sua deformação."
+        },
+        {
+            "question": "O que determina a intensidade da força gravitacional entre dois corpos?",
+            "options": [
+                "A massa dos corpos e a distância entre eles.",
+                "A velocidade dos corpos e a distância entre eles.",
+                "A energia cinética dos corpos.",
+                "A energia potencial dos corpos."
+            ],
+            "correctAnswer": "A massa dos corpos e a distância entre eles."
+        },
+        {
+            "question": "Qual é a definição de impulso em física?",
+            "options": [
+                "A força aplicada em um objeto por um período de tempo.",
+                "A mudança na energia cinética de um corpo.",
+                "A velocidade de um objeto em um instante específico.",
+                "A energia potencial de um corpo em repouso."
+            ],
+            "correctAnswer": "A força aplicada em um objeto por um período de tempo."
+        },
+        {
+            "question": "O que é um sistema conservativo?",
+            "options": [
+                "Um sistema onde a energia total é conservada.",
+                "Um sistema onde a força é constante.",
+                "Um sistema onde a massa é constante.",
+                "Um sistema onde a aceleração é zero."
+            ],
+            "correctAnswer": "Um sistema onde a energia total é conservada."
+        },
+        {
+            "question": "Qual é a relação entre o trabalho e a energia?",
+            "options": [
+                "O trabalho realizado é igual à variação da energia cinética.",
+                "O trabalho realizado é igual à força aplicada.",
+                "O trabalho realizado é igual ao tempo de aplicação da força.",
+                "O trabalho realizado é inversamente proporcional à energia potencial."
+            ],
+            "correctAnswer": "O trabalho realizado é igual à variação da energia cinética."
+        },
+        {
+            "question": "O que é uma força centrípeta?",
+            "options": [
+                "Uma força que atua ao longo de um raio e puxa um objeto em direção ao centro de sua trajetória circular.",
+                "Uma força que atua em um ângulo reto com a trajetória do objeto.",
+                "Uma força que empurra um objeto para fora de sua trajetória circular.",
+                "Uma força que atua em um objeto em movimento retilíneo."
+            ],
+            "correctAnswer": "Uma força que atua ao longo de um raio e puxa um objeto em direção ao centro de sua trajetória circular."
+        },
+        {
+            "question": "Qual é a Primeira Lei da Termodinâmica?",
+            "options": [
+                "A energia total do universo é constante",
+                "A entropia de um sistema fechado sempre aumenta",
+                "A energia não pode ser criada nem destruída, apenas transformada",
+                "O calor flui de um corpo quente para um corpo frio"
+            ],
+            "correctAnswer": "A energia não pode ser criada nem destruída, apenas transformada"
+        },
+        {
+            "question": "Qual é a definição de entropia?",
+            "options": [
+                "Uma medida da energia total de um sistema",
+                "Uma medida da desordem ou aleatoriedade de um sistema",
+                "A quantidade de calor em um sistema",
+                "A capacidade de um sistema de realizar trabalho"
+            ],
+            "correctAnswer": "Uma medida da desordem ou aleatoriedade de um sistema"
+        },
+        {
+            "question": "O que afirma a Segunda Lei da Termodinâmica?",
+            "options": [
+                "A energia total do universo é constante",
+                "A entropia de um sistema isolado nunca diminui",
+                "A energia não pode ser criada nem destruída, apenas transformada",
+                "O calor flui de um corpo quente para um corpo frio"
+            ],
+            "correctAnswer": "A entropia de um sistema isolado nunca diminui"
+        },
+        {
+            "question": "Qual é a unidade de medida do calor no Sistema Internacional de Unidades (SI)?",
+            "options": [
+                "Joule (J)",
+                "Caloria (cal)",
+                "Watt (W)",
+                "Newton (N)"
+            ],
+            "correctAnswer": "Joule (J)"
+        },
+        {
+            "question": "O que é um ciclo de Carnot?",
+            "options": [
+                "Um processo isotérmico seguido de um processo adiabático",
+                "Um ciclo termodinâmico que é teoricamente o mais eficiente",
+                "Um ciclo que descreve a expansão e compressão de um gás",
+                "Um ciclo que envolve a transferência de calor em um sistema fechado"
+            ],
+            "correctAnswer": "Um ciclo termodinâmico que é teoricamente o mais eficiente"
+        },
+        {
+            "question": "Qual é a definição de capacidade calorífica?",
+            "options": [
+                "A quantidade de calor necessária para elevar a temperatura de uma substância em 1 grau Celsius",
+                "A quantidade de calor necessária para transformar uma substância de sólido para líquido",
+                "A quantidade de energia armazenada em uma substância",
+                "A quantidade de trabalho que um sistema pode realizar"
+            ],
+            "correctAnswer": "A quantidade de calor necessária para elevar a temperatura de uma substância em 1 grau Celsius"
+        },
+        {
+            "question": "O que é um processo adiabático?",
+            "options": [
+                "Um processo que ocorre sem transferência de calor",
+                "Um processo que ocorre a pressão constante",
+                "Um processo que ocorre a temperatura constante",
+                "Um processo que ocorre a volume constante"
+            ],
+            "correctAnswer": "Um processo que ocorre sem transferência de calor"
+        },
+        {
+            "question": "Qual é a função de um refrigerador no contexto da termodinâmica?",
+            "options": [
+                "Transferir calor de um corpo quente para um corpo frio",
+                "Transferir calor de um corpo frio para um corpo quente",
+                "Aumentar a entropia de um sistema",
+                "Converter energia térmica em trabalho"
+            ],
+            "correctAnswer": "Transferir calor de um corpo frio para um corpo quente"
+        },
+        {
+            "question": "O que é a temperatura absoluta?",
+            "options": [
+                "A temperatura medida em graus Celsius",
+                "A temperatura medida em Kelvin",
+                "A temperatura de um corpo em repouso",
+                "A temperatura no ponto de fusão do gelo"
+            ],
+            "correctAnswer": "A temperatura medida em Kelvin"
+        },
+        {
+            "question": "O que é a Lei Zero da Termodinâmica?",
+            "options": [
+                "Se dois sistemas estão em equilíbrio térmico com um terceiro, então eles estão em equilíbrio térmico entre si",
+                "A energia não pode ser criada nem destruída, apenas transformada",
+                "A entropia de um sistema isolado nunca diminui",
+                "O calor flui de um corpo quente para um corpo frio"
+            ],
+            "correctAnswer": "Se dois sistemas estão em equilíbrio térmico com um terceiro, então eles estão em equilíbrio térmico entre si"
+        },
+        {
+            "question": "O que é a temperatura absoluta?",
+            "options": [
+                "A temperatura medida em graus Celsius",
+                "A temperatura em que todas as partículas estão em repouso absoluto",
+                "A temperatura medida em Kelvin",
+                "A temperatura no ponto de fusão do gelo"
+            ],
+            "correctAnswer": "A temperatura medida em Kelvin"
+        },
+        {
+            "question": "Qual é a definição de calor específico?",
+            "options": [
+                "A quantidade de calor necessária para aumentar a temperatura de 1 kg de uma substância em 1°C",
+                "A quantidade de calor necessária para mudar o estado físico de uma substância",
+                "A quantidade de energia armazenada em uma substância devido à sua temperatura",
+                "A capacidade de uma substância de realizar trabalho"
+            ],
+            "correctAnswer": "A quantidade de calor necessária para aumentar a temperatura de 1 kg de uma substância em 1°C"
+        },
+        {
+            "question": "O que é a Segunda Lei da Termodinâmica?",
+            "options": [
+                "A energia não pode ser criada nem destruída, apenas transformada",
+                "A entropia de um sistema isolado nunca diminui",
+                "A quantidade de calor necessária para elevar a temperatura de uma substância",
+                "A capacidade de uma substância de realizar trabalho"
+            ],
+            "correctAnswer": "A entropia de um sistema isolado nunca diminui"
+        },
+        {
+            "question": "O que é um sistema isolado em termodinâmica?",
+            "options": [
+                "Um sistema que não troca calor nem matéria com o ambiente",
+                "Um sistema que troca calor, mas não matéria, com o ambiente",
+                "Um sistema que realiza trabalho sem trocar calor",
+                "Um sistema que troca matéria, mas não calor, com o ambiente"
+            ],
+            "correctAnswer": "Um sistema que não troca calor nem matéria com o ambiente"
+        },
+        {
+            "question": "Qual é a definição de eficiência térmica?",
+            "options": [
+                "A razão entre o trabalho realizado por uma máquina térmica e o calor absorvido",
+                "A quantidade de calor necessário para realizar trabalho",
+                "A capacidade de uma máquina de converter energia térmica em energia elétrica",
+                "A quantidade de energia armazenada em uma substância devido à sua temperatura"
+            ],
+            "correctAnswer": "A razão entre o trabalho realizado por uma máquina térmica e o calor absorvido"
+        },
+        {
+            "question": "O que é um processo isotérmico?",
+            "options": [
+                "Um processo que ocorre a temperatura constante",
+                "Um processo que ocorre a pressão constante",
+                "Um processo que ocorre a volume constante",
+                "Um processo que ocorre sem transferência de calor"
+            ],
+            "correctAnswer": "Um processo que ocorre a temperatura constante"
+        },
+        {
+            "question": "Qual é a Primeira Lei da Termodinâmica?",
+            "options": [
+                "A energia não pode ser criada nem destruída, apenas transformada",
+                "A entropia de um sistema isolado nunca diminui",
+                "A energia total do universo é constante",
+                "O calor flui de um corpo quente para um corpo frio"
+            ],
+            "correctAnswer": "A energia não pode ser criada nem destruída, apenas transformada"
+        },
+        {
+            "question": "O que é um processo adiabático?",
+            "options": [
+                "Um processo que ocorre sem troca de calor com o ambiente",
+                "Um processo que ocorre a temperatura constante",
+                "Um processo que ocorre a volume constante",
+                "Um processo que ocorre com troca de calor com o ambiente"
+            ],
+            "correctAnswer": "Um processo que ocorre sem troca de calor com o ambiente"
+        },
+        {
+            "question": "O que é a Lei Zero da Termodinâmica?",
+            "options": [
+                "Se dois sistemas estão em equilíbrio térmico com um terceiro, então eles estão em equilíbrio térmico entre si",
+                "A energia total do universo é constante",
+                "A entropia de um sistema isolado nunca diminui",
+                "O calor flui de um corpo quente para um corpo frio"
+            ],
+            "correctAnswer": "Se dois sistemas estão em equilíbrio térmico com um terceiro, então eles estão em equilíbrio térmico entre si"
+        },
+        {
+            "question": "O que é a entropia em termos de termodinâmica?",
+            "options": [
+                "A medida da desordem ou aleatoriedade de um sistema",
+                "A quantidade de calor em um sistema",
+                "A quantidade de trabalho que um sistema pode realizar",
+                "A capacidade de um sistema de realizar trabalho"
+            ],
+            "correctAnswer": "A medida da desordem ou aleatoriedade de um sistema"
+        },
+        {
+            "question": "Um gás ideal sofre uma transformação isotérmica. Se a pressão inicial é 2 atm e o volume inicial é 4 L, qual será o volume final se a pressão final for 1 atm?",
+            "options": [
+                "6 L",
+                "8 L",
+                "4 L",
+                "2 L"
+            ],
+            "correctAnswer": "8 L"
+        },
+        {
+            "question": "Um cilindro com gás ideal sofre uma expansão adiabática. Se a energia interna do gás diminui em 50 J, quanto trabalho foi realizado pelo gás?",
+            "options": [
+                "50 J",
+                "25 J",
+                "75 J",
+                "100 J"
+            ],
+            "correctAnswer": "50 J"
+        },
+        {
+            "question": "Durante um processo isobárico, 100 J de calor são adicionados a um gás, realizando 40 J de trabalho. Qual é a variação da energia interna do gás?",
+            "options": [
+                "140 J",
+                "60 J",
+                "100 J",
+                "40 J"
+            ],
+            "correctAnswer": "60 J"
+        },
+        {
+            "question": "Um motor térmico absorve 500 J de calor e realiza 200 J de trabalho. Qual é a eficiência térmica do motor?",
+            "options": [
+                "60%",
+                "40%",
+                "50%",
+                "30%"
+            ],
+            "correctAnswer": "40%"
+        },
+        {
+            "question": "Um gás ideal é comprimido a uma pressão constante de 3 atm, reduzindo o volume de 6 L para 3 L. Quanto trabalho é realizado sobre o gás?",
+            "options": [
+                "900 J",
+                "300 J",
+                "600 J",
+                "100 J"
+            ],
+            "correctAnswer": "900 J"
+        },
+        {
+            "question": "Um sistema realiza 100 J de trabalho e perde 150 J de calor. Qual é a variação da energia interna do sistema?",
+            "options": [
+                "-250 J",
+                "-50 J",
+                "50 J",
+                "100 J"
+            ],
+            "correctAnswer": "-250 J"
+        },
+        {
+            "question": "Qual é a quantidade de calor necessária para aumentar a temperatura de 2 kg de água de 20°C para 80°C? (Considere o calor específico da água igual a 4,18 J/g°C)",
+            "options": [
+                "12552 J",
+                "33440 J",
+                "50232 J",
+                "41800 J"
+            ],
+            "correctAnswer": "50232 J"
+        },
+        {
+            "question": "Um ciclo de Carnot opera entre 600 K e 300 K. Qual é a eficiência máxima possível desse ciclo?",
+            "options": [
+                "50%",
+                "75%",
+                "25%",
+                "60%"
+            ],
+            "correctAnswer": "50%"
+        },
+        {
+            "question": "Um gás ideal é aquecido de 300 K para 600 K a volume constante. Como a pressão do gás muda?",
+            "options": [
+                "Dobra",
+                "Triplica",
+                "Permanece constante",
+                "Reduz pela metade"
+            ],
+            "correctAnswer": "Dobra"
+        },
+        {
+            "question": "Durante uma transformação isotérmica, 20 J de calor são adicionados a um gás. Qual é a variação da energia interna do gás?",
+            "options": [
+                "0 J",
+                "20 J",
+                "40 J",
+                "10 J"
+            ],
+            "correctAnswer": "0 J"
+        },
+        {
+            "question": "Um gás ideal é aquecido de 300 K para 600 K a pressão constante. Se o volume inicial é 2 L, qual será o volume final?",
+            "options": [
+                "4 L",
+                "3 L",
+                "2 L",
+                "6 L"
+            ],
+            "correctAnswer": "4 L"
+        },
+        {
+            "question": "Um sistema realiza 150 J de trabalho e recebe 200 J de calor. Qual é a variação da energia interna do sistema?",
+            "options": [
+                "50 J",
+                "350 J",
+                "150 J",
+                "200 J"
+            ],
+            "correctAnswer": "50 J"
+        },
+        {
+            "question": "Um motor térmico realiza 500 J de trabalho e rejeita 300 J de calor. Qual é a eficiência do motor?",
+            "options": [
+                "40%",
+                "60%",
+                "50%",
+                "80%"
+            ],
+            "correctAnswer": "60%"
+        },
+        {
+            "question": "Um cilindro com gás ideal sofre uma compressão isobárica de 5 L para 2 L. Se a pressão é 2 atm, quanto trabalho foi realizado sobre o gás?",
+            "options": [
+                "600 J",
+                "300 J",
+                "200 J",
+                "500 J"
+            ],
+            "correctAnswer": "600 J"
+        },
+        {
+            "question": "Um gás ideal sofre uma expansão adiabática. Se a energia interna do gás diminui em 80 J, quanto trabalho foi realizado pelo gás?",
+            "options": [
+                "80 J",
+                "40 J",
+                "120 J",
+                "100 J"
+            ],
+            "correctAnswer": "80 J"
+        },
+        {
+            "question": "Um sistema absorve 250 J de calor enquanto realiza 100 J de trabalho. Qual é a variação da energia interna do sistema?",
+            "options": [
+                "150 J",
+                "350 J",
+                "250 J",
+                "100 J"
+            ],
+            "correctAnswer": "150 J"
+        },
+        {
+            "question": "Qual é a quantidade de calor necessária para transformar 500 g de gelo a 0°C em água a 0°C? (Considere o calor latente de fusão do gelo igual a 334 J/g)",
+            "options": [
+                "167000 J",
+                "66800 J",
+                "50000 J",
+                "33400 J"
+            ],
+            "correctAnswer": "167000 J"
+        },
+        {
+            "question": "Um gás sofre uma transformação isotérmica, triplicando seu volume. Se a pressão inicial é 3 atm, qual é a pressão final?",
+            "options": [
+                "1 atm",
+                "9 atm",
+                "3 atm",
+                "6 atm"
+            ],
+            "correctAnswer": "1 atm"
+        },
+        {
+            "question": "Qual é a quantidade de calor necessária para aumentar a temperatura de 1 kg de alumínio de 25°C para 75°C? (Considere o calor específico do alumínio igual a 0,897 J/g°C)",
+            "options": [
+                "44850 J",
+                "26910 J",
+                "13500 J",
+                "8970 J"
+            ],
+            "correctAnswer": "44850 J"
+        },
+        {
+            "question": "Um ciclo de Carnot opera entre 400 K e 200 K. Qual é a eficiência máxima possível desse ciclo?",
+            "options": [
+                "50%",
+                "25%",
+                "75%",
+                "33%"
+            ],
+            "correctAnswer": "50%"
+        },
+        {
+            "question": "Qual é a principal função de um para-raios?",
+            "options": [
+                "Proteger edifícios contra descargas elétricas",
+                "Aumentar a eficiência energética de prédios",
+                "Fornecer energia solar para edifícios",
+                "Reduzir a poluição do ar"
+            ],
+            "correctAnswer": "Proteger edifícios contra descargas elétricas"
+        },
+        {
+            "question": "Por que as panelas de pressão cozinham alimentos mais rapidamente?",
+            "options": [
+                "Aumentam a temperatura de ebulição da água",
+                "Reduzem a quantidade de água necessária",
+                "Utilizam radiação infravermelha",
+                "Evaporam a água mais rapidamente"
+            ],
+            "correctAnswer": "Aumentam a temperatura de ebulição da água"
+        },
+        {
+            "question": "Qual é a função dos amortecedores em um carro?",
+            "options": [
+                "Absorver impactos para melhorar o conforto",
+                "Reduzir o consumo de combustível",
+                "Aumentar a velocidade do veículo",
+                "Diminuir a emissão de poluentes"
+            ],
+            "correctAnswer": "Absorver impactos para melhorar o conforto"
+        },
+        {
+            "question": "Como os óculos de sol protegem os olhos?",
+            "options": [
+                "Filtram a radiação ultravioleta",
+                "Aumentam a luminosidade ambiente",
+                "Reduzem a acuidade visual",
+                "Ampliam a imagem vista"
+            ],
+            "correctAnswer": "Filtram a radiação ultravioleta"
+        },
+        {
+            "question": "Por que o gelo flutua na água?",
+            "options": [
+                "Sua densidade é menor que a da água",
+                "Possui uma estrutura molecular complexa",
+                "Sua temperatura é mais baixa",
+                "Reflete mais luz que a água líquida"
+            ],
+            "correctAnswer": "Sua densidade é menor que a da água"
+        },
+        {
+            "question": "Qual é a principal razão para os aviões voarem a grandes altitudes?",
+            "options": [
+                "Menor resistência do ar",
+                "Maior proximidade do sol",
+                "Redução do consumo de combustível",
+                "Aumento da pressão atmosférica"
+            ],
+            "correctAnswer": "Menor resistência do ar"
+        },
+        {
+            "question": "Como os micro-ondas aquecem os alimentos?",
+            "options": [
+                "Vibração de moléculas de água",
+                "Emissão de radiação infravermelha",
+                "Transferência de calor por condução",
+                "Produção de energia luminosa"
+            ],
+            "correctAnswer": "Vibração de moléculas de água"
+        },
+        {
+            "question": "Por que sentimos mais calor em dias úmidos?",
+            "options": [
+                "A evaporação do suor é menor",
+                "A temperatura do ar é mais alta",
+                "A umidade aumenta a sensação térmica",
+                "A radiação solar é mais intensa"
+            ],
+            "correctAnswer": "A evaporação do suor é menor"
+        },
+        {
+            "question": "Qual é a função dos faróis de milha em um veículo?",
+            "options": [
+                "Melhorar a visibilidade em longas distâncias",
+                "Reduzir o consumo de energia do carro",
+                "Aumentar a aderência dos pneus",
+                "Diminuir a velocidade do veículo"
+            ],
+            "correctAnswer": "Melhorar a visibilidade em longas distâncias"
+        },
+        {
+            "question": "Por que os balões de ar quente sobem?",
+            "options": [
+                "O ar quente dentro do balão é menos denso",
+                "A pressão atmosférica empurra o balão para cima",
+                "A luz solar aquece o balão",
+                "O balão é preenchido com hélio"
+            ],
+            "correctAnswer": "O ar quente dentro do balão é menos denso"
+        },
+        {
+            "question": "Qual é a principal função de um para-raios?",
+            "options": [
+                "Proteger edifícios contra descargas elétricas",
+                "Aumentar a eficiência energética de prédios",
+                "Fornecer energia solar para edifícios",
+                "Reduzir a poluição do ar"
+            ],
+            "correctAnswer": "Proteger edifícios contra descargas elétricas"
+        },
+        {
+            "question": "Por que as panelas de pressão cozinham alimentos mais rapidamente?",
+            "options": [
+                "Aumentam a temperatura de ebulição da água",
+                "Reduzem a quantidade de água necessária",
+                "Utilizam radiação infravermelha",
+                "Evaporam a água mais rapidamente"
+            ],
+            "correctAnswer": "Aumentam a temperatura de ebulição da água"
+        },
+        {
+            "question": "Qual é a função dos amortecedores em um carro?",
+            "options": [
+                "Absorver impactos para melhorar o conforto",
+                "Reduzir o consumo de combustível",
+                "Aumentar a velocidade do veículo",
+                "Diminuir a emissão de poluentes"
+            ],
+            "correctAnswer": "Absorver impactos para melhorar o conforto"
+        },
+        {
+            "question": "Como os óculos de sol protegem os olhos?",
+            "options": [
+                "Filtram a radiação ultravioleta",
+                "Aumentam a luminosidade ambiente",
+                "Reduzem a acuidade visual",
+                "Ampliam a imagem vista"
+            ],
+            "correctAnswer": "Filtram a radiação ultravioleta"
+        },
+        {
+            "question": "Por que o gelo flutua na água?",
+            "options": [
+                "Sua densidade é menor que a da água",
+                "Possui uma estrutura molecular complexa",
+                "Sua temperatura é mais baixa",
+                "Reflete mais luz que a água líquida"
+            ],
+            "correctAnswer": "Sua densidade é menor que a da água"
+        },
+        {
+            "question": "Qual é a principal razão para os aviões voarem a grandes altitudes?",
+            "options": [
+                "Menor resistência do ar",
+                "Maior proximidade do sol",
+                "Redução do consumo de combustível",
+                "Aumento da pressão atmosférica"
+            ],
+            "correctAnswer": "Menor resistência do ar"
+        },
+        {
+            "question": "Como os micro-ondas aquecem os alimentos?",
+            "options": [
+                "Vibração de moléculas de água",
+                "Emissão de radiação infravermelha",
+                "Transferência de calor por condução",
+                "Produção de energia luminosa"
+            ],
+            "correctAnswer": "Vibração de moléculas de água"
+        },
+        {
+            "question": "Por que sentimos mais calor em dias úmidos?",
+            "options": [
+                "A evaporação do suor é menor",
+                "A temperatura do ar é mais alta",
+                "A umidade aumenta a sensação térmica",
+                "A radiação solar é mais intensa"
+            ],
+            "correctAnswer": "A evaporação do suor é menor"
+        },
+        {
+            "question": "Qual é a função dos faróis de milha em um veículo?",
+            "options": [
+                "Melhorar a visibilidade em longas distâncias",
+                "Reduzir o consumo de energia do carro",
+                "Aumentar a aderência dos pneus",
+                "Diminuir a velocidade do veículo"
+            ],
+            "correctAnswer": "Melhorar a visibilidade em longas distâncias"
+        },
+        {
+            "question": "Por que os balões de ar quente sobem?",
+            "options": [
+                "O ar quente dentro do balão é menos denso",
+                "A pressão atmosférica empurra o balão para cima",
+                "A luz solar aquece o balão",
+                "O balão é preenchido com hélio"
+            ],
+            "correctAnswer": "O ar quente dentro do balão é menos denso"
+        },
+        {
+            "question": "Por que a água ferve a uma temperatura mais baixa em altitudes elevadas?",
+            "options": [
+                "A pressão atmosférica é menor em altitudes mais elevadas",
+                "A quantidade de oxigênio é menor em altitudes mais elevadas",
+                "A intensidade da luz solar é maior em altitudes mais elevadas",
+                "A densidade do ar é maior em altitudes mais elevadas"
+            ],
+            "correctAnswer": "A pressão atmosférica é menor em altitudes mais elevadas"
+        },
+        {
+            "question": "Como funcionam os freios a disco em bicicletas?",
+            "options": [
+                "Utilizam fricção para parar a roda",
+                "Utilizam um campo magnético para parar a roda",
+                "Liberam pressão de ar para parar a roda",
+                "Utilizam uma mola para parar a roda"
+            ],
+            "correctAnswer": "Utilizam fricção para parar a roda"
+        },
+        {
+            "question": "Por que sentimos frio ao sair de uma piscina mesmo em um dia quente?",
+            "options": [
+                "A água evapora e retira calor do corpo",
+                "A temperatura da água é mais baixa que a do ar",
+                "A umidade do ar é alta em dias quentes",
+                "A radiação solar é bloqueada pela água"
+            ],
+            "correctAnswer": "A água evapora e retira calor do corpo"
+        },
+        {
+            "question": "Como funcionam os óculos de visão noturna?",
+            "options": [
+                "Amplificam a luz disponível",
+                "Emitam radiação infravermelha",
+                "Reduzem o brilho da luz",
+                "Aumentam a reflexão da luz"
+            ],
+            "correctAnswer": "Amplificam a luz disponível"
+        },
+        {
+            "question": "Por que os pneus dos carros possuem sulcos?",
+            "options": [
+                "Para aumentar a aderência ao solo",
+                "Para reduzir a resistência do ar",
+                "Para melhorar a estética do veículo",
+                "Para aumentar a durabilidade do pneu"
+            ],
+            "correctAnswer": "Para aumentar a aderência ao solo"
+        },
+        {
+            "question": "Como funcionam as células solares?",
+            "options": [
+                "Convertendo a luz solar em eletricidade",
+                "Transformando calor em energia",
+                "Armazenando energia solar como calor",
+                "Refletindo a luz solar para gerar calor"
+            ],
+            "correctAnswer": "Convertendo a luz solar em eletricidade"
+        },
+        {
+            "question": "Por que as roupas pretas parecem mais quentes ao sol do que roupas brancas?",
+            "options": [
+                "Absorvem mais radiação solar",
+                "Refletem mais luz",
+                "São feitas de materiais diferentes",
+                "Bloqueiam a circulação de ar"
+            ],
+            "correctAnswer": "Absorvem mais radiação solar"
+        },
+        {
+            "question": "Como funciona uma bússola?",
+            "options": [
+                "Alinha-se com o campo magnético da Terra",
+                "Alinha-se com a gravidade da Terra",
+                "Utiliza sinais de satélite",
+                "Usa a posição do sol"
+            ],
+            "correctAnswer": "Alinha-se com o campo magnético da Terra"
+        },
+        {
+            "question": "Por que os aviões possuem asas curvadas?",
+            "options": [
+                "Para gerar sustentação",
+                "Para reduzir o consumo de combustível",
+                "Para aumentar a velocidade",
+                "Para estabilizar a decolagem"
+            ],
+            "correctAnswer": "Para gerar sustentação"
+        },
+        {
+            "question": "Como funcionam os airbags dos carros?",
+            "options": [
+                "Enchem-se rapidamente com um gás em caso de colisão",
+                "Liberam líquido para amortecer o impacto",
+                "Utilizam molas para absorver o impacto",
+                "Aumentam a resistência do cinto de segurança"
+            ],
+            "correctAnswer": "Enchem-se rapidamente com um gás em caso de colisão"
+        },
+        {
+            "question": "Por que os ventiladores de teto ajudam a resfriar um ambiente?",
+            "options": [
+                "Aumentam a circulação de ar, ajudando a evaporar o suor",
+                "Abaixam a temperatura do ar",
+                "Absorvem o calor do ambiente",
+                "Utilizam radiação infravermelha para resfriar"
+            ],
+            "correctAnswer": "Aumentam a circulação de ar, ajudando a evaporar o suor"
+        },
+        {
+            "question": "Por que usamos filtros solares para proteção na praia?",
+            "options": [
+                "Reduzem a quantidade de radiação ultravioleta que atinge a pele",
+                "Aumentam a produção de vitamina D no corpo",
+                "Refletem a luz visível",
+                "Aquecem a pele para evitar queimaduras"
+            ],
+            "correctAnswer": "Reduzem a quantidade de radiação ultravioleta que atinge a pele"
+        },
+        {
+            "question": "Como as estufas agrícolas ajudam no crescimento das plantas?",
+            "options": [
+                "Retêm calor, mantendo a temperatura interna elevada",
+                "Aumentam a umidade do ar",
+                "Refletem a luz solar para o solo",
+                "Reduzem a quantidade de CO₂ no ar"
+            ],
+            "correctAnswer": "Retêm calor, mantendo a temperatura interna elevada"
+        },
+        {
+            "question": "Por que os metais conduzem eletricidade melhor do que materiais como a madeira?",
+            "options": [
+                "Possuem elétrons livres que facilitam a condução elétrica",
+                "Têm maior densidade",
+                "São mais maleáveis",
+                "Absorvem menos calor"
+            ],
+            "correctAnswer": "Possuem elétrons livres que facilitam a condução elétrica"
+        },
+        {
+            "question": "Como os espelhos retrovisores dos carros ajudam a evitar acidentes?",
+            "options": [
+                "Permitem ao motorista ver áreas fora do campo de visão direto",
+                "Ampliam a imagem dos objetos",
+                "Reduzem o brilho das luzes traseiras",
+                "Diminuem a velocidade do carro"
+            ],
+            "correctAnswer": "Permitem ao motorista ver áreas fora do campo de visão direto"
+        },
+        {
+            "question": "Qual é a principal razão para o uso de capacetes pelos ciclistas?",
+            "options": [
+                "Absorvem o impacto em caso de queda",
+                "Reduzem a resistência do ar",
+                "Aumentam a visibilidade do ciclista",
+                "Melhoram a aerodinâmica"
+            ],
+            "correctAnswer": "Absorvem o impacto em caso de queda"
+        },
+        {
+            "question": "Por que os fogões a gás aquecem os alimentos mais rapidamente do que os fogões elétricos?",
+            "options": [
+                "Transferem calor diretamente para as panelas",
+                "Consomem menos energia",
+                "São mais fáceis de usar",
+                "Têm uma superfície maior de aquecimento"
+            ],
+            "correctAnswer": "Transferem calor diretamente para as panelas"
+        },
+        {
+            "question": "Por que os sistemas de refrigeração utilizam gases como o freon?",
+            "options": [
+                "Podem ser facilmente comprimidos e expandidos para transferir calor",
+                "Aumentam a umidade do ar",
+                "Reduzem a temperatura dos alimentos",
+                "São mais baratos que outros gases"
+            ],
+            "correctAnswer": "Podem ser facilmente comprimidos e expandidos para transferir calor"
+        },
+        {
+            "question": "Como os motores elétricos convertem energia elétrica em energia mecânica?",
+            "options": [
+                "Utilizam campos magnéticos para gerar movimento",
+                "Transformam calor em trabalho",
+                "Aumentam a temperatura dos componentes internos",
+                "Convertem luz em eletricidade"
+            ],
+            "correctAnswer": "Utilizam campos magnéticos para gerar movimento"
+        },
+        {
+            "question": "Por que os edifícios altos utilizam pára-raios?",
+            "options": [
+                "Desviam as descargas elétricas para a terra, protegendo a estrutura",
+                "Aumentam a eficiência energética dos edifícios",
+                "Reduzem a umidade interna dos prédios",
+                "Protegem contra terremotos"
+            ],
+            "correctAnswer": "Desviam as descargas elétricas para a terra, protegendo a estrutura"
+        },
+        {
+            "question": "Por que a água condensa nas paredes de um copo frio?",
+            "options": [
+                "A umidade do ar ao redor do copo se condensa",
+                "A água do copo escapa através do vidro",
+                "O vidro libera calor que condensa a água",
+                "O ar dentro do copo é mais frio"
+            ],
+            "correctAnswer": "A umidade do ar ao redor do copo se condensa"
+        },
+        {
+            "question": "Como funcionam os fones de ouvido com cancelamento de ruído?",
+            "options": [
+                "Criam ondas sonoras que cancelam ruídos externos",
+                "Aumentam o volume do som reproduzido",
+                "Isolam fisicamente o som",
+                "Utilizam materiais que absorvem o som"
+            ],
+            "correctAnswer": "Criam ondas sonoras que cancelam ruídos externos"
+        },
+        {
+            "question": "Por que os navios flutuam na água?",
+            "options": [
+                "Sua densidade média é menor que a da água",
+                "Têm grandes áreas de superfície",
+                "A água exerce uma força para cima",
+                "São feitos de materiais leves"
+            ],
+            "correctAnswer": "Sua densidade média é menor que a da água"
+        },
+        {
+            "question": "Qual é a razão para os pneus de carros terem borracha com sulcos?",
+            "options": [
+                "Para aumentar a tração em superfícies molhadas",
+                "Para reduzir o peso do carro",
+                "Para melhorar a aparência do pneu",
+                "Para aumentar a durabilidade do pneu"
+            ],
+            "correctAnswer": "Para aumentar a tração em superfícies molhadas"
+        },
+        {
+            "question": "Como os refrigeradores mantêm os alimentos frescos?",
+            "options": [
+                "Removem calor do interior",
+                "Adicionam frio ao interior",
+                "Aumentam a pressão interna",
+                "Dissipam calor para o ambiente externo"
+            ],
+            "correctAnswer": "Removem calor do interior"
+        },
+        {
+            "question": "Por que as hélices dos helicópteros têm formato alongado?",
+            "options": [
+                "Para gerar sustentação e permitir voo",
+                "Para reduzir a resistência do ar",
+                "Para aumentar a eficiência do motor",
+                "Para melhorar a estabilidade no solo"
+            ],
+            "correctAnswer": "Para gerar sustentação e permitir voo"
+        },
+        {
+            "question": "Como as baterias armazenam energia?",
+            "options": [
+                "Através de reações químicas",
+                "Utilizando campos magnéticos",
+                "Aumentando a temperatura interna",
+                "Convertendo luz em eletricidade"
+            ],
+            "correctAnswer": "Através de reações químicas"
+        },
+        {
+            "question": "Qual é o princípio por trás dos pára-quedas?",
+            "options": [
+                "Aumentam a resistência do ar",
+                "Reduzem a massa do objeto",
+                "Utilizam impulsos de ar",
+                "Transformam energia cinética em potencial"
+            ],
+            "correctAnswer": "Aumentam a resistência do ar"
+        },
+        {
+            "question": "Por que é importante calibrar os pneus do carro regularmente?",
+            "options": [
+                "Para garantir maior segurança e economia de combustível",
+                "Para aumentar a velocidade máxima do veículo",
+                "Para reduzir o desgaste do asfalto",
+                "Para melhorar a aparência dos pneus"
+            ],
+            "correctAnswer": "Para garantir maior segurança e economia de combustível"
+        },
+        {
+            "question": "Como funcionam os painéis solares?",
+            "options": [
+                "Convertendo luz solar em energia elétrica",
+                "Armazenando calor para uso posterior",
+                "Refletindo a luz solar para gerar calor",
+                "Reduzindo a quantidade de luz que atinge o solo"
+            ],
+            "correctAnswer": "Convertendo luz solar em energia elétrica"
+        },
+        {
+            "question": "Por que os refrigeradores são capazes de manter alimentos frescos por mais tempo?",
+            "options": [
+                "Retiram calor dos alimentos, reduzindo a atividade bacteriana",
+                "Aumentam a umidade interna, impedindo a decomposição",
+                "Filtram o ar interno, removendo impurezas",
+                "Utilizam radiação para matar bactérias"
+            ],
+            "correctAnswer": "Retiram calor dos alimentos, reduzindo a atividade bacteriana"
+        },
+        {
+            "question": "Como funcionam os chuveiros elétricos?",
+            "options": [
+                "Utilizam uma resistência elétrica para aquecer a água",
+                "Aumentam a pressão da água para aquecimento",
+                "Utilizam energia solar para aquecer a água",
+                "Aquecem a água por meio de radiação infravermelha"
+            ],
+            "correctAnswer": "Utilizam uma resistência elétrica para aquecer a água"
+        },
+        {
+            "question": "Por que os balões de ar quente sobem?",
+            "options": [
+                "O ar quente dentro do balão é menos denso que o ar externo",
+                "O balão é impulsionado por ventiladores internos",
+                "A pressão interna do balão é maior",
+                "O balão é preenchido com gás hélio"
+            ],
+            "correctAnswer": "O ar quente dentro do balão é menos denso que o ar externo"
+        },
+        {
+            "question": "Como os micro-ondas aquecem os alimentos?",
+            "options": [
+                "Agitando as moléculas de água dentro dos alimentos",
+                "Emitindo radiação ultravioleta",
+                "Criando um campo magnético",
+                "Utilizando resistência elétrica"
+            ],
+            "correctAnswer": "Agitando as moléculas de água dentro dos alimentos"
+        },
+        {
+            "question": "Por que sentimos frio ao sair de uma piscina?",
+            "options": [
+                "A água evapora e retira calor do corpo",
+                "A temperatura da água é mais baixa que a do ar",
+                "O vento sopra mais forte perto da água",
+                "A radiação solar é bloqueada pela água"
+            ],
+            "correctAnswer": "A água evapora e retira calor do corpo"
+        },
+        {
+            "question": "Como funcionam os pára-quedas?",
+            "options": [
+                "Aumentam a resistência do ar, reduzindo a velocidade de queda",
+                "Diminuem a massa do objeto em queda",
+                "Utilizam ar comprimido para desacelerar a queda",
+                "Reduzem a gravidade agindo sobre o objeto"
+            ],
+            "correctAnswer": "Aumentam a resistência do ar, reduzindo a velocidade de queda"
+        },
+        {
+            "question": "Por que os faróis de milha são importantes para a segurança noturna dos veículos?",
+            "options": [
+                "Aumentam a visibilidade em longas distâncias",
+                "Melhoram a estética do veículo",
+                "Reduzem o consumo de energia do carro",
+                "Diminuem a velocidade do veículo"
+            ],
+            "correctAnswer": "Aumentam a visibilidade em longas distâncias"
+        },
+        {
+            "question": "Como funcionam os óculos de sol?",
+            "options": [
+                "Filtram a radiação ultravioleta prejudicial",
+                "Aumentam a luminosidade ambiente",
+                "Reduzem a acuidade visual",
+                "Ampliam a imagem vista"
+            ],
+            "correctAnswer": "Filtram a radiação ultravioleta prejudicial"
+        },
+        {
+            "question": "Por que a eletricidade é transmitida em altas tensões?",
+            "options": [
+                "Reduzir a perda de energia durante a transmissão",
+                "Aumentar a velocidade da corrente elétrica",
+                "Diminuir a intensidade da luz nas lâmpadas",
+                "Facilitar a instalação de cabos elétricos"
+            ],
+            "correctAnswer": "Reduzir a perda de energia durante a transmissão"
+        },
+        {
+            "question": "Por que as roupas de algodão são preferidas em climas quentes?",
+            "options": [
+                "Permitem melhor circulação de ar, ajudando na evaporação do suor",
+                "Absorvem mais calor do ambiente",
+                "São mais leves e finas",
+                "Protegem melhor contra os raios UV"
+            ],
+            "correctAnswer": "Permitem melhor circulação de ar, ajudando na evaporação do suor"
+        }
+    ]
+}
