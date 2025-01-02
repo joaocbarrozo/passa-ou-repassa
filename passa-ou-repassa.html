@@ -21,8 +21,9 @@
         <!-- Question selector container -->
         <div id="question-container" class="col-6">
             <div id="theme-selection-container">
-                <h2 id="team-a-name"> Selecione o tema</h2>
+                <h2 id="select-theme"> Selecione o tema</h2>
                 <button id="btn-science" class="btn btn-success">Ciências</button>
+                <button id="btn-chemistry" class="btn btn-success">Química</button>
             </div>
             <div id="question" class="d-none">
                 <h3 id="team-playing-text"></h3>
@@ -48,8 +49,8 @@
                 <button id="btn-answer" class="btn btn-success m-1">Confirma</button>
                 <!-- Container correct answer -->
                 <div id="correct-answer-container" class="d-none">
-                    <p id="correct-answer"></p>
-                    <button id="btn-next-question">Proxima</button>
+                    <p id="correct-answer" class="p-1 text-light"></p>
+                    <button id="btn-next-question" class="btn btn-outline-primary">Proxima</button>
                 </div>
             </div>
 
@@ -81,9 +82,11 @@
 
         // urls for each topic
         const science = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/ciencias.JSON";
+        const chemistry = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/quimica.JSON";
 
         // Buttons elements
         const btnScience = document.getElementById("btn-science");
+        const btnChemistry = document.getElementById("btn-chemistry");
         const btnAnswer = document.getElementById("btn-answer");
         const btnNextQuestion = document.getElementById("btn-next-question");
 
@@ -114,14 +117,20 @@
 
         // Function to select theme
         function selectTheme() {
+            //Enable radios and uncheck
+            radios.forEach(el => {
+                el.disabled = false;
+                el.checked = false;
+            })
+            // Enable btnAnswer
+            btnAnswer.disabled = false;
+
             divThemeSelection.classList.remove('d-none');
             divQuestion.classList.add("d-none");
             divCorrectAnswer.classList.add("d-none");
-            // Uncheck radios 
-            for (let i = 0; i < radios.length; i++) {
-                radios[i].checked = false;
-            }
+            
             btnScience.addEventListener('click', () => randomQuestion(science));
+            btnChemistry.addEventListener('click', () => randomQuestion(chemistry));
         }
 
         // Function to get a random question from a specific topic
@@ -156,6 +165,12 @@
                     // Check answer
                     btnAnswer.addEventListener('click', () => {
                         divCorrectAnswer.classList.remove('d-none');
+                        //Disable radios
+                        radios.forEach(el => {
+                            el.disabled = true;
+                        })
+                        // Disable btnAnswer
+                        btnAnswer.disabled = true;
                         // Check selected answer
                         let answer;
                         for (let i = 0; i < radios.length; i++) {

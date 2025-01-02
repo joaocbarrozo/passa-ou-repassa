@@ -1,2002 +1,2004 @@
-[
-    {
-        "question": "O que é uma ligação covalente?",
-        "options": [
-            "Ligação entre íons de cargas opostas",
-            "Ligação onde há compartilhamento de pares de elétrons entre átomos",
-            "Ligação fraca entre moléculas polares",
-            "Ligação onde os elétrons são completamente transferidos de um átomo para outro"
-        ],
-        "correctAnswer": "Ligação onde há compartilhamento de pares de elétrons entre átomos"
-    },
-    {
-        "question": "Qual é a fórmula química do ácido sulfúrico?",
-        "options": [
-            "H2CO3",
-            "H2SO4",
-            "HNO3",
-            "HCl"
-        ],
-        "correctAnswer": "H2SO4"
-    },
-    {
-        "question": "Qual é o produto da reação entre ácido clorídrico (HCl) e hidróxido de sódio (NaOH)?",
-        "options": [
-            "NaCl e H2",
-            "NaOH e H2O",
-            "NaCl e H2O",
-            "H2SO4 e NaCl"
-        ],
-        "correctAnswer": "NaCl e H2O"
-    },
-    {
-        "question": "O que é o número atômico de um elemento?",
-        "options": [
-            "A soma dos prótons e nêutrons no núcleo do átomo",
-            "A quantidade de elétrons em um átomo",
-            "O número de prótons no núcleo de um átomo",
-            "A quantidade de nêutrons em um átomo"
-        ],
-        "correctAnswer": "O número de prótons no núcleo de um átomo"
-    },
-    {
-        "question": "Qual é a principal característica das reações exotérmicas?",
-        "options": [
-            "Absorção de energia",
-            "Liberação de energia na forma de calor",
-            "Produção de gás",
-            "Formação de um precipitado"
-        ],
-        "correctAnswer": "Liberação de energia na forma de calor"
-    },
-    {
-        "question": "O que é um mol em termos de química?",
-        "options": [
-            "A massa atômica de um elemento",
-            "A quantidade de átomos em 1 grama de uma substância",
-            "A quantidade de partículas contidas em 6,022 x 10^23 unidades de uma substância",
-            "A massa molar de uma substância"
-        ],
-        "correctAnswer": "A quantidade de partículas contidas em 6,022 x 10^23 unidades de uma substância"
-    },
-    {
-        "question": "Qual é a unidade de medida da concentração de uma solução?",
-        "options": [
-            "Mol/L",
-            "g/mL",
-            "m3",
-            "atm"
-        ],
-        "correctAnswer": "Mol/L"
-    },
-    {
-        "question": "O que é eletronegatividade?",
-        "options": [
-            "A capacidade de um átomo de doar elétrons",
-            "A capacidade de um átomo de atrair elétrons em uma ligação química",
-            "A quantidade total de elétrons em um átomo",
-            "A energia necessária para remover um elétron de um átomo"
-        ],
-        "correctAnswer": "A capacidade de um átomo de atrair elétrons em uma ligação química"
-    },
-    {
-        "question": "Qual é a principal característica das reações endotérmicas?",
-        "options": [
-            "Liberação de energia",
-            "Absorção de energia",
-            "Produção de luz",
-            "Liberação de gás"
-        ],
-        "correctAnswer": "Absorção de energia"
-    },
-    {
-        "question": "O que é um ânion?",
-        "options": [
-            "Um íon com carga positiva",
-            "Um átomo neutro",
-            "Um íon com carga negativa",
-            "Um núcleo atômico"
-        ],
-        "correctAnswer": "Um íon com carga negativa"
-    },
-    {
-        "question": "O que é uma ligação iônica?",
-        "options": [
-            "Ligação entre dois átomos que compartilham elétrons",
-            "Ligação entre átomos onde há transferência de elétrons",
-            "Ligação entre moléculas de água",
-            "Ligação que ocorre apenas em metais"
-        ],
-        "correctAnswer": "Ligação entre átomos onde há transferência de elétrons"
-    },
-    {
-        "question": "Qual é a fórmula química do cloreto de sódio?",
-        "options": [
-            "NaCl",
-            "KCl",
-            "NaCO3",
-            "NaO2"
-        ],
-        "correctAnswer": "NaCl"
-    },
-    {
-        "question": "O que é uma reação de neutralização?",
-        "options": [
-            "Reação entre um ácido e um sal",
-            "Reação entre uma base e um sal",
-            "Reação entre um ácido e uma base",
-            "Reação entre dois sais"
-        ],
-        "correctAnswer": "Reação entre um ácido e uma base"
-    },
-    {
-        "question": "Qual é o elemento mais abundante no universo?",
-        "options": [
-            "Oxigênio",
-            "Hidrogênio",
-            "Carbono",
-            "Hélio"
-        ],
-        "correctAnswer": "Hidrogênio"
-    },
-    {
-        "question": "O que são isótopos?",
-        "options": [
-            "Átomos com o mesmo número de prótons e diferente número de nêutrons",
-            "Átomos com diferente número de prótons e o mesmo número de nêutrons",
-            "Moléculas com diferentes formas estruturais",
-            "Compostos que têm propriedades químicas semelhantes"
-        ],
-        "correctAnswer": "Átomos com o mesmo número de prótons e diferente número de nêutrons"
-    },
-    {
-        "question": "Qual é o estado físico do cloro à temperatura ambiente?",
-        "options": [
-            "Sólido",
-            "Líquido",
-            "Gasoso",
-            "Plasma"
-        ],
-        "correctAnswer": "Gasoso"
-    },
-    {
-        "question": "O que é uma substância anfotérica?",
-        "options": [
-            "Uma substância que pode atuar tanto como ácido quanto como base",
-            "Uma substância que só pode atuar como ácido",
-            "Uma substância que só pode atuar como base",
-            "Uma substância que é neutra em solução aquosa"
-        ],
-        "correctAnswer": "Uma substância que pode atuar tanto como ácido quanto como base"
-    },
-    {
-        "question": "Qual é a unidade de medida da pressão em química?",
-        "options": [
-            "Joule",
-            "Pascal",
-            "Mol",
-            "Metro cúbico"
-        ],
-        "correctAnswer": "Pascal"
-    },
-    {
-        "question": "O que é uma solução saturada?",
-        "options": [
-            "Uma solução que contém menos soluto do que pode dissolver",
-            "Uma solução que contém mais soluto do que pode dissolver",
-            "Uma solução que não contém nenhum soluto",
-            "Uma solução que contém a quantidade máxima de soluto que pode dissolver"
-        ],
-        "correctAnswer": "Uma solução que contém a quantidade máxima de soluto que pode dissolver"
-    },
-    {
-        "question": "Qual é a configuração eletrônica do oxigênio?",
-        "options": [
-            "1s2 2s2 2p4",
-            "1s2 2s2 2p6",
-            "1s2 2s1 2p5",
-            "1s2 2s2 2p3"
-        ],
-        "correctAnswer": "1s2 2s2 2p4"
-    },
-    {
-        "question": "O que é uma solução aquosa?",
-        "options": [
-            "Uma solução onde a água é o solvente",
-            "Uma solução onde a água é o soluto",
-            "Uma solução onde não há água presente",
-            "Uma solução que não conduz eletricidade"
-        ],
-        "correctAnswer": "Uma solução onde a água é o solvente"
-    },
-    {
-        "question": "Qual é a fórmula química do gás metano?",
-        "options": [
-            "CH4",
-            "C2H6",
-            "C3H8",
-            "CO2"
-        ],
-        "correctAnswer": "CH4"
-    },
-    {
-        "question": "O que é uma reação de combustão?",
-        "options": [
-            "Reação onde uma substância reage com oxigênio liberando energia",
-            "Reação onde uma substância absorve calor do ambiente",
-            "Reação onde ocorre a transferência de íons",
-            "Reação onde há formação de precipitado"
-        ],
-        "correctAnswer": "Reação onde uma substância reage com oxigênio liberando energia"
-    },
-    {
-        "question": "Qual é o produto da oxidação do ferro?",
-        "options": [
-            "Hidróxido de ferro",
-            "Cloreto de ferro",
-            "Óxido de ferro (ferrugem)",
-            "Sulfato de ferro"
-        ],
-        "correctAnswer": "Óxido de ferro (ferrugem)"
-    },
-    {
-        "question": "O que são catalisadores?",
-        "options": [
-            "Substâncias que aumentam a velocidade de uma reação sem serem consumidas",
-            "Substâncias que são consumidas em uma reação química",
-            "Produtos finais de uma reação química",
-            "Elementos que reagem de forma espontânea"
-        ],
-        "correctAnswer": "Substâncias que aumentam a velocidade de uma reação sem serem consumidas"
-    },
-    {
-        "question": "Qual é a configuração eletrônica do carbono?",
-        "options": [
-            "1s2 2s2 2p2",
-            "1s2 2s2 2p4",
-            "1s2 2s1 2p3",
-            "1s2 2s2 2p6"
-        ],
-        "correctAnswer": "1s2 2s2 2p2"
-    },
-    {
-        "question": "O que é uma reação de síntese?",
-        "options": [
-            "Reação onde dois ou mais reagentes se combinam para formar um único produto",
-            "Reação onde um composto se decompõe em dois ou mais produtos",
-            "Reação onde os íons de dois compostos trocam de parceiros",
-            "Reação onde uma substância reage com oxigênio"
-        ],
-        "correctAnswer": "Reação onde dois ou mais reagentes se combinam para formar um único produto"
-    },
-    {
-        "question": "Qual é o principal componente do ar atmosférico?",
-        "options": [
-            "Oxigênio",
-            "Hidrogênio",
-            "Nitrogênio",
-            "Dióxido de carbono"
-        ],
-        "correctAnswer": "Nitrogênio"
-    },
-    {
-        "question": "O que é uma base de acordo com a teoria de Arrhenius?",
-        "options": [
-            "Uma substância que libera íons hidrogênio (H+) em solução aquosa",
-            "Uma substância que libera íons hidroxila (OH-) em solução aquosa",
-            "Uma substância que reage com ácidos para formar sal",
-            "Uma substância que aumenta a concentração de íons hidrogênio em água"
-        ],
-        "correctAnswer": "Uma substância que libera íons hidroxila (OH-) em solução aquosa"
-    },
-    {
-        "question": "O que é a entalpia de uma reação química?",
-        "options": [
-            "A quantidade de calor absorvido ou liberado em uma reação",
-            "A energia necessária para iniciar uma reação química",
-            "A velocidade com que uma reação química ocorre",
-            "A quantidade de produto formado em uma reação"
-        ],
-        "correctAnswer": "A quantidade de calor absorvido ou liberado em uma reação"
-    },
-    {
-        "question": "O que é pH?",
-        "options": [
-            "Uma medida da acidez ou basicidade de uma solução",
-            "Uma unidade de pressão",
-            "Uma medida de temperatura",
-            "Uma unidade de concentração"
-        ],
-        "correctAnswer": "Uma medida da acidez ou basicidade de uma solução"
-    },
-    {
-        "question": "Qual é a fórmula química do ácido acético?",
-        "options": [
-            "HCl",
-            "H2SO4",
-            "CH3COOH",
-            "HNO3"
-        ],
-        "correctAnswer": "CH3COOH"
-    },
-    {
-        "question": "O que são hidrogênio e oxigênio quando combinados para formar água?",
-        "options": [
-            "Reagentes",
-            "Produtos",
-            "Catalisadores",
-            "Solventes"
-        ],
-        "correctAnswer": "Reagentes"
-    },
-    {
-        "question": "Qual é a principal característica dos gases nobres?",
-        "options": [
-            "Altamente reativos",
-            "Possuem baixa densidade",
-            "Inertes quimicamente",
-            "São sólidos à temperatura ambiente"
-        ],
-        "correctAnswer": "Inertes quimicamente"
-    },
-    {
-        "question": "O que é um eletrólito?",
-        "options": [
-            "Uma substância que conduz eletricidade quando dissolvida em água",
-            "Uma substância que é insolúvel em água",
-            "Um gás que não reage quimicamente",
-            "Uma molécula que não possui elétrons"
-        ],
-        "correctAnswer": "Uma substância que conduz eletricidade quando dissolvida em água"
-    },
-    {
-        "question": "Qual é a fórmula química do bicarbonato de sódio?",
-        "options": [
-            "NaOH",
-            "NaCl",
-            "NaHCO3",
-            "Na2CO3"
-        ],
-        "correctAnswer": "NaHCO3"
-    },
-    {
-        "question": "O que são orbitais moleculares?",
-        "options": [
-            "Regiões no espaço onde há alta probabilidade de encontrar elétrons em uma molécula",
-            "Partículas subatômicas",
-            "Camadas de elétrons em um átomo",
-            "Conjuntos de moléculas em uma solução"
-        ],
-        "correctAnswer": "Regiões no espaço onde há alta probabilidade de encontrar elétrons em uma molécula"
-    },
-    {
-        "question": "O que é a eletrólise?",
-        "options": [
-            "Processo de decomposição de uma substância por uma corrente elétrica",
-            "Reação entre um ácido e uma base",
-            "Formação de um precipitado em uma solução",
-            "Reação de combustão de um composto orgânico"
-        ],
-        "correctAnswer": "Processo de decomposição de uma substância por uma corrente elétrica"
-    },
-    {
-        "question": "O que é a oxidação?",
-        "options": [
-            "Ganho de elétrons por uma substância",
-            "Perda de elétrons por uma substância",
-            "Reação com água para formar uma base",
-            "Reação com um ácido para formar um sal"
-        ],
-        "correctAnswer": "Perda de elétrons por uma substância"
-    },
-    {
-        "question": "Qual é a fórmula química do gás carbônico?",
-        "options": [
-            "CO2",
-            "CO",
-            "C2H4",
-            "CH4"
-        ],
-        "correctAnswer": "CO2"
-    },
-    {
-        "question": "O que é um ácido de acordo com a teoria de Arrhenius?",
-        "options": [
-            "Uma substância que libera íons hidrogênio (H+) em solução aquosa",
-            "Uma substância que libera íons hidroxila (OH-) em solução aquosa",
-            "Uma substância que libera elétrons em solução aquosa",
-            "Uma substância que se dissocia completamente em água"
-        ],
-        "correctAnswer": "Uma substância que libera íons hidrogênio (H+) em solução aquosa"
-    },
-    {
-        "question": "Qual é a fórmula química do sulfato de sódio?",
-        "options": [
-            "Na2SO4",
-            "NaCl",
-            "Na2CO3",
-            "NaOH"
-        ],
-        "correctAnswer": "Na2SO4"
-    },
-    {
-        "question": "O que são catalisadores biológicos?",
-        "options": [
-            "Lipídios",
-            "Carboidratos",
-            "Enzimas",
-            "Ácidos nucleicos"
-        ],
-        "correctAnswer": "Enzimas"
-    },
-    {
-        "question": "Qual é a diferença entre uma mistura homogênea e uma mistura heterogênea?",
-        "options": [
-            "Misturas homogêneas têm composição uniforme, enquanto misturas heterogêneas têm composição não uniforme",
-            "Misturas homogêneas são sempre sólidas, enquanto misturas heterogêneas são sempre líquidas",
-            "Misturas homogêneas não contêm solventes, enquanto misturas heterogêneas contêm solventes",
-            "Misturas homogêneas têm duas ou mais fases, enquanto misturas heterogêneas têm apenas uma fase"
-        ],
-        "correctAnswer": "Misturas homogêneas têm composição uniforme, enquanto misturas heterogêneas têm composição não uniforme"
-    },
-    {
-        "question": "O que é uma reação de decomposição?",
-        "options": [
-            "Reação onde uma substância se decompõe em duas ou mais substâncias",
-            "Reação onde dois ou mais reagentes se combinam para formar um único produto",
-            "Reação onde íons trocam de parceiros",
-            "Reação onde há transferência de elétrons"
-        ],
-        "correctAnswer": "Reação onde uma substância se decompõe em duas ou mais substâncias"
-    },
-    {
-        "question": "Qual é a fórmula química do peróxido de hidrogênio?",
-        "options": [
-            "H2O",
-            "H2O2",
-            "H2",
-            "HO2"
-        ],
-        "correctAnswer": "H2O2"
-    },
-    {
-        "question": "O que é um ânodo em uma célula eletroquímica?",
-        "options": [
-            "O eletrodo onde ocorre a oxidação",
-            "O eletrodo onde ocorre a redução",
-            "O eletrodo onde não ocorre reação",
-            "O eletrodo que não conduz eletricidade"
-        ],
-        "correctAnswer": "O eletrodo onde ocorre a oxidação"
-    },
-    {
-        "question": "O que é a pressão atmosférica ao nível do mar em unidades de Pascal?",
-        "options": [
-            "1 Pascal",
-            "10.3 Pascal",
-            "1013 Pascal",
-            "101325 Pascal"
-        ],
-        "correctAnswer": "101325 Pascal"
-    },
-    {
-        "question": "Qual é a fórmula química do ácido nítrico?",
-        "options": [
-            "HCl",
-            "H2SO4",
-            "HNO3",
-            "H2CO3"
-        ],
-        "correctAnswer": "HNO3"
-    },
-    {
-        "question": "O que é uma reação de oxirredução?",
-        "options": [
-            "Reação onde há transferência de íons",
-            "Reação onde ocorre a troca de átomos de hidrogênio",
-            "Reação onde ocorre a transferência de elétrons entre reagentes",
-            "Reação onde um composto se decompõe em dois ou mais produtos"
-        ],
-        "correctAnswer": "Reação onde ocorre a transferência de elétrons entre reagentes"
-    },
-    {
-        "question": "O que é a eletronegatividade?",
-        "options": [
-            "A capacidade de um átomo de doar elétrons",
-            "A capacidade de um átomo de atrair elétrons em uma ligação química",
-            "A energia necessária para remover um elétron de um átomo",
-            "A tendência de um átomo de perder elétrons"
-        ],
-        "correctAnswer": "A capacidade de um átomo de atrair elétrons em uma ligação química"
-    },
-    {
-        "question": "O que é uma ligação metálica?",
-        "options": [
-            "Ligação entre átomos de diferentes metais",
-            "Ligação onde há compartilhamento de elétrons entre átomos de metais",
-            "Ligação entre íons de cargas opostas",
-            "Ligação fraca entre moléculas polares"
-        ],
-        "correctAnswer": "Ligação onde há compartilhamento de elétrons entre átomos de metais"
-    },
-    {
-        "question": "Qual é a fórmula química da glicose?",
-        "options": [
-            "C2H6O",
-            "C6H12O6",
-            "C12H22O11",
-            "C3H8O3"
-        ],
-        "correctAnswer": "C6H12O6"
-    },
-    {
-        "question": "O que é a Tabela Periódica?",
-        "options": [
-            "Uma tabela que organiza os elementos químicos por ordem alfabética",
-            "Uma tabela que organiza os elementos químicos com base em suas propriedades e número atômico",
-            "Uma tabela que lista compostos químicos e suas fórmulas moleculares",
-            "Uma tabela que mostra os diferentes estados físicos dos elementos"
-        ],
-        "correctAnswer": "Uma tabela que organiza os elementos químicos com base em suas propriedades e número atômico"
-    },
-    {
-        "question": "O que é um cátion?",
-        "options": [
-            "Um íon com carga negativa",
-            "Um átomo neutro",
-            "Um íon com carga positiva",
-            "Uma molécula com ligação covalente"
-        ],
-        "correctAnswer": "Um íon com carga positiva"
-    },
-    {
-        "question": "Qual é a unidade de medida da quantidade de substância no Sistema Internacional de Unidades (SI)?",
-        "options": [
-            "Grama",
-            "Litro",
-            "Mol",
-            "Joule"
-        ],
-        "correctAnswer": "Mol"
-    },
-    {
-        "question": "O que são elementos de transição na Tabela Periódica?",
-        "options": [
-            "Elementos situados nos grupos 1 e 2",
-            "Elementos situados nos grupos 3 ao 12",
-            "Elementos situados nos grupos 13 ao 18",
-            "Elementos que não possuem elétrons de valência"
-        ],
-        "correctAnswer": "Elementos situados nos grupos 3 ao 12"
-    },
-    {
-        "question": "O que é uma reação química?",
-        "options": [
-            "Um processo onde substâncias se transformam em novas substâncias com propriedades diferentes",
-            "A mistura de substâncias sem mudança química",
-            "A mudança de estado físico de uma substância",
-            "A dissolução de uma substância em um solvente"
-        ],
-        "correctAnswer": "Um processo onde substâncias se transformam em novas substâncias com propriedades diferentes"
-    },
-    {
-        "question": "O que é uma solução tampão?",
-        "options": [
-            "Uma solução que não conduz eletricidade",
-            "Uma solução que resiste a mudanças de pH quando ácidos ou bases são adicionados",
-            "Uma solução que contém uma alta concentração de sais",
-            "Uma solução que evapora rapidamente"
-        ],
-        "correctAnswer": "Uma solução que resiste a mudanças de pH quando ácidos ou bases são adicionados"
-    },
-    {
-        "question": "O que é a pressão parcial de um gás?",
-        "options": [
-            "A pressão exercida por um gás em um sistema aberto",
-            "A pressão total de um sistema gasoso",
-            "A pressão exercida por um gás específico em uma mistura de gases",
-            "A pressão necessária para liquefazer um gás"
-        ],
-        "correctAnswer": "A pressão exercida por um gás específico em uma mistura de gases"
-    },
-    {
-        "question": "O que é um composto orgânico?",
-        "options": [
-            "Uma substância que contém metais pesados",
-            "Qualquer composto que contém carbono em sua estrutura",
-            "Uma substância encontrada apenas em organismos vivos",
-            "Um composto que não contém hidrogênio"
-        ],
-        "correctAnswer": "Qualquer composto que contém carbono em sua estrutura"
-    },
-    {
-        "question": "Qual é a fórmula química do ácido clorídrico?",
-        "options": [
-            "HCl",
-            "H2SO4",
-            "HNO3",
-            "H2CO3"
-        ],
-        "correctAnswer": "HCl"
-    },
-    {
-        "question": "O que é uma base de acordo com a teoria de Brønsted-Lowry?",
-        "options": [
-            "Uma substância que aceita prótons (H+)",
-            "Uma substância que doa prótons (H+)",
-            "Uma substância que libera íons hidroxila (OH-)",
-            "Uma substância que não reage com ácidos"
-        ],
-        "correctAnswer": "Uma substância que aceita prótons (H+)"
-    },
-    {
-        "question": "Qual é a fórmula química do ácido fosfórico?",
-        "options": [
-            "H2SO4",
-            "H3PO4",
-            "HNO3",
-            "HCl"
-        ],
-        "correctAnswer": "H3PO4"
-    },
-    {
-        "question": "O que é a entropia em termos de química?",
-        "options": [
-            "A quantidade de energia necessária para iniciar uma reação química",
-            "A medida da desordem ou aleatoriedade de um sistema",
-            "A mudança na concentração de reagentes ao longo do tempo",
-            "A capacidade de uma substância de reagir com oxigênio"
-        ],
-        "correctAnswer": "A medida da desordem ou aleatoriedade de um sistema"
-    },
-    {
-        "question": "O que é uma reação endotérmica?",
-        "options": [
-            "Uma reação que libera calor para o ambiente",
-            "Uma reação que absorve calor do ambiente",
-            "Uma reação que ocorre somente em altas temperaturas",
-            "Uma reação que não envolve mudanças de temperatura"
-        ],
-        "correctAnswer": "Uma reação que absorve calor do ambiente"
-    },
-    {
-        "question": "Qual é a diferença entre uma reação química e uma mudança física?",
-        "options": [
-            "Uma mudança física envolve a formação de novas substâncias, enquanto uma reação química não",
-            "Uma reação química envolve a formação de novas substâncias, enquanto uma mudança física não",
-            "Uma mudança física sempre resulta em uma mudança de cor",
-            "Uma reação química não envolve a mudança no estado físico das substâncias"
-        ],
-        "correctAnswer": "Uma reação química envolve a formação de novas substâncias, enquanto uma mudança física não"
-    },
-    {
-        "question": "O que é a constante de Avogadro?",
-        "options": [
-            "A quantidade de partículas em um mol de substância, aproximadamente 6,022 x 10^23",
-            "A massa molar de um elemento em gramas por mol",
-            "A energia necessária para romper uma ligação química",
-            "A pressão exercida por um mol de gás em condições padrão"
-        ],
-        "correctAnswer": "A quantidade de partículas em um mol de substância, aproximadamente 6,022 x 10^23"
-    },
-    {
-        "question": "O que é um soluto?",
-        "options": [
-            "A substância que dissolve em um solvente",
-            "A substância que faz a dissolução de outra",
-            "A fase líquida de uma solução",
-            "A substância que precipita em uma reação química"
-        ],
-        "correctAnswer": "A substância que dissolve em um solvente"
-    },
-    {
-        "question": "O que é a constante de equilíbrio (Kc) de uma reação química?",
-        "options": [
-            "A proporção entre as concentrações dos produtos e reagentes em equilíbrio",
-            "A velocidade de formação dos produtos",
-            "A energia mínima necessária para iniciar a reação",
-            "A mudança de entalpia da reação"
-        ],
-        "correctAnswer": "A proporção entre as concentrações dos produtos e reagentes em equilíbrio"
-    },
-    {
-        "question": "O que é uma reação exotérmica?",
-        "options": [
-            "Uma reação que absorve calor",
-            "Uma reação que libera calor",
-            "Uma reação que ocorre espontaneamente",
-            "Uma reação que forma um precipitado"
-        ],
-        "correctAnswer": "Uma reação que libera calor"
-    },
-    {
-        "question": "Qual é a fórmula química do ácido nítrico?",
-        "options": [
-            "HCl",
-            "H2SO4",
-            "HNO3",
-            "H2CO3"
-        ],
-        "correctAnswer": "HNO3"
-    },
-    {
-        "question": "O que é a entalpia de uma reação química?",
-        "options": [
-            "A quantidade de calor absorvido ou liberado em uma reação",
-            "A velocidade com que uma reação química ocorre",
-            "A quantidade de produto formado em uma reação",
-            "A pressão necessária para iniciar uma reação"
-        ],
-        "correctAnswer": "A quantidade de calor absorvido ou liberado em uma reação"
-    },
-    {
-        "question": "Qual é a unidade de medida da pressão em química?",
-        "options": [
-            "Joule",
-            "Pascal",
-            "Mol",
-            "Metro cúbico"
-        ],
-        "correctAnswer": "Pascal"
-    },
-    {
-        "question": "O que é um mol em termos de química?",
-        "options": [
-            "A massa atômica de um elemento",
-            "A quantidade de átomos em 1 grama de uma substância",
-            "A quantidade de partículas contidas em 6,022 x 10^23 unidades de uma substância",
-            "A massa molar de uma substância"
-        ],
-        "correctAnswer": "A quantidade de partículas contidas em 6,022 x 10^23 unidades de uma substância"
-    },
-    {
-        "question": "O que é uma solução saturada?",
-        "options": [
-            "Uma solução que contém menos soluto do que pode dissolver",
-            "Uma solução que contém mais soluto do que pode dissolver",
-            "Uma solução que não contém nenhum soluto",
-            "Uma solução que contém a quantidade máxima de soluto que pode dissolver"
-        ],
-        "correctAnswer": "Uma solução que contém a quantidade máxima de soluto que pode dissolver"
-    },
-    {
-        "question": "O que são isótopos?",
-        "options": [
-            "Átomos com o mesmo número de prótons e diferente número de nêutrons",
-            "Átomos com diferente número de prótons e o mesmo número de nêutrons",
-            "Moléculas com diferentes formas estruturais",
-            "Compostos que têm propriedades químicas semelhantes"
-        ],
-        "correctAnswer": "Átomos com o mesmo número de prótons e diferente número de nêutrons"
-    },
-    {
-        "question": "O que é eletronegatividade?",
-        "options": [
-            "A capacidade de um átomo de doar elétrons",
-            "A capacidade de um átomo de atrair elétrons em uma ligação química",
-            "A quantidade total de elétrons em um átomo",
-            "A energia necessária para remover um elétron de um átomo"
-        ],
-        "correctAnswer": "A capacidade de um átomo de atrair elétrons em uma ligação química"
-    },
-    {
-        "question": "Qual é a fórmula química do bicarbonato de sódio?",
-        "options": [
-            "NaOH",
-            "NaCl",
-            "NaHCO3",
-            "Na2CO3"
-        ],
-        "correctAnswer": "NaHCO3"
-    },
-    {
-        "question": "O que é a Tabela Periódica?",
-        "options": [
-            "Uma tabela que organiza os elementos químicos por ordem alfabética",
-            "Uma tabela que organiza os elementos químicos com base em suas propriedades e número atômico",
-            "Uma tabela que lista compostos químicos e suas fórmulas moleculares",
-            "Uma tabela que mostra os diferentes estados físicos dos elementos"
-        ],
-        "correctAnswer": "Uma tabela que organiza os elementos químicos com base em suas propriedades e número atômico"
-    },
-    {
-        "question": "Por que o bicarbonato de sódio é usado como fermento em receitas de bolo?",
-        "options": [
-            "Porque adiciona sabor ao bolo",
-            "Porque age como um conservante",
-            "Porque libera gás dióxido de carbono quando reage com ácidos, ajudando o bolo a crescer",
-            "Porque dá cor ao bolo"
-        ],
-        "correctAnswer": "Porque libera gás dióxido de carbono quando reage com ácidos, ajudando o bolo a crescer"
-    },
-    {
-        "question": "Qual é o efeito da adição de vinagre em água com sabão para limpeza?",
-        "options": [
-            "Aumenta a quantidade de espuma",
-            "Neutraliza o sabão, aumentando a eficácia da limpeza",
-            "Muda a cor da água",
-            "Diminui a temperatura da água"
-        ],
-        "correctAnswer": "Neutraliza o sabão, aumentando a eficácia da limpeza"
-    },
-    {
-        "question": "Por que usamos sal para descongelar estradas no inverno?",
-        "options": [
-            "Porque o sal derrete o gelo instantaneamente",
-            "Porque o sal abaixa o ponto de fusão da água, fazendo o gelo derreter mais rápido",
-            "Porque o sal dá tração extra aos pneus",
-            "Porque o sal absorve o calor do sol"
-        ],
-        "correctAnswer": "Porque o sal abaixa o ponto de fusão da água, fazendo o gelo derreter mais rápido"
-    },
-    {
-        "question": "Por que o cloro é adicionado à água da piscina?",
-        "options": [
-            "Para manter a água com uma cor azul",
-            "Para elevar a temperatura da água",
-            "Para matar bactérias e outros microrganismos, mantendo a água limpa e segura",
-            "Para reduzir a evaporação da água"
-        ],
-        "correctAnswer": "Para matar bactérias e outros microrganismos, mantendo a água limpa e segura"
-    },
-    {
-        "question": "Qual é a função do flúor na pasta de dentes?",
-        "options": [
-            "Ajudar a clarear os dentes",
-            "Aumentar a produção de saliva",
-            "Prevenir cáries fortalecendo o esmalte dos dentes",
-            "Dar sabor à pasta de dentes"
-        ],
-        "correctAnswer": "Prevenir cáries fortalecendo o esmalte dos dentes"
-    },
-    {
-        "question": "Por que o vinagre é eficaz na remoção de odores?",
-        "options": [
-            "Porque evapora rapidamente",
-            "Porque neutraliza os compostos que causam odores",
-            "Porque possui fragrância forte",
-            "Porque desidrata as superfícies"
-        ],
-        "correctAnswer": "Porque neutraliza os compostos que causam odores"
-    },
-    {
-        "question": "Como os óxidos de nitrogênio contribuem para a chuva ácida?",
-        "options": [
-            "Reagem com oxigênio na atmosfera, produzindo óxidos de enxofre",
-            "Reagem com vapor d'água, formando ácidos que caem como chuva",
-            "Aumentam a temperatura, causando mais evaporação",
-            "Impedem a formação de nuvens"
-        ],
-        "correctAnswer": "Reagem com vapor d'água, formando ácidos que caem como chuva"
-    },
-    {
-        "question": "Por que o leite coalha quando adicionado ao suco de limão?",
-        "options": [
-            "Porque o suco de limão aquece o leite",
-            "Porque o ácido do suco de limão faz com que as proteínas do leite se desestabilizem e coagulem",
-            "Porque o suco de limão é alcalino",
-            "Porque o suco de limão evapora rapidamente"
-        ],
-        "correctAnswer": "Porque o ácido do suco de limão faz com que as proteínas do leite se desestabilizem e coagulem"
-    },
-    {
-        "question": "Como os desodorantes antitranspirantes reduzem a transpiração?",
-        "options": [
-            "Eles resfriam a superfície da pele",
-            "Eles cobrem a pele com uma camada impermeável",
-            "Eles contêm sais de alumínio que bloqueiam temporariamente as glândulas sudoríparas",
-            "Eles aumentam a produção de suor"
-        ],
-        "correctAnswer": "Eles contêm sais de alumínio que bloqueiam temporariamente as glândulas sudoríparas"
-    },
-    {
-        "question": "Por que os alimentos enlatados podem ser armazenados por longos períodos sem estragar?",
-        "options": [
-            "Porque são mantidos em vácuo",
-            "Porque contêm conservantes artificiais",
-            "Porque o processo de enlatamento esteriliza os alimentos, eliminando microrganismos",
-            "Porque são armazenados em temperatura baixa"
-        ],
-        "correctAnswer": "Porque o processo de enlatamento esteriliza os alimentos, eliminando microrganismos"
-    },
-    {
-        "question": "Por que adicionar limão ao chá pode aumentar a absorção de ferro dos alimentos?",
-        "options": [
-            "Porque o limão aquece o chá",
-            "Porque o ácido ascórbico (vitamina C) presente no limão aumenta a absorção de ferro não-heme",
-            "Porque o limão neutraliza a cafeína do chá",
-            "Porque o limão é alcalino"
-        ],
-        "correctAnswer": "Porque o ácido ascórbico (vitamina C) presente no limão aumenta a absorção de ferro não-heme"
-    },
-    {
-        "question": "Qual é a função do carbonato de cálcio em antiácidos?",
-        "options": [
-            "Adicionar sabor ao antiácido",
-            "Neutralizar o ácido estomacal",
-            "Aumentar a acidez do estômago",
-            "Proteger o revestimento do estômago"
-        ],
-        "correctAnswer": "Neutralizar o ácido estomacal"
-    },
-    {
-        "question": "Por que o alumínio é usado nas embalagens de alimentos?",
-        "options": [
-            "Porque é barato e leve",
-            "Porque é um bom isolante térmico",
-            "Porque reage com os alimentos para preservá-los",
-            "Porque impede a passagem de luz, ar e umidade, prolongando a vida útil dos alimentos"
-        ],
-        "correctAnswer": "Porque impede a passagem de luz, ar e umidade, prolongando a vida útil dos alimentos"
-    },
-    {
-        "question": "Por que os sabonetes antibacterianos contêm triclosan?",
-        "options": [
-            "Para criar espuma",
-            "Para adicionar fragrância",
-            "Para reduzir ou prevenir infecções ao matar bactérias",
-            "Para tornar o sabonete mais duro"
-        ],
-        "correctAnswer": "Para reduzir ou prevenir infecções ao matar bactérias"
-    },
-    {
-        "question": "Por que o ferro fundido é temperado com óleo?",
-        "options": [
-            "Para alterar a cor do ferro",
-            "Para adicionar sabor ao ferro",
-            "Para criar uma camada protetora que evita ferrugem",
-            "Para aumentar a densidade do ferro"
-        ],
-        "correctAnswer": "Para criar uma camada protetora que evita ferrugem"
-    },
-    {
-        "question": "Por que o plástico é um material tão amplamente utilizado em embalagens?",
-        "options": [
-            "Porque é biodegradável",
-            "Porque é transparente e barato",
-            "Porque é resistente, leve e pode ser moldado em várias formas",
-            "Porque tem alta densidade"
-        ],
-        "correctAnswer": "Porque é resistente, leve e pode ser moldado em várias formas"
-    },
-    {
-        "question": "Por que o dióxido de carbono é usado em extintores de incêndio?",
-        "options": [
-            "Porque é inflamável",
-            "Porque é mais denso que o ar e sufoca o fogo ao remover o oxigênio ao redor das chamas",
-            "Porque reduz a temperatura do ambiente",
-            "Porque tem uma cor vermelha visível"
-        ],
-        "correctAnswer": "Porque é mais denso que o ar e sufoca o fogo ao remover o oxigênio ao redor das chamas"
-    },
-    {
-        "question": "Por que é recomendado evitar o uso de panelas de alumínio para cozinhar alimentos ácidos, como tomates?",
-        "options": [
-            "Porque o alumínio reage com os ácidos, liberando compostos que podem alterar o sabor dos alimentos",
-            "Porque o alumínio aquece os alimentos de maneira desigual",
-            "Porque o alumínio libera vapores tóxicos quando aquecido",
-            "Porque o alumínio não é resistente ao calor"
-        ],
-        "correctAnswer": "Porque o alumínio reage com os ácidos, liberando compostos que podem alterar o sabor dos alimentos"
-    },
-    {
-        "question": "Por que a água gaseificada pode aliviar a indigestão?",
-        "options": [
-            "Porque contém açúcares que estimulam a digestão",
-            "Porque as bolhas de gás aumentam a pressão no estômago, promovendo o alívio",
-            "Porque o dióxido de carbono presente na água gaseificada reage com ácidos no estômago, aliviando a indigestão",
-            "Porque a água gaseificada é rica em minerais"
-        ],
-        "correctAnswer": "Porque o dióxido de carbono presente na água gaseificada reage com ácidos no estômago, aliviando a indigestão"
-    },
-    {
-        "question": "Por que o peróxido de hidrogênio é usado como agente de limpeza e desinfecção?",
-        "options": [
-            "Porque é um poderoso agente oxidante que mata bactérias e vírus",
-            "Porque é um ácido forte que dissolve sujeira e resíduos",
-            "Porque reage com gorduras e óleos para formar sabões",
-            "Porque é inerte e não reage com outros compostos"
-        ],
-        "correctAnswer": "Porque é um poderoso agente oxidante que mata bactérias e vírus"
-    },
-    {
-        "question": "Por que o vinagre é eficaz para remover manchas de café e chá?",
-        "options": [
-            "Porque o vinagre é uma base forte que neutraliza os pigmentos",
-            "Porque o ácido acético no vinagre dissolve os taninos que causam as manchas",
-            "Porque o vinagre contém álcool que evapora as manchas",
-            "Porque o vinagre é um desengordurante"
-        ],
-        "correctAnswer": "Porque o ácido acético no vinagre dissolve os taninos que causam as manchas"
-    },
-    {
-        "question": "Por que a água com gás é mais refrescante do que a água sem gás?",
-        "options": [
-            "Porque as bolhas de gás ajudam a liberar sabores e sensações na boca",
-            "Porque a água com gás é mais fria do que a água sem gás",
-            "Porque a água com gás contém mais minerais",
-            "Porque a água com gás tem um pH mais neutro"
-        ],
-        "correctAnswer": "Porque as bolhas de gás ajudam a liberar sabores e sensações na boca"
-    },
-    {
-        "question": "Por que a adição de sal na água do macarrão é importante?",
-        "options": [
-            "Porque o sal aumenta o ponto de ebulição da água, fazendo o macarrão cozinhar mais rápido",
-            "Porque o sal realça o sabor do macarrão e melhora sua textura",
-            "Porque o sal evita que o macarrão grude na panela",
-            "Porque o sal neutraliza os açúcares presentes no macarrão"
-        ],
-        "correctAnswer": "Porque o sal realça o sabor do macarrão e melhora sua textura"
-    },
-    {
-        "question": "Por que o leite de magnésia é usado como antiácido?",
-        "options": [
-            "Porque é uma base que neutraliza o ácido gástrico no estômago",
-            "Porque é um ácido que diminui a produção de ácido no estômago",
-            "Porque reage com as gorduras do estômago",
-            "Porque contém compostos que absorvem o excesso de ácido"
-        ],
-        "correctAnswer": "Porque é uma base que neutraliza o ácido gástrico no estômago"
-    },
-    {
-        "question": "Por que o vinagre é eficaz na remoção de depósitos de cálcio?",
-        "options": [
-            "Porque o ácido acético no vinagre reage com o cálcio, dissolvendo-o",
-            "Porque o vinagre é um desengordurante potente",
-            "Porque o vinagre evapora rapidamente",
-            "Porque o vinagre contém enzimas que quebram o cálcio"
-        ],
-        "correctAnswer": "Porque o ácido acético no vinagre reage com o cálcio, dissolvendo-o"
-    },
-    {
-        "question": "Por que os alimentos são embalados a vácuo para preservação?",
-        "options": [
-            "Para evitar a oxidação e o crescimento de microrganismos, aumentando a vida útil",
-            "Para dar sabor adicional aos alimentos",
-            "Para aquecer os alimentos uniformemente",
-            "Para aumentar a quantidade de nutrientes nos alimentos"
-        ],
-        "correctAnswer": "Para evitar a oxidação e o crescimento de microrganismos, aumentando a vida útil"
-    },
-    {
-        "question": "Por que usamos ácido ascórbico (vitamina C) como conservante em alimentos?",
-        "options": [
-            "Porque aumenta o valor nutricional dos alimentos",
-            "Porque é um antioxidante que previne a deterioração e mantém a cor",
-            "Porque é uma base que neutraliza ácidos presentes nos alimentos",
-            "Porque é uma enzima que acelera a fermentação"
-        ],
-        "correctAnswer": "Porque é um antioxidante que previne a deterioração e mantém a cor"
-    },
-    {
-        "question": "Por que os refrigerantes são ácidos?",
-        "options": [
-            "Porque contêm ácido cítrico",
-            "Porque contêm ácido carbônico, formado pela dissolução do dióxido de carbono",
-            "Porque contêm açúcar em alta concentração",
-            "Porque são armazenados em latas de alumínio"
-        ],
-        "correctAnswer": "Porque contêm ácido carbônico, formado pela dissolução do dióxido de carbono"
-    },
-    {
-        "question": "Como o detergente lava louças remove a gordura dos utensílios de cozinha?",
-        "options": [
-            "Porque quebra as moléculas de água",
-            "Porque reduz a tensão superficial da água, permitindo que a gordura se disperse e seja removida",
-            "Porque aumenta a temperatura da água",
-            "Porque adiciona óleo à água"
-        ],
-        "correctAnswer": "Porque reduz a tensão superficial da água, permitindo que a gordura se disperse e seja removida"
-    },
-    {
-        "question": "Por que é importante usar protetor solar?",
-        "options": [
-            "Porque protege a pele da luz visível",
-            "Porque cria uma barreira física contra sujeira e poeira",
-            "Porque contém compostos químicos que absorvem ou refletem a radiação ultravioleta (UV), prevenindo danos à pele",
-            "Porque mantém a pele hidratada"
-        ],
-        "correctAnswer": "Porque contém compostos químicos que absorvem ou refletem a radiação ultravioleta (UV), prevenindo danos à pele"
-    },
-    {
-        "question": "Por que o suco de limão pode limpar manchas de ferrugem?",
-        "options": [
-            "Porque o ácido cítrico reage com o óxido de ferro, dissolvendo a mancha",
-            "Porque o suco de limão é alcalino e neutraliza a ferrugem",
-            "Porque o suco de limão contém bases fortes que removem a mancha",
-            "Porque o suco de limão seca rapidamente, removendo a mancha"
-        ],
-        "correctAnswer": "Porque o ácido cítrico reage com o óxido de ferro, dissolvendo a mancha"
-    },
-    {
-        "question": "Como o bicarbonato de sódio ajuda a neutralizar odores na geladeira?",
-        "options": [
-            "Porque o bicarbonato de sódio é uma base que neutraliza ácidos que causam odores",
-            "Porque o bicarbonato de sódio é um ácido que neutraliza bases que causam odores",
-            "Porque o bicarbonato de sódio absorve umidade, eliminando os odores",
-            "Porque o bicarbonato de sódio libera gases que eliminam os odores"
-        ],
-        "correctAnswer": "Porque o bicarbonato de sódio é uma base que neutraliza ácidos que causam odores"
-    },
-    {
-        "question": "Por que é importante desinfetar feridas com álcool?",
-        "options": [
-            "Porque o álcool é um desengordurante e remove sujeira",
-            "Porque o álcool evapora rapidamente e não deixa resíduos",
-            "Porque o álcool é um antisséptico que mata bactérias e outros patógenos",
-            "Porque o álcool tem propriedades adstringentes que fecham a ferida"
-        ],
-        "correctAnswer": "Porque o álcool é um antisséptico que mata bactérias e outros patógenos"
-    },
-    {
-        "question": "Por que a água oxigenada é utilizada para clarear manchas de roupa?",
-        "options": [
-            "Porque a água oxigenada é um solvente poderoso",
-            "Porque a água oxigenada é um agente oxidante que quebra moléculas de cor",
-            "Porque a água oxigenada dissolve gorduras e óleos",
-            "Porque a água oxigenada forma espuma, removendo manchas"
-        ],
-        "correctAnswer": "Porque a água oxigenada é um agente oxidante que quebra moléculas de cor"
-    },
-    {
-        "question": "Como o detergente remove a gordura dos pratos?",
-        "options": [
-            "Porque o detergente tem propriedades alcalinas que dissolvem a gordura",
-            "Porque o detergente emulsifica a gordura, quebrando-a em pequenas partículas que podem ser lavadas",
-            "Porque o detergente aquece a gordura, tornando-a líquida",
-            "Porque o detergente evapora a gordura"
-        ],
-        "correctAnswer": "Porque o detergente emulsifica a gordura, quebrando-a em pequenas partículas que podem ser lavadas"
-    },
-    {
-        "question": "Por que a lã de aço enferruja quando molhada?",
-        "options": [
-            "Porque a água oxida o ferro na lã de aço, formando óxido de ferro",
-            "Porque a água dissolve a lã de aço",
-            "Porque a água ativa compostos ácidos na lã de aço",
-            "Porque a água adiciona massa à lã de aço"
-        ],
-        "correctAnswer": "Porque a água oxida o ferro na lã de aço, formando óxido de ferro"
-    },
-    {
-        "question": "Como os adoçantes artificiais não calóricos funcionam?",
-        "options": [
-            "Porque eles se dissolvem lentamente, não sendo absorvidos pelo corpo",
-            "Porque eles têm estruturas químicas que imitam o açúcar sem serem metabolizados",
-            "Porque eles aumentam a produção de insulina, reduzindo calorias",
-            "Porque eles são metabolizados rapidamente, fornecendo poucas calorias"
-        ],
-        "correctAnswer": "Porque eles têm estruturas químicas que imitam o açúcar sem serem metabolizados"
-    },
-    {
-        "question": "Por que o leite azeda quando deixado fora da geladeira?",
-        "options": [
-            "Porque bactérias presentes no leite fermentam a lactose, produzindo ácido lático",
-            "Porque o leite evapora rapidamente",
-            "Porque a gordura no leite se separa, tornando-se ácida",
-            "Porque o leite reage com o ar, formando compostos ácidos"
-        ],
-        "correctAnswer": "Porque bactérias presentes no leite fermentam a lactose, produzindo ácido lático"
-    },
-    {
-        "question": "Como o amaciante de roupas funciona?",
-        "options": [
-            "Porque o amaciante dissolve fibras de tecido, tornando-as mais suaves",
-            "Porque o amaciante adiciona uma camada de produtos químicos que lubrificam as fibras, tornando-as macias",
-            "Porque o amaciante altera a cor das fibras",
-            "Porque o amaciante seca rapidamente, deixando as fibras flexíveis"
-        ],
-        "correctAnswer": "Porque o amaciante adiciona uma camada de produtos químicos que lubrificam as fibras, tornando-as macias"
-    },
-    {
-        "question": "Por que o suco de laranja fresco perde seu sabor ao longo do tempo?",
-        "options": [
-            "Porque a oxidação dos compostos do suco altera seu sabor",
-            "Porque a evaporação da água concentra os sabores",
-            "Porque a sedimentação dos sólidos altera o sabor",
-            "Porque a exposição à luz remove os açúcares"
-        ],
-        "correctAnswer": "Porque a oxidação dos compostos do suco altera seu sabor"
-    },
-    {
-        "question": "Por que é importante adicionar sal na água do macarrão?",
-        "options": [
-            "Porque o sal dá sabor ao macarrão e melhora a textura",
-            "Porque o sal faz a água ferver mais rapidamente",
-            "Porque o sal ajuda a cozinhar o macarrão de forma uniforme",
-            "Porque o sal evita que o macarrão grude na panela"
-        ],
-        "correctAnswer": "Porque o sal dá sabor ao macarrão e melhora a textura"
-    },
-    {
-        "question": "Por que o detergente lava louças remove a gordura?",
-        "options": [
-            "Porque o detergente emulsifica a gordura em pequenas partículas",
-            "Porque o detergente dissolve a gordura e a transforma em água",
-            "Porque o detergente absorve a gordura e a elimina",
-            "Porque o detergente reage quimicamente com a gordura"
-        ],
-        "correctAnswer": "Porque o detergente emulsifica a gordura em pequenas partículas"
-    },
-    {
-        "question": "Por que o fermento é utilizado em receitas de bolo?",
-        "options": [
-            "Porque o fermento libera gás que faz a massa crescer",
-            "Porque o fermento adiciona sabor ao bolo",
-            "Porque o fermento evita que o bolo queime",
-            "Porque o fermento mantém a massa úmida"
-        ],
-        "correctAnswer": "Porque o fermento libera gás que faz a massa crescer"
-    },
-    {
-        "question": "Por que a pasta de dente contém flúor?",
-        "options": [
-            "Porque o flúor previne cáries fortalecendo o esmalte",
-            "Porque o flúor limpa os dentes mais rapidamente",
-            "Porque o flúor dá sabor à pasta de dente",
-            "Porque o flúor elimina todas as bactérias da boca"
-        ],
-        "correctAnswer": "Porque o flúor previne cáries fortalecendo o esmalte"
-    },
-    {
-        "question": "Como o vinagre remove manchas de roupas?",
-        "options": [
-            "Porque o ácido acético reage com os pigmentos das manchas",
-            "Porque o ácido acético dissolve as fibras do tecido",
-            "Porque o ácido acético evapora rapidamente",
-            "Porque o ácido acético branquear as manchas"
-        ],
-        "correctAnswer": "Porque o ácido acético reage com os pigmentos das manchas"
-    },
-    {
-        "question": "Por que o refrigerante é ácido ao paladar?",
-        "options": [
-            "Porque contém ácido carbônico formado pela dissolução de CO2",
-            "Porque contém açúcar em grande quantidade",
-            "Porque é armazenado em latas de alumínio",
-            "Porque é fabricado com água destilada"
-        ],
-        "correctAnswer": "Porque contém ácido carbônico formado pela dissolução de CO2"
-    },
-    {
-        "question": "Como o peróxido de hidrogênio clareia roupas?",
-        "options": [
-            "Porque é um agente oxidante que quebra moléculas de cor",
-            "Porque dissolve gorduras e manchas de óleo",
-            "Porque evapora rapidamente removendo sujeiras",
-            "Porque reage com fibras de algodão e seda"
-        ],
-        "correctAnswer": "Porque é um agente oxidante que quebra moléculas de cor"
-    },
-    {
-        "question": "Por que usamos sabão para lavar as mãos?",
-        "options": [
-            "Porque o sabão emulsifica óleos e sujeiras",
-            "Porque o sabão esfria a pele",
-            "Porque o sabão reage com a água",
-            "Porque o sabão endurece rapidamente"
-        ],
-        "correctAnswer": "Porque o sabão emulsifica óleos e sujeiras"
-    },
-    {
-        "question": "Como o desinfetante elimina germes?",
-        "options": [
-            "Porque contém compostos que quebram paredes celulares",
-            "Porque evapora rapidamente desidratando germes",
-            "Porque reage com oxigênio da água",
-            "Porque altera a cor das superfícies"
-        ],
-        "correctAnswer": "Porque contém compostos que quebram paredes celulares"
-    },
-    {
-        "question": "Por que o protetor solar é necessário?",
-        "options": [
-            "Porque contém compostos que bloqueiam radiação ultravioleta",
-            "Porque dá cor à pele",
-            "Porque evapora rapidamente",
-            "Porque hidrata a pele profundamente"
-        ],
-        "correctAnswer": "Porque contém compostos que bloqueiam radiação ultravioleta"
-    },
-    {
-        "question": "Por que a água oxigenada é usada para desinfetar feridas?",
-        "options": [
-            "Porque libera oxigênio, que mata bactérias",
-            "Porque evapora rapidamente, mantendo a ferida seca",
-            "Porque resseca a pele ao redor da ferida",
-            "Porque forma uma barreira física contra germes"
-        ],
-        "correctAnswer": "Porque libera oxigênio, que mata bactérias"
-    },
-    {
-        "question": "Por que o leite fermenta quando deixado fora da geladeira?",
-        "options": [
-            "Porque bactérias convertem lactose em ácido lático",
-            "Porque o açúcar no leite se transforma em álcool",
-            "Porque a proteína do leite se decompõe em aminoácidos",
-            "Porque a gordura do leite se separa e reage com o ar"
-        ],
-        "correctAnswer": "Porque bactérias convertem lactose em ácido lático"
-    },
-    {
-        "question": "Por que usamos sal para conservar alimentos como carne e peixe?",
-        "options": [
-            "Porque o sal desidrata microrganismos, inibindo seu crescimento",
-            "Porque o sal adiciona sabor e textura aos alimentos",
-            "Porque o sal aumenta a temperatura de cozimento",
-            "Porque o sal impede a oxidação das gorduras"
-        ],
-        "correctAnswer": "Porque o sal desidrata microrganismos, inibindo seu crescimento"
-    },
-    {
-        "question": "Como o vinagre de maçã ajuda a remover depósitos de calcário?",
-        "options": [
-            "Porque o ácido acético dissolve o carbonato de cálcio",
-            "Porque o vinagre de maçã tem propriedades abrasivas",
-            "Porque a evaporação do vinagre remove o calcário",
-            "Porque o vinagre de maçã aquece a superfície, soltando o calcário"
-        ],
-        "correctAnswer": "Porque o ácido acético dissolve o carbonato de cálcio"
-    },
-    {
-        "question": "Por que o alumínio é usado em embalagens de alimentos?",
-        "options": [
-            "Porque é leve, resistente e protege contra oxidação",
-            "Porque é barato e fácil de reciclar",
-            "Porque adiciona um sabor metálico aos alimentos",
-            "Porque impede a transferência de calor"
-        ],
-        "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
-    },
-    {
-        "question": "Por que o óleo vegetal é usado para cozinhar alimentos?",
-        "options": [
-            "Porque tem alto ponto de fumaça e não queima facilmente",
-            "Porque é econômico e fácil de encontrar",
-            "Porque adiciona cor aos alimentos",
-            "Porque reage com outros ingredientes para criar sabores complexos"
-        ],
-        "correctAnswer": "Porque tem alto ponto de fumaça e não queima facilmente"
-    },
-    {
-        "question": "Como o bicarbonato de sódio age como fermento químico em bolos?",
-        "options": [
-            "Porque libera dióxido de carbono quando reage com ácidos",
-            "Porque absorve a umidade da massa",
-            "Porque atua como conservante natural",
-            "Porque aumenta a temperatura da massa durante o cozimento"
-        ],
-        "correctAnswer": "Porque libera dióxido de carbono quando reage com ácidos"
-    },
-    {
-        "question": "Por que o chocolate derrete na boca?",
-        "options": [
-            "Porque a manteiga de cacau tem um ponto de fusão próximo à temperatura corporal",
-            "Porque a sacarose presente no chocolate se dissolve na saliva",
-            "Porque as proteínas do chocolate se decompõem rapidamente",
-            "Porque os antioxidantes do chocolate reagem com a umidade"
-        ],
-        "correctAnswer": "Porque a manteiga de cacau tem um ponto de fusão próximo à temperatura corporal"
-    },
-    {
-        "question": "Por que é importante usar água destilada em baterias de carro?",
-        "options": [
-            "Porque não contém impurezas que podem reagir com os eletrólitos",
-            "Porque melhora a eficiência da bateria",
-            "Porque evita o sobreaquecimento do motor",
-            "Porque lubrifica as partes internas da bateria"
-        ],
-        "correctAnswer": "Porque não contém impurezas que podem reagir com os eletrólitos"
-    },
-    {
-        "question": "Por que o vinagre é eficaz para limpar janelas?",
-        "options": [
-            "Porque dissolve sujeira e gordura, deixando as superfícies brilhantes",
-            "Porque evapora rapidamente sem deixar resíduos",
-            "Porque é um ácido forte que remove manchas",
-            "Porque forma uma camada protetora contra poeira"
-        ],
-        "correctAnswer": "Porque dissolve sujeira e gordura, deixando as superfícies brilhantes"
-    },
-    {
-        "question": "Por que o bicarbonato de sódio é usado como fermento?",
-        "options": [
-            "Porque libera gás CO2, ajudando a massa crescer",
-            "Porque adiciona um sabor especial à receita",
-            "Porque absorve a umidade do ambiente",
-            "Porque aumenta a temperatura da massa durante o cozimento"
-        ],
-        "correctAnswer": "Porque libera gás CO2, ajudando a massa crescer"
-    },
-    {
-        "question": "Por que o sabão remove a sujeira?",
-        "options": [
-            "Porque emulsifica óleos e gorduras, facilitando a remoção",
-            "Porque dissolve metais pesados presentes na sujeira",
-            "Porque evapora rapidamente, eliminando resíduos",
-            "Porque reage com a água para formar uma camada protetora"
-        ],
-        "correctAnswer": "Porque emulsifica óleos e gorduras, facilitando a remoção"
-    },
-    {
-        "question": "Como o cloro age na limpeza da piscina?",
-        "options": [
-            "Porque mata microrganismos e mantém a água limpa",
-            "Porque adiciona cor azul à água",
-            "Porque aumenta a temperatura da água",
-            "Porque reage com minerais presentes na água"
-        ],
-        "correctAnswer": "Porque mata microrganismos e mantém a água limpa"
-    },
-    {
-        "question": "Por que o vinagre é usado na culinária?",
-        "options": [
-            "Porque é um ácido que ajuda a conservar alimentos",
-            "Porque é um base forte que neutraliza sabores",
-            "Porque evapora rapidamente, intensificando aromas",
-            "Porque reage com o sal, liberando novas moléculas"
-        ],
-        "correctAnswer": "Porque é um ácido que ajuda a conservar alimentos"
-    },
-    {
-        "question": "Por que usamos protetor solar?",
-        "options": [
-            "Porque bloqueia a radiação UV, prevenindo queimaduras",
-            "Porque adiciona brilho à pele",
-            "Porque mantém a pele hidratada o dia todo",
-            "Porque reage com a luz solar, criando uma camada protetora"
-        ],
-        "correctAnswer": "Porque bloqueia a radiação UV, prevenindo queimaduras"
-    },
-    {
-        "question": "Como os desodorantes reduzem odores?",
-        "options": [
-            "Porque contêm substâncias que inibem bactérias causadoras de odor",
-            "Porque absorvem a umidade da pele",
-            "Porque aumentam a temperatura do corpo",
-            "Porque reagem com a pele, liberando fragrâncias naturais"
-        ],
-        "correctAnswer": "Porque contêm substâncias que inibem bactérias causadoras de odor"
-    },
-    {
-        "question": "Por que o suco de limão é eficaz na limpeza?",
-        "options": [
-            "Porque contém ácido cítrico que dissolve sujeiras",
-            "Porque evapora rapidamente, removendo manchas",
-            "Porque é uma base forte que neutraliza ácidos",
-            "Porque reage com metais, formando compostos solúveis"
-        ],
-        "correctAnswer": "Porque contém ácido cítrico que dissolve sujeiras"
-    },
-    {
-        "question": "Por que o leite é adicionado ao café?",
-        "options": [
-            "Porque reduz a acidez do café",
-            "Porque mantém o café quente por mais tempo",
-            "Porque adiciona açúcares naturais ao café",
-            "Porque reage com a cafeína, tornando-a menos intensa"
-        ],
-        "correctAnswer": "Porque reduz a acidez do café"
-    },
-    {
-        "question": "Por que o fermento faz a massa crescer?",
-        "options": [
-            "Porque libera dióxido de carbono durante a fermentação",
-            "Porque aumenta a temperatura da massa",
-            "Porque absorve a umidade da massa",
-            "Porque reage com açúcares, produzindo calor"
-        ],
-        "correctAnswer": "Porque libera dióxido de carbono durante a fermentação"
-    },
-    {
-        "question": "Por que a água é importante na cozinha?",
-        "options": [
-            "Porque dissolve ingredientes e facilita reações químicas",
-            "Porque mantém os alimentos quentes",
-            "Porque adiciona minerais essenciais aos pratos",
-            "Porque reage com gorduras, formando novas moléculas"
-        ],
-        "correctAnswer": "Porque dissolve ingredientes e facilita reações químicas"
-    },
-    {
-        "question": "Por que o bicarbonato de sódio é usado como antiácido?",
-        "options": [
-            "Porque neutraliza o ácido no estômago",
-            "Porque aquece o estômago, aliviando a dor",
-            "Porque evapora rapidamente, reduzindo a acidez",
-            "Porque forma uma camada protetora no estômago"
-        ],
-        "correctAnswer": "Porque neutraliza o ácido no estômago"
-    },
-    {
-        "question": "Por que o sal é usado para descongelar estradas no inverno?",
-        "options": [
-            "Porque abaixa o ponto de fusão da água, derretendo o gelo",
-            "Porque adiciona calor ao gelo, fazendo-o derreter",
-            "Porque absorve a água, eliminando o gelo",
-            "Porque reage quimicamente com o gelo, formando água"
-        ],
-        "correctAnswer": "Porque abaixa o ponto de fusão da água, derretendo o gelo"
-    },
-    {
-        "question": "Por que a água fervente é usada para esterilizar utensílios de cozinha?",
-        "options": [
-            "Porque mata bactérias e microrganismos com o calor",
-            "Porque dissolve sujeiras e resíduos",
-            "Porque evapora rapidamente, deixando os utensílios secos",
-            "Porque cria uma camada protetora contra germes"
-        ],
-        "correctAnswer": "Porque mata bactérias e microrganismos com o calor"
-    },
-    {
-        "question": "Como o amido ajuda a espessar molhos?",
-        "options": [
-            "Porque absorve água e forma uma rede gelatinosa",
-            "Porque reage com proteínas, aumentando a viscosidade",
-            "Porque se dissolve completamente, engrossando o líquido",
-            "Porque evapora lentamente, concentrando o molho"
-        ],
-        "correctAnswer": "Porque absorve água e forma uma rede gelatinosa"
-    },
-    {
-        "question": "Por que o leite azeda quando estraga?",
-        "options": [
-            "Porque bactérias convertem lactose em ácido lático",
-            "Porque a gordura se separa, formando compostos ácidos",
-            "Porque o açúcar se decompõe em ácidos orgânicos",
-            "Porque as proteínas reagem com o ar, tornando-se ácidas"
-        ],
-        "correctAnswer": "Porque bactérias convertem lactose em ácido lático"
-    },
-    {
-        "question": "Por que usamos limão para remover manchas de ferrugem?",
-        "options": [
-            "Porque o ácido cítrico dissolve o óxido de ferro",
-            "Porque o limão é alcalino e neutraliza o ácido",
-            "Porque o limão aquece a mancha, facilitando a remoção",
-            "Porque o limão absorve a umidade da ferrugem"
-        ],
-        "correctAnswer": "Porque o ácido cítrico dissolve o óxido de ferro"
-    },
-    {
-        "question": "Por que os vidros não se misturam com água?",
-        "options": [
-            "Porque são materiais não polares e não se dissolvem",
-            "Porque são hidrofílicos e repelem a água",
-            "Porque têm uma estrutura cristalina que bloqueia a água",
-            "Porque são ácidos e reagem com a água, formando sólidos"
-        ],
-        "correctAnswer": "Porque são materiais não polares e não se dissolvem"
-    },
-    {
-        "question": "Por que o peróxido de hidrogênio é usado em clareadores dentais?",
-        "options": [
-            "Porque oxida manchas e branquear os dentes",
-            "Porque dissolve a placa bacteriana, limpando os dentes",
-            "Porque reage com esmalte, fortalecendo os dentes",
-            "Porque é um ácido fraco e não danifica os dentes"
-        ],
-        "correctAnswer": "Porque oxida manchas e branquear os dentes"
-    },
-    {
-        "question": "Por que o carvão ativado é usado em filtros de água?",
-        "options": [
-            "Porque absorve impurezas e toxinas da água",
-            "Porque reage com metais pesados, removendo-os",
-            "Porque dissolve sais minerais, purificando a água",
-            "Porque evapora a água, deixando-a limpa"
-        ],
-        "correctAnswer": "Porque absorve impurezas e toxinas da água"
-    },
-    {
-        "question": "Por que o alumínio é usado em embalagens de alimentos?",
-        "options": [
-            "Porque é leve, resistente e protege contra oxidação",
-            "Porque mantém os alimentos quentes por mais tempo",
-            "Porque reage com alimentos, realçando o sabor",
-            "Porque adiciona minerais essenciais aos alimentos"
-        ],
-        "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
-    },
-    {
-        "question": "Por que o vinagre é eficaz para limpar superfícies?",
-        "options": [
-            "Porque contém ácido acético que dissolve sujeiras",
-            "Porque evapora rapidamente, removendo manchas",
-            "Porque reage com o ar, criando um efeito de limpeza",
-            "Porque é um base forte que neutraliza ácidos"
-        ],
-        "correctAnswer": "Porque contém ácido acético que dissolve sujeiras"
-    },
-    {
-        "question": "Por que o bicarbonato de sódio é utilizado para aliviar a azia?",
-        "options": [
-            "Porque neutraliza a acidez estomacal",
-            "Porque forma uma barreira protetora no estômago",
-            "Porque absorve os ácidos do estômago",
-            "Porque evapora e reduz a acidez rapidamente"
-        ],
-        "correctAnswer": "Porque neutraliza a acidez estomacal"
-    },
-    {
-        "question": "Como o amido ajuda a espessar molhos em receitas culinárias?",
-        "options": [
-            "Porque absorve água e forma uma rede gelatinosa",
-            "Porque reage com proteínas, aumentando a espessura",
-            "Porque evapora lentamente, concentrando o molho",
-            "Porque dissolve e aumenta a viscosidade do líquido"
-        ],
-        "correctAnswer": "Porque absorve água e forma uma rede gelatinosa"
-    },
-    {
-        "question": "Por que a água oxigenada é usada para clarear manchas em tecidos?",
-        "options": [
-            "Porque é um agente oxidante que quebra moléculas de cor",
-            "Porque evapora rapidamente, removendo as manchas",
-            "Porque dissolve a sujeira e a gordura dos tecidos",
-            "Porque reage com os pigmentos, alterando suas propriedades"
-        ],
-        "correctAnswer": "Porque é um agente oxidante que quebra moléculas de cor"
-    },
-    {
-        "question": "Por que o sal é adicionado em conservas alimentares?",
-        "options": [
-            "Porque desidrata os microrganismos, impedindo seu crescimento",
-            "Porque evapora rapidamente, eliminando bactérias",
-            "Porque forma uma camada protetora ao redor do alimento",
-            "Porque reage com os alimentos, preservando seu sabor"
-        ],
-        "correctAnswer": "Porque desidrata os microrganismos, impedindo seu crescimento"
-    },
-    {
-        "question": "Por que o açúcar é usado na fabricação de doces?",
-        "options": [
-            "Porque contribui para a textura e sabor",
-            "Porque evapora rapidamente, concentrando os ingredientes",
-            "Porque reage com o ar, criando uma crosta doce",
-            "Porque dissolve completamente, formando um gel"
-        ],
-        "correctAnswer": "Porque contribui para a textura e sabor"
-    },
-    {
-        "question": "Por que o cloro é adicionado à água da piscina?",
-        "options": [
-            "Porque mata microrganismos e mantém a água limpa",
-            "Porque reage com minerais presentes na água",
-            "Porque dá uma cor azul agradável à água",
-            "Porque aumenta a temperatura da água da piscina"
-        ],
-        "correctAnswer": "Porque mata microrganismos e mantém a água limpa"
-    },
-    {
-        "question": "Por que o suco de limão pode ser usado para limpar manchas?",
-        "options": [
-            "Porque contém ácido cítrico que dissolve sujeiras",
-            "Porque evapora rapidamente, deixando a superfície limpa",
-            "Porque é um agente básico que neutraliza ácidos",
-            "Porque forma uma camada protetora contra novas manchas"
-        ],
-        "correctAnswer": "Porque contém ácido cítrico que dissolve sujeiras"
-    },
-    {
-        "question": "Por que o alumínio é utilizado em embalagens de alimentos?",
-        "options": [
-            "Porque é leve, resistente e protege contra oxidação",
-            "Porque adiciona minerais essenciais aos alimentos",
-            "Porque mantém os alimentos quentes por mais tempo",
-            "Porque reage com alimentos, realçando o sabor"
-        ],
-        "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
-    },
-    {
-        "question": "Por que o carvão ativado é utilizado em filtros de água?",
-        "options": [
-            "Porque absorve impurezas e toxinas",
-            "Porque reage com metais pesados, removendo-os",
-            "Porque dissolve sais minerais, purificando a água",
-            "Porque evapora a água, deixando-a limpa"
-        ],
-        "correctAnswer": "Porque absorve impurezas e toxinas"
-    },
-    {
-        "question": "Por que o sal é usado para temperar alimentos?",
-        "options": [
-            "Porque realça o sabor dos alimentos",
-            "Porque adiciona cor aos alimentos",
-            "Porque aumenta a temperatura de cozimento",
-            "Porque reage quimicamente com os nutrientes"
-        ],
-        "correctAnswer": "Porque realça o sabor dos alimentos"
-    },
-    {
-        "question": "Por que o vinagre é eficaz para limpar superfícies?",
-        "options": [
-            "Porque contém ácido acético que dissolve sujeiras",
-            "Porque evapora rapidamente, removendo manchas",
-            "Porque reage com o ar, criando um efeito de limpeza",
-            "Porque é um base forte que neutraliza ácidos"
-        ],
-        "correctAnswer": "Porque contém ácido acético que dissolve sujeiras"
-    },
-    {
-        "question": "Por que o açúcar é usado na fabricação de doces?",
-        "options": [
-            "Porque contribui para a textura e sabor",
-            "Porque evapora rapidamente, concentrando os ingredientes",
-            "Porque reage com o ar, criando uma crosta doce",
-            "Porque dissolve completamente, formando um gel"
-        ],
-        "correctAnswer": "Porque contribui para a textura e sabor"
-    },
-    {
-        "question": "Por que o cloro é adicionado à água da piscina?",
-        "options": [
-            "Porque mata microrganismos e mantém a água limpa",
-            "Porque reage com minerais presentes na água",
-            "Porque dá uma cor azul agradável à água",
-            "Porque aumenta a temperatura da água da piscina"
-        ],
-        "correctAnswer": "Porque mata microrganismos e mantém a água limpa"
-    },
-    {
-        "question": "Por que o suco de limão pode ser usado para limpar manchas?",
-        "options": [
-            "Porque contém ácido cítrico que dissolve sujeiras",
-            "Porque evapora rapidamente, deixando a superfície limpa",
-            "Porque é um agente básico que neutraliza ácidos",
-            "Porque forma uma camada protetora contra novas manchas"
-        ],
-        "correctAnswer": "Porque contém ácido cítrico que dissolve sujeiras"
-    },
-    {
-        "question": "Por que o alumínio é utilizado em embalagens de alimentos?",
-        "options": [
-            "Porque é leve, resistente e protege contra oxidação",
-            "Porque adiciona minerais essenciais aos alimentos",
-            "Porque mantém os alimentos quentes por mais tempo",
-            "Porque reage com alimentos, realçando o sabor"
-        ],
-        "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
-    },
-    {
-        "question": "Por que o carvão ativado é utilizado em filtros de água?",
-        "options": [
-            "Porque absorve impurezas e toxinas",
-            "Porque reage com metais pesados, removendo-os",
-            "Porque dissolve sais minerais, purificando a água",
-            "Porque evapora a água, deixando-a limpa"
-        ],
-        "correctAnswer": "Porque absorve impurezas e toxinas"
-    },
-    {
-        "question": "Por que o bicarbonato de sódio é utilizado para aliviar a azia?",
-        "options": [
-            "Porque neutraliza a acidez estomacal",
-            "Porque forma uma barreira protetora no estômago",
-            "Porque absorve os ácidos do estômago",
-            "Porque evapora e reduz a acidez rapidamente"
-        ],
-        "correctAnswer": "Porque neutraliza a acidez estomacal"
-    },
-    {
-        "question": "Por que o leite azeda quando estraga?",
-        "options": [
-            "Porque bactérias convertem lactose em ácido lático",
-            "Porque a gordura se separa, formando compostos ácidos",
-            "Porque o açúcar se decompõe em ácidos orgânicos",
-            "Porque as proteínas reagem com o ar, tornando-se ácidas"
-        ],
-        "correctAnswer": "Porque bactérias convertem lactose em ácido lático"
-    },
-    {
-        "question": "Como o amido ajuda a espessar molhos em receitas culinárias?",
-        "options": [
-            "Porque absorve água e forma uma rede gelatinosa",
-            "Porque reage com proteínas, aumentando a espessura",
-            "Porque evapora lentamente, concentrando o molho",
-            "Porque dissolve e aumenta a viscosidade do líquido"
-        ],
-        "correctAnswer": "Porque absorve água e forma uma rede gelatinosa"
-    },
-    {
-        "question": "Por que o sal é usado para descongelar estradas no inverno?",
-        "options": [
-            "Porque abaixa o ponto de fusão da água, derretendo o gelo",
-            "Porque adiciona calor ao gelo, fazendo-o derreter rapidamente",
-            "Porque absorve a água, eliminando o gelo da superfície",
-            "Porque reage quimicamente com o gelo, formando água"
-        ],
-        "correctAnswer": "Porque abaixa o ponto de fusão da água, derretendo o gelo"
-    },
-    {
-        "question": "Por que o cloro é adicionado à água da piscina?",
-        "options": [
-            "Porque mata microrganismos e mantém a água limpa",
-            "Porque reage com minerais presentes na água",
-            "Porque dá uma cor azul agradável à água",
-            "Porque aumenta a temperatura da água da piscina"
-        ],
-        "correctAnswer": "Porque mata microrganismos e mantém a água limpa"
-    },
-    {
-        "question": "Por que o suco de limão é eficaz na limpeza de manchas de ferrugem?",
-        "options": [
-            "Porque contém ácido cítrico que dissolve o óxido de ferro",
-            "Porque evapora rapidamente, removendo as manchas",
-            "Porque é um agente básico que neutraliza ácidos",
-            "Porque forma uma camada protetora contra novas manchas"
-        ],
-        "correctAnswer": "Porque contém ácido cítrico que dissolve o óxido de ferro"
-    },
-    {
-        "question": "Por que o bicarbonato de sódio é usado para aliviar a azia?",
-        "options": [
-            "Porque neutraliza a acidez estomacal",
-            "Porque forma uma barreira protetora no estômago",
-            "Porque absorve os ácidos do estômago",
-            "Porque evapora e reduz a acidez rapidamente"
-        ],
-        "correctAnswer": "Porque neutraliza a acidez estomacal"
-    },
-    {
-        "question": "Como o amido ajuda a espessar molhos em receitas culinárias?",
-        "options": [
-            "Porque absorve água e forma uma rede gelatinosa",
-            "Porque reage com proteínas, aumentando a espessura do molho",
-            "Porque evapora lentamente, concentrando os sabores",
-            "Porque dissolve completamente, aumentando a viscosidade"
-        ],
-        "correctAnswer": "Porque absorve água e forma uma rede gelatinosa"
-    },
-    {
-        "question": "Por que o leite azeda quando estraga?",
-        "options": [
-            "Porque bactérias convertem lactose em ácido lático",
-            "Porque a gordura se separa, formando compostos ácidos",
-            "Porque o açúcar se decompõe em ácidos orgânicos",
-            "Porque as proteínas reagem com o ar, tornando-se ácidas"
-        ],
-        "correctAnswer": "Porque bactérias convertem lactose em ácido lático"
-    },
-    {
-        "question": "Por que o carvão ativado é utilizado em filtros de água?",
-        "options": [
-            "Porque absorve impurezas e toxinas da água",
-            "Porque reage com metais pesados, removendo-os",
-            "Porque dissolve sais minerais, purificando a água",
-            "Porque evapora a água, deixando-a mais limpa"
-        ],
-        "correctAnswer": "Porque absorve impurezas e toxinas da água"
-    },
-    {
-        "question": "Por que o alumínio é utilizado em embalagens de alimentos?",
-        "options": [
-            "Porque é leve, resistente e protege contra oxidação",
-            "Porque adiciona minerais essenciais aos alimentos",
-            "Porque mantém os alimentos quentes por mais tempo",
-            "Porque reage com alimentos, realçando o sabor"
-        ],
-        "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
-    },
-    {
-        "question": "Por que o vinagre é eficaz na limpeza de superfícies?",
-        "options": [
-            "Porque contém ácido acético que dissolve sujeiras",
-            "Porque evapora rapidamente, removendo manchas",
-            "Porque reage com o ar, criando um efeito de limpeza",
-            "Porque é um base forte que neutraliza ácidos"
-        ],
-        "correctAnswer": "Porque contém ácido acético que dissolve sujeiras"
-    },
-    {
-        "question": "Por que o sal é usado para temperar alimentos?",
-        "options": [
-            "Porque realça o sabor dos alimentos",
-            "Porque adiciona cor aos alimentos",
-            "Porque aumenta a temperatura de cozimento",
-            "Porque reage quimicamente com os nutrientes"
-        ],
-        "correctAnswer": "Porque realça o sabor dos alimentos"
-    },
-    {
-        "question": "Por que usamos água destilada em ferros de passar roupa?",
-        "options": [
-            "Porque evita a formação de depósitos minerais",
-            "Porque melhora a temperatura do ferro",
-            "Porque reage com o tecido para facilitar o deslizamento",
-            "Porque adiciona umidade extra às roupas"
-        ],
-        "correctAnswer": "Porque evita a formação de depósitos minerais"
-    },
-    {
-        "question": "Por que a água com gás é refrescante?",
-        "options": [
-            "Porque as bolhas de CO2 estimulam as papilas gustativas",
-            "Porque contém açúcar",
-            "Porque é servida gelada",
-            "Porque o gás carbônico reage com a saliva"
-        ],
-        "correctAnswer": "Porque as bolhas de CO2 estimulam as papilas gustativas"
-    },
-    {
-        "question": "Por que o vinagre é usado para limpar vidro?",
-        "options": [
-            "Porque contém ácido acético que dissolve sujeiras",
-            "Porque evapora rapidamente",
-            "Porque forma uma camada protetora",
-            "Porque reage com o vidro"
-        ],
-        "correctAnswer": "Porque contém ácido acético que dissolve sujeiras"
-    },
-    {
-        "question": "Por que o bicarbonato de sódio é usado na limpeza?",
-        "options": [
-            "Porque neutraliza ácidos e odores",
-            "Porque evapora rapidamente, removendo sujeiras",
-            "Porque dissolve óleos e gorduras",
-            "Porque reage com metais, formando compostos solúveis"
-        ],
-        "correctAnswer": "Porque neutraliza ácidos e odores"
-    },
-    {
-        "question": "Como o cloro mantém a água da piscina limpa?",
-        "options": [
-            "Porque mata microrganismos",
-            "Porque forma uma barreira protetora",
-            "Porque reage com metais na água",
-            "Porque evapora, removendo sujeiras"
-        ],
-        "correctAnswer": "Porque mata microrganismos"
-    },
-    {
-        "question": "Por que o sal é usado na conservação de alimentos?",
-        "options": [
-            "Porque desidrata os microrganismos, inibindo seu crescimento",
-            "Porque adiciona sabor aos alimentos",
-            "Porque aumenta a temperatura de cozimento",
-            "Porque reage com ácidos presentes nos alimentos"
-        ],
-        "correctAnswer": "Porque desidrata os microrganismos, inibindo seu crescimento"
-    },
-    {
-        "question": "Por que o suco de limão remove manchas de ferrugem?",
-        "options": [
-            "Porque contém ácido cítrico que dissolve o óxido de ferro",
-            "Porque evapora rapidamente, removendo as manchas",
-            "Porque forma uma camada protetora contra novas manchas",
-            "Porque reage com o tecido, liberando o ferro"
-        ],
-        "correctAnswer": "Porque contém ácido cítrico que dissolve o óxido de ferro"
-    },
-    {
-        "question": "Por que o fermento faz o bolo crescer?",
-        "options": [
-            "Porque libera dióxido de carbono durante a fermentação",
-            "Porque aquece a massa, aumentando o volume",
-            "Porque reage com o açúcar, formando bolhas",
-            "Porque evapora, deixando o bolo mais leve"
-        ],
-        "correctAnswer": "Porque libera dióxido de carbono durante a fermentação"
-    },
-    {
-        "question": "Por que o protetor solar é necessário?",
-        "options": [
-            "Porque bloqueia a radiação UV, prevenindo queimaduras",
-            "Porque mantém a pele hidratada",
-            "Porque adiciona cor à pele",
-            "Porque reage com a luz solar, criando uma camada protetora"
-        ],
-        "correctAnswer": "Porque bloqueia a radiação UV, prevenindo queimaduras"
-    },
-    {
-        "question": "Por que o alumínio é usado em embalagens de alimentos?",
-        "options": [
-            "Porque é leve, resistente e protege contra oxidação",
-            "Porque adiciona minerais aos alimentos",
-            "Porque mantém os alimentos quentes por mais tempo",
-            "Porque reage com os alimentos, realçando o sabor"
-        ],
-        "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
-    }
-]
+{
+    "questions": [
+        {
+            "question": "O que é uma ligação covalente?",
+            "options": [
+                "Ligação entre íons de cargas opostas",
+                "Ligação onde há compartilhamento de pares de elétrons entre átomos",
+                "Ligação fraca entre moléculas polares",
+                "Ligação onde os elétrons são completamente transferidos de um átomo para outro"
+            ],
+            "correctAnswer": "Ligação onde há compartilhamento de pares de elétrons entre átomos"
+        },
+        {
+            "question": "Qual é a fórmula química do ácido sulfúrico?",
+            "options": [
+                "H2CO3",
+                "H2SO4",
+                "HNO3",
+                "HCl"
+            ],
+            "correctAnswer": "H2SO4"
+        },
+        {
+            "question": "Qual é o produto da reação entre ácido clorídrico (HCl) e hidróxido de sódio (NaOH)?",
+            "options": [
+                "NaCl e H2",
+                "NaOH e H2O",
+                "NaCl e H2O",
+                "H2SO4 e NaCl"
+            ],
+            "correctAnswer": "NaCl e H2O"
+        },
+        {
+            "question": "O que é o número atômico de um elemento?",
+            "options": [
+                "A soma dos prótons e nêutrons no núcleo do átomo",
+                "A quantidade de elétrons em um átomo",
+                "O número de prótons no núcleo de um átomo",
+                "A quantidade de nêutrons em um átomo"
+            ],
+            "correctAnswer": "O número de prótons no núcleo de um átomo"
+        },
+        {
+            "question": "Qual é a principal característica das reações exotérmicas?",
+            "options": [
+                "Absorção de energia",
+                "Liberação de energia na forma de calor",
+                "Produção de gás",
+                "Formação de um precipitado"
+            ],
+            "correctAnswer": "Liberação de energia na forma de calor"
+        },
+        {
+            "question": "O que é um mol em termos de química?",
+            "options": [
+                "A massa atômica de um elemento",
+                "A quantidade de átomos em 1 grama de uma substância",
+                "A quantidade de partículas contidas em 6,022 x 10^23 unidades de uma substância",
+                "A massa molar de uma substância"
+            ],
+            "correctAnswer": "A quantidade de partículas contidas em 6,022 x 10^23 unidades de uma substância"
+        },
+        {
+            "question": "Qual é a unidade de medida da concentração de uma solução?",
+            "options": [
+                "Mol/L",
+                "g/mL",
+                "m3",
+                "atm"
+            ],
+            "correctAnswer": "Mol/L"
+        },
+        {
+            "question": "O que é eletronegatividade?",
+            "options": [
+                "A capacidade de um átomo de doar elétrons",
+                "A capacidade de um átomo de atrair elétrons em uma ligação química",
+                "A quantidade total de elétrons em um átomo",
+                "A energia necessária para remover um elétron de um átomo"
+            ],
+            "correctAnswer": "A capacidade de um átomo de atrair elétrons em uma ligação química"
+        },
+        {
+            "question": "Qual é a principal característica das reações endotérmicas?",
+            "options": [
+                "Liberação de energia",
+                "Absorção de energia",
+                "Produção de luz",
+                "Liberação de gás"
+            ],
+            "correctAnswer": "Absorção de energia"
+        },
+        {
+            "question": "O que é um ânion?",
+            "options": [
+                "Um íon com carga positiva",
+                "Um átomo neutro",
+                "Um íon com carga negativa",
+                "Um núcleo atômico"
+            ],
+            "correctAnswer": "Um íon com carga negativa"
+        },
+        {
+            "question": "O que é uma ligação iônica?",
+            "options": [
+                "Ligação entre dois átomos que compartilham elétrons",
+                "Ligação entre átomos onde há transferência de elétrons",
+                "Ligação entre moléculas de água",
+                "Ligação que ocorre apenas em metais"
+            ],
+            "correctAnswer": "Ligação entre átomos onde há transferência de elétrons"
+        },
+        {
+            "question": "Qual é a fórmula química do cloreto de sódio?",
+            "options": [
+                "NaCl",
+                "KCl",
+                "NaCO3",
+                "NaO2"
+            ],
+            "correctAnswer": "NaCl"
+        },
+        {
+            "question": "O que é uma reação de neutralização?",
+            "options": [
+                "Reação entre um ácido e um sal",
+                "Reação entre uma base e um sal",
+                "Reação entre um ácido e uma base",
+                "Reação entre dois sais"
+            ],
+            "correctAnswer": "Reação entre um ácido e uma base"
+        },
+        {
+            "question": "Qual é o elemento mais abundante no universo?",
+            "options": [
+                "Oxigênio",
+                "Hidrogênio",
+                "Carbono",
+                "Hélio"
+            ],
+            "correctAnswer": "Hidrogênio"
+        },
+        {
+            "question": "O que são isótopos?",
+            "options": [
+                "Átomos com o mesmo número de prótons e diferente número de nêutrons",
+                "Átomos com diferente número de prótons e o mesmo número de nêutrons",
+                "Moléculas com diferentes formas estruturais",
+                "Compostos que têm propriedades químicas semelhantes"
+            ],
+            "correctAnswer": "Átomos com o mesmo número de prótons e diferente número de nêutrons"
+        },
+        {
+            "question": "Qual é o estado físico do cloro à temperatura ambiente?",
+            "options": [
+                "Sólido",
+                "Líquido",
+                "Gasoso",
+                "Plasma"
+            ],
+            "correctAnswer": "Gasoso"
+        },
+        {
+            "question": "O que é uma substância anfotérica?",
+            "options": [
+                "Uma substância que pode atuar tanto como ácido quanto como base",
+                "Uma substância que só pode atuar como ácido",
+                "Uma substância que só pode atuar como base",
+                "Uma substância que é neutra em solução aquosa"
+            ],
+            "correctAnswer": "Uma substância que pode atuar tanto como ácido quanto como base"
+        },
+        {
+            "question": "Qual é a unidade de medida da pressão em química?",
+            "options": [
+                "Joule",
+                "Pascal",
+                "Mol",
+                "Metro cúbico"
+            ],
+            "correctAnswer": "Pascal"
+        },
+        {
+            "question": "O que é uma solução saturada?",
+            "options": [
+                "Uma solução que contém menos soluto do que pode dissolver",
+                "Uma solução que contém mais soluto do que pode dissolver",
+                "Uma solução que não contém nenhum soluto",
+                "Uma solução que contém a quantidade máxima de soluto que pode dissolver"
+            ],
+            "correctAnswer": "Uma solução que contém a quantidade máxima de soluto que pode dissolver"
+        },
+        {
+            "question": "Qual é a configuração eletrônica do oxigênio?",
+            "options": [
+                "1s2 2s2 2p4",
+                "1s2 2s2 2p6",
+                "1s2 2s1 2p5",
+                "1s2 2s2 2p3"
+            ],
+            "correctAnswer": "1s2 2s2 2p4"
+        },
+        {
+            "question": "O que é uma solução aquosa?",
+            "options": [
+                "Uma solução onde a água é o solvente",
+                "Uma solução onde a água é o soluto",
+                "Uma solução onde não há água presente",
+                "Uma solução que não conduz eletricidade"
+            ],
+            "correctAnswer": "Uma solução onde a água é o solvente"
+        },
+        {
+            "question": "Qual é a fórmula química do gás metano?",
+            "options": [
+                "CH4",
+                "C2H6",
+                "C3H8",
+                "CO2"
+            ],
+            "correctAnswer": "CH4"
+        },
+        {
+            "question": "O que é uma reação de combustão?",
+            "options": [
+                "Reação onde uma substância reage com oxigênio liberando energia",
+                "Reação onde uma substância absorve calor do ambiente",
+                "Reação onde ocorre a transferência de íons",
+                "Reação onde há formação de precipitado"
+            ],
+            "correctAnswer": "Reação onde uma substância reage com oxigênio liberando energia"
+        },
+        {
+            "question": "Qual é o produto da oxidação do ferro?",
+            "options": [
+                "Hidróxido de ferro",
+                "Cloreto de ferro",
+                "Óxido de ferro (ferrugem)",
+                "Sulfato de ferro"
+            ],
+            "correctAnswer": "Óxido de ferro (ferrugem)"
+        },
+        {
+            "question": "O que são catalisadores?",
+            "options": [
+                "Substâncias que aumentam a velocidade de uma reação sem serem consumidas",
+                "Substâncias que são consumidas em uma reação química",
+                "Produtos finais de uma reação química",
+                "Elementos que reagem de forma espontânea"
+            ],
+            "correctAnswer": "Substâncias que aumentam a velocidade de uma reação sem serem consumidas"
+        },
+        {
+            "question": "Qual é a configuração eletrônica do carbono?",
+            "options": [
+                "1s2 2s2 2p2",
+                "1s2 2s2 2p4",
+                "1s2 2s1 2p3",
+                "1s2 2s2 2p6"
+            ],
+            "correctAnswer": "1s2 2s2 2p2"
+        },
+        {
+            "question": "O que é uma reação de síntese?",
+            "options": [
+                "Reação onde dois ou mais reagentes se combinam para formar um único produto",
+                "Reação onde um composto se decompõe em dois ou mais produtos",
+                "Reação onde os íons de dois compostos trocam de parceiros",
+                "Reação onde uma substância reage com oxigênio"
+            ],
+            "correctAnswer": "Reação onde dois ou mais reagentes se combinam para formar um único produto"
+        },
+        {
+            "question": "Qual é o principal componente do ar atmosférico?",
+            "options": [
+                "Oxigênio",
+                "Hidrogênio",
+                "Nitrogênio",
+                "Dióxido de carbono"
+            ],
+            "correctAnswer": "Nitrogênio"
+        },
+        {
+            "question": "O que é uma base de acordo com a teoria de Arrhenius?",
+            "options": [
+                "Uma substância que libera íons hidrogênio (H+) em solução aquosa",
+                "Uma substância que libera íons hidroxila (OH-) em solução aquosa",
+                "Uma substância que reage com ácidos para formar sal",
+                "Uma substância que aumenta a concentração de íons hidrogênio em água"
+            ],
+            "correctAnswer": "Uma substância que libera íons hidroxila (OH-) em solução aquosa"
+        },
+        {
+            "question": "O que é a entalpia de uma reação química?",
+            "options": [
+                "A quantidade de calor absorvido ou liberado em uma reação",
+                "A energia necessária para iniciar uma reação química",
+                "A velocidade com que uma reação química ocorre",
+                "A quantidade de produto formado em uma reação"
+            ],
+            "correctAnswer": "A quantidade de calor absorvido ou liberado em uma reação"
+        },
+        {
+            "question": "O que é pH?",
+            "options": [
+                "Uma medida da acidez ou basicidade de uma solução",
+                "Uma unidade de pressão",
+                "Uma medida de temperatura",
+                "Uma unidade de concentração"
+            ],
+            "correctAnswer": "Uma medida da acidez ou basicidade de uma solução"
+        },
+        {
+            "question": "Qual é a fórmula química do ácido acético?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "CH3COOH",
+                "HNO3"
+            ],
+            "correctAnswer": "CH3COOH"
+        },
+        {
+            "question": "O que são hidrogênio e oxigênio quando combinados para formar água?",
+            "options": [
+                "Reagentes",
+                "Produtos",
+                "Catalisadores",
+                "Solventes"
+            ],
+            "correctAnswer": "Reagentes"
+        },
+        {
+            "question": "Qual é a principal característica dos gases nobres?",
+            "options": [
+                "Altamente reativos",
+                "Possuem baixa densidade",
+                "Inertes quimicamente",
+                "São sólidos à temperatura ambiente"
+            ],
+            "correctAnswer": "Inertes quimicamente"
+        },
+        {
+            "question": "O que é um eletrólito?",
+            "options": [
+                "Uma substância que conduz eletricidade quando dissolvida em água",
+                "Uma substância que é insolúvel em água",
+                "Um gás que não reage quimicamente",
+                "Uma molécula que não possui elétrons"
+            ],
+            "correctAnswer": "Uma substância que conduz eletricidade quando dissolvida em água"
+        },
+        {
+            "question": "Qual é a fórmula química do bicarbonato de sódio?",
+            "options": [
+                "NaOH",
+                "NaCl",
+                "NaHCO3",
+                "Na2CO3"
+            ],
+            "correctAnswer": "NaHCO3"
+        },
+        {
+            "question": "O que são orbitais moleculares?",
+            "options": [
+                "Regiões no espaço onde há alta probabilidade de encontrar elétrons em uma molécula",
+                "Partículas subatômicas",
+                "Camadas de elétrons em um átomo",
+                "Conjuntos de moléculas em uma solução"
+            ],
+            "correctAnswer": "Regiões no espaço onde há alta probabilidade de encontrar elétrons em uma molécula"
+        },
+        {
+            "question": "O que é a eletrólise?",
+            "options": [
+                "Processo de decomposição de uma substância por uma corrente elétrica",
+                "Reação entre um ácido e uma base",
+                "Formação de um precipitado em uma solução",
+                "Reação de combustão de um composto orgânico"
+            ],
+            "correctAnswer": "Processo de decomposição de uma substância por uma corrente elétrica"
+        },
+        {
+            "question": "O que é a oxidação?",
+            "options": [
+                "Ganho de elétrons por uma substância",
+                "Perda de elétrons por uma substância",
+                "Reação com água para formar uma base",
+                "Reação com um ácido para formar um sal"
+            ],
+            "correctAnswer": "Perda de elétrons por uma substância"
+        },
+        {
+            "question": "Qual é a fórmula química do gás carbônico?",
+            "options": [
+                "CO2",
+                "CO",
+                "C2H4",
+                "CH4"
+            ],
+            "correctAnswer": "CO2"
+        },
+        {
+            "question": "O que é um ácido de acordo com a teoria de Arrhenius?",
+            "options": [
+                "Uma substância que libera íons hidrogênio (H+) em solução aquosa",
+                "Uma substância que libera íons hidroxila (OH-) em solução aquosa",
+                "Uma substância que libera elétrons em solução aquosa",
+                "Uma substância que se dissocia completamente em água"
+            ],
+            "correctAnswer": "Uma substância que libera íons hidrogênio (H+) em solução aquosa"
+        },
+        {
+            "question": "Qual é a fórmula química do sulfato de sódio?",
+            "options": [
+                "Na2SO4",
+                "NaCl",
+                "Na2CO3",
+                "NaOH"
+            ],
+            "correctAnswer": "Na2SO4"
+        },
+        {
+            "question": "O que são catalisadores biológicos?",
+            "options": [
+                "Lipídios",
+                "Carboidratos",
+                "Enzimas",
+                "Ácidos nucleicos"
+            ],
+            "correctAnswer": "Enzimas"
+        },
+        {
+            "question": "Qual é a diferença entre uma mistura homogênea e uma mistura heterogênea?",
+            "options": [
+                "Misturas homogêneas têm composição uniforme, enquanto misturas heterogêneas têm composição não uniforme",
+                "Misturas homogêneas são sempre sólidas, enquanto misturas heterogêneas são sempre líquidas",
+                "Misturas homogêneas não contêm solventes, enquanto misturas heterogêneas contêm solventes",
+                "Misturas homogêneas têm duas ou mais fases, enquanto misturas heterogêneas têm apenas uma fase"
+            ],
+            "correctAnswer": "Misturas homogêneas têm composição uniforme, enquanto misturas heterogêneas têm composição não uniforme"
+        },
+        {
+            "question": "O que é uma reação de decomposição?",
+            "options": [
+                "Reação onde uma substância se decompõe em duas ou mais substâncias",
+                "Reação onde dois ou mais reagentes se combinam para formar um único produto",
+                "Reação onde íons trocam de parceiros",
+                "Reação onde há transferência de elétrons"
+            ],
+            "correctAnswer": "Reação onde uma substância se decompõe em duas ou mais substâncias"
+        },
+        {
+            "question": "Qual é a fórmula química do peróxido de hidrogênio?",
+            "options": [
+                "H2O",
+                "H2O2",
+                "H2",
+                "HO2"
+            ],
+            "correctAnswer": "H2O2"
+        },
+        {
+            "question": "O que é um ânodo em uma célula eletroquímica?",
+            "options": [
+                "O eletrodo onde ocorre a oxidação",
+                "O eletrodo onde ocorre a redução",
+                "O eletrodo onde não ocorre reação",
+                "O eletrodo que não conduz eletricidade"
+            ],
+            "correctAnswer": "O eletrodo onde ocorre a oxidação"
+        },
+        {
+            "question": "O que é a pressão atmosférica ao nível do mar em unidades de Pascal?",
+            "options": [
+                "1 Pascal",
+                "10.3 Pascal",
+                "1013 Pascal",
+                "101325 Pascal"
+            ],
+            "correctAnswer": "101325 Pascal"
+        },
+        {
+            "question": "Qual é a fórmula química do ácido nítrico?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "HNO3",
+                "H2CO3"
+            ],
+            "correctAnswer": "HNO3"
+        },
+        {
+            "question": "O que é uma reação de oxirredução?",
+            "options": [
+                "Reação onde há transferência de íons",
+                "Reação onde ocorre a troca de átomos de hidrogênio",
+                "Reação onde ocorre a transferência de elétrons entre reagentes",
+                "Reação onde um composto se decompõe em dois ou mais produtos"
+            ],
+            "correctAnswer": "Reação onde ocorre a transferência de elétrons entre reagentes"
+        },
+        {
+            "question": "O que é a eletronegatividade?",
+            "options": [
+                "A capacidade de um átomo de doar elétrons",
+                "A capacidade de um átomo de atrair elétrons em uma ligação química",
+                "A energia necessária para remover um elétron de um átomo",
+                "A tendência de um átomo de perder elétrons"
+            ],
+            "correctAnswer": "A capacidade de um átomo de atrair elétrons em uma ligação química"
+        },
+        {
+            "question": "O que é uma ligação metálica?",
+            "options": [
+                "Ligação entre átomos de diferentes metais",
+                "Ligação onde há compartilhamento de elétrons entre átomos de metais",
+                "Ligação entre íons de cargas opostas",
+                "Ligação fraca entre moléculas polares"
+            ],
+            "correctAnswer": "Ligação onde há compartilhamento de elétrons entre átomos de metais"
+        },
+        {
+            "question": "Qual é a fórmula química da glicose?",
+            "options": [
+                "C2H6O",
+                "C6H12O6",
+                "C12H22O11",
+                "C3H8O3"
+            ],
+            "correctAnswer": "C6H12O6"
+        },
+        {
+            "question": "O que é a Tabela Periódica?",
+            "options": [
+                "Uma tabela que organiza os elementos químicos por ordem alfabética",
+                "Uma tabela que organiza os elementos químicos com base em suas propriedades e número atômico",
+                "Uma tabela que lista compostos químicos e suas fórmulas moleculares",
+                "Uma tabela que mostra os diferentes estados físicos dos elementos"
+            ],
+            "correctAnswer": "Uma tabela que organiza os elementos químicos com base em suas propriedades e número atômico"
+        },
+        {
+            "question": "O que é um cátion?",
+            "options": [
+                "Um íon com carga negativa",
+                "Um átomo neutro",
+                "Um íon com carga positiva",
+                "Uma molécula com ligação covalente"
+            ],
+            "correctAnswer": "Um íon com carga positiva"
+        },
+        {
+            "question": "Qual é a unidade de medida da quantidade de substância no Sistema Internacional de Unidades (SI)?",
+            "options": [
+                "Grama",
+                "Litro",
+                "Mol",
+                "Joule"
+            ],
+            "correctAnswer": "Mol"
+        },
+        {
+            "question": "O que são elementos de transição na Tabela Periódica?",
+            "options": [
+                "Elementos situados nos grupos 1 e 2",
+                "Elementos situados nos grupos 3 ao 12",
+                "Elementos situados nos grupos 13 ao 18",
+                "Elementos que não possuem elétrons de valência"
+            ],
+            "correctAnswer": "Elementos situados nos grupos 3 ao 12"
+        },
+        {
+            "question": "O que é uma reação química?",
+            "options": [
+                "Um processo onde substâncias se transformam em novas substâncias com propriedades diferentes",
+                "A mistura de substâncias sem mudança química",
+                "A mudança de estado físico de uma substância",
+                "A dissolução de uma substância em um solvente"
+            ],
+            "correctAnswer": "Um processo onde substâncias se transformam em novas substâncias com propriedades diferentes"
+        },
+        {
+            "question": "O que é uma solução tampão?",
+            "options": [
+                "Uma solução que não conduz eletricidade",
+                "Uma solução que resiste a mudanças de pH quando ácidos ou bases são adicionados",
+                "Uma solução que contém uma alta concentração de sais",
+                "Uma solução que evapora rapidamente"
+            ],
+            "correctAnswer": "Uma solução que resiste a mudanças de pH quando ácidos ou bases são adicionados"
+        },
+        {
+            "question": "O que é a pressão parcial de um gás?",
+            "options": [
+                "A pressão exercida por um gás em um sistema aberto",
+                "A pressão total de um sistema gasoso",
+                "A pressão exercida por um gás específico em uma mistura de gases",
+                "A pressão necessária para liquefazer um gás"
+            ],
+            "correctAnswer": "A pressão exercida por um gás específico em uma mistura de gases"
+        },
+        {
+            "question": "O que é um composto orgânico?",
+            "options": [
+                "Uma substância que contém metais pesados",
+                "Qualquer composto que contém carbono em sua estrutura",
+                "Uma substância encontrada apenas em organismos vivos",
+                "Um composto que não contém hidrogênio"
+            ],
+            "correctAnswer": "Qualquer composto que contém carbono em sua estrutura"
+        },
+        {
+            "question": "Qual é a fórmula química do ácido clorídrico?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "HNO3",
+                "H2CO3"
+            ],
+            "correctAnswer": "HCl"
+        },
+        {
+            "question": "O que é uma base de acordo com a teoria de Brønsted-Lowry?",
+            "options": [
+                "Uma substância que aceita prótons (H+)",
+                "Uma substância que doa prótons (H+)",
+                "Uma substância que libera íons hidroxila (OH-)",
+                "Uma substância que não reage com ácidos"
+            ],
+            "correctAnswer": "Uma substância que aceita prótons (H+)"
+        },
+        {
+            "question": "Qual é a fórmula química do ácido fosfórico?",
+            "options": [
+                "H2SO4",
+                "H3PO4",
+                "HNO3",
+                "HCl"
+            ],
+            "correctAnswer": "H3PO4"
+        },
+        {
+            "question": "O que é a entropia em termos de química?",
+            "options": [
+                "A quantidade de energia necessária para iniciar uma reação química",
+                "A medida da desordem ou aleatoriedade de um sistema",
+                "A mudança na concentração de reagentes ao longo do tempo",
+                "A capacidade de uma substância de reagir com oxigênio"
+            ],
+            "correctAnswer": "A medida da desordem ou aleatoriedade de um sistema"
+        },
+        {
+            "question": "O que é uma reação endotérmica?",
+            "options": [
+                "Uma reação que libera calor para o ambiente",
+                "Uma reação que absorve calor do ambiente",
+                "Uma reação que ocorre somente em altas temperaturas",
+                "Uma reação que não envolve mudanças de temperatura"
+            ],
+            "correctAnswer": "Uma reação que absorve calor do ambiente"
+        },
+        {
+            "question": "Qual é a diferença entre uma reação química e uma mudança física?",
+            "options": [
+                "Uma mudança física envolve a formação de novas substâncias, enquanto uma reação química não",
+                "Uma reação química envolve a formação de novas substâncias, enquanto uma mudança física não",
+                "Uma mudança física sempre resulta em uma mudança de cor",
+                "Uma reação química não envolve a mudança no estado físico das substâncias"
+            ],
+            "correctAnswer": "Uma reação química envolve a formação de novas substâncias, enquanto uma mudança física não"
+        },
+        {
+            "question": "O que é a constante de Avogadro?",
+            "options": [
+                "A quantidade de partículas em um mol de substância, aproximadamente 6,022 x 10^23",
+                "A massa molar de um elemento em gramas por mol",
+                "A energia necessária para romper uma ligação química",
+                "A pressão exercida por um mol de gás em condições padrão"
+            ],
+            "correctAnswer": "A quantidade de partículas em um mol de substância, aproximadamente 6,022 x 10^23"
+        },
+        {
+            "question": "O que é um soluto?",
+            "options": [
+                "A substância que dissolve em um solvente",
+                "A substância que faz a dissolução de outra",
+                "A fase líquida de uma solução",
+                "A substância que precipita em uma reação química"
+            ],
+            "correctAnswer": "A substância que dissolve em um solvente"
+        },
+        {
+            "question": "O que é a constante de equilíbrio (Kc) de uma reação química?",
+            "options": [
+                "A proporção entre as concentrações dos produtos e reagentes em equilíbrio",
+                "A velocidade de formação dos produtos",
+                "A energia mínima necessária para iniciar a reação",
+                "A mudança de entalpia da reação"
+            ],
+            "correctAnswer": "A proporção entre as concentrações dos produtos e reagentes em equilíbrio"
+        },
+        {
+            "question": "O que é uma reação exotérmica?",
+            "options": [
+                "Uma reação que absorve calor",
+                "Uma reação que libera calor",
+                "Uma reação que ocorre espontaneamente",
+                "Uma reação que forma um precipitado"
+            ],
+            "correctAnswer": "Uma reação que libera calor"
+        },
+        {
+            "question": "Qual é a fórmula química do ácido nítrico?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "HNO3",
+                "H2CO3"
+            ],
+            "correctAnswer": "HNO3"
+        },
+        {
+            "question": "O que é a entalpia de uma reação química?",
+            "options": [
+                "A quantidade de calor absorvido ou liberado em uma reação",
+                "A velocidade com que uma reação química ocorre",
+                "A quantidade de produto formado em uma reação",
+                "A pressão necessária para iniciar uma reação"
+            ],
+            "correctAnswer": "A quantidade de calor absorvido ou liberado em uma reação"
+        },
+        {
+            "question": "Qual é a unidade de medida da pressão em química?",
+            "options": [
+                "Joule",
+                "Pascal",
+                "Mol",
+                "Metro cúbico"
+            ],
+            "correctAnswer": "Pascal"
+        },
+        {
+            "question": "O que é um mol em termos de química?",
+            "options": [
+                "A massa atômica de um elemento",
+                "A quantidade de átomos em 1 grama de uma substância",
+                "A quantidade de partículas contidas em 6,022 x 10^23 unidades de uma substância",
+                "A massa molar de uma substância"
+            ],
+            "correctAnswer": "A quantidade de partículas contidas em 6,022 x 10^23 unidades de uma substância"
+        },
+        {
+            "question": "O que é uma solução saturada?",
+            "options": [
+                "Uma solução que contém menos soluto do que pode dissolver",
+                "Uma solução que contém mais soluto do que pode dissolver",
+                "Uma solução que não contém nenhum soluto",
+                "Uma solução que contém a quantidade máxima de soluto que pode dissolver"
+            ],
+            "correctAnswer": "Uma solução que contém a quantidade máxima de soluto que pode dissolver"
+        },
+        {
+            "question": "O que são isótopos?",
+            "options": [
+                "Átomos com o mesmo número de prótons e diferente número de nêutrons",
+                "Átomos com diferente número de prótons e o mesmo número de nêutrons",
+                "Moléculas com diferentes formas estruturais",
+                "Compostos que têm propriedades químicas semelhantes"
+            ],
+            "correctAnswer": "Átomos com o mesmo número de prótons e diferente número de nêutrons"
+        },
+        {
+            "question": "O que é eletronegatividade?",
+            "options": [
+                "A capacidade de um átomo de doar elétrons",
+                "A capacidade de um átomo de atrair elétrons em uma ligação química",
+                "A quantidade total de elétrons em um átomo",
+                "A energia necessária para remover um elétron de um átomo"
+            ],
+            "correctAnswer": "A capacidade de um átomo de atrair elétrons em uma ligação química"
+        },
+        {
+            "question": "Qual é a fórmula química do bicarbonato de sódio?",
+            "options": [
+                "NaOH",
+                "NaCl",
+                "NaHCO3",
+                "Na2CO3"
+            ],
+            "correctAnswer": "NaHCO3"
+        },
+        {
+            "question": "O que é a Tabela Periódica?",
+            "options": [
+                "Uma tabela que organiza os elementos químicos por ordem alfabética",
+                "Uma tabela que organiza os elementos químicos com base em suas propriedades e número atômico",
+                "Uma tabela que lista compostos químicos e suas fórmulas moleculares",
+                "Uma tabela que mostra os diferentes estados físicos dos elementos"
+            ],
+            "correctAnswer": "Uma tabela que organiza os elementos químicos com base em suas propriedades e número atômico"
+        },
+        {
+            "question": "Por que o bicarbonato de sódio é usado como fermento em receitas de bolo?",
+            "options": [
+                "Porque adiciona sabor ao bolo",
+                "Porque age como um conservante",
+                "Porque libera gás dióxido de carbono quando reage com ácidos, ajudando o bolo a crescer",
+                "Porque dá cor ao bolo"
+            ],
+            "correctAnswer": "Porque libera gás dióxido de carbono quando reage com ácidos, ajudando o bolo a crescer"
+        },
+        {
+            "question": "Qual é o efeito da adição de vinagre em água com sabão para limpeza?",
+            "options": [
+                "Aumenta a quantidade de espuma",
+                "Neutraliza o sabão, aumentando a eficácia da limpeza",
+                "Muda a cor da água",
+                "Diminui a temperatura da água"
+            ],
+            "correctAnswer": "Neutraliza o sabão, aumentando a eficácia da limpeza"
+        },
+        {
+            "question": "Por que usamos sal para descongelar estradas no inverno?",
+            "options": [
+                "Porque o sal derrete o gelo instantaneamente",
+                "Porque o sal abaixa o ponto de fusão da água, fazendo o gelo derreter mais rápido",
+                "Porque o sal dá tração extra aos pneus",
+                "Porque o sal absorve o calor do sol"
+            ],
+            "correctAnswer": "Porque o sal abaixa o ponto de fusão da água, fazendo o gelo derreter mais rápido"
+        },
+        {
+            "question": "Por que o cloro é adicionado à água da piscina?",
+            "options": [
+                "Para manter a água com uma cor azul",
+                "Para elevar a temperatura da água",
+                "Para matar bactérias e outros microrganismos, mantendo a água limpa e segura",
+                "Para reduzir a evaporação da água"
+            ],
+            "correctAnswer": "Para matar bactérias e outros microrganismos, mantendo a água limpa e segura"
+        },
+        {
+            "question": "Qual é a função do flúor na pasta de dentes?",
+            "options": [
+                "Ajudar a clarear os dentes",
+                "Aumentar a produção de saliva",
+                "Prevenir cáries fortalecendo o esmalte dos dentes",
+                "Dar sabor à pasta de dentes"
+            ],
+            "correctAnswer": "Prevenir cáries fortalecendo o esmalte dos dentes"
+        },
+        {
+            "question": "Por que o vinagre é eficaz na remoção de odores?",
+            "options": [
+                "Porque evapora rapidamente",
+                "Porque neutraliza os compostos que causam odores",
+                "Porque possui fragrância forte",
+                "Porque desidrata as superfícies"
+            ],
+            "correctAnswer": "Porque neutraliza os compostos que causam odores"
+        },
+        {
+            "question": "Como os óxidos de nitrogênio contribuem para a chuva ácida?",
+            "options": [
+                "Reagem com oxigênio na atmosfera, produzindo óxidos de enxofre",
+                "Reagem com vapor d'água, formando ácidos que caem como chuva",
+                "Aumentam a temperatura, causando mais evaporação",
+                "Impedem a formação de nuvens"
+            ],
+            "correctAnswer": "Reagem com vapor d'água, formando ácidos que caem como chuva"
+        },
+        {
+            "question": "Por que o leite coalha quando adicionado ao suco de limão?",
+            "options": [
+                "Porque o suco de limão aquece o leite",
+                "Porque o ácido do suco de limão faz com que as proteínas do leite se desestabilizem e coagulem",
+                "Porque o suco de limão é alcalino",
+                "Porque o suco de limão evapora rapidamente"
+            ],
+            "correctAnswer": "Porque o ácido do suco de limão faz com que as proteínas do leite se desestabilizem e coagulem"
+        },
+        {
+            "question": "Como os desodorantes antitranspirantes reduzem a transpiração?",
+            "options": [
+                "Eles resfriam a superfície da pele",
+                "Eles cobrem a pele com uma camada impermeável",
+                "Eles contêm sais de alumínio que bloqueiam temporariamente as glândulas sudoríparas",
+                "Eles aumentam a produção de suor"
+            ],
+            "correctAnswer": "Eles contêm sais de alumínio que bloqueiam temporariamente as glândulas sudoríparas"
+        },
+        {
+            "question": "Por que os alimentos enlatados podem ser armazenados por longos períodos sem estragar?",
+            "options": [
+                "Porque são mantidos em vácuo",
+                "Porque contêm conservantes artificiais",
+                "Porque o processo de enlatamento esteriliza os alimentos, eliminando microrganismos",
+                "Porque são armazenados em temperatura baixa"
+            ],
+            "correctAnswer": "Porque o processo de enlatamento esteriliza os alimentos, eliminando microrganismos"
+        },
+        {
+            "question": "Por que adicionar limão ao chá pode aumentar a absorção de ferro dos alimentos?",
+            "options": [
+                "Porque o limão aquece o chá",
+                "Porque o ácido ascórbico (vitamina C) presente no limão aumenta a absorção de ferro não-heme",
+                "Porque o limão neutraliza a cafeína do chá",
+                "Porque o limão é alcalino"
+            ],
+            "correctAnswer": "Porque o ácido ascórbico (vitamina C) presente no limão aumenta a absorção de ferro não-heme"
+        },
+        {
+            "question": "Qual é a função do carbonato de cálcio em antiácidos?",
+            "options": [
+                "Adicionar sabor ao antiácido",
+                "Neutralizar o ácido estomacal",
+                "Aumentar a acidez do estômago",
+                "Proteger o revestimento do estômago"
+            ],
+            "correctAnswer": "Neutralizar o ácido estomacal"
+        },
+        {
+            "question": "Por que o alumínio é usado nas embalagens de alimentos?",
+            "options": [
+                "Porque é barato e leve",
+                "Porque é um bom isolante térmico",
+                "Porque reage com os alimentos para preservá-los",
+                "Porque impede a passagem de luz, ar e umidade, prolongando a vida útil dos alimentos"
+            ],
+            "correctAnswer": "Porque impede a passagem de luz, ar e umidade, prolongando a vida útil dos alimentos"
+        },
+        {
+            "question": "Por que os sabonetes antibacterianos contêm triclosan?",
+            "options": [
+                "Para criar espuma",
+                "Para adicionar fragrância",
+                "Para reduzir ou prevenir infecções ao matar bactérias",
+                "Para tornar o sabonete mais duro"
+            ],
+            "correctAnswer": "Para reduzir ou prevenir infecções ao matar bactérias"
+        },
+        {
+            "question": "Por que o ferro fundido é temperado com óleo?",
+            "options": [
+                "Para alterar a cor do ferro",
+                "Para adicionar sabor ao ferro",
+                "Para criar uma camada protetora que evita ferrugem",
+                "Para aumentar a densidade do ferro"
+            ],
+            "correctAnswer": "Para criar uma camada protetora que evita ferrugem"
+        },
+        {
+            "question": "Por que o plástico é um material tão amplamente utilizado em embalagens?",
+            "options": [
+                "Porque é biodegradável",
+                "Porque é transparente e barato",
+                "Porque é resistente, leve e pode ser moldado em várias formas",
+                "Porque tem alta densidade"
+            ],
+            "correctAnswer": "Porque é resistente, leve e pode ser moldado em várias formas"
+        },
+        {
+            "question": "Por que o dióxido de carbono é usado em extintores de incêndio?",
+            "options": [
+                "Porque é inflamável",
+                "Porque é mais denso que o ar e sufoca o fogo ao remover o oxigênio ao redor das chamas",
+                "Porque reduz a temperatura do ambiente",
+                "Porque tem uma cor vermelha visível"
+            ],
+            "correctAnswer": "Porque é mais denso que o ar e sufoca o fogo ao remover o oxigênio ao redor das chamas"
+        },
+        {
+            "question": "Por que é recomendado evitar o uso de panelas de alumínio para cozinhar alimentos ácidos, como tomates?",
+            "options": [
+                "Porque o alumínio reage com os ácidos, liberando compostos que podem alterar o sabor dos alimentos",
+                "Porque o alumínio aquece os alimentos de maneira desigual",
+                "Porque o alumínio libera vapores tóxicos quando aquecido",
+                "Porque o alumínio não é resistente ao calor"
+            ],
+            "correctAnswer": "Porque o alumínio reage com os ácidos, liberando compostos que podem alterar o sabor dos alimentos"
+        },
+        {
+            "question": "Por que a água gaseificada pode aliviar a indigestão?",
+            "options": [
+                "Porque contém açúcares que estimulam a digestão",
+                "Porque as bolhas de gás aumentam a pressão no estômago, promovendo o alívio",
+                "Porque o dióxido de carbono presente na água gaseificada reage com ácidos no estômago, aliviando a indigestão",
+                "Porque a água gaseificada é rica em minerais"
+            ],
+            "correctAnswer": "Porque o dióxido de carbono presente na água gaseificada reage com ácidos no estômago, aliviando a indigestão"
+        },
+        {
+            "question": "Por que o peróxido de hidrogênio é usado como agente de limpeza e desinfecção?",
+            "options": [
+                "Porque é um poderoso agente oxidante que mata bactérias e vírus",
+                "Porque é um ácido forte que dissolve sujeira e resíduos",
+                "Porque reage com gorduras e óleos para formar sabões",
+                "Porque é inerte e não reage com outros compostos"
+            ],
+            "correctAnswer": "Porque é um poderoso agente oxidante que mata bactérias e vírus"
+        },
+        {
+            "question": "Por que o vinagre é eficaz para remover manchas de café e chá?",
+            "options": [
+                "Porque o vinagre é uma base forte que neutraliza os pigmentos",
+                "Porque o ácido acético no vinagre dissolve os taninos que causam as manchas",
+                "Porque o vinagre contém álcool que evapora as manchas",
+                "Porque o vinagre é um desengordurante"
+            ],
+            "correctAnswer": "Porque o ácido acético no vinagre dissolve os taninos que causam as manchas"
+        },
+        {
+            "question": "Por que a água com gás é mais refrescante do que a água sem gás?",
+            "options": [
+                "Porque as bolhas de gás ajudam a liberar sabores e sensações na boca",
+                "Porque a água com gás é mais fria do que a água sem gás",
+                "Porque a água com gás contém mais minerais",
+                "Porque a água com gás tem um pH mais neutro"
+            ],
+            "correctAnswer": "Porque as bolhas de gás ajudam a liberar sabores e sensações na boca"
+        },
+        {
+            "question": "Por que a adição de sal na água do macarrão é importante?",
+            "options": [
+                "Porque o sal aumenta o ponto de ebulição da água, fazendo o macarrão cozinhar mais rápido",
+                "Porque o sal realça o sabor do macarrão e melhora sua textura",
+                "Porque o sal evita que o macarrão grude na panela",
+                "Porque o sal neutraliza os açúcares presentes no macarrão"
+            ],
+            "correctAnswer": "Porque o sal realça o sabor do macarrão e melhora sua textura"
+        },
+        {
+            "question": "Por que o leite de magnésia é usado como antiácido?",
+            "options": [
+                "Porque é uma base que neutraliza o ácido gástrico no estômago",
+                "Porque é um ácido que diminui a produção de ácido no estômago",
+                "Porque reage com as gorduras do estômago",
+                "Porque contém compostos que absorvem o excesso de ácido"
+            ],
+            "correctAnswer": "Porque é uma base que neutraliza o ácido gástrico no estômago"
+        },
+        {
+            "question": "Por que o vinagre é eficaz na remoção de depósitos de cálcio?",
+            "options": [
+                "Porque o ácido acético no vinagre reage com o cálcio, dissolvendo-o",
+                "Porque o vinagre é um desengordurante potente",
+                "Porque o vinagre evapora rapidamente",
+                "Porque o vinagre contém enzimas que quebram o cálcio"
+            ],
+            "correctAnswer": "Porque o ácido acético no vinagre reage com o cálcio, dissolvendo-o"
+        },
+        {
+            "question": "Por que os alimentos são embalados a vácuo para preservação?",
+            "options": [
+                "Para evitar a oxidação e o crescimento de microrganismos, aumentando a vida útil",
+                "Para dar sabor adicional aos alimentos",
+                "Para aquecer os alimentos uniformemente",
+                "Para aumentar a quantidade de nutrientes nos alimentos"
+            ],
+            "correctAnswer": "Para evitar a oxidação e o crescimento de microrganismos, aumentando a vida útil"
+        },
+        {
+            "question": "Por que usamos ácido ascórbico (vitamina C) como conservante em alimentos?",
+            "options": [
+                "Porque aumenta o valor nutricional dos alimentos",
+                "Porque é um antioxidante que previne a deterioração e mantém a cor",
+                "Porque é uma base que neutraliza ácidos presentes nos alimentos",
+                "Porque é uma enzima que acelera a fermentação"
+            ],
+            "correctAnswer": "Porque é um antioxidante que previne a deterioração e mantém a cor"
+        },
+        {
+            "question": "Por que os refrigerantes são ácidos?",
+            "options": [
+                "Porque contêm ácido cítrico",
+                "Porque contêm ácido carbônico, formado pela dissolução do dióxido de carbono",
+                "Porque contêm açúcar em alta concentração",
+                "Porque são armazenados em latas de alumínio"
+            ],
+            "correctAnswer": "Porque contêm ácido carbônico, formado pela dissolução do dióxido de carbono"
+        },
+        {
+            "question": "Como o detergente lava louças remove a gordura dos utensílios de cozinha?",
+            "options": [
+                "Porque quebra as moléculas de água",
+                "Porque reduz a tensão superficial da água, permitindo que a gordura se disperse e seja removida",
+                "Porque aumenta a temperatura da água",
+                "Porque adiciona óleo à água"
+            ],
+            "correctAnswer": "Porque reduz a tensão superficial da água, permitindo que a gordura se disperse e seja removida"
+        },
+        {
+            "question": "Por que é importante usar protetor solar?",
+            "options": [
+                "Porque protege a pele da luz visível",
+                "Porque cria uma barreira física contra sujeira e poeira",
+                "Porque contém compostos químicos que absorvem ou refletem a radiação ultravioleta (UV), prevenindo danos à pele",
+                "Porque mantém a pele hidratada"
+            ],
+            "correctAnswer": "Porque contém compostos químicos que absorvem ou refletem a radiação ultravioleta (UV), prevenindo danos à pele"
+        },
+        {
+            "question": "Por que o suco de limão pode limpar manchas de ferrugem?",
+            "options": [
+                "Porque o ácido cítrico reage com o óxido de ferro, dissolvendo a mancha",
+                "Porque o suco de limão é alcalino e neutraliza a ferrugem",
+                "Porque o suco de limão contém bases fortes que removem a mancha",
+                "Porque o suco de limão seca rapidamente, removendo a mancha"
+            ],
+            "correctAnswer": "Porque o ácido cítrico reage com o óxido de ferro, dissolvendo a mancha"
+        },
+        {
+            "question": "Como o bicarbonato de sódio ajuda a neutralizar odores na geladeira?",
+            "options": [
+                "Porque o bicarbonato de sódio é uma base que neutraliza ácidos que causam odores",
+                "Porque o bicarbonato de sódio é um ácido que neutraliza bases que causam odores",
+                "Porque o bicarbonato de sódio absorve umidade, eliminando os odores",
+                "Porque o bicarbonato de sódio libera gases que eliminam os odores"
+            ],
+            "correctAnswer": "Porque o bicarbonato de sódio é uma base que neutraliza ácidos que causam odores"
+        },
+        {
+            "question": "Por que é importante desinfetar feridas com álcool?",
+            "options": [
+                "Porque o álcool é um desengordurante e remove sujeira",
+                "Porque o álcool evapora rapidamente e não deixa resíduos",
+                "Porque o álcool é um antisséptico que mata bactérias e outros patógenos",
+                "Porque o álcool tem propriedades adstringentes que fecham a ferida"
+            ],
+            "correctAnswer": "Porque o álcool é um antisséptico que mata bactérias e outros patógenos"
+        },
+        {
+            "question": "Por que a água oxigenada é utilizada para clarear manchas de roupa?",
+            "options": [
+                "Porque a água oxigenada é um solvente poderoso",
+                "Porque a água oxigenada é um agente oxidante que quebra moléculas de cor",
+                "Porque a água oxigenada dissolve gorduras e óleos",
+                "Porque a água oxigenada forma espuma, removendo manchas"
+            ],
+            "correctAnswer": "Porque a água oxigenada é um agente oxidante que quebra moléculas de cor"
+        },
+        {
+            "question": "Como o detergente remove a gordura dos pratos?",
+            "options": [
+                "Porque o detergente tem propriedades alcalinas que dissolvem a gordura",
+                "Porque o detergente emulsifica a gordura, quebrando-a em pequenas partículas que podem ser lavadas",
+                "Porque o detergente aquece a gordura, tornando-a líquida",
+                "Porque o detergente evapora a gordura"
+            ],
+            "correctAnswer": "Porque o detergente emulsifica a gordura, quebrando-a em pequenas partículas que podem ser lavadas"
+        },
+        {
+            "question": "Por que a lã de aço enferruja quando molhada?",
+            "options": [
+                "Porque a água oxida o ferro na lã de aço, formando óxido de ferro",
+                "Porque a água dissolve a lã de aço",
+                "Porque a água ativa compostos ácidos na lã de aço",
+                "Porque a água adiciona massa à lã de aço"
+            ],
+            "correctAnswer": "Porque a água oxida o ferro na lã de aço, formando óxido de ferro"
+        },
+        {
+            "question": "Como os adoçantes artificiais não calóricos funcionam?",
+            "options": [
+                "Porque eles se dissolvem lentamente, não sendo absorvidos pelo corpo",
+                "Porque eles têm estruturas químicas que imitam o açúcar sem serem metabolizados",
+                "Porque eles aumentam a produção de insulina, reduzindo calorias",
+                "Porque eles são metabolizados rapidamente, fornecendo poucas calorias"
+            ],
+            "correctAnswer": "Porque eles têm estruturas químicas que imitam o açúcar sem serem metabolizados"
+        },
+        {
+            "question": "Por que o leite azeda quando deixado fora da geladeira?",
+            "options": [
+                "Porque bactérias presentes no leite fermentam a lactose, produzindo ácido lático",
+                "Porque o leite evapora rapidamente",
+                "Porque a gordura no leite se separa, tornando-se ácida",
+                "Porque o leite reage com o ar, formando compostos ácidos"
+            ],
+            "correctAnswer": "Porque bactérias presentes no leite fermentam a lactose, produzindo ácido lático"
+        },
+        {
+            "question": "Como o amaciante de roupas funciona?",
+            "options": [
+                "Porque o amaciante dissolve fibras de tecido, tornando-as mais suaves",
+                "Porque o amaciante adiciona uma camada de produtos químicos que lubrificam as fibras, tornando-as macias",
+                "Porque o amaciante altera a cor das fibras",
+                "Porque o amaciante seca rapidamente, deixando as fibras flexíveis"
+            ],
+            "correctAnswer": "Porque o amaciante adiciona uma camada de produtos químicos que lubrificam as fibras, tornando-as macias"
+        },
+        {
+            "question": "Por que o suco de laranja fresco perde seu sabor ao longo do tempo?",
+            "options": [
+                "Porque a oxidação dos compostos do suco altera seu sabor",
+                "Porque a evaporação da água concentra os sabores",
+                "Porque a sedimentação dos sólidos altera o sabor",
+                "Porque a exposição à luz remove os açúcares"
+            ],
+            "correctAnswer": "Porque a oxidação dos compostos do suco altera seu sabor"
+        },
+        {
+            "question": "Por que é importante adicionar sal na água do macarrão?",
+            "options": [
+                "Porque o sal dá sabor ao macarrão e melhora a textura",
+                "Porque o sal faz a água ferver mais rapidamente",
+                "Porque o sal ajuda a cozinhar o macarrão de forma uniforme",
+                "Porque o sal evita que o macarrão grude na panela"
+            ],
+            "correctAnswer": "Porque o sal dá sabor ao macarrão e melhora a textura"
+        },
+        {
+            "question": "Por que o detergente lava louças remove a gordura?",
+            "options": [
+                "Porque o detergente emulsifica a gordura em pequenas partículas",
+                "Porque o detergente dissolve a gordura e a transforma em água",
+                "Porque o detergente absorve a gordura e a elimina",
+                "Porque o detergente reage quimicamente com a gordura"
+            ],
+            "correctAnswer": "Porque o detergente emulsifica a gordura em pequenas partículas"
+        },
+        {
+            "question": "Por que o fermento é utilizado em receitas de bolo?",
+            "options": [
+                "Porque o fermento libera gás que faz a massa crescer",
+                "Porque o fermento adiciona sabor ao bolo",
+                "Porque o fermento evita que o bolo queime",
+                "Porque o fermento mantém a massa úmida"
+            ],
+            "correctAnswer": "Porque o fermento libera gás que faz a massa crescer"
+        },
+        {
+            "question": "Por que a pasta de dente contém flúor?",
+            "options": [
+                "Porque o flúor previne cáries fortalecendo o esmalte",
+                "Porque o flúor limpa os dentes mais rapidamente",
+                "Porque o flúor dá sabor à pasta de dente",
+                "Porque o flúor elimina todas as bactérias da boca"
+            ],
+            "correctAnswer": "Porque o flúor previne cáries fortalecendo o esmalte"
+        },
+        {
+            "question": "Como o vinagre remove manchas de roupas?",
+            "options": [
+                "Porque o ácido acético reage com os pigmentos das manchas",
+                "Porque o ácido acético dissolve as fibras do tecido",
+                "Porque o ácido acético evapora rapidamente",
+                "Porque o ácido acético branquear as manchas"
+            ],
+            "correctAnswer": "Porque o ácido acético reage com os pigmentos das manchas"
+        },
+        {
+            "question": "Por que o refrigerante é ácido ao paladar?",
+            "options": [
+                "Porque contém ácido carbônico formado pela dissolução de CO2",
+                "Porque contém açúcar em grande quantidade",
+                "Porque é armazenado em latas de alumínio",
+                "Porque é fabricado com água destilada"
+            ],
+            "correctAnswer": "Porque contém ácido carbônico formado pela dissolução de CO2"
+        },
+        {
+            "question": "Como o peróxido de hidrogênio clareia roupas?",
+            "options": [
+                "Porque é um agente oxidante que quebra moléculas de cor",
+                "Porque dissolve gorduras e manchas de óleo",
+                "Porque evapora rapidamente removendo sujeiras",
+                "Porque reage com fibras de algodão e seda"
+            ],
+            "correctAnswer": "Porque é um agente oxidante que quebra moléculas de cor"
+        },
+        {
+            "question": "Por que usamos sabão para lavar as mãos?",
+            "options": [
+                "Porque o sabão emulsifica óleos e sujeiras",
+                "Porque o sabão esfria a pele",
+                "Porque o sabão reage com a água",
+                "Porque o sabão endurece rapidamente"
+            ],
+            "correctAnswer": "Porque o sabão emulsifica óleos e sujeiras"
+        },
+        {
+            "question": "Como o desinfetante elimina germes?",
+            "options": [
+                "Porque contém compostos que quebram paredes celulares",
+                "Porque evapora rapidamente desidratando germes",
+                "Porque reage com oxigênio da água",
+                "Porque altera a cor das superfícies"
+            ],
+            "correctAnswer": "Porque contém compostos que quebram paredes celulares"
+        },
+        {
+            "question": "Por que o protetor solar é necessário?",
+            "options": [
+                "Porque contém compostos que bloqueiam radiação ultravioleta",
+                "Porque dá cor à pele",
+                "Porque evapora rapidamente",
+                "Porque hidrata a pele profundamente"
+            ],
+            "correctAnswer": "Porque contém compostos que bloqueiam radiação ultravioleta"
+        },
+        {
+            "question": "Por que a água oxigenada é usada para desinfetar feridas?",
+            "options": [
+                "Porque libera oxigênio, que mata bactérias",
+                "Porque evapora rapidamente, mantendo a ferida seca",
+                "Porque resseca a pele ao redor da ferida",
+                "Porque forma uma barreira física contra germes"
+            ],
+            "correctAnswer": "Porque libera oxigênio, que mata bactérias"
+        },
+        {
+            "question": "Por que o leite fermenta quando deixado fora da geladeira?",
+            "options": [
+                "Porque bactérias convertem lactose em ácido lático",
+                "Porque o açúcar no leite se transforma em álcool",
+                "Porque a proteína do leite se decompõe em aminoácidos",
+                "Porque a gordura do leite se separa e reage com o ar"
+            ],
+            "correctAnswer": "Porque bactérias convertem lactose em ácido lático"
+        },
+        {
+            "question": "Por que usamos sal para conservar alimentos como carne e peixe?",
+            "options": [
+                "Porque o sal desidrata microrganismos, inibindo seu crescimento",
+                "Porque o sal adiciona sabor e textura aos alimentos",
+                "Porque o sal aumenta a temperatura de cozimento",
+                "Porque o sal impede a oxidação das gorduras"
+            ],
+            "correctAnswer": "Porque o sal desidrata microrganismos, inibindo seu crescimento"
+        },
+        {
+            "question": "Como o vinagre de maçã ajuda a remover depósitos de calcário?",
+            "options": [
+                "Porque o ácido acético dissolve o carbonato de cálcio",
+                "Porque o vinagre de maçã tem propriedades abrasivas",
+                "Porque a evaporação do vinagre remove o calcário",
+                "Porque o vinagre de maçã aquece a superfície, soltando o calcário"
+            ],
+            "correctAnswer": "Porque o ácido acético dissolve o carbonato de cálcio"
+        },
+        {
+            "question": "Por que o alumínio é usado em embalagens de alimentos?",
+            "options": [
+                "Porque é leve, resistente e protege contra oxidação",
+                "Porque é barato e fácil de reciclar",
+                "Porque adiciona um sabor metálico aos alimentos",
+                "Porque impede a transferência de calor"
+            ],
+            "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
+        },
+        {
+            "question": "Por que o óleo vegetal é usado para cozinhar alimentos?",
+            "options": [
+                "Porque tem alto ponto de fumaça e não queima facilmente",
+                "Porque é econômico e fácil de encontrar",
+                "Porque adiciona cor aos alimentos",
+                "Porque reage com outros ingredientes para criar sabores complexos"
+            ],
+            "correctAnswer": "Porque tem alto ponto de fumaça e não queima facilmente"
+        },
+        {
+            "question": "Como o bicarbonato de sódio age como fermento químico em bolos?",
+            "options": [
+                "Porque libera dióxido de carbono quando reage com ácidos",
+                "Porque absorve a umidade da massa",
+                "Porque atua como conservante natural",
+                "Porque aumenta a temperatura da massa durante o cozimento"
+            ],
+            "correctAnswer": "Porque libera dióxido de carbono quando reage com ácidos"
+        },
+        {
+            "question": "Por que o chocolate derrete na boca?",
+            "options": [
+                "Porque a manteiga de cacau tem um ponto de fusão próximo à temperatura corporal",
+                "Porque a sacarose presente no chocolate se dissolve na saliva",
+                "Porque as proteínas do chocolate se decompõem rapidamente",
+                "Porque os antioxidantes do chocolate reagem com a umidade"
+            ],
+            "correctAnswer": "Porque a manteiga de cacau tem um ponto de fusão próximo à temperatura corporal"
+        },
+        {
+            "question": "Por que é importante usar água destilada em baterias de carro?",
+            "options": [
+                "Porque não contém impurezas que podem reagir com os eletrólitos",
+                "Porque melhora a eficiência da bateria",
+                "Porque evita o sobreaquecimento do motor",
+                "Porque lubrifica as partes internas da bateria"
+            ],
+            "correctAnswer": "Porque não contém impurezas que podem reagir com os eletrólitos"
+        },
+        {
+            "question": "Por que o vinagre é eficaz para limpar janelas?",
+            "options": [
+                "Porque dissolve sujeira e gordura, deixando as superfícies brilhantes",
+                "Porque evapora rapidamente sem deixar resíduos",
+                "Porque é um ácido forte que remove manchas",
+                "Porque forma uma camada protetora contra poeira"
+            ],
+            "correctAnswer": "Porque dissolve sujeira e gordura, deixando as superfícies brilhantes"
+        },
+        {
+            "question": "Por que o bicarbonato de sódio é usado como fermento?",
+            "options": [
+                "Porque libera gás CO2, ajudando a massa crescer",
+                "Porque adiciona um sabor especial à receita",
+                "Porque absorve a umidade do ambiente",
+                "Porque aumenta a temperatura da massa durante o cozimento"
+            ],
+            "correctAnswer": "Porque libera gás CO2, ajudando a massa crescer"
+        },
+        {
+            "question": "Por que o sabão remove a sujeira?",
+            "options": [
+                "Porque emulsifica óleos e gorduras, facilitando a remoção",
+                "Porque dissolve metais pesados presentes na sujeira",
+                "Porque evapora rapidamente, eliminando resíduos",
+                "Porque reage com a água para formar uma camada protetora"
+            ],
+            "correctAnswer": "Porque emulsifica óleos e gorduras, facilitando a remoção"
+        },
+        {
+            "question": "Como o cloro age na limpeza da piscina?",
+            "options": [
+                "Porque mata microrganismos e mantém a água limpa",
+                "Porque adiciona cor azul à água",
+                "Porque aumenta a temperatura da água",
+                "Porque reage com minerais presentes na água"
+            ],
+            "correctAnswer": "Porque mata microrganismos e mantém a água limpa"
+        },
+        {
+            "question": "Por que o vinagre é usado na culinária?",
+            "options": [
+                "Porque é um ácido que ajuda a conservar alimentos",
+                "Porque é um base forte que neutraliza sabores",
+                "Porque evapora rapidamente, intensificando aromas",
+                "Porque reage com o sal, liberando novas moléculas"
+            ],
+            "correctAnswer": "Porque é um ácido que ajuda a conservar alimentos"
+        },
+        {
+            "question": "Por que usamos protetor solar?",
+            "options": [
+                "Porque bloqueia a radiação UV, prevenindo queimaduras",
+                "Porque adiciona brilho à pele",
+                "Porque mantém a pele hidratada o dia todo",
+                "Porque reage com a luz solar, criando uma camada protetora"
+            ],
+            "correctAnswer": "Porque bloqueia a radiação UV, prevenindo queimaduras"
+        },
+        {
+            "question": "Como os desodorantes reduzem odores?",
+            "options": [
+                "Porque contêm substâncias que inibem bactérias causadoras de odor",
+                "Porque absorvem a umidade da pele",
+                "Porque aumentam a temperatura do corpo",
+                "Porque reagem com a pele, liberando fragrâncias naturais"
+            ],
+            "correctAnswer": "Porque contêm substâncias que inibem bactérias causadoras de odor"
+        },
+        {
+            "question": "Por que o suco de limão é eficaz na limpeza?",
+            "options": [
+                "Porque contém ácido cítrico que dissolve sujeiras",
+                "Porque evapora rapidamente, removendo manchas",
+                "Porque é uma base forte que neutraliza ácidos",
+                "Porque reage com metais, formando compostos solúveis"
+            ],
+            "correctAnswer": "Porque contém ácido cítrico que dissolve sujeiras"
+        },
+        {
+            "question": "Por que o leite é adicionado ao café?",
+            "options": [
+                "Porque reduz a acidez do café",
+                "Porque mantém o café quente por mais tempo",
+                "Porque adiciona açúcares naturais ao café",
+                "Porque reage com a cafeína, tornando-a menos intensa"
+            ],
+            "correctAnswer": "Porque reduz a acidez do café"
+        },
+        {
+            "question": "Por que o fermento faz a massa crescer?",
+            "options": [
+                "Porque libera dióxido de carbono durante a fermentação",
+                "Porque aumenta a temperatura da massa",
+                "Porque absorve a umidade da massa",
+                "Porque reage com açúcares, produzindo calor"
+            ],
+            "correctAnswer": "Porque libera dióxido de carbono durante a fermentação"
+        },
+        {
+            "question": "Por que a água é importante na cozinha?",
+            "options": [
+                "Porque dissolve ingredientes e facilita reações químicas",
+                "Porque mantém os alimentos quentes",
+                "Porque adiciona minerais essenciais aos pratos",
+                "Porque reage com gorduras, formando novas moléculas"
+            ],
+            "correctAnswer": "Porque dissolve ingredientes e facilita reações químicas"
+        },
+        {
+            "question": "Por que o bicarbonato de sódio é usado como antiácido?",
+            "options": [
+                "Porque neutraliza o ácido no estômago",
+                "Porque aquece o estômago, aliviando a dor",
+                "Porque evapora rapidamente, reduzindo a acidez",
+                "Porque forma uma camada protetora no estômago"
+            ],
+            "correctAnswer": "Porque neutraliza o ácido no estômago"
+        },
+        {
+            "question": "Por que o sal é usado para descongelar estradas no inverno?",
+            "options": [
+                "Porque abaixa o ponto de fusão da água, derretendo o gelo",
+                "Porque adiciona calor ao gelo, fazendo-o derreter",
+                "Porque absorve a água, eliminando o gelo",
+                "Porque reage quimicamente com o gelo, formando água"
+            ],
+            "correctAnswer": "Porque abaixa o ponto de fusão da água, derretendo o gelo"
+        },
+        {
+            "question": "Por que a água fervente é usada para esterilizar utensílios de cozinha?",
+            "options": [
+                "Porque mata bactérias e microrganismos com o calor",
+                "Porque dissolve sujeiras e resíduos",
+                "Porque evapora rapidamente, deixando os utensílios secos",
+                "Porque cria uma camada protetora contra germes"
+            ],
+            "correctAnswer": "Porque mata bactérias e microrganismos com o calor"
+        },
+        {
+            "question": "Como o amido ajuda a espessar molhos?",
+            "options": [
+                "Porque absorve água e forma uma rede gelatinosa",
+                "Porque reage com proteínas, aumentando a viscosidade",
+                "Porque se dissolve completamente, engrossando o líquido",
+                "Porque evapora lentamente, concentrando o molho"
+            ],
+            "correctAnswer": "Porque absorve água e forma uma rede gelatinosa"
+        },
+        {
+            "question": "Por que o leite azeda quando estraga?",
+            "options": [
+                "Porque bactérias convertem lactose em ácido lático",
+                "Porque a gordura se separa, formando compostos ácidos",
+                "Porque o açúcar se decompõe em ácidos orgânicos",
+                "Porque as proteínas reagem com o ar, tornando-se ácidas"
+            ],
+            "correctAnswer": "Porque bactérias convertem lactose em ácido lático"
+        },
+        {
+            "question": "Por que usamos limão para remover manchas de ferrugem?",
+            "options": [
+                "Porque o ácido cítrico dissolve o óxido de ferro",
+                "Porque o limão é alcalino e neutraliza o ácido",
+                "Porque o limão aquece a mancha, facilitando a remoção",
+                "Porque o limão absorve a umidade da ferrugem"
+            ],
+            "correctAnswer": "Porque o ácido cítrico dissolve o óxido de ferro"
+        },
+        {
+            "question": "Por que os vidros não se misturam com água?",
+            "options": [
+                "Porque são materiais não polares e não se dissolvem",
+                "Porque são hidrofílicos e repelem a água",
+                "Porque têm uma estrutura cristalina que bloqueia a água",
+                "Porque são ácidos e reagem com a água, formando sólidos"
+            ],
+            "correctAnswer": "Porque são materiais não polares e não se dissolvem"
+        },
+        {
+            "question": "Por que o peróxido de hidrogênio é usado em clareadores dentais?",
+            "options": [
+                "Porque oxida manchas e branquear os dentes",
+                "Porque dissolve a placa bacteriana, limpando os dentes",
+                "Porque reage com esmalte, fortalecendo os dentes",
+                "Porque é um ácido fraco e não danifica os dentes"
+            ],
+            "correctAnswer": "Porque oxida manchas e branquear os dentes"
+        },
+        {
+            "question": "Por que o carvão ativado é usado em filtros de água?",
+            "options": [
+                "Porque absorve impurezas e toxinas da água",
+                "Porque reage com metais pesados, removendo-os",
+                "Porque dissolve sais minerais, purificando a água",
+                "Porque evapora a água, deixando-a limpa"
+            ],
+            "correctAnswer": "Porque absorve impurezas e toxinas da água"
+        },
+        {
+            "question": "Por que o alumínio é usado em embalagens de alimentos?",
+            "options": [
+                "Porque é leve, resistente e protege contra oxidação",
+                "Porque mantém os alimentos quentes por mais tempo",
+                "Porque reage com alimentos, realçando o sabor",
+                "Porque adiciona minerais essenciais aos alimentos"
+            ],
+            "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
+        },
+        {
+            "question": "Por que o vinagre é eficaz para limpar superfícies?",
+            "options": [
+                "Porque contém ácido acético que dissolve sujeiras",
+                "Porque evapora rapidamente, removendo manchas",
+                "Porque reage com o ar, criando um efeito de limpeza",
+                "Porque é um base forte que neutraliza ácidos"
+            ],
+            "correctAnswer": "Porque contém ácido acético que dissolve sujeiras"
+        },
+        {
+            "question": "Por que o bicarbonato de sódio é utilizado para aliviar a azia?",
+            "options": [
+                "Porque neutraliza a acidez estomacal",
+                "Porque forma uma barreira protetora no estômago",
+                "Porque absorve os ácidos do estômago",
+                "Porque evapora e reduz a acidez rapidamente"
+            ],
+            "correctAnswer": "Porque neutraliza a acidez estomacal"
+        },
+        {
+            "question": "Como o amido ajuda a espessar molhos em receitas culinárias?",
+            "options": [
+                "Porque absorve água e forma uma rede gelatinosa",
+                "Porque reage com proteínas, aumentando a espessura",
+                "Porque evapora lentamente, concentrando o molho",
+                "Porque dissolve e aumenta a viscosidade do líquido"
+            ],
+            "correctAnswer": "Porque absorve água e forma uma rede gelatinosa"
+        },
+        {
+            "question": "Por que a água oxigenada é usada para clarear manchas em tecidos?",
+            "options": [
+                "Porque é um agente oxidante que quebra moléculas de cor",
+                "Porque evapora rapidamente, removendo as manchas",
+                "Porque dissolve a sujeira e a gordura dos tecidos",
+                "Porque reage com os pigmentos, alterando suas propriedades"
+            ],
+            "correctAnswer": "Porque é um agente oxidante que quebra moléculas de cor"
+        },
+        {
+            "question": "Por que o sal é adicionado em conservas alimentares?",
+            "options": [
+                "Porque desidrata os microrganismos, impedindo seu crescimento",
+                "Porque evapora rapidamente, eliminando bactérias",
+                "Porque forma uma camada protetora ao redor do alimento",
+                "Porque reage com os alimentos, preservando seu sabor"
+            ],
+            "correctAnswer": "Porque desidrata os microrganismos, impedindo seu crescimento"
+        },
+        {
+            "question": "Por que o açúcar é usado na fabricação de doces?",
+            "options": [
+                "Porque contribui para a textura e sabor",
+                "Porque evapora rapidamente, concentrando os ingredientes",
+                "Porque reage com o ar, criando uma crosta doce",
+                "Porque dissolve completamente, formando um gel"
+            ],
+            "correctAnswer": "Porque contribui para a textura e sabor"
+        },
+        {
+            "question": "Por que o cloro é adicionado à água da piscina?",
+            "options": [
+                "Porque mata microrganismos e mantém a água limpa",
+                "Porque reage com minerais presentes na água",
+                "Porque dá uma cor azul agradável à água",
+                "Porque aumenta a temperatura da água da piscina"
+            ],
+            "correctAnswer": "Porque mata microrganismos e mantém a água limpa"
+        },
+        {
+            "question": "Por que o suco de limão pode ser usado para limpar manchas?",
+            "options": [
+                "Porque contém ácido cítrico que dissolve sujeiras",
+                "Porque evapora rapidamente, deixando a superfície limpa",
+                "Porque é um agente básico que neutraliza ácidos",
+                "Porque forma uma camada protetora contra novas manchas"
+            ],
+            "correctAnswer": "Porque contém ácido cítrico que dissolve sujeiras"
+        },
+        {
+            "question": "Por que o alumínio é utilizado em embalagens de alimentos?",
+            "options": [
+                "Porque é leve, resistente e protege contra oxidação",
+                "Porque adiciona minerais essenciais aos alimentos",
+                "Porque mantém os alimentos quentes por mais tempo",
+                "Porque reage com alimentos, realçando o sabor"
+            ],
+            "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
+        },
+        {
+            "question": "Por que o carvão ativado é utilizado em filtros de água?",
+            "options": [
+                "Porque absorve impurezas e toxinas",
+                "Porque reage com metais pesados, removendo-os",
+                "Porque dissolve sais minerais, purificando a água",
+                "Porque evapora a água, deixando-a limpa"
+            ],
+            "correctAnswer": "Porque absorve impurezas e toxinas"
+        },
+        {
+            "question": "Por que o sal é usado para temperar alimentos?",
+            "options": [
+                "Porque realça o sabor dos alimentos",
+                "Porque adiciona cor aos alimentos",
+                "Porque aumenta a temperatura de cozimento",
+                "Porque reage quimicamente com os nutrientes"
+            ],
+            "correctAnswer": "Porque realça o sabor dos alimentos"
+        },
+        {
+            "question": "Por que o vinagre é eficaz para limpar superfícies?",
+            "options": [
+                "Porque contém ácido acético que dissolve sujeiras",
+                "Porque evapora rapidamente, removendo manchas",
+                "Porque reage com o ar, criando um efeito de limpeza",
+                "Porque é um base forte que neutraliza ácidos"
+            ],
+            "correctAnswer": "Porque contém ácido acético que dissolve sujeiras"
+        },
+        {
+            "question": "Por que o açúcar é usado na fabricação de doces?",
+            "options": [
+                "Porque contribui para a textura e sabor",
+                "Porque evapora rapidamente, concentrando os ingredientes",
+                "Porque reage com o ar, criando uma crosta doce",
+                "Porque dissolve completamente, formando um gel"
+            ],
+            "correctAnswer": "Porque contribui para a textura e sabor"
+        },
+        {
+            "question": "Por que o cloro é adicionado à água da piscina?",
+            "options": [
+                "Porque mata microrganismos e mantém a água limpa",
+                "Porque reage com minerais presentes na água",
+                "Porque dá uma cor azul agradável à água",
+                "Porque aumenta a temperatura da água da piscina"
+            ],
+            "correctAnswer": "Porque mata microrganismos e mantém a água limpa"
+        },
+        {
+            "question": "Por que o suco de limão pode ser usado para limpar manchas?",
+            "options": [
+                "Porque contém ácido cítrico que dissolve sujeiras",
+                "Porque evapora rapidamente, deixando a superfície limpa",
+                "Porque é um agente básico que neutraliza ácidos",
+                "Porque forma uma camada protetora contra novas manchas"
+            ],
+            "correctAnswer": "Porque contém ácido cítrico que dissolve sujeiras"
+        },
+        {
+            "question": "Por que o alumínio é utilizado em embalagens de alimentos?",
+            "options": [
+                "Porque é leve, resistente e protege contra oxidação",
+                "Porque adiciona minerais essenciais aos alimentos",
+                "Porque mantém os alimentos quentes por mais tempo",
+                "Porque reage com alimentos, realçando o sabor"
+            ],
+            "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
+        },
+        {
+            "question": "Por que o carvão ativado é utilizado em filtros de água?",
+            "options": [
+                "Porque absorve impurezas e toxinas",
+                "Porque reage com metais pesados, removendo-os",
+                "Porque dissolve sais minerais, purificando a água",
+                "Porque evapora a água, deixando-a limpa"
+            ],
+            "correctAnswer": "Porque absorve impurezas e toxinas"
+        },
+        {
+            "question": "Por que o bicarbonato de sódio é utilizado para aliviar a azia?",
+            "options": [
+                "Porque neutraliza a acidez estomacal",
+                "Porque forma uma barreira protetora no estômago",
+                "Porque absorve os ácidos do estômago",
+                "Porque evapora e reduz a acidez rapidamente"
+            ],
+            "correctAnswer": "Porque neutraliza a acidez estomacal"
+        },
+        {
+            "question": "Por que o leite azeda quando estraga?",
+            "options": [
+                "Porque bactérias convertem lactose em ácido lático",
+                "Porque a gordura se separa, formando compostos ácidos",
+                "Porque o açúcar se decompõe em ácidos orgânicos",
+                "Porque as proteínas reagem com o ar, tornando-se ácidas"
+            ],
+            "correctAnswer": "Porque bactérias convertem lactose em ácido lático"
+        },
+        {
+            "question": "Como o amido ajuda a espessar molhos em receitas culinárias?",
+            "options": [
+                "Porque absorve água e forma uma rede gelatinosa",
+                "Porque reage com proteínas, aumentando a espessura",
+                "Porque evapora lentamente, concentrando o molho",
+                "Porque dissolve e aumenta a viscosidade do líquido"
+            ],
+            "correctAnswer": "Porque absorve água e forma uma rede gelatinosa"
+        },
+        {
+            "question": "Por que o sal é usado para descongelar estradas no inverno?",
+            "options": [
+                "Porque abaixa o ponto de fusão da água, derretendo o gelo",
+                "Porque adiciona calor ao gelo, fazendo-o derreter rapidamente",
+                "Porque absorve a água, eliminando o gelo da superfície",
+                "Porque reage quimicamente com o gelo, formando água"
+            ],
+            "correctAnswer": "Porque abaixa o ponto de fusão da água, derretendo o gelo"
+        },
+        {
+            "question": "Por que o cloro é adicionado à água da piscina?",
+            "options": [
+                "Porque mata microrganismos e mantém a água limpa",
+                "Porque reage com minerais presentes na água",
+                "Porque dá uma cor azul agradável à água",
+                "Porque aumenta a temperatura da água da piscina"
+            ],
+            "correctAnswer": "Porque mata microrganismos e mantém a água limpa"
+        },
+        {
+            "question": "Por que o suco de limão é eficaz na limpeza de manchas de ferrugem?",
+            "options": [
+                "Porque contém ácido cítrico que dissolve o óxido de ferro",
+                "Porque evapora rapidamente, removendo as manchas",
+                "Porque é um agente básico que neutraliza ácidos",
+                "Porque forma uma camada protetora contra novas manchas"
+            ],
+            "correctAnswer": "Porque contém ácido cítrico que dissolve o óxido de ferro"
+        },
+        {
+            "question": "Por que o bicarbonato de sódio é usado para aliviar a azia?",
+            "options": [
+                "Porque neutraliza a acidez estomacal",
+                "Porque forma uma barreira protetora no estômago",
+                "Porque absorve os ácidos do estômago",
+                "Porque evapora e reduz a acidez rapidamente"
+            ],
+            "correctAnswer": "Porque neutraliza a acidez estomacal"
+        },
+        {
+            "question": "Como o amido ajuda a espessar molhos em receitas culinárias?",
+            "options": [
+                "Porque absorve água e forma uma rede gelatinosa",
+                "Porque reage com proteínas, aumentando a espessura do molho",
+                "Porque evapora lentamente, concentrando os sabores",
+                "Porque dissolve completamente, aumentando a viscosidade"
+            ],
+            "correctAnswer": "Porque absorve água e forma uma rede gelatinosa"
+        },
+        {
+            "question": "Por que o leite azeda quando estraga?",
+            "options": [
+                "Porque bactérias convertem lactose em ácido lático",
+                "Porque a gordura se separa, formando compostos ácidos",
+                "Porque o açúcar se decompõe em ácidos orgânicos",
+                "Porque as proteínas reagem com o ar, tornando-se ácidas"
+            ],
+            "correctAnswer": "Porque bactérias convertem lactose em ácido lático"
+        },
+        {
+            "question": "Por que o carvão ativado é utilizado em filtros de água?",
+            "options": [
+                "Porque absorve impurezas e toxinas da água",
+                "Porque reage com metais pesados, removendo-os",
+                "Porque dissolve sais minerais, purificando a água",
+                "Porque evapora a água, deixando-a mais limpa"
+            ],
+            "correctAnswer": "Porque absorve impurezas e toxinas da água"
+        },
+        {
+            "question": "Por que o alumínio é utilizado em embalagens de alimentos?",
+            "options": [
+                "Porque é leve, resistente e protege contra oxidação",
+                "Porque adiciona minerais essenciais aos alimentos",
+                "Porque mantém os alimentos quentes por mais tempo",
+                "Porque reage com alimentos, realçando o sabor"
+            ],
+            "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
+        },
+        {
+            "question": "Por que o vinagre é eficaz na limpeza de superfícies?",
+            "options": [
+                "Porque contém ácido acético que dissolve sujeiras",
+                "Porque evapora rapidamente, removendo manchas",
+                "Porque reage com o ar, criando um efeito de limpeza",
+                "Porque é um base forte que neutraliza ácidos"
+            ],
+            "correctAnswer": "Porque contém ácido acético que dissolve sujeiras"
+        },
+        {
+            "question": "Por que o sal é usado para temperar alimentos?",
+            "options": [
+                "Porque realça o sabor dos alimentos",
+                "Porque adiciona cor aos alimentos",
+                "Porque aumenta a temperatura de cozimento",
+                "Porque reage quimicamente com os nutrientes"
+            ],
+            "correctAnswer": "Porque realça o sabor dos alimentos"
+        },
+        {
+            "question": "Por que usamos água destilada em ferros de passar roupa?",
+            "options": [
+                "Porque evita a formação de depósitos minerais",
+                "Porque melhora a temperatura do ferro",
+                "Porque reage com o tecido para facilitar o deslizamento",
+                "Porque adiciona umidade extra às roupas"
+            ],
+            "correctAnswer": "Porque evita a formação de depósitos minerais"
+        },
+        {
+            "question": "Por que a água com gás é refrescante?",
+            "options": [
+                "Porque as bolhas de CO2 estimulam as papilas gustativas",
+                "Porque contém açúcar",
+                "Porque é servida gelada",
+                "Porque o gás carbônico reage com a saliva"
+            ],
+            "correctAnswer": "Porque as bolhas de CO2 estimulam as papilas gustativas"
+        },
+        {
+            "question": "Por que o vinagre é usado para limpar vidro?",
+            "options": [
+                "Porque contém ácido acético que dissolve sujeiras",
+                "Porque evapora rapidamente",
+                "Porque forma uma camada protetora",
+                "Porque reage com o vidro"
+            ],
+            "correctAnswer": "Porque contém ácido acético que dissolve sujeiras"
+        },
+        {
+            "question": "Por que o bicarbonato de sódio é usado na limpeza?",
+            "options": [
+                "Porque neutraliza ácidos e odores",
+                "Porque evapora rapidamente, removendo sujeiras",
+                "Porque dissolve óleos e gorduras",
+                "Porque reage com metais, formando compostos solúveis"
+            ],
+            "correctAnswer": "Porque neutraliza ácidos e odores"
+        },
+        {
+            "question": "Como o cloro mantém a água da piscina limpa?",
+            "options": [
+                "Porque mata microrganismos",
+                "Porque forma uma barreira protetora",
+                "Porque reage com metais na água",
+                "Porque evapora, removendo sujeiras"
+            ],
+            "correctAnswer": "Porque mata microrganismos"
+        },
+        {
+            "question": "Por que o sal é usado na conservação de alimentos?",
+            "options": [
+                "Porque desidrata os microrganismos, inibindo seu crescimento",
+                "Porque adiciona sabor aos alimentos",
+                "Porque aumenta a temperatura de cozimento",
+                "Porque reage com ácidos presentes nos alimentos"
+            ],
+            "correctAnswer": "Porque desidrata os microrganismos, inibindo seu crescimento"
+        },
+        {
+            "question": "Por que o suco de limão remove manchas de ferrugem?",
+            "options": [
+                "Porque contém ácido cítrico que dissolve o óxido de ferro",
+                "Porque evapora rapidamente, removendo as manchas",
+                "Porque forma uma camada protetora contra novas manchas",
+                "Porque reage com o tecido, liberando o ferro"
+            ],
+            "correctAnswer": "Porque contém ácido cítrico que dissolve o óxido de ferro"
+        },
+        {
+            "question": "Por que o fermento faz o bolo crescer?",
+            "options": [
+                "Porque libera dióxido de carbono durante a fermentação",
+                "Porque aquece a massa, aumentando o volume",
+                "Porque reage com o açúcar, formando bolhas",
+                "Porque evapora, deixando o bolo mais leve"
+            ],
+            "correctAnswer": "Porque libera dióxido de carbono durante a fermentação"
+        },
+        {
+            "question": "Por que o protetor solar é necessário?",
+            "options": [
+                "Porque bloqueia a radiação UV, prevenindo queimaduras",
+                "Porque mantém a pele hidratada",
+                "Porque adiciona cor à pele",
+                "Porque reage com a luz solar, criando uma camada protetora"
+            ],
+            "correctAnswer": "Porque bloqueia a radiação UV, prevenindo queimaduras"
+        },
+        {
+            "question": "Por que o alumínio é usado em embalagens de alimentos?",
+            "options": [
+                "Porque é leve, resistente e protege contra oxidação",
+                "Porque adiciona minerais aos alimentos",
+                "Porque mantém os alimentos quentes por mais tempo",
+                "Porque reage com os alimentos, realçando o sabor"
+            ],
+            "correctAnswer": "Porque é leve, resistente e protege contra oxidação"
+        }
+    ]
+}
