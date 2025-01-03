@@ -26,6 +26,7 @@
                 <button id="btn-chemistry" class="btn btn-success">Química</button>
                 <button id="btn-physics" class="btn btn-success">Física</button>
                 <button id="btn-geography" class="btn btn-success">Geografia</button>
+                <button id="btn-history" class="btn btn-success">História</button>
             </div>
             <div id="question" class="d-none">
                 <h3 id="team-playing-text"></h3>
@@ -83,16 +84,18 @@
         let teamPlaying = teams[0];
 
         // urls for each topic
-        const science = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/ciencias.JSON";
-        const chemistry = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/quimica.JSON";
-        const physics = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/fisica.JSON";
-        const geography = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/geografia.JSON";
+        const scienceUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/ciencias.JSON";
+        const chemistryUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/quimica.JSON";
+        const physicsUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/fisica.JSON";
+        const geographyUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/geografia.JSON";
+        const historyUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/historia.JSON";
 
         // Buttons elements
         const btnScience = document.getElementById("btn-science");
         const btnChemistry = document.getElementById("btn-chemistry");
         const btnPhysics = document.getElementById("btn-physics");
         const btnGeography = document.getElementById("btn-geography");
+        const btnHistory = document.getElementById("btn-history");
 
         const btnAnswer = document.getElementById("btn-answer");
         const btnNextQuestion = document.getElementById("btn-next-question");
@@ -136,10 +139,11 @@
             divQuestion.classList.add("d-none");
             divCorrectAnswer.classList.add("d-none");
             
-            btnScience.addEventListener('click', () => randomQuestion(science));
-            btnChemistry.addEventListener('click', () => randomQuestion(chemistry));
-            btnPhysics.addEventListener('click', () => randomQuestion(physics));
-            btnGeography.addEventListener('click', () => randomQuestion(geography));
+            btnScience.addEventListener('click', () => randomQuestion(scienceUrl));
+            btnChemistry.addEventListener('click', () => randomQuestion(chemistryUrl));
+            btnPhysics.addEventListener('click', () => randomQuestion(physicsUrl));
+            btnGeography.addEventListener('click', () => randomQuestion(geographyUrl));
+            btnHistory.addEventListener('click', () => randomQuestion(historyUrl));
         }
 
         // Function to get a random question from a specific topic

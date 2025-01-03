@@ -1,0 +1,2004 @@
+{
+    "questions": [
+        {
+            "question": "Em que ano ocorreu a independência do Brasil?",
+            "options": [
+                "1822",
+                "1888",
+                "1500",
+                "1964"
+            ],
+            "correctAnswer": "1822"
+        },
+        {
+            "question": "Quem foi o líder da Inconfidência Mineira?",
+            "options": [
+                "Tiradentes",
+                "Dom Pedro I",
+                "Getúlio Vargas",
+                "Juscelino Kubitschek"
+            ],
+            "correctAnswer": "Tiradentes"
+        },
+        {
+            "question": "Qual foi o primeiro capital do Brasil?",
+            "options": [
+                "Salvador",
+                "Rio de Janeiro",
+                "São Paulo",
+                "Brasília"
+            ],
+            "correctAnswer": "Salvador"
+        },
+        {
+            "question": "Quem proclamou a República no Brasil?",
+            "options": [
+                "Marechal Deodoro da Fonseca",
+                "Dom Pedro II",
+                "Dom João VI",
+                "José Bonifácio"
+            ],
+            "correctAnswer": "Marechal Deodoro da Fonseca"
+        },
+        {
+            "question": "Em que ano a Lei Áurea foi assinada, abolindo a escravidão no Brasil?",
+            "options": [
+                "1888",
+                "1822",
+                "1910",
+                "1500"
+            ],
+            "correctAnswer": "1888"
+        },
+        {
+            "question": "Quem foi o presidente do Brasil durante a Revolução de 1930?",
+            "options": [
+                "Getúlio Vargas",
+                "Eurico Gaspar Dutra",
+                "Juscelino Kubitschek",
+                "João Goulart"
+            ],
+            "correctAnswer": "Getúlio Vargas"
+        },
+        {
+            "question": "Qual foi o movimento político e social que ocorreu no Brasil em 1964?",
+            "options": [
+                "Golpe Militar",
+                "Diretas Já",
+                "Revolta da Vacina",
+                "Movimento dos Trabalhadores Sem Terra"
+            ],
+            "correctAnswer": "Golpe Militar"
+        },
+        {
+            "question": "Qual era o nome da colônia de imigrantes japoneses que se estabeleceu no Brasil?",
+            "options": [
+                "Colônia de Bastos",
+                "Colônia de Dona Francisca",
+                "Colônia de Rio Claro",
+                "Colônia de Leopoldina"
+            ],
+            "correctAnswer": "Colônia de Bastos"
+        },
+        {
+            "question": "Quem foi o autor da obra 'O Guarani', um marco do romantismo no Brasil?",
+            "options": [
+                "José de Alencar",
+                "Machado de Assis",
+                "Castro Alves",
+                "Jorge Amado"
+            ],
+            "correctAnswer": "José de Alencar"
+        },
+        {
+            "question": "Qual evento histórico marcou o início da ditadura militar no Brasil?",
+            "options": [
+                "Golpe de 1964",
+                "Revolução Constitucionalista",
+                "Independência",
+                "Proclamação da República"
+            ],
+            "correctAnswer": "Golpe de 1964"
+        },
+        {
+            "question": "Quem foi o primeiro imperador do Brasil?",
+            "options": [
+                "Dom Pedro I",
+                "Dom Pedro II",
+                "Dom João VI",
+                "Marechal Deodoro"
+            ],
+            "correctAnswer": "Dom Pedro I"
+        },
+        {
+            "question": "Qual foi o objetivo da Revolta dos Malês em 1835?",
+            "options": [
+                "Abolir a escravidão",
+                "Proclamar a República",
+                "Reivindicar direitos indígenas",
+                "Lutar pela independência"
+            ],
+            "correctAnswer": "Abolir a escravidão"
+        },
+        {
+            "question": "Em que ano o Brasil sediou a Copa do Mundo pela primeira vez?",
+            "options": [
+                "1950",
+                "2014",
+                "1994",
+                "1962"
+            ],
+            "correctAnswer": "1950"
+        },
+        {
+            "question": "Quem foi o líder do movimento abolicionista no Brasil?",
+            "options": [
+                "Luís Gama",
+                "José Bonifácio",
+                "Castro Alves",
+                "Tiradentes"
+            ],
+            "correctAnswer": "Luís Gama"
+        },
+        {
+            "question": "Qual foi a consequência imediata da Proclamação da República em 1889?",
+            "options": [
+                "Exílio de Dom Pedro II",
+                "Abolição da escravidão",
+                "Criação do Real",
+                "Início da Ditadura"
+            ],
+            "correctAnswer": "Exílio de Dom Pedro II"
+        },
+        {
+            "question": "Quem foi o presidente do Brasil durante a construção de Brasília?",
+            "options": [
+                "Juscelino Kubitschek",
+                "Getúlio Vargas",
+                "Eurico Gaspar Dutra",
+                "João Figueiredo"
+            ],
+            "correctAnswer": "Juscelino Kubitschek"
+        },
+        {
+            "question": "Qual movimento artístico surgiu na Semana de Arte Moderna de 1922?",
+            "options": [
+                "Modernismo",
+                "Barroco",
+                "Romantismo",
+                "Renascimento"
+            ],
+            "correctAnswer": "Modernismo"
+        },
+        {
+            "question": "Qual foi o principal tratado que definiu as fronteiras entre o Brasil e os territórios espanhóis na América do Sul?",
+            "options": [
+                "Tratado de Tordesilhas",
+                "Tratado de Madrid",
+                "Tratado de Badajós",
+                "Tratado de Utrecht"
+            ],
+            "correctAnswer": "Tratado de Madrid"
+        },
+        {
+            "question": "Quem foi eleito presidente do Brasil após o fim da ditadura militar em 1985?",
+            "options": [
+                "Tancredo Neves",
+                "Fernando Collor",
+                "José Sarney",
+                "Itamar Franco"
+            ],
+            "correctAnswer": "Tancredo Neves"
+        },
+        {
+            "question": "Qual foi a principal causa da Guerra do Paraguai?",
+            "options": [
+                "Disputas territoriais",
+                "Diferenças religiosas",
+                "Conflitos étnicos",
+                "Rivalidades comerciais"
+            ],
+            "correctAnswer": "Disputas territoriais"
+        },
+        {
+            "question": "A Proclamação da República no Brasil, em 1889, foi marcada pela deposição de qual figura histórica?",
+            "options": [
+                "Dom Pedro II",
+                "Getúlio Vargas",
+                "Tiradentes",
+                "José Bonifácio"
+            ],
+            "correctAnswer": "Dom Pedro II"
+        },
+        {
+            "question": "Qual foi o movimento liderado por escravos que resultou na criação do Quilombo dos Palmares?",
+            "options": [
+                "Revolta dos Malês",
+                "Guerra de Canudos",
+                "Revolução Farroupilha",
+                "Revolta da Vacina"
+            ],
+            "correctAnswer": "Revolta dos Malês"
+        },
+        {
+            "question": "O Plano de Metas foi um programa de desenvolvimento econômico implementado por qual presidente brasileiro?",
+            "options": [
+                "Juscelino Kubitschek",
+                "Getúlio Vargas",
+                "João Goulart",
+                "Fernando Collor"
+            ],
+            "correctAnswer": "Juscelino Kubitschek"
+        },
+        {
+            "question": "A Inconfidência Mineira, movimento separatista ocorrido no século XVIII, tinha como um de seus principais líderes:",
+            "options": [
+                "Tiradentes",
+                "Dom Pedro I",
+                "José Bonifácio",
+                "Castro Alves"
+            ],
+            "correctAnswer": "Tiradentes"
+        },
+        {
+            "question": "A Lei Áurea, que aboliu a escravidão no Brasil, foi assinada por qual princesa?",
+            "options": [
+                "Princesa Isabel",
+                "Princesa Leopoldina",
+                "Princesa Carlota Joaquina",
+                "Princesa Maria da Glória"
+            ],
+            "correctAnswer": "Princesa Isabel"
+        },
+        {
+            "question": "A Era Vargas (1930-1945) foi um período da história brasileira caracterizado por:",
+            "options": [
+                "Industrialização e centralização do poder",
+                "Expansão agrícola e descentralização do poder",
+                "Colonização e escravização indígena",
+                "Militarização e fechamento do comércio exterior"
+            ],
+            "correctAnswer": "Industrialização e centralização do poder"
+        },
+        {
+            "question": "O Tratado de Tordesilhas, assinado em 1494, tinha como objetivo:",
+            "options": [
+                "Dividir as terras descobertas entre Portugal e Espanha",
+                "Estabelecer a paz entre as tribos indígenas",
+                "Regulamentar o comércio de escravos na África",
+                "Definir as fronteiras entre Brasil e Argentina"
+            ],
+            "correctAnswer": "Dividir as terras descobertas entre Portugal e Espanha"
+        },
+        {
+            "question": "A Constituição de 1988, também conhecida como 'Constituição Cidadã', foi promulgada durante a presidência de:",
+            "options": [
+                "José Sarney",
+                "Fernando Collor",
+                "Itamar Franco",
+                "Tancredo Neves"
+            ],
+            "correctAnswer": "José Sarney"
+        },
+        {
+            "question": "A Revolução de 1930, que levou Getúlio Vargas ao poder, foi desencadeada por:",
+            "options": [
+                "Fraudes eleitorais e disputas políticas",
+                "Movimentos separatistas no Nordeste",
+                "Invasão estrangeira e conflitos armados",
+                "Declaração de independência dos estados do Sul"
+            ],
+            "correctAnswer": "Fraudes eleitorais e disputas políticas"
+        },
+        {
+            "question": "A Guerra de Canudos, ocorrida entre 1896 e 1897, teve como líder religioso:",
+            "options": [
+                "Antônio Conselheiro",
+                "Padre Cícero",
+                "Frei Caneca",
+                "José de Alencar"
+            ],
+            "correctAnswer": "Antônio Conselheiro"
+        },
+        {
+            "question": "O que foi a Revolta da Chibata, ocorrida no início do século XX?",
+            "options": [
+                "Uma revolta de marinheiros contra os castigos corporais",
+                "Uma revolta de escravos por melhores condições de trabalho",
+                "Um movimento separatista na região Sul",
+                "Uma revolta indígena contra a colonização"
+            ],
+            "correctAnswer": "Uma revolta de marinheiros contra os castigos corporais"
+        },
+        {
+            "question": "Qual foi a principal causa da Guerra do Contestado (1912-1916)?",
+            "options": [
+                "Disputas territoriais entre Santa Catarina e Paraná",
+                "Desentendimentos religiosos entre comunidades locais",
+                "Conflitos entre fazendeiros e trabalhadores rurais",
+                "A luta pelo direito ao voto feminino"
+            ],
+            "correctAnswer": "Disputas territoriais entre Santa Catarina e Paraná"
+        },
+        {
+            "question": "Qual presidente brasileiro governou durante o período conhecido como Milagre Econômico?",
+            "options": [
+                "Emílio Garrastazu Médici",
+                "João Figueiredo",
+                "Juscelino Kubitschek",
+                "Fernando Collor"
+            ],
+            "correctAnswer": "Emílio Garrastazu Médici"
+        },
+        {
+            "question": "Qual foi o tratado que definiu as fronteiras entre Brasil e Uruguai?",
+            "options": [
+                "Tratado de Badajós",
+                "Tratado de Madrid",
+                "Tratado de Tordesilhas",
+                "Tratado de Petrópolis"
+            ],
+            "correctAnswer": "Tratado de Badajós"
+        },
+        {
+            "question": "Qual evento histórico marcou o início do Período Regencial no Brasil?",
+            "options": [
+                "Abdicação de Dom Pedro I",
+                "Proclamação da República",
+                "Independência do Brasil",
+                "Assinatura da Lei Áurea"
+            ],
+            "correctAnswer": "Abdicação de Dom Pedro I"
+        },
+        {
+            "question": "Qual foi a principal consequência da Revolução de 1930 no Brasil?",
+            "options": [
+                "A ascensão de Getúlio Vargas ao poder",
+                "A emancipação política dos estados do Norte",
+                "A criação do Movimento dos Trabalhadores Sem Terra",
+                "A instalação do regime militar no país"
+            ],
+            "correctAnswer": "A ascensão de Getúlio Vargas ao poder"
+        },
+        {
+            "question": "Qual foi o objetivo do movimento Tenentista na década de 1920?",
+            "options": [
+                "Reformas políticas e sociais",
+                "Reivindicações por melhores salários",
+                "Independência de regiões periféricas",
+                "Expulsão de colonizadores estrangeiros"
+            ],
+            "correctAnswer": "Reformas políticas e sociais"
+        },
+        {
+            "question": "Quem foi o líder do Quilombo dos Palmares, conhecido pela resistência à escravidão?",
+            "options": [
+                "Zumbi dos Palmares",
+                "Dandara",
+                "Luís Gama",
+                "Tiradentes"
+            ],
+            "correctAnswer": "Zumbi dos Palmares"
+        },
+        {
+            "question": "O que foi o Plano Real, implementado na década de 1990 no Brasil?",
+            "options": [
+                "Um programa de estabilização econômica",
+                "Um movimento pela reforma agrária",
+                "Um plano de expansão industrial",
+                "Uma campanha de alfabetização em massa"
+            ],
+            "correctAnswer": "Um programa de estabilização econômica"
+        },
+        {
+            "question": "Qual foi o objetivo do Tratado de Petrópolis, assinado em 1903?",
+            "options": [
+                "Incorporar o Acre ao território brasileiro",
+                "Definir as fronteiras do Brasil com a Argentina",
+                "Estabelecer a paz entre os estados do Sul",
+                "Abolir a escravidão no Brasil"
+            ],
+            "correctAnswer": "Incorporar o Acre ao território brasileiro"
+        },
+        {
+            "question": "Qual foi a principal consequência da Guerra do Paraguai (1864-1870) para o Brasil?",
+            "options": [
+                "Fortalecimento do Exército Brasileiro",
+                "Independência do Uruguai",
+                "Expansão territorial para o Oeste",
+                "Redução da dívida externa"
+            ],
+            "correctAnswer": "Fortalecimento do Exército Brasileiro"
+        },
+        {
+            "question": "O que representou o Ato Institucional Número Cinco (AI-5) durante o regime militar brasileiro?",
+            "options": [
+                "Restrição de direitos civis e políticos",
+                "Abertura econômica e incentivo ao turismo",
+                "Redução das tarifas de importação",
+                "Legalização de partidos comunistas"
+            ],
+            "correctAnswer": "Restrição de direitos civis e políticos"
+        },
+        {
+            "question": "Qual foi o marco inicial da imigração japonesa para o Brasil?",
+            "options": [
+                "Chegada do navio Kasato Maru em 1908",
+                "Revolução de 1930",
+                "Proclamação da República",
+                "Início do ciclo do café"
+            ],
+            "correctAnswer": "Chegada do navio Kasato Maru em 1908"
+        },
+        {
+            "question": "Qual foi o principal líder da Revolta da Armada (1893-1894)?",
+            "options": [
+                "Almirante Custódio de Melo",
+                "Getúlio Vargas",
+                "João Goulart",
+                "Carlos Lacerda"
+            ],
+            "correctAnswer": "Almirante Custódio de Melo"
+        },
+        {
+            "question": "Quem foi o responsável pela introdução do café no Brasil no século XVIII?",
+            "options": [
+                "Francisco de Melo Palheta",
+                "Dom Pedro II",
+                "Tiradentes",
+                "Padre José de Anchieta"
+            ],
+            "correctAnswer": "Francisco de Melo Palheta"
+        },
+        {
+            "question": "Qual foi o objetivo principal da Política dos Governadores durante a Primeira República?",
+            "options": [
+                "Estabelecer alianças entre o governo federal e os estaduais",
+                "Redistribuir terras aos pequenos agricultores",
+                "Promover a industrialização no Nordeste",
+                "Ampliar os direitos de voto aos analfabetos"
+            ],
+            "correctAnswer": "Estabelecer alianças entre o governo federal e os estaduais"
+        },
+        {
+            "question": "Qual foi o principal motivo da Revolução Constitucionalista de 1932?",
+            "options": [
+                "Luta pela reconstitucionalização do país",
+                "Protesto contra a Abolição da Escravidão",
+                "Conflito entre militares e civis",
+                "Disputa pelo controle das exportações de café"
+            ],
+            "correctAnswer": "Luta pela reconstitucionalização do país"
+        },
+        {
+            "question": "Quem foi o autor da Carta de Pero Vaz de Caminha, descrevendo a descoberta do Brasil?",
+            "options": [
+                "Pero Vaz de Caminha",
+                "Pedro Álvares Cabral",
+                "Tomé de Souza",
+                "José de Alencar"
+            ],
+            "correctAnswer": "Pero Vaz de Caminha"
+        },
+        {
+            "question": "Qual foi a causa principal da criação da Lei de Terras de 1850 no Brasil?",
+            "options": [
+                "Regulamentar a posse e a venda de terras",
+                "Incentivar a imigração europeia",
+                "Proteger as reservas indígenas",
+                "Aumentar a produção de açúcar no Nordeste"
+            ],
+            "correctAnswer": "Regulamentar a posse e a venda de terras"
+        },
+        {
+            "question": "Qual foi o principal resultado do Tratado de Methuen (1703) para a economia brasileira?",
+            "options": [
+                "Estabelecimento de acordos comerciais com a Inglaterra",
+                "Redução das tarifas de exportação de açúcar",
+                "Proibição das exportações de tabaco",
+                "Criação de manufaturas de tecidos"
+            ],
+            "correctAnswer": "Estabelecimento de acordos comerciais com a Inglaterra"
+        },
+        {
+            "question": "Qual foi o principal objetivo da Revolução Farroupilha (1835-1845)?",
+            "options": [
+                "Lutar por maior autonomia regional",
+                "Abolir a escravidão no Brasil",
+                "Estabelecer a República",
+                "Incorporar o Uruguai ao Brasil"
+            ],
+            "correctAnswer": "Lutar por maior autonomia regional"
+        },
+        {
+            "question": "Quem foi o líder da Revolta da Vacina, ocorrida no Rio de Janeiro em 1904?",
+            "options": [
+                "Oswaldo Cruz",
+                "Euclides da Cunha",
+                "Afonso Pena",
+                "Rui Barbosa"
+            ],
+            "correctAnswer": "Oswaldo Cruz"
+        },
+        {
+            "question": "Qual foi o principal resultado do Tratado de Santo Ildefonso (1777) para o Brasil?",
+            "options": [
+                "Reconhecimento da soberania sobre o território de Rio Grande do Sul",
+                "Proibição do comércio de escravos",
+                "Aliança militar entre Brasil e Portugal",
+                "Expansão da mineração em Minas Gerais"
+            ],
+            "correctAnswer": "Reconhecimento da soberania sobre o território de Rio Grande do Sul"
+        },
+        {
+            "question": "Qual foi a principal causa da Revolta de Vila Rica (1720)?",
+            "options": [
+                "Excessivos impostos sobre o ouro",
+                "Disputas territoriais com os indígenas",
+                "Conflito entre colonos e jesuítas",
+                "Declaração de independência de Minas Gerais"
+            ],
+            "correctAnswer": "Excessivos impostos sobre o ouro"
+        },
+        {
+            "question": "Quem foi o autor da obra 'Os Sertões', que descreve a Guerra de Canudos?",
+            "options": [
+                "Euclides da Cunha",
+                "Machado de Assis",
+                "José de Alencar",
+                "Graciliano Ramos"
+            ],
+            "correctAnswer": "Euclides da Cunha"
+        },
+        {
+            "question": "Qual foi a principal reivindicação dos líderes do movimento das Diretas Já (1983-1984)?",
+            "options": [
+                "A realização de eleições diretas para presidente",
+                "A abolição da escravidão",
+                "A reforma agrária",
+                "A independência dos estados do Norte"
+            ],
+            "correctAnswer": "A realização de eleições diretas para presidente"
+        },
+        {
+            "question": "Qual foi o principal tratado que definiu as fronteiras entre o Brasil e a Guiana Francesa?",
+            "options": [
+                "Tratado de Utrecht",
+                "Tratado de Tordesilhas",
+                "Tratado de Badajós",
+                "Tratado de Madrid"
+            ],
+            "correctAnswer": "Tratado de Utrecht"
+        },
+        {
+            "question": "Quem foi o líder da Conjuração Baiana, também conhecida como Revolta dos Alfaiates, em 1798?",
+            "options": [
+                "João de Deus Nascimento",
+                "Tiradentes",
+                "Luís Gama",
+                "Gregório de Matos"
+            ],
+            "correctAnswer": "João de Deus Nascimento"
+        },
+        {
+            "question": "Qual foi o principal objetivo da Missão Francesa que chegou ao Brasil em 1816?",
+            "options": [
+                "Introduzir técnicas artísticas e científicas",
+                "Explorar e mapear a Amazônia",
+                "Estabelecer uma colônia penal",
+                "Implementar o cultivo de cana-de-açúcar"
+            ],
+            "correctAnswer": "Introduzir técnicas artísticas e científicas"
+        },
+        {
+            "question": "Qual evento marcou o fim da monarquia no Brasil e o início da República?",
+            "options": [
+                "Proclamação da República em 1889",
+                "Independência do Brasil em 1822",
+                "Lei Áurea em 1888",
+                "Revolução de 1930"
+            ],
+            "correctAnswer": "Proclamação da República em 1889"
+        },
+        {
+            "question": "Qual foi a principal causa da Guerra dos Emboabas (1707-1709)?",
+            "options": [
+                "Disputa pelo controle das minas de ouro",
+                "Conflito religioso entre colonos e jesuítas",
+                "Revolta de escravos contra seus senhores",
+                "Disputa pela posse de terras agricultáveis"
+            ],
+            "correctAnswer": "Disputa pelo controle das minas de ouro"
+        },
+        {
+            "question": "Quem foi o líder da Revolta da Sabinada (1837-1838) na Bahia?",
+            "options": [
+                "Francisco Sabino",
+                "Antônio Conselheiro",
+                "Luís Gama",
+                "Tiradentes"
+            ],
+            "correctAnswer": "Francisco Sabino"
+        },
+        {
+            "question": "Qual foi o principal objetivo da Confederação do Equador (1824)?",
+            "options": [
+                "Lutar contra o autoritarismo do governo central",
+                "Proclamar a independência de Pernambuco",
+                "Abolir a escravidão no Nordeste",
+                "Defender a criação de universidades públicas"
+            ],
+            "correctAnswer": "Lutar contra o autoritarismo do governo central"
+        },
+        {
+            "question": "Quem foi o presidente brasileiro durante a Segunda Guerra Mundial?",
+            "options": [
+                "Getúlio Vargas",
+                "Juscelino Kubitschek",
+                "Washington Luís",
+                "Eurico Gaspar Dutra"
+            ],
+            "correctAnswer": "Getúlio Vargas"
+        },
+        {
+            "question": "Qual foi a principal motivação para a Revolução Pernambucana de 1817?",
+            "options": [
+                "Insatisfação com os altos impostos",
+                "Conflitos com colonos holandeses",
+                "Disputa pela posse de terras indígenas",
+                "Movimento de reforma agrária"
+            ],
+            "correctAnswer": "Insatisfação com os altos impostos"
+        },
+        {
+            "question": "Qual evento marcou a passagem do período colonial para o Império no Brasil?",
+            "options": [
+                "Independência do Brasil em 1822",
+                "Proclamação da República em 1889",
+                "Início da Revolução Industrial",
+                "Assinatura da Lei Áurea em 1888"
+            ],
+            "correctAnswer": "Independência do Brasil em 1822"
+        },
+        {
+            "question": "Quem foi o líder do movimento abolicionista conhecido como 'O Apóstolo Negro'?",
+            "options": [
+                "Luís Gama",
+                "José do Patrocínio",
+                "Castro Alves",
+                "Zumbi dos Palmares"
+            ],
+            "correctAnswer": "José do Patrocínio"
+        },
+        {
+            "question": "Qual foi a consequência da Revolta de Felipe dos Santos (1720) em Minas Gerais?",
+            "options": [
+                "Execução de Felipe dos Santos e aumento da fiscalização sobre o ouro",
+                "Independência de Minas Gerais",
+                "Proclamação da República",
+                "Abolição da escravidão"
+            ],
+            "correctAnswer": "Execução de Felipe dos Santos e aumento da fiscalização sobre o ouro"
+        },
+        {
+            "question": "Qual foi a principal característica do governo de Juscelino Kubitschek (1956-1961)?",
+            "options": [
+                "Desenvolvimentismo e construção de Brasília",
+                "Regime autoritário e censura",
+                "Abolição da escravidão",
+                "Movimento tenentista"
+            ],
+            "correctAnswer": "Desenvolvimentismo e construção de Brasília"
+        },
+        {
+            "question": "Qual foi o principal motivo da eclosão da Revolução Federalista (1893-1895)?",
+            "options": [
+                "Conflitos políticos entre federalistas e republicanos",
+                "Disputa pela posse de minas de ouro",
+                "Conflitos entre indígenas e colonos",
+                "Luta pela abolição da escravidão"
+            ],
+            "correctAnswer": "Conflitos políticos entre federalistas e republicanos"
+        },
+        {
+            "question": "Qual foi o principal objetivo da Guerra de Canudos (1896-1897)?",
+            "options": [
+                "Resistir à opressão do governo e criar uma comunidade autossuficiente",
+                "Lutar pela abolição da escravidão no Nordeste",
+                "Defender a independência de Pernambuco",
+                "Proclamar a República no Brasil"
+            ],
+            "correctAnswer": "Resistir à opressão do governo e criar uma comunidade autossuficiente"
+        },
+        {
+            "question": "Quem foi o presidente do Brasil durante a criação do Plano Real?",
+            "options": [
+                "Itamar Franco",
+                "Fernando Henrique Cardoso",
+                "José Sarney",
+                "Fernando Collor"
+            ],
+            "correctAnswer": "Itamar Franco"
+        },
+        {
+            "question": "Qual foi a principal reivindicação do movimento dos Trabalhadores Rurais Sem Terra (MST)?",
+            "options": [
+                "Reforma agrária e distribuição de terras",
+                "Abolição da escravidão e trabalho infantil",
+                "Proclamação da República e direito ao voto",
+                "Industrialização e desenvolvimento urbano"
+            ],
+            "correctAnswer": "Reforma agrária e distribuição de terras"
+        },
+        {
+            "question": "Qual foi o líder da Revolta de Beckman (1684) no Maranhão?",
+            "options": [
+                "Manuel Beckman",
+                "Tiradentes",
+                "Zumbi dos Palmares",
+                "Luís Gama"
+            ],
+            "correctAnswer": "Manuel Beckman"
+        },
+        {
+            "question": "Qual foi a principal causa da Revolta dos Malês (1835) na Bahia?",
+            "options": [
+                "Conflitos religiosos e culturais entre escravos muçulmanos",
+                "Proclamação da República",
+                "Defesa dos direitos dos indígenas",
+                "Disputa por terras agrícolas"
+            ],
+            "correctAnswer": "Conflitos religiosos e culturais entre escravos muçulmanos"
+        },
+        {
+            "question": "Quem foi o líder da Revolta da Cabanagem (1835-1840) no Pará?",
+            "options": [
+                "Félix Malcher",
+                "João Goulart",
+                "Euclides da Cunha",
+                "Ruy Barbosa"
+            ],
+            "correctAnswer": "Félix Malcher"
+        },
+        {
+            "question": "Qual foi a principal conquista do governo de Getúlio Vargas durante o Estado Novo (1937-1945)?",
+            "options": [
+                "Criação das leis trabalhistas e previdenciárias",
+                "Abolição da escravidão",
+                "Proclamação da República",
+                "Industrialização do Nordeste"
+            ],
+            "correctAnswer": "Criação das leis trabalhistas e previdenciárias"
+        },
+        {
+            "question": "Qual evento marcou o fim da Ditadura Militar no Brasil?",
+            "options": [
+                "Eleições diretas de 1989",
+                "Proclamação da República",
+                "Independência do Brasil",
+                "Revolta da Vacina"
+            ],
+            "correctAnswer": "Eleições diretas de 1989"
+        },
+        {
+            "question": "Qual foi a principal consequência da Missão Artística Francesa (1816) para o Brasil?",
+            "options": [
+                "Desenvolvimento das artes e formação da Academia Imperial de Belas Artes",
+                "Expansão territorial para o Oeste",
+                "Proclamação da República",
+                "Início da colonização portuguesa"
+            ],
+            "correctAnswer": "Desenvolvimento das artes e formação da Academia Imperial de Belas Artes"
+        },
+        {
+            "question": "Quem foi o presidente brasileiro durante o Plano Cruzado (1986)?",
+            "options": [
+                "José Sarney",
+                "Fernando Collor",
+                "Itamar Franco",
+                "Tancredo Neves"
+            ],
+            "correctAnswer": "José Sarney"
+        },
+        {
+            "question": "Quem foi o presidente brasileiro durante o início da ditadura militar em 1964?",
+            "options": [
+                "Castello Branco",
+                "Juscelino Kubitschek",
+                "João Goulart",
+                "Getúlio Vargas"
+            ],
+            "correctAnswer": "Castello Branco"
+        },
+        {
+            "question": "Qual foi a principal causa da Revolução Constitucionalista de 1932 em São Paulo?",
+            "options": [
+                "Insatisfação com o governo provisório de Getúlio Vargas",
+                "Disputas territoriais com estados vizinhos",
+                "Conflitos entre imigrantes e nativos",
+                "Luta pela abolição da escravidão"
+            ],
+            "correctAnswer": "Insatisfação com o governo provisório de Getúlio Vargas"
+        },
+        {
+            "question": "Quem liderou a Revolta dos Malês, um levante de escravos muçulmanos na Bahia em 1835?",
+            "options": [
+                "Pacífico Licutan",
+                "Tiradentes",
+                "Manuel Beckman",
+                "Zumbi dos Palmares"
+            ],
+            "correctAnswer": "Pacífico Licutan"
+        },
+        {
+            "question": "Qual evento histórico resultou na transferência da corte portuguesa para o Brasil em 1808?",
+            "options": [
+                "Invasão napoleônica em Portugal",
+                "Descobrimento do Brasil",
+                "Tratado de Tordesilhas",
+                "Revolta de Vila Rica"
+            ],
+            "correctAnswer": "Invasão napoleônica em Portugal"
+        },
+        {
+            "question": "Qual foi o principal objetivo da Missão Francesa que chegou ao Brasil em 1816?",
+            "options": [
+                "Desenvolver as artes e ciências no Brasil",
+                "Explorar novas rotas comerciais",
+                "Estabelecer uma colônia penal",
+                "Iniciar a construção de estradas de ferro"
+            ],
+            "correctAnswer": "Desenvolver as artes e ciências no Brasil"
+        },
+        {
+            "question": "Qual foi a principal consequência da abdicação de Dom Pedro I em 1831?",
+            "options": [
+                "Início do Período Regencial",
+                "Proclamação da República",
+                "Abolição da escravidão",
+                "Criação do Real"
+            ],
+            "correctAnswer": "Início do Período Regencial"
+        },
+        {
+            "question": "Qual foi o principal impacto da Lei de Terras de 1850 no Brasil?",
+            "options": [
+                "Regulamentação da posse e venda de terras",
+                "Abolição da escravidão",
+                "Independência de Minas Gerais",
+                "Criação de universidades públicas"
+            ],
+            "correctAnswer": "Regulamentação da posse e venda de terras"
+        },
+        {
+            "question": "Quem foi o principal líder da Confederação do Equador em 1824?",
+            "options": [
+                "Frei Caneca",
+                "Tiradentes",
+                "José Bonifácio",
+                "Luís Gama"
+            ],
+            "correctAnswer": "Frei Caneca"
+        },
+        {
+            "question": "Qual foi a principal causa da Revolta da Armada (1893-1894)?",
+            "options": [
+                "Conflito entre a Marinha e o governo republicano",
+                "Disputa por territórios com países vizinhos",
+                "Reivindicações por direitos trabalhistas",
+                "Luta pela abolição da escravidão"
+            ],
+            "correctAnswer": "Conflito entre a Marinha e o governo republicano"
+        },
+        {
+            "question": "Qual evento marcou o início da colonização portuguesa no Brasil em 1534?",
+            "options": [
+                "Divisão do território em capitanias hereditárias",
+                "Abolição da escravidão indígena",
+                "Início da exploração do ouro em Minas Gerais",
+                "Fundação da cidade de Salvador"
+            ],
+            "correctAnswer": "Divisão do território em capitanias hereditárias"
+        },
+        {
+            "question": "Qual evento marcou o início da Primeira Guerra Mundial em 1914?",
+            "options": [
+                "Assassinato do arquiduque Franz Ferdinand",
+                "Invasão da Polônia pela Alemanha",
+                "Ataque a Pearl Harbor",
+                "Tratado de Versalhes"
+            ],
+            "correctAnswer": "Assassinato do arquiduque Franz Ferdinand"
+        },
+        {
+            "question": "Quem foi o líder revolucionário da Revolução Russa de 1917?",
+            "options": [
+                "Vladimir Lenin",
+                "Joseph Stalin",
+                "Leon Trotsky",
+                "Mikhail Gorbachev"
+            ],
+            "correctAnswer": "Vladimir Lenin"
+        },
+        {
+            "question": "Qual foi o principal objetivo da Liga das Nações, criada após a Primeira Guerra Mundial?",
+            "options": [
+                "Promover a paz e evitar conflitos futuros",
+                "Expansão dos impérios coloniais",
+                "Desenvolvimento de armas nucleares",
+                "Exploração espacial e científica"
+            ],
+            "correctAnswer": "Promover a paz e evitar conflitos futuros"
+        },
+        {
+            "question": "Qual foi a principal causa da queda do Império Romano do Ocidente em 476 d.C.?",
+            "options": [
+                "Invasões bárbaras e crises internas",
+                "Ascensão do Cristianismo",
+                "Declínio do comércio marítimo",
+                "Exploração de novas rotas comerciais"
+            ],
+            "correctAnswer": "Invasões bárbaras e crises internas"
+        },
+        {
+            "question": "Qual era o nome do tratado que encerrou a Primeira Guerra Mundial?",
+            "options": [
+                "Tratado de Versalhes",
+                "Tratado de Paris",
+                "Tratado de Tordesilhas",
+                "Tratado de Utrecht"
+            ],
+            "correctAnswer": "Tratado de Versalhes"
+        },
+        {
+            "question": "Quem foi o líder do movimento de independência da Índia contra o domínio britânico?",
+            "options": [
+                "Mahatma Gandhi",
+                "Jawaharlal Nehru",
+                "Indira Gandhi",
+                "Muhammad Ali Jinnah"
+            ],
+            "correctAnswer": "Mahatma Gandhi"
+        },
+        {
+            "question": "Qual foi a principal motivação das Cruzadas, que ocorreram entre os séculos XI e XIII?",
+            "options": [
+                "Recuperar Jerusalém e os lugares sagrados",
+                "Explorar novas rotas comerciais",
+                "Expandir os impérios coloniais",
+                "Desenvolver novas tecnologias agrícolas"
+            ],
+            "correctAnswer": "Recuperar Jerusalém e os lugares sagrados"
+        },
+        {
+            "question": "Qual foi o evento que marcou o início da Era das Revoluções na Europa?",
+            "options": [
+                "Revolução Francesa",
+                "Revolução Industrial",
+                "Guerra dos Sete Anos",
+                "Guerra Civil Inglesa"
+            ],
+            "correctAnswer": "Revolução Francesa"
+        },
+        {
+            "question": "Quem foi o líder da Reforma Protestante no século XVI?",
+            "options": [
+                "Martinho Lutero",
+                "João Calvino",
+                "Henrique VIII",
+                "Thomas More"
+            ],
+            "correctAnswer": "Martinho Lutero"
+        },
+        {
+            "question": "Qual foi o principal resultado da Conferência de Berlim (1884-1885)?",
+            "options": [
+                "Partilha da África entre potências europeias",
+                "Declaração de independência dos Estados Unidos",
+                "Abolição da escravidão na Europa",
+                "Formação da União Soviética"
+            ],
+            "correctAnswer": "Partilha da África entre potências europeias"
+        },
+        {
+            "question": "Qual foi a principal consequência do Tratado de Versalhes (1919)?",
+            "options": [
+                "Imposição de reparações econômicas à Alemanha",
+                "Independência das colônias africanas",
+                "Formação da Liga das Nações",
+                "Criação da União Europeia"
+            ],
+            "correctAnswer": "Imposição de reparações econômicas à Alemanha"
+        },
+        {
+            "question": "Quem foi o líder do movimento pelos direitos civis nos Estados Unidos durante a década de 1960?",
+            "options": [
+                "Martin Luther King Jr.",
+                "Malcolm X",
+                "Rosa Parks",
+                "Frederick Douglass"
+            ],
+            "correctAnswer": "Martin Luther King Jr."
+        },
+        {
+            "question": "Qual foi o principal objetivo da Revolução Industrial no século XVIII?",
+            "options": [
+                "Aumento da produção industrial e mecanização",
+                "Expansão do comércio marítimo",
+                "Reforma agrária e distribuição de terras",
+                "Desenvolvimento de novas técnicas agrícolas"
+            ],
+            "correctAnswer": "Aumento da produção industrial e mecanização"
+        },
+        {
+            "question": "Qual foi a principal causa da queda do Muro de Berlim em 1989?",
+            "options": [
+                "Fim da Guerra Fria e reunificação da Alemanha",
+                "Início da União Europeia",
+                "Declaração de independência da Polônia",
+                "Tratado de Maastricht"
+            ],
+            "correctAnswer": "Fim da Guerra Fria e reunificação da Alemanha"
+        },
+        {
+            "question": "Quem foi o líder da Revolução Cubana de 1959?",
+            "options": [
+                "Fidel Castro",
+                "Che Guevara",
+                "Camilo Cienfuegos",
+                "Raúl Castro"
+            ],
+            "correctAnswer": "Fidel Castro"
+        },
+        {
+            "question": "Qual foi o principal tratado que encerrou a Segunda Guerra Mundial?",
+            "options": [
+                "Tratado de Potsdam",
+                "Tratado de Versalhes",
+                "Tratado de Utrecht",
+                "Tratado de Paris"
+            ],
+            "correctAnswer": "Tratado de Potsdam"
+        },
+        {
+            "question": "Qual foi o evento que marcou o início da Grande Depressão em 1929?",
+            "options": [
+                "Quebra da Bolsa de Valores de Nova York",
+                "Assassinato do arquiduque Franz Ferdinand",
+                "Invasão da Polônia pela Alemanha",
+                "Ataque a Pearl Harbor"
+            ],
+            "correctAnswer": "Quebra da Bolsa de Valores de Nova York"
+        },
+        {
+            "question": "Quem foi o líder da independência da Índia em 1947?",
+            "options": [
+                "Mahatma Gandhi",
+                "Jawaharlal Nehru",
+                "Indira Gandhi",
+                "Muhammad Ali Jinnah"
+            ],
+            "correctAnswer": "Mahatma Gandhi"
+        },
+        {
+            "question": "Qual foi a principal causa da Revolução Francesa de 1789?",
+            "options": [
+                "Desigualdade social e crise econômica",
+                "Expansão territorial e guerras napoleônicas",
+                "Declínio do comércio de escravos",
+                "Reforma agrária e distribuição de terras"
+            ],
+            "correctAnswer": "Desigualdade social e crise econômica"
+        },
+        {
+            "question": "Quem foi o primeiro presidente negro da África do Sul, eleito em 1994?",
+            "options": [
+                "Nelson Mandela",
+                "Desmond Tutu",
+                "Thabo Mbeki",
+                "Jacob Zuma"
+            ],
+            "correctAnswer": "Nelson Mandela"
+        },
+        {
+            "question": "Qual evento desencadeou a Primeira Guerra Mundial em 1914?",
+            "options": [
+                "Assassinato do arquiduque Franz Ferdinand",
+                "Tratado de Versalhes",
+                "Invasão da Polônia",
+                "Ataque a Pearl Harbor"
+            ],
+            "correctAnswer": "Assassinato do arquiduque Franz Ferdinand"
+        },
+        {
+            "question": "Quem foi o principal líder da Revolução Cubana em 1959?",
+            "options": [
+                "Fidel Castro",
+                "Che Guevara",
+                "Raúl Castro",
+                "Camilo Cienfuegos"
+            ],
+            "correctAnswer": "Fidel Castro"
+        },
+        {
+            "question": "Qual foi o principal objetivo da Liga das Nações, fundada em 1919?",
+            "options": [
+                "Promover a paz mundial e prevenir conflitos futuros",
+                "Estabelecer uma aliança militar entre as nações",
+                "Desenvolver tecnologias nucleares",
+                "Explorar novos territórios coloniais"
+            ],
+            "correctAnswer": "Promover a paz mundial e prevenir conflitos futuros"
+        },
+        {
+            "question": "Qual foi a principal causa da queda do Império Romano do Ocidente em 476 d.C.?",
+            "options": [
+                "Invasões bárbaras e crise econômica",
+                "Crescimento do Cristianismo",
+                "Conflitos com o Império Bizantino",
+                "Expansão das rotas comerciais"
+            ],
+            "correctAnswer": "Invasões bárbaras e crise econômica"
+        },
+        {
+            "question": "Quem foi o líder da Revolução Russa de 1917?",
+            "options": [
+                "Vladimir Lenin",
+                "Joseph Stalin",
+                "Leon Trotsky",
+                "Nikita Khrushchev"
+            ],
+            "correctAnswer": "Vladimir Lenin"
+        },
+        {
+            "question": "Qual foi a principal consequência da Revolução Industrial no século XVIII?",
+            "options": [
+                "Aumento significativo da produção industrial",
+                "Declínio do comércio transatlântico",
+                "Extinção das monarquias europeias",
+                "Início da colonização da África"
+            ],
+            "correctAnswer": "Aumento significativo da produção industrial"
+        },
+        {
+            "question": "Qual foi o principal tratado que encerrou a Segunda Guerra Mundial?",
+            "options": [
+                "Tratado de Potsdam",
+                "Tratado de Utrecht",
+                "Tratado de Paris",
+                "Tratado de Tordesilhas"
+            ],
+            "correctAnswer": "Tratado de Potsdam"
+        },
+        {
+            "question": "Quem foi o líder da independência da Índia em 1947?",
+            "options": [
+                "Mahatma Gandhi",
+                "Jawaharlal Nehru",
+                "Indira Gandhi",
+                "Muhammad Ali Jinnah"
+            ],
+            "correctAnswer": "Mahatma Gandhi"
+        },
+        {
+            "question": "Qual evento histórico marcou o início da Guerra Fria?",
+            "options": [
+                "Divisão da Alemanha e criação do Muro de Berlim",
+                "Início da Primeira Guerra Mundial",
+                "Independência dos Estados Unidos",
+                "Revolução Francesa"
+            ],
+            "correctAnswer": "Divisão da Alemanha e criação do Muro de Berlim"
+        },
+        {
+            "question": "Qual foi a principal causa da Revolução Americana de 1776?",
+            "options": [
+                "Busca pela independência das colônias britânicas",
+                "Expansão do comércio de escravos",
+                "Conflito entre França e Espanha",
+                "Exploração de novas rotas comerciais"
+            ],
+            "correctAnswer": "Busca pela independência das colônias britânicas"
+        },
+        {
+            "question": "Quem foi o primeiro presidente dos Estados Unidos?",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
+            ],
+            "correctAnswer": "George Washington"
+        },
+        {
+            "question": "Qual foi a causa principal da Guerra dos Cem Anos entre Inglaterra e França?",
+            "options": [
+                "Disputas territoriais",
+                "Reformas religiosas",
+                "Invasão viking",
+                "Controle das rotas comerciais"
+            ],
+            "correctAnswer": "Disputas territoriais"
+        },
+        {
+            "question": "Quem liderou a Revolução Bolivariana que resultou na independência de vários países da América do Sul?",
+            "options": [
+                "Simón Bolívar",
+                "José de San Martín",
+                "Bernardo O'Higgins",
+                "Francisco de Miranda"
+            ],
+            "correctAnswer": "Simón Bolívar"
+        },
+        {
+            "question": "Qual foi o evento que marcou o fim do Antigo Regime e o início da Revolução Francesa?",
+            "options": [
+                "Queda da Bastilha",
+                "Assinatura do Tratado de Versalhes",
+                "Guerra dos Sete Anos",
+                "Declaração de Independência dos Estados Unidos"
+            ],
+            "correctAnswer": "Queda da Bastilha"
+        },
+        {
+            "question": "Qual foi a principal causa da Segunda Guerra Mundial?",
+            "options": [
+                "Invasão da Polônia pela Alemanha",
+                "Expansão do Império Britânico",
+                "Colapso da Bolsa de Valores",
+                "Revolução Russa"
+            ],
+            "correctAnswer": "Invasão da Polônia pela Alemanha"
+        },
+        {
+            "question": "Qual foi o resultado do Congresso de Viena (1814-1815) após as Guerras Napoleônicas?",
+            "options": [
+                "Restauração das monarquias europeias",
+                "Expansão dos impérios coloniais",
+                "Declínio da influência britânica",
+                "Unificação da Alemanha"
+            ],
+            "correctAnswer": "Restauração das monarquias europeias"
+        },
+        {
+            "question": "Qual tratado encerrou a Primeira Guerra Mundial?",
+            "options": [
+                "Tratado de Versalhes",
+                "Tratado de Paris",
+                "Tratado de Tordesilhas",
+                "Tratado de Utrecht"
+            ],
+            "correctAnswer": "Tratado de Versalhes"
+        },
+        {
+            "question": "Quem foi o líder da Revolução Chinesa de 1949?",
+            "options": [
+                "Mao Zedong",
+                "Sun Yat-sen",
+                "Chiang Kai-shek",
+                "Deng Xiaoping"
+            ],
+            "correctAnswer": "Mao Zedong"
+        },
+        {
+            "question": "Qual evento histórico marcou o início da Era Napoleônica?",
+            "options": [
+                "Coroação de Napoleão Bonaparte como imperador",
+                "Assinatura da Declaração de Independência dos EUA",
+                "Invasão da Rússia pela França",
+                "Revolução Industrial na Inglaterra"
+            ],
+            "correctAnswer": "Coroação de Napoleão Bonaparte como imperador"
+        },
+        {
+            "question": "Qual foi a principal causa da Revolução Gloriosa na Inglaterra em 1688?",
+            "options": [
+                "Substituição do absolutismo pelo parlamentarismo",
+                "Conquista normanda da Inglaterra",
+                "Formação da Liga Hanseática",
+                "Expansão das rotas comerciais atlânticas"
+            ],
+            "correctAnswer": "Substituição do absolutismo pelo parlamentarismo"
+        },
+        {
+            "question": "Quem foi o primeiro presidente dos Estados Unidos?",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
+            ],
+            "correctAnswer": "George Washington"
+        },
+        {
+            "question": "Qual foi a causa principal da Guerra dos Cem Anos entre Inglaterra e França?",
+            "options": [
+                "Disputas territoriais",
+                "Reformas religiosas",
+                "Invasão viking",
+                "Controle das rotas comerciais"
+            ],
+            "correctAnswer": "Disputas territoriais"
+        },
+        {
+            "question": "Quem liderou a Revolução Bolivariana que resultou na independência de vários países da América do Sul?",
+            "options": [
+                "Simón Bolívar",
+                "José de San Martín",
+                "Bernardo O'Higgins",
+                "Francisco de Miranda"
+            ],
+            "correctAnswer": "Simón Bolívar"
+        },
+        {
+            "question": "Qual foi o evento que marcou o fim do Antigo Regime e o início da Revolução Francesa?",
+            "options": [
+                "Queda da Bastilha",
+                "Assinatura do Tratado de Versalhes",
+                "Guerra dos Sete Anos",
+                "Declaração de Independência dos Estados Unidos"
+            ],
+            "correctAnswer": "Queda da Bastilha"
+        },
+        {
+            "question": "Qual foi a principal causa da Segunda Guerra Mundial?",
+            "options": [
+                "Invasão da Polônia pela Alemanha",
+                "Expansão do Império Britânico",
+                "Colapso da Bolsa de Valores",
+                "Revolução Russa"
+            ],
+            "correctAnswer": "Invasão da Polônia pela Alemanha"
+        },
+        {
+            "question": "Qual foi o resultado do Congresso de Viena (1814-1815) após as Guerras Napoleônicas?",
+            "options": [
+                "Restauração das monarquias europeias",
+                "Expansão dos impérios coloniais",
+                "Declínio da influência britânica",
+                "Unificação da Alemanha"
+            ],
+            "correctAnswer": "Restauração das monarquias europeias"
+        },
+        {
+            "question": "Qual tratado encerrou a Primeira Guerra Mundial?",
+            "options": [
+                "Tratado de Versalhes",
+                "Tratado de Paris",
+                "Tratado de Tordesilhas",
+                "Tratado de Utrecht"
+            ],
+            "correctAnswer": "Tratado de Versalhes"
+        },
+        {
+            "question": "Quem foi o líder da Revolução Chinesa de 1949?",
+            "options": [
+                "Mao Zedong",
+                "Sun Yat-sen",
+                "Chiang Kai-shek",
+                "Deng Xiaoping"
+            ],
+            "correctAnswer": "Mao Zedong"
+        },
+        {
+            "question": "Qual evento histórico marcou o início da Era Napoleônica?",
+            "options": [
+                "Coroação de Napoleão Bonaparte como imperador",
+                "Assinatura da Declaração de Independência dos EUA",
+                "Invasão da Rússia pela França",
+                "Revolução Industrial na Inglaterra"
+            ],
+            "correctAnswer": "Coroação de Napoleão Bonaparte como imperador"
+        },
+        {
+            "question": "Qual foi a principal causa da Revolução Gloriosa na Inglaterra em 1688?",
+            "options": [
+                "Substituição do absolutismo pelo parlamentarismo",
+                "Conquista normanda da Inglaterra",
+                "Formação da Liga Hanseática",
+                "Expansão das rotas comerciais atlânticas"
+            ],
+            "correctAnswer": "Substituição do absolutismo pelo parlamentarismo"
+        },
+        {
+            "question": "Qual evento marcou o início da Segunda Guerra Mundial?",
+            "options": [
+                "Invasão da Polônia pela Alemanha",
+                "Ataque a Pearl Harbor",
+                "Queda da Bastilha",
+                "Assassinato de Franz Ferdinand"
+            ],
+            "correctAnswer": "Invasão da Polônia pela Alemanha"
+        },
+        {
+            "question": "Quem foi o principal líder do movimento de independência da Índia?",
+            "options": [
+                "Mahatma Gandhi",
+                "Jawaharlal Nehru",
+                "Indira Gandhi",
+                "Muhammad Ali Jinnah"
+            ],
+            "correctAnswer": "Mahatma Gandhi"
+        },
+        {
+            "question": "Qual foi a principal consequência da Revolução Russa de 1917?",
+            "options": [
+                "Estabelecimento da União Soviética",
+                "Queda do Império Austro-Húngaro",
+                "Declaração de independência dos Estados Unidos",
+                "Formação da Liga das Nações"
+            ],
+            "correctAnswer": "Estabelecimento da União Soviética"
+        },
+        {
+            "question": "Quem foi o líder da Revolução Francesa e responsável pelo Reinado do Terror?",
+            "options": [
+                "Maximilien Robespierre",
+                "Napoleão Bonaparte",
+                "Jean-Jacques Rousseau",
+                "Louis XVI"
+            ],
+            "correctAnswer": "Maximilien Robespierre"
+        },
+        {
+            "question": "Qual foi o principal tratado que encerrou a Guerra Fria?",
+            "options": [
+                "Tratado de Washington",
+                "Tratado de Versalhes",
+                "Tratado de Tordesilhas",
+                "Tratado de Paris"
+            ],
+            "correctAnswer": "Tratado de Washington"
+        },
+        {
+            "question": "Qual foi a principal causa da Guerra dos Trinta Anos (1618-1648)?",
+            "options": [
+                "Conflitos religiosos e políticos na Europa",
+                "Invasão mongol na Ásia",
+                "Expansão territorial do Império Otomano",
+                "Descobrimento da América"
+            ],
+            "correctAnswer": "Conflitos religiosos e políticos na Europa"
+        },
+        {
+            "question": "Quem foi o primeiro imperador romano a se converter ao cristianismo?",
+            "options": [
+                "Constantino",
+                "Júlio César",
+                "Nero",
+                "Augusto"
+            ],
+            "correctAnswer": "Constantino"
+        },
+        {
+            "question": "Qual foi o principal impacto da Revolução Industrial no século XVIII?",
+            "options": [
+                "Aumento da produção em massa e urbanização",
+                "Declínio do comércio marítimo",
+                "Crescimento do feudalismo na Europa",
+                "Descobrimento do Novo Mundo"
+            ],
+            "correctAnswer": "Aumento da produção em massa e urbanização"
+        },
+        {
+            "question": "Qual evento marcou o fim do Império Napoleônico?",
+            "options": [
+                "Batalha de Waterloo",
+                "Assinatura do Tratado de Paris",
+                "Declaração de Independência dos Estados Unidos",
+                "Queda da Bastilha"
+            ],
+            "correctAnswer": "Batalha de Waterloo"
+        },
+        {
+            "question": "Quem foi o líder da Revolução Bolivariana que resultou na independência de vários países sul-americanos?",
+            "options": [
+                "Simón Bolívar",
+                "José de San Martín",
+                "Antonio José de Sucre",
+                "Francisco de Miranda"
+            ],
+            "correctAnswer": "Simón Bolívar"
+        },
+        {
+            "question": "Quem foi o primeiro imperador do Império Romano?",
+            "options": [
+                "Augusto",
+                "Júlio César",
+                "Nero",
+                "Calígula"
+            ],
+            "correctAnswer": "Augusto"
+        },
+        {
+            "question": "Qual evento marcou o fim da Idade Média e o início da Idade Moderna?",
+            "options": [
+                "Queda de Constantinopla",
+                "Descobrimento da América",
+                "Reforma Protestante",
+                "Primeira Cruzada"
+            ],
+            "correctAnswer": "Queda de Constantinopla"
+        },
+        {
+            "question": "Quem foi o líder militar francês que se tornou imperador e liderou as Guerras Napoleônicas?",
+            "options": [
+                "Napoleão Bonaparte",
+                "Luís XIV",
+                "Carlos Magno",
+                "Henrique IV"
+            ],
+            "correctAnswer": "Napoleão Bonaparte"
+        },
+        {
+            "question": "Qual foi a principal causa da Guerra Civil Americana (1861-1865)?",
+            "options": [
+                "Conflitos sobre a escravidão e os direitos dos estados",
+                "Disputas territoriais com o México",
+                "Expansão para o Oeste",
+                "Conflito com as nações indígenas"
+            ],
+            "correctAnswer": "Conflitos sobre a escravidão e os direitos dos estados"
+        },
+        {
+            "question": "Quem foi o primeiro presidente da República Popular da China após a Revolução Chinesa de 1949?",
+            "options": [
+                "Mao Tsé-Tung",
+                "Deng Xiaoping",
+                "Sun Yat-sen",
+                "Chiang Kai-shek"
+            ],
+            "correctAnswer": "Mao Tsé-Tung"
+        },
+        {
+            "question": "Qual foi o principal tratado que encerrou a Primeira Guerra Mundial?",
+            "options": [
+                "Tratado de Versalhes",
+                "Tratado de Utrecht",
+                "Tratado de Paris",
+                "Tratado de Tordesilhas"
+            ],
+            "correctAnswer": "Tratado de Versalhes"
+        },
+        {
+            "question": "Quem foi o líder revolucionário que liderou a independência da Argélia da França em 1962?",
+            "options": [
+                "Ahmed Ben Bella",
+                "Gamal Abdel Nasser",
+                "Yasser Arafat",
+                "Habib Bourguiba"
+            ],
+            "correctAnswer": "Ahmed Ben Bella"
+        },
+        {
+            "question": "Qual foi a principal causa da queda do Muro de Berlim em 1989?",
+            "options": [
+                "Fim da Guerra Fria e reunificação alemã",
+                "Declaração de independência da Polônia",
+                "Assassinato do arquiduque Franz Ferdinand",
+                "Início da União Europeia"
+            ],
+            "correctAnswer": "Fim da Guerra Fria e reunificação alemã"
+        },
+        {
+            "question": "Qual evento histórico marcou o início da colonização europeia das Américas?",
+            "options": [
+                "Descobrimento da América por Cristóvão Colombo",
+                "Revolução Americana",
+                "Tratado de Tordesilhas",
+                "Fundação da cidade de Quebec"
+            ],
+            "correctAnswer": "Descobrimento da América por Cristóvão Colombo"
+        },
+        {
+            "question": "Quem foi o líder da Revolução Mexicana que lutou contra Porfirio Díaz?",
+            "options": [
+                "Emiliano Zapata",
+                "Pancho Villa",
+                "Francisco I. Madero",
+                "Venustiano Carranza"
+            ],
+            "correctAnswer": "Emiliano Zapata"
+        },
+        {
+            "question": "Qual civilização antiga é conhecida por suas pirâmides e múmias?",
+            "options": [
+                "Egito Antigo",
+                "Roma Antiga",
+                "Grécia Antiga",
+                "Mesopotâmia"
+            ],
+            "correctAnswer": "Egito Antigo"
+        },
+        {
+            "question": "Quem foi o famoso rei da Babilônia, conhecido por seu código de leis?",
+            "options": [
+                "Hamurabi",
+                "Nabucodonosor",
+                "Sargão",
+                "Assurbanípal"
+            ],
+            "correctAnswer": "Hamurabi"
+        },
+        {
+            "question": "Qual foi a principal contribuição de Sócrates para a filosofia ocidental?",
+            "options": [
+                "Desenvolvimento do método socrático",
+                "Teorias sobre o movimento dos planetas",
+                "Invenção da escrita cuneiforme",
+                "Criação do alfabeto grego"
+            ],
+            "correctAnswer": "Desenvolvimento do método socrático"
+        },
+        {
+            "question": "Qual era o nome da cidade-estado grega conhecida por seu militarismo e disciplina rígida?",
+            "options": [
+                "Esparta",
+                "Atenas",
+                "Corinto",
+                "Tebas"
+            ],
+            "correctAnswer": "Esparta"
+        },
+        {
+            "question": "Quem foi o líder macedônio que criou um vasto império no século IV a.C.?",
+            "options": [
+                "Alexandre, o Grande",
+                "Filipe II",
+                "Péricles",
+                "Leônidas"
+            ],
+            "correctAnswer": "Alexandre, o Grande"
+        },
+        {
+            "question": "Qual foi a civilização responsável pela construção da Grande Muralha da China?",
+            "options": [
+                "Dinastia Qin",
+                "Império Maurya",
+                "Império Hitita",
+                "Reino de Axum"
+            ],
+            "correctAnswer": "Dinastia Qin"
+        },
+        {
+            "question": "Qual foi a principal realização de Péricles durante seu governo em Atenas?",
+            "options": [
+                "Reconstrução do Parthenon",
+                "Criação do alfabeto fenício",
+                "Construção das pirâmides de Gizé",
+                "Introdução da escrita hieroglífica"
+            ],
+            "correctAnswer": "Reconstrução do Parthenon"
+        },
+        {
+            "question": "Quem foi o faraó egípcio conhecido por construir a Grande Esfinge de Gizé?",
+            "options": [
+                "Quéfren",
+                "Tutancâmon",
+                "Ramsés II",
+                "Akhenaton"
+            ],
+            "correctAnswer": "Quéfren"
+        },
+        {
+            "question": "Qual era o nome da civilização antiga localizada entre os rios Tigre e Eufrates?",
+            "options": [
+                "Mesopotâmia",
+                "Persia",
+                "Fenícia",
+                "Creta"
+            ],
+            "correctAnswer": "Mesopotâmia"
+        },
+        {
+            "question": "Qual foi o principal legado dos romanos na engenharia e arquitetura?",
+            "options": [
+                "Construção de aquedutos e estradas pavimentadas",
+                "Desenvolvimento da escrita cuneiforme",
+                "Criação do método socrático",
+                "Construção das pirâmides de Gizé"
+            ],
+            "correctAnswer": "Construção de aquedutos e estradas pavimentadas"
+        },
+        {
+            "question": "Qual civilização antiga é conhecida por sua escrita cuneiforme?",
+            "options": [
+                "Suméria",
+                "Egito Antigo",
+                "Grécia Antiga",
+                "Roma Antiga"
+            ],
+            "correctAnswer": "Suméria"
+        },
+        {
+            "question": "Quem foi o líder militar e político da Macedônia que conquistou um vasto império?",
+            "options": [
+                "Alexandre, o Grande",
+                "Péricles",
+                "César Augusto",
+                "Leônidas"
+            ],
+            "correctAnswer": "Alexandre, o Grande"
+        },
+        {
+            "question": "Qual foi a principal contribuição da civilização fenícia para o mundo antigo?",
+            "options": [
+                "Desenvolvimento do alfabeto",
+                "Construção de pirâmides",
+                "Criação de aquedutos",
+                "Invenção da pólvora"
+            ],
+            "correctAnswer": "Desenvolvimento do alfabeto"
+        },
+        {
+            "question": "Quem foi o faraó egípcio conhecido por seu túmulo intacto, descoberto em 1922?",
+            "options": [
+                "Tutancâmon",
+                "Ramsés II",
+                "Akhenaton",
+                "Quéfren"
+            ],
+            "correctAnswer": "Tutancâmon"
+        },
+        {
+            "question": "Qual cidade-estado grega é famosa por seu sistema democrático?",
+            "options": [
+                "Atenas",
+                "Esparta",
+                "Corinto",
+                "Tebas"
+            ],
+            "correctAnswer": "Atenas"
+        },
+        {
+            "question": "Quem foi o rei persa que iniciou a construção de Persepolis?",
+            "options": [
+                "Dario I",
+                "Ciro, o Grande",
+                "Xerxes I",
+                "Artaxerxes"
+            ],
+            "correctAnswer": "Dario I"
+        },
+        {
+            "question": "Qual foi a civilização antiga que construiu as famosas Linhas de Nazca?",
+            "options": [
+                "Nazca",
+                "Inca",
+                "Maya",
+                "Asteca"
+            ],
+            "correctAnswer": "Nazca"
+        },
+        {
+            "question": "Qual era o nome da civilização antiga que habitava a ilha de Creta?",
+            "options": [
+                "Minóica",
+                "Micênica",
+                "Fenícia",
+                "Babilônica"
+            ],
+            "correctAnswer": "Minóica"
+        },
+        {
+            "question": "Qual foi a principal contribuição dos hebreus para a cultura ocidental?",
+            "options": [
+                "Monoteísmo",
+                "Politeísmo",
+                "Desenvolvimento do alfabeto",
+                "Construção de aquedutos"
+            ],
+            "correctAnswer": "Monoteísmo"
+        },
+        {
+            "question": "Qual cidade antiga é famosa por seus jardins suspensos, considerados uma das Sete Maravilhas do Mundo Antigo?",
+            "options": [
+                "Babilônia",
+                "Roma",
+                "Atenas",
+                "Jerusalém"
+            ],
+            "correctAnswer": "Babilônia"
+        },
+        {
+            "question": "Qual civilização antiga é conhecida por seu sistema de escrita hieroglífica?",
+            "options": [
+                "Egito Antigo",
+                "Suméria",
+                "Roma Antiga",
+                "Fenícia"
+            ],
+            "correctAnswer": "Egito Antigo"
+        },
+        {
+            "question": "Quem foi o filósofo grego que fundou a Academia em Atenas?",
+            "options": [
+                "Platão",
+                "Sócrates",
+                "Aristóteles",
+                "Pitágoras"
+            ],
+            "correctAnswer": "Platão"
+        },
+        {
+            "question": "Qual era a principal cidade do Império Persa?",
+            "options": [
+                "Persépolis",
+                "Atenas",
+                "Roma",
+                "Babilônia"
+            ],
+            "correctAnswer": "Persépolis"
+        },
+        {
+            "question": "Qual foi o nome do imperador que dividiu o Império Romano em duas partes?",
+            "options": [
+                "Diocleciano",
+                "Constantino",
+                "Nero",
+                "Augusto"
+            ],
+            "correctAnswer": "Diocleciano"
+        },
+        {
+            "question": "Qual civilização antiga é conhecida pela construção do Machu Picchu?",
+            "options": [
+                "Inca",
+                "Maya",
+                "Asteca",
+                "Olmeca"
+            ],
+            "correctAnswer": "Inca"
+        },
+        {
+            "question": "Quem foi o líder militar cartaginês que cruzou os Alpes com elefantes durante a Segunda Guerra Púnica?",
+            "options": [
+                "Aníbal",
+                "Escipião",
+                "Júlio César",
+                "Trajano"
+            ],
+            "correctAnswer": "Aníbal"
+        },
+        {
+            "question": "Qual era o principal centro religioso e cultural da Grécia Antiga, famoso por seu oráculo?",
+            "options": [
+                "Delfos",
+                "Esparta",
+                "Atenas",
+                "Corinto"
+            ],
+            "correctAnswer": "Delfos"
+        },
+        {
+            "question": "Qual foi a civilização que primeiro usou a roda como meio de transporte?",
+            "options": [
+                "Suméria",
+                "Egito Antigo",
+                "Grécia Antiga",
+                "Roma Antiga"
+            ],
+            "correctAnswer": "Suméria"
+        },
+        {
+            "question": "Quem foi o faraó egípcio conhecido pela sua tentativa de reforma religiosa monoteísta?",
+            "options": [
+                "Akhenaton",
+                "Ramsés II",
+                "Tutancâmon",
+                "Quéfren"
+            ],
+            "correctAnswer": "Akhenaton"
+        },
+        {
+            "question": "Qual civilização antiga é famosa por suas cidades planejadas e sistema de esgoto avançado, como Mohenjo-Daro e Harappa?",
+            "options": [
+                "Civilização do Vale do Indo",
+                "Grécia Antiga",
+                "Egito Antigo",
+                "Mesopotâmia"
+            ],
+            "correctAnswer": "Civilização do Vale do Indo"
+        },
+        {
+            "question": "Qual civilização antiga é conhecida por suas elaboradas tumbas e mumificação?",
+            "options": [
+                "Egito Antigo",
+                "Roma Antiga",
+                "Grécia Antiga",
+                "Mesopotâmia"
+            ],
+            "correctAnswer": "Egito Antigo"
+        },
+        {
+            "question": "Quem foi o líder militar cartaginês que atravessou os Alpes com elefantes?",
+            "options": [
+                "Aníbal",
+                "César",
+                "Alexandre",
+                "Pompéia"
+            ],
+            "correctAnswer": "Aníbal"
+        },
+        {
+            "question": "Qual foi a principal contribuição de Homero para a literatura grega?",
+            "options": [
+                "Escrever a Ilíada e a Odisseia",
+                "Desenvolver a democracia",
+                "Iniciar os Jogos Olímpicos",
+                "Construir o Parthenon"
+            ],
+            "correctAnswer": "Escrever a Ilíada e a Odisseia"
+        },
+        {
+            "question": "Qual foi a civilização antiga que primeiro usou a roda como meio de transporte?",
+            "options": [
+                "Suméria",
+                "Egito",
+                "Grécia",
+                "Roma"
+            ],
+            "correctAnswer": "Suméria"
+        },
+        {
+            "question": "Qual civilização antiga é famosa por suas cidades planejadas e sistema de esgoto avançado, como Mohenjo-Daro?",
+            "options": [
+                "Civilização do Vale do Indo",
+                "Grécia Antiga",
+                "Egito Antigo",
+                "Mesopotâmia"
+            ],
+            "correctAnswer": "Civilização do Vale do Indo"
+        },
+        {
+            "question": "Quem foi o líder do Império Aquemênida, famoso por sua política de tolerância e administração eficiente?",
+            "options": [
+                "Ciro, o Grande",
+                "Dario I",
+                "Xerxes I",
+                "Artaxerxes"
+            ],
+            "correctAnswer": "Ciro, o Grande"
+        },
+        {
+            "question": "Qual era o nome da cidade-estado grega famosa por seu teatro e arte?",
+            "options": [
+                "Atenas",
+                "Esparta",
+                "Corinto",
+                "Tebas"
+            ],
+            "correctAnswer": "Atenas"
+        },
+        {
+            "question": "Quem foi o faraó egípcio conhecido por expandir o território egípcio até a Síria?",
+            "options": [
+                "Ramsés II",
+                "Tutancâmon",
+                "Akhenaton",
+                "Quéfren"
+            ],
+            "correctAnswer": "Ramsés II"
+        },
+        {
+            "question": "Qual foi a principal realização de Hamurabi, o rei da Babilônia?",
+            "options": [
+                "Codificar um conjunto de leis",
+                "Construir as pirâmides",
+                "Desenvolver a escrita cuneiforme",
+                "Inventar a roda"
+            ],
+            "correctAnswer": "Codificar um conjunto de leis"
+        },
+        {
+            "question": "Qual civilização antiga é conhecida por seus complexos sistemas de irrigação e templos em Machu Picchu?",
+            "options": [
+                "Inca",
+                "Maya",
+                "Asteca",
+                "Olmeca"
+            ],
+            "correctAnswer": "Inca"
+        }
+    ]
+}
