@@ -27,6 +27,7 @@
                 <button id="btn-physics" class="btn btn-success">Física</button>
                 <button id="btn-geography" class="btn btn-success">Geografia</button>
                 <button id="btn-history" class="btn btn-success">História</button>
+                <button id="btn-math" class="btn btn-success">Matemática</button>
             </div>
             <div id="question" class="d-none">
                 <h3 id="team-playing-text"></h3>
@@ -89,6 +90,7 @@
         const physicsUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/fisica.JSON";
         const geographyUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/geografia.JSON";
         const historyUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/historia.JSON";
+        const mathUrl = "https://raw.githubusercontent.com/joaocbarrozo/passa-ou-repassa/refs/heads/main/matematica.JSON";
 
         // Buttons elements
         const btnScience = document.getElementById("btn-science");
@@ -96,6 +98,7 @@
         const btnPhysics = document.getElementById("btn-physics");
         const btnGeography = document.getElementById("btn-geography");
         const btnHistory = document.getElementById("btn-history");
+        const btnMath = document.getElementById("btn-math");
 
         const btnAnswer = document.getElementById("btn-answer");
         const btnNextQuestion = document.getElementById("btn-next-question");
@@ -144,6 +147,7 @@
             btnPhysics.addEventListener('click', () => randomQuestion(physicsUrl));
             btnGeography.addEventListener('click', () => randomQuestion(geographyUrl));
             btnHistory.addEventListener('click', () => randomQuestion(historyUrl));
+            btnMath.addEventListener('click', () => randomQuestion(mathUrl));
         }
 
         // Function to get a random question from a specific topic

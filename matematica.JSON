@@ -1,0 +1,2004 @@
+{
+  "questions": [
+    {
+      "question": "Um tanque de água tem a forma de um paralelepípedo retângulo com dimensões 2 m x 3 m x 4 m. Qual é o volume total do tanque em litros?",
+      "options": [
+        "12 litros",
+        "120 litros",
+        "1.200 litros",
+        "12.000 litros"
+      ],
+      "correctAnswer": "24.000 litros"
+    },
+    {
+      "question": "A soma de dois números é 30 e a diferença entre eles é 10. Quais são os números?",
+      "options": [
+        "20 e 10",
+        "25 e 5",
+        "15 e 15",
+        "20 e 15"
+      ],
+      "correctAnswer": "20 e 10"
+    },
+    {
+      "question": "Qual é a equação da parábola que tem seu vértice na origem e passa pelo ponto (2, 8)?",
+      "options": [
+        "y = x²",
+        "y = 2x²",
+        "y = 4x²",
+        "y = 8x²"
+      ],
+      "correctAnswer": "y = 2x²"
+    },
+    {
+      "question": "Um comerciante comprou um produto por R$ 80,00 e o vendeu por R$ 100,00. Qual foi a porcentagem de lucro?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "40%"
+      ],
+      "correctAnswer": "25%"
+    },
+    {
+      "question": "Qual é a solução da inequação 2x - 5 > 3?",
+      "options": [
+        "x > 4",
+        "x < 4",
+        "x > 3",
+        "x < 3"
+      ],
+      "correctAnswer": "x > 4"
+    },
+    {
+      "question": "Um triângulo tem lados medindo 7 cm, 24 cm e 25 cm. Qual é o perímetro desse triângulo?",
+      "options": [
+        "50 cm",
+        "56 cm",
+        "60 cm",
+        "70 cm"
+      ],
+      "correctAnswer": "56 cm"
+    },
+    {
+      "question": "Qual é a média ponderada das notas 6, 7 e 8, considerando pesos 2, 3 e 5, respectivamente?",
+      "options": [
+        "7",
+        "7,5",
+        "8",
+        "8,5"
+      ],
+      "correctAnswer": "7,5"
+    },
+    {
+      "question": "Um círculo tem um diâmetro de 10 cm. Qual é a sua circunferência? (Use π ≈ 3,14)",
+      "options": [
+        "31,4 cm",
+        "20 cm",
+        "15,7 cm",
+        "25 cm"
+      ],
+      "correctAnswer": "31,4 cm"
+    },
+    {
+      "question": "Qual é o valor de x na equação 5x - 3 = 2x + 6?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Um estudante fez 75% das questões de uma prova e obteve 45 acertos. Quantas questões havia na prova?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80"
+      ],
+      "correctAnswer": "60"
+    },
+    {
+      "question": "Qual é o valor da expressão 2³ + 4²?",
+      "options": [
+        "24",
+        "22",
+        "26",
+        "20"
+      ],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "Se f(x) = 3x + 2, qual é o valor de f(5)?",
+      "options": [
+        "17",
+        "16",
+        "18",
+        "15"
+      ],
+      "correctAnswer": "17"
+    },
+    {
+      "question": "Qual é a área de um triângulo com base de 8 cm e altura de 5 cm?",
+      "options": [
+        "20 cm²",
+        "40 cm²",
+        "15 cm²",
+        "25 cm²"
+      ],
+      "correctAnswer": "20 cm²"
+    },
+    {
+      "question": "Qual é a soma dos ângulos internos de um hexágono?",
+      "options": [
+        "720°",
+        "540°",
+        "600°",
+        "480°"
+      ],
+      "correctAnswer": "720°"
+    },
+    {
+      "question": "Qual é o valor de x na equação 5x - 3 = 2?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Qual é a média aritmética dos números 4, 8, 15 e 20?",
+      "options": [
+        "11,75",
+        "12,25",
+        "11,25",
+        "12,75"
+      ],
+      "correctAnswer": "11,75"
+    },
+    {
+      "question": "Se um círculo tem um raio de 7 cm, qual é a sua circunferência (use π = 3,14)?",
+      "options": [
+        "43,96 cm",
+        "42,98 cm",
+        "44,96 cm",
+        "41,98 cm"
+      ],
+      "correctAnswer": "43,96 cm"
+    },
+    {
+      "question": "Qual é a solução do sistema de equações lineares: 2x + 3y = 6 e x - y = 2?",
+      "options": [
+        "(3, 0)",
+        "(2, 0)",
+        "(1, 1)",
+        "(2, 1)"
+      ],
+      "correctAnswer": "(2, 0)"
+    },
+    {
+      "question": "Qual é o valor de x na equação log₂(x) = 5?",
+      "options": [
+        "32",
+        "25",
+        "16",
+        "30"
+      ],
+      "correctAnswer": "32"
+    },
+    {
+      "question": "Qual é o resultado da expressão (3 + 2i) + (4 - 5i)?",
+      "options": [
+        "7 - 3i",
+        "6 - 4i",
+        "5 - 2i",
+        "7 - 2i"
+      ],
+      "correctAnswer": "7 - 3i"
+    },
+    {
+      "question": "Qual é o valor da expressão 4² - 3³?",
+      "options": [
+        "7",
+        "8",
+        "10",
+        "5"
+      ],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Se g(x) = 2x² - 3x + 1, qual é o valor de g(2)?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "1"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Qual é o perímetro de um retângulo com lados de 7 cm e 10 cm?",
+      "options": [
+        "34 cm",
+        "32 cm",
+        "36 cm",
+        "30 cm"
+      ],
+      "correctAnswer": "34 cm"
+    },
+    {
+      "question": "Qual é o valor de x na equação 4x - 7 = 9?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Qual é o volume de um cubo com aresta de 5 cm?",
+      "options": [
+        "125 cm³",
+        "100 cm³",
+        "150 cm³",
+        "135 cm³"
+      ],
+      "correctAnswer": "125 cm³"
+    },
+    {
+      "question": "Qual é a mediana dos números 3, 8, 9, 12, e 15?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "8"
+      ],
+      "correctAnswer": "9"
+    },
+    {
+      "question": "Qual é o valor de x na equação 3^x = 81?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Qual é a área de um círculo com raio de 6 cm (use π = 3,14)?",
+      "options": [
+        "113,04 cm²",
+        "110,00 cm²",
+        "115,50 cm²",
+        "112,40 cm²"
+      ],
+      "correctAnswer": "113,04 cm²"
+    },
+    {
+      "question": "Qual é a solução do sistema de equações: 3x + 2y = 12 e x - y = 3?",
+      "options": [
+        "(4, 0)",
+        "(3, 1)",
+        "(2, 2)",
+        "(1, 3)"
+      ],
+      "correctAnswer": "(4, 0)"
+    },
+    {
+      "question": "Qual é a soma dos números da sequência aritmética 2, 5, 8, 11, 14?",
+      "options": [
+        "40",
+        "35",
+        "45",
+        "50"
+      ],
+      "correctAnswer": "40"
+    },
+    {
+      "question": "Qual é o valor da expressão 5² - 2³?",
+      "options": [
+        "17",
+        "19",
+        "21",
+        "23"
+      ],
+      "correctAnswer": "17"
+    },
+    {
+      "question": "Se h(x) = x² + 2x - 3, qual é o valor de h(-1)?",
+      "options": [
+        "-4",
+        "-2",
+        "-6",
+        "-1"
+      ],
+      "correctAnswer": "-4"
+    },
+    {
+      "question": "Qual é a área de um quadrado com lado de 9 cm?",
+      "options": [
+        "81 cm²",
+        "72 cm²",
+        "90 cm²",
+        "85 cm²"
+      ],
+      "correctAnswer": "81 cm²"
+    },
+    {
+      "question": "Qual é o valor de x na equação 7x + 2 = 23?",
+      "options": [
+        "3",
+        "2",
+        "5",
+        "4"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Qual é a altura de um triângulo equilátero com lado de 6 cm?",
+      "options": [
+        "3√3 cm",
+        "4√3 cm",
+        "2√3 cm",
+        "5√3 cm"
+      ],
+      "correctAnswer": "3√3 cm"
+    },
+    {
+      "question": "Qual é a moda dos números 3, 5, 3, 7, 3, 8?",
+      "options": [
+        "3",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Qual é o valor de x na equação 2^(x+1) = 16?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Qual é a área de um trapézio com bases de 10 cm e 14 cm e altura de 6 cm?",
+      "options": [
+        "72 cm²",
+        "68 cm²",
+        "70 cm²",
+        "74 cm²"
+      ],
+      "correctAnswer": "72 cm²"
+    },
+    {
+      "question": "Qual é a solução do sistema de equações: 4x + y = 9 e 2x - y = 1?",
+      "options": [
+        "(2, 1)",
+        "(3, -1)",
+        "(1, 2)",
+        "(0, 3)"
+      ],
+      "correctAnswer": "(2, 1)"
+    },
+    {
+      "question": "Qual é a soma dos primeiros cinco números pares?",
+      "options": [
+        "30",
+        "20",
+        "25",
+        "15"
+      ],
+      "correctAnswer": "30"
+    },
+    {
+      "question": "João comprou 3 cadernos por R$12,00 cada um e 2 canetas por R$3,50 cada uma. Quanto ele gastou no total?",
+      "options": [
+        "R$39,00",
+        "R$40,00",
+        "R$41,00",
+        "R$42,00"
+      ],
+      "correctAnswer": "R$39,00"
+    },
+    {
+      "question": "Uma loja oferece um desconto de 15% em uma camisa que custa R$80,00. Qual será o preço da camisa com desconto?",
+      "options": [
+        "R$68,00",
+        "R$65,00",
+        "R$66,50",
+        "R$67,00"
+      ],
+      "correctAnswer": "R$68,00"
+    },
+    {
+      "question": "Ana percorreu 60 km de carro em 1,5 horas. Qual foi a velocidade média dela durante o percurso?",
+      "options": [
+        "40 km/h",
+        "45 km/h",
+        "42 km/h",
+        "50 km/h"
+      ],
+      "correctAnswer": "40 km/h"
+    },
+    {
+      "question": "Um tanque de água tem a forma de um cilindro com altura de 2 metros e diâmetro de 1,5 metros. Qual é o volume do tanque em litros (use π = 3,14 e 1 m³ = 1000 litros)?",
+      "options": [
+        "3532,50 litros",
+        "3531,00 litros",
+        "3535,50 litros",
+        "3533,00 litros"
+      ],
+      "correctAnswer": "3532,50 litros"
+    },
+    {
+      "question": "Carlos pagou R$320,00 por um produto que estava com 20% de desconto. Qual era o preço original do produto?",
+      "options": [
+        "R$400,00",
+        "R$410,00",
+        "R$415,00",
+        "R$405,00"
+      ],
+      "correctAnswer": "R$400,00"
+    },
+    {
+      "question": "Um investidor aplicou R$1.000,00 em um fundo que rende 5% ao ano. Qual será o valor dessa aplicação após 2 anos, sem considerar impostos?",
+      "options": [
+        "R$1102,50",
+        "R$1100,25",
+        "R$1050,00",
+        "R$1102,00"
+      ],
+      "correctAnswer": "R$1102,50"
+    },
+    {
+      "question": "Em uma pesquisa, 200 pessoas foram entrevistadas e 25% delas preferiram o produto A. Quantas pessoas preferiram o produto A?",
+      "options": [
+        "50 pessoas",
+        "45 pessoas",
+        "60 pessoas",
+        "55 pessoas"
+      ],
+      "correctAnswer": "50 pessoas"
+    },
+    {
+      "question": "Uma piscina é preenchida por duas torneiras. A primeira enche a piscina em 4 horas e a segunda em 6 horas. Se ambas estão abertas, em quanto tempo a piscina será preenchida?",
+      "options": [
+        "2,4 horas",
+        "2,5 horas",
+        "2,6 horas",
+        "2,7 horas"
+      ],
+      "correctAnswer": "2,4 horas"
+    },
+    {
+      "question": "Marcos comprou um computador por R$2.400,00 e vai pagá-lo em 10 prestações iguais e sem juros. Quanto ele pagará em cada prestação?",
+      "options": [
+        "R$240,00",
+        "R$245,00",
+        "R$235,00",
+        "R$250,00"
+      ],
+      "correctAnswer": "R$240,00"
+    },
+    {
+      "question": "Um carro percorre 300 km com 20 litros de combustível. Qual é o consumo médio de combustível do carro em km/l?",
+      "options": [
+        "15 km/l",
+        "16 km/l",
+        "14 km/l",
+        "18 km/l"
+      ],
+      "correctAnswer": "15 km/l"
+    },
+    {
+      "question": "Paulo comprou 5 livros que custaram R$25,00 cada um. Quantos reais ele gastou no total?",
+      "options": [
+        "R$125,00",
+        "R$130,00",
+        "R$135,00",
+        "R$120,00"
+      ],
+      "correctAnswer": "R$125,00"
+    },
+    {
+      "question": "Uma promoção oferece 20% de desconto em um produto que custa R$150,00. Qual será o valor do desconto?",
+      "options": [
+        "R$30,00",
+        "R$25,00",
+        "R$35,00",
+        "R$20,00"
+      ],
+      "correctAnswer": "R$30,00"
+    },
+    {
+      "question": "Uma caixa contém 12 maçãs. Se 3 delas estão estragadas, qual é a porcentagem de maçãs estragadas na caixa?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": "25%"
+    },
+    {
+      "question": "Um carro percorre 480 km com 40 litros de combustível. Qual é o consumo médio do carro em km/l?",
+      "options": [
+        "12 km/l",
+        "10 km/l",
+        "11 km/l",
+        "13 km/l"
+      ],
+      "correctAnswer": "12 km/l"
+    },
+    {
+      "question": "Um investidor aplica R$2.000,00 em uma conta que rende 3% ao mês. Qual será o valor dessa aplicação após 6 meses, sem considerar impostos?",
+      "options": [
+        "R$2.364,10",
+        "R$2.382,03",
+        "R$2.350,00",
+        "R$2.368,06"
+      ],
+      "correctAnswer": "R$2.364,10"
+    },
+    {
+      "question": "Uma fazenda tem 1200 hectares e 30% dela é utilizada para o cultivo de soja. Quantos hectares são usados para o cultivo de soja?",
+      "options": [
+        "360 hectares",
+        "340 hectares",
+        "350 hectares",
+        "370 hectares"
+      ],
+      "correctAnswer": "360 hectares"
+    },
+    {
+      "question": "Se um produto custa R$200,00 e sofre um aumento de 15%, qual será o novo preço do produto?",
+      "options": [
+        "R$230,00",
+        "R$225,00",
+        "R$220,00",
+        "R$235,00"
+      ],
+      "correctAnswer": "R$230,00"
+    },
+    {
+      "question": "Em uma escola, 45% dos 800 alunos são meninas. Quantas meninas estudam na escola?",
+      "options": [
+        "360 meninas",
+        "350 meninas",
+        "370 meninas",
+        "340 meninas"
+      ],
+      "correctAnswer": "360 meninas"
+    },
+    {
+      "question": "Um pedreiro leva 8 horas para construir um muro de 10 metros. Quantas horas ele levará para construir um muro de 15 metros, mantendo a mesma eficiência?",
+      "options": [
+        "12 horas",
+        "11 horas",
+        "14 horas",
+        "13 horas"
+      ],
+      "correctAnswer": "12 horas"
+    },
+    {
+      "question": "Uma torneira enche um tanque de 500 litros em 10 horas. Qual é a vazão média da torneira em litros por hora?",
+      "options": [
+        "50 litros/hora",
+        "45 litros/hora",
+        "55 litros/hora",
+        "40 litros/hora"
+      ],
+      "correctAnswer": "50 litros/hora"
+    },
+    {
+      "question": "Um comerciante comprou um lote de 200 mercadorias por R$50 cada. Ele vendeu 75% das mercadorias com um lucro de 40% e o restante com um prejuízo de 20%. Qual foi o lucro ou prejuízo total?",
+      "options": [
+        "R$1.000,00 de lucro",
+        "R$1.200,00 de prejuízo",
+        "R$1.100,00 de lucro",
+        "R$1.300,00 de prejuízo"
+      ],
+      "correctAnswer": "R$1.000,00 de lucro"
+    },
+    {
+      "question": "Em uma cidade, a população aumenta 10% ao ano. Se a população inicial é de 50.000 habitantes, qual será a população após 3 anos?",
+      "options": [
+        "66.550 habitantes",
+        "60.500 habitantes",
+        "66.500 habitantes",
+        "61.050 habitantes"
+      ],
+      "correctAnswer": "66.550 habitantes"
+    },
+    {
+      "question": "Um investidor aplica R$10.000,00 em um fundo que rende 5% ao trimestre. Qual será o valor dessa aplicação após um ano?",
+      "options": [
+        "R$12.155,06",
+        "R$12.000,00",
+        "R$12.105,06",
+        "R$12.155,00"
+      ],
+      "correctAnswer": "R$12.155,06"
+    },
+    {
+      "question": "Uma empresa fabrica 500 unidades de um produto por mês. Se a empresa aumentar a produção em 8% ao mês, qual será a produção após 6 meses?",
+      "options": [
+        "793 unidades",
+        "760 unidades",
+        "754 unidades",
+        "748 unidades"
+      ],
+      "correctAnswer": "793 unidades"
+    },
+    {
+      "question": "Um triângulo retângulo tem catetos de 6 cm e 8 cm. Qual é a medida da hipotenusa?",
+      "options": [
+        "10 cm",
+        "12 cm",
+        "9 cm",
+        "11 cm"
+      ],
+      "correctAnswer": "10 cm"
+    },
+    {
+      "question": "Um reservatório tem a forma de um cilindro com raio de 4 metros e altura de 3 metros. Qual é o volume do reservatório em metros cúbicos (use π = 3,14)?",
+      "options": [
+        "150,72 m³",
+        "150,00 m³",
+        "151,28 m³",
+        "152,00 m³"
+      ],
+      "correctAnswer": "150,72 m³"
+    },
+    {
+      "question": "Uma máquina pode produzir 200 peças em 5 horas. Se uma nova máquina é 25% mais eficiente, quantas peças ela pode produzir em 8 horas?",
+      "options": [
+        "400 peças",
+        "450 peças",
+        "500 peças",
+        "480 peças"
+      ],
+      "correctAnswer": "500 peças"
+    },
+    {
+      "question": "Uma pessoa investe R$5.000,00 a uma taxa de juros compostos de 6% ao ano. Qual será o valor do investimento após 4 anos?",
+      "options": [
+        "R$6.312,38",
+        "R$6.500,00",
+        "R$6.200,38",
+        "R$6.400,00"
+      ],
+      "correctAnswer": "R$6.312,38"
+    },
+    {
+      "question": "Um vendedor ganha uma comissão de 5% sobre suas vendas. Se ele vendeu R$12.000,00 em mercadorias em um mês, qual foi o valor de sua comissão?",
+      "options": [
+        "R$600,00",
+        "R$650,00",
+        "R$700,00",
+        "R$750,00"
+      ],
+      "correctAnswer": "R$600,00"
+    },
+    {
+      "question": "Uma escada encosta em um muro a uma altura de 4 metros do chão e forma um ângulo de 60° com o chão. Qual é o comprimento da escada?",
+      "options": [
+        "8 m",
+        "6 m",
+        "7 m",
+        "5 m"
+      ],
+      "correctAnswer": "8 m"
+    },
+    {
+      "question": "Um tanque com forma de paralelepípedo retângulo tem 3 metros de comprimento, 2 metros de largura e 1,5 metros de altura. Quantos litros de água ele pode armazenar?",
+      "options": [
+        "9.000 litros",
+        "10.000 litros",
+        "8.000 litros",
+        "7.000 litros"
+      ],
+      "correctAnswer": "9.000 litros"
+    },
+    {
+      "question": "Em uma empresa, 60% dos funcionários são mulheres. Se o número total de funcionários é 500, quantas mulheres trabalham na empresa?",
+      "options": [
+        "300 mulheres",
+        "320 mulheres",
+        "280 mulheres",
+        "290 mulheres"
+      ],
+      "correctAnswer": "300 mulheres"
+    },
+    {
+      "question": "Um investidor aplica R$15.000,00 a uma taxa de juros compostos de 4% ao trimestre. Qual será o valor do investimento após dois anos?",
+      "options": [
+        "R$24.324,67",
+        "R$25.000,00",
+        "R$23.500,00",
+        "R$24.500,00"
+      ],
+      "correctAnswer": "R$24.324,67"
+    },
+    {
+      "question": "Uma escada forma um ângulo de 30° com o chão e alcança uma altura de 3 metros na parede. Qual é o comprimento da escada?",
+      "options": [
+        "6 m",
+        "5 m",
+        "4 m",
+        "7 m"
+      ],
+      "correctAnswer": "6 m"
+    },
+    {
+      "question": "Um vendedor tem uma meta de vendas de R$50.000,00 por mês. Se ele ganha uma comissão de 8% sobre as vendas, quanto ele deverá vender para ganhar R$6.400,00 de comissão?",
+      "options": [
+        "R$80.000,00",
+        "R$70.000,00",
+        "R$75.000,00",
+        "R$72.000,00"
+      ],
+      "correctAnswer": "R$80.000,00"
+    },
+    {
+      "question": "Uma máquina produz 120 peças em 7 horas. Se a produção aumentar em 15%, quantas peças essa máquina produzirá em 10 horas?",
+      "options": [
+        "196 peças",
+        "198 peças",
+        "192 peças",
+        "200 peças"
+      ],
+      "correctAnswer": "196 peças"
+    },
+    {
+      "question": "Um capital de R$5.000,00 é aplicado a uma taxa de juros simples de 8% ao ano. Qual será o montante após três anos?",
+      "options": [
+        "R$6.200,00",
+        "R$6.300,00",
+        "R$6.400,00",
+        "R$6.500,00"
+      ],
+      "correctAnswer": "R$6.200,00"
+    },
+    {
+      "question": "Uma pessoa compra um carro financiado em 36 prestações de R$850,00 cada uma. Qual será o valor total pago ao final do financiamento?",
+      "options": [
+        "R$30.600,00",
+        "R$31.000,00",
+        "R$29.600,00",
+        "R$32.000,00"
+      ],
+      "correctAnswer": "R$30.600,00"
+    },
+    {
+      "question": "Uma escada encosta em um muro a uma altura de 4 metros do chão e forma um ângulo de 30° com o chão. Qual é o comprimento da escada?",
+      "options": [
+        "8 m",
+        "7 m",
+        "6 m",
+        "5 m"
+      ],
+      "correctAnswer": "8 m"
+    },
+    {
+      "question": "Em uma pesquisa, 60% de 1.200 pessoas entrevistadas preferem um produto A. Quantas pessoas preferem o produto A?",
+      "options": [
+        "720 pessoas",
+        "700 pessoas",
+        "750 pessoas",
+        "740 pessoas"
+      ],
+      "correctAnswer": "720 pessoas"
+    },
+    {
+      "question": "Se um trabalhador ganha R$2.500,00 por mês e gasta 30% desse valor com aluguel, quanto ele gasta mensalmente com aluguel?",
+      "options": [
+        "R$750,00",
+        "R$800,00",
+        "R$700,00",
+        "R$850,00"
+      ],
+      "correctAnswer": "R$750,00"
+    },
+    {
+      "question": "Uma pessoa aplicou R$5.000,00 em um investimento com taxa de 2% ao mês. Qual será o montante após 6 meses?",
+      "options": [
+        "R$5.630,90",
+        "R$5.618,00",
+        "R$5.600,00",
+        "R$5.625,30"
+      ],
+      "correctAnswer": "R$5.630,90"
+    },
+    {
+      "question": "Uma televisão de R$1.200,00 está sendo vendida com 10% de desconto. Qual será o preço final da televisão?",
+      "options": [
+        "R$1.080,00",
+        "R$1.100,00",
+        "R$1.090,00",
+        "R$1.095,00"
+      ],
+      "correctAnswer": "R$1.080,00"
+    },
+    {
+      "question": "Uma loja vende um produto por R$150,00 à vista ou em duas parcelas de R$80,00. Qual é a taxa de juros ao mês cobrada pela loja?",
+      "options": [
+        "10,67%",
+        "11,00%",
+        "12,00%",
+        "10,00%"
+      ],
+      "correctAnswer": "10,67%"
+    },
+    {
+      "question": "Um carro foi comprado por R$40.000,00 e vendido por R$35.000,00 após dois anos. Qual foi a depreciação anual média em termos percentuais?",
+      "options": [
+        "6,25%",
+        "5,00%",
+        "7,50%",
+        "6,50%"
+      ],
+      "correctAnswer": "6,25%"
+    },
+    {
+      "question": "Se uma máquina tem uma vida útil de 5 anos e custa R$10.000,00, qual é o valor da depreciação anual?",
+      "options": [
+        "R$2.000,00",
+        "R$2.500,00",
+        "R$1.800,00",
+        "R$2.200,00"
+      ],
+      "correctAnswer": "R$2.000,00"
+    },
+    {
+      "question": "Uma pessoa tomou um empréstimo de R$20.000,00 a uma taxa de juros simples de 5% ao ano. Quanto ela pagará de juros em 3 anos?",
+      "options": [
+        "R$3.000,00",
+        "R$3.200,00",
+        "R$3.500,00",
+        "R$3.600,00"
+      ],
+      "correctAnswer": "R$3.000,00"
+    },
+    {
+      "question": "Uma geladeira custa R$2.500,00 e está sendo vendida em 12 parcelas iguais de R$230,00. Qual é a taxa de juros mensal implícita nessa oferta?",
+      "options": [
+        "2,00%",
+        "1,80%",
+        "2,20%",
+        "1,90%"
+      ],
+      "correctAnswer": "2,00%"
+    },
+    {
+      "question": "Uma loja oferece um desconto de 15% para pagamentos à vista. Se um cliente comprou um produto de R$450,00 e pagou à vista, quanto ele pagou pelo produto?",
+      "options": [
+        "R$382,50",
+        "R$385,00",
+        "R$390,00",
+        "R$400,00"
+      ],
+      "correctAnswer": "R$382,50"
+    },
+    {
+      "question": "Se um trabalhador recebe R$3.000,00 e gasta 20% desse valor com transporte, quanto ele gasta mensalmente com transporte?",
+      "options": [
+        "R$600,00",
+        "R$550,00",
+        "R$500,00",
+        "R$650,00"
+      ],
+      "correctAnswer": "R$600,00"
+    },
+    {
+      "question": "Uma pessoa tomou um empréstimo de R$50.000,00 a uma taxa de juros simples de 3% ao mês. Quanto ela pagará de juros em 10 meses?",
+      "options": [
+        "R$15.000,00",
+        "R$13.500,00",
+        "R$14.500,00",
+        "R$16.000,00"
+      ],
+      "correctAnswer": "R$15.000,00"
+    },
+    {
+      "question": "Se um investidor aplica R$20.000,00 em um fundo que rende 8% ao semestre, qual será o montante após um ano?",
+      "options": [
+        "R$23.328,00",
+        "R$23.200,00",
+        "R$23.500,00",
+        "R$23.400,00"
+      ],
+      "correctAnswer": "R$23.328,00"
+    },
+    {
+      "question": "Uma pessoa comprou um carro por R$50.000,00 e pagou 20% de entrada. O restante será pago em 36 prestações iguais. Qual é o valor de cada prestação, sem juros?",
+      "options": [
+        "R$1.111,11",
+        "R$1.222,22",
+        "R$1.333,33",
+        "R$1.444,44"
+      ],
+      "correctAnswer": "R$1.111,11"
+    },
+    {
+      "question": "Uma loja vende um produto por R$1.200,00 à vista ou em 6 parcelas de R$220,00. Qual é a taxa de juros mensal implícita na venda a prazo?",
+      "options": [
+        "2,89%",
+        "2,75%",
+        "2,95%",
+        "3,00%"
+      ],
+      "correctAnswer": "2,89%"
+    },
+    {
+      "question": "Uma casa foi comprada por R$300.000,00 e vendida por R$350.000,00 após três anos. Qual foi a taxa de valorização anual média da casa?",
+      "options": [
+        "5,26%",
+        "5,50%",
+        "6,00%",
+        "6,25%"
+      ],
+      "correctAnswer": "5,26%"
+    },
+    {
+      "question": "Se uma pessoa ganha R$4.000,00 por mês e gasta 35% desse valor com alimentação, quanto ela gasta mensalmente com alimentação?",
+      "options": [
+        "R$1.400,00",
+        "R$1.300,00",
+        "R$1.200,00",
+        "R$1.500,00"
+      ],
+      "correctAnswer": "R$1.400,00"
+    },
+    {
+      "question": "Um eletrodoméstico custa R$2.500,00 e está sendo vendido com um desconto de 12%. Qual será o preço final do eletrodoméstico com o desconto?",
+      "options": [
+        "R$2.200,00",
+        "R$2.250,00",
+        "R$2.300,00",
+        "R$2.350,00"
+      ],
+      "correctAnswer": "R$2.200,00"
+    },
+    {
+      "question": "Uma pessoa tomou um empréstimo de R$10.000,00 e pagará 24 prestações iguais de R$500,00 cada uma. Qual é a taxa de juros mensal desse empréstimo?",
+      "options": [
+        "4,83%",
+        "4,75%",
+        "5,00%",
+        "4,95%"
+      ],
+      "correctAnswer": "4,83%"
+    },
+    {
+      "question": "Um trabalhador recebe R$3.000,00 e gasta 18% desse valor com transporte. Quanto ele gasta mensalmente com transporte?",
+      "options": [
+        "R$540,00",
+        "R$550,00",
+        "R$530,00",
+        "R$520,00"
+      ],
+      "correctAnswer": "R$540,00"
+    },
+    {
+      "question": "Um carro foi comprado por R$60.000,00 e vendido por R$45.000,00 após três anos. Qual foi a taxa de depreciação anual média?",
+      "options": [
+        "8,33%",
+        "7,50%",
+        "8,50%",
+        "7,67%"
+      ],
+      "correctAnswer": "8,33%"
+    },
+    {
+      "question": "Quantas permutações distintas podem ser formadas com as letras da palavra BRASIL?",
+      "options": [
+        "720",
+        "600",
+        "650",
+        "710"
+      ],
+      "correctAnswer": "720"
+    },
+    {
+      "question": "Quantas maneiras diferentes podemos escolher 3 livros de uma prateleira com 8 livros?",
+      "options": [
+        "56",
+        "58",
+        "60",
+        "62"
+      ],
+      "correctAnswer": "56"
+    },
+    {
+      "question": "De quantas formas diferentes podemos organizar 4 pessoas em uma fila?",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "30"
+      ],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "Em quantas formas distintas podemos escolher um presidente, um vice-presidente e um secretário dentre 10 candidatos?",
+      "options": [
+        "720",
+        "700",
+        "710",
+        "730"
+      ],
+      "correctAnswer": "720"
+    },
+    {
+      "question": "Quantas combinações de 3 elementos podem ser escolhidas de um conjunto com 6 elementos?",
+      "options": [
+        "20",
+        "18",
+        "22",
+        "24"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "question": "Em um grupo de 8 pessoas, de quantas maneiras distintas podemos formar uma comissão de 4 pessoas?",
+      "options": [
+        "70",
+        "72",
+        "74",
+        "76"
+      ],
+      "correctAnswer": "70"
+    },
+    {
+      "question": "Qual a probabilidade de sair um número par ao lançar um dado de 6 faces?",
+      "options": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/4"
+      ],
+      "correctAnswer": "1/2"
+    },
+    {
+      "question": "Quantas combinações diferentes de 2 sabores podem ser feitas com 5 opções de sorvete?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Quantas maneiras diferentes existem para organizar 6 livros em uma estante?",
+      "options": [
+        "720",
+        "700",
+        "710",
+        "730"
+      ],
+      "correctAnswer": "720"
+    },
+    {
+      "question": "Qual é a mediana dos números 3, 8, 9, 12, 15, 17 e 20?",
+      "options": [
+        "12",
+        "10",
+        "11",
+        "14"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Quantas permutações distintas podem ser formadas com as letras da palavra AMOR?",
+      "options": [
+        "24",
+        "20",
+        "22",
+        "26"
+      ],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "De quantas formas diferentes podemos escolher 2 frutas de uma cesta com 5 frutas?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Quantas maneiras diferentes podemos organizar 5 livros em uma prateleira?",
+      "options": [
+        "120",
+        "110",
+        "130",
+        "140"
+      ],
+      "correctAnswer": "120"
+    },
+    {
+      "question": "Em quantas formas distintas podemos escolher um capitão e um vice-capitão dentre 8 jogadores?",
+      "options": [
+        "56",
+        "54",
+        "58",
+        "60"
+      ],
+      "correctAnswer": "56"
+    },
+    {
+      "question": "Quantas combinações de 4 elementos podem ser escolhidas de um conjunto com 7 elementos?",
+      "options": [
+        "35",
+        "33",
+        "37",
+        "39"
+      ],
+      "correctAnswer": "35"
+    },
+    {
+      "question": "Em um grupo de 10 pessoas, de quantas maneiras distintas podemos formar uma comissão de 5 pessoas?",
+      "options": [
+        "252",
+        "250",
+        "254",
+        "256"
+      ],
+      "correctAnswer": "252"
+    },
+    {
+      "question": "Qual a probabilidade de sair um número ímpar ao lançar um dado de 6 faces?",
+      "options": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/4"
+      ],
+      "correctAnswer": "1/2"
+    },
+    {
+      "question": "Quantas combinações diferentes de 3 sabores podem ser feitas com 6 opções de sorvete?",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "question": "Quantas maneiras diferentes existem para organizar 7 livros em uma estante?",
+      "options": [
+        "5.040",
+        "4.900",
+        "5.100",
+        "5.200"
+      ],
+      "correctAnswer": "5.040"
+    },
+    {
+      "question": "Qual é a mediana dos números 5, 10, 15, 20, 25, 30 e 35?",
+      "options": [
+        "20",
+        "18",
+        "22",
+        "24"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "question": "De quantas maneiras diferentes podemos organizar 7 pessoas em uma fila?",
+      "options": [
+        "5.040",
+        "4.900",
+        "5.100",
+        "5.200"
+      ],
+      "correctAnswer": "5.040"
+    },
+    {
+      "question": "Quantas combinações de 4 elementos podem ser escolhidas de um conjunto com 8 elementos?",
+      "options": [
+        "70",
+        "60",
+        "80",
+        "90"
+      ],
+      "correctAnswer": "70"
+    },
+    {
+      "question": "Quantas permutações distintas podem ser formadas com as letras da palavra TRIÂNGULO?",
+      "options": [
+        "362.880",
+        "400.000",
+        "350.000",
+        "380.000"
+      ],
+      "correctAnswer": "362.880"
+    },
+    {
+      "question": "De quantas formas podemos escolher 3 alunos de uma turma com 10 alunos?",
+      "options": [
+        "120",
+        "110",
+        "130",
+        "100"
+      ],
+      "correctAnswer": "120"
+    },
+    {
+      "question": "Quantas maneiras diferentes podemos organizar 6 livros em uma estante?",
+      "options": [
+        "720",
+        "650",
+        "800",
+        "750"
+      ],
+      "correctAnswer": "720"
+    },
+    {
+      "question": "Qual é a média aritmética dos números 4, 8, 10, 12 e 16?",
+      "options": [
+        "10",
+        "9",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Em um grupo de 9 pessoas, de quantas maneiras distintas podemos formar uma comissão de 4 pessoas?",
+      "options": [
+        "126",
+        "120",
+        "130",
+        "140"
+      ],
+      "correctAnswer": "126"
+    },
+    {
+      "question": "Qual a probabilidade de sair um múltiplo de 3 ao lançar um dado de 6 faces?",
+      "options": [
+        "1/3",
+        "1/2",
+        "1/4",
+        "1/5"
+      ],
+      "correctAnswer": "1/3"
+    },
+    {
+      "question": "Quantas permutações distintas podem ser formadas com as letras da palavra PESSOAS?",
+      "options": [
+        "2.520",
+        "2.500",
+        "2.480",
+        "2.560"
+      ],
+      "correctAnswer": "2.520"
+    },
+    {
+      "question": "Qual é a moda dos números 3, 7, 7, 7, 10, 14 e 21?",
+      "options": [
+        "7",
+        "3",
+        "10",
+        "14"
+      ],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Qual é a área de um triângulo com base de 10 cm e altura de 8 cm?",
+      "options": [
+        "40 cm²",
+        "50 cm²",
+        "60 cm²",
+        "30 cm²"
+      ],
+      "correctAnswer": "40 cm²"
+    },
+    {
+      "question": "Qual é o valor do seno de um ângulo de 45°?",
+      "options": [
+        "√2/2",
+        "√3/2",
+        "1/2",
+        "1"
+      ],
+      "correctAnswer": "√2/2"
+    },
+    {
+      "question": "Qual é a equação da reta que passa pelos pontos (2, 3) e (4, 7)?",
+      "options": [
+        "y = 2x - 1",
+        "y = x + 1",
+        "y = 2x + 1",
+        "y = 3x + 1"
+      ],
+      "correctAnswer": "y = 2x - 1"
+    },
+    {
+      "question": "Qual é a área de um círculo com raio de 5 cm (use π = 3,14)?",
+      "options": [
+        "78,5 cm²",
+        "75,4 cm²",
+        "80,5 cm²",
+        "77,5 cm²"
+      ],
+      "correctAnswer": "78,5 cm²"
+    },
+    {
+      "question": "Qual é a distância entre os pontos (1, 2) e (4, 6) no plano cartesiano?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Qual é o cosseno de um ângulo de 60°?",
+      "options": [
+        "1/2",
+        "√3/2",
+        "√2/2",
+        "1"
+      ],
+      "correctAnswer": "1/2"
+    },
+    {
+      "question": "Qual é a equação da circunferência de centro (0, 0) e raio 3?",
+      "options": [
+        "x² + y² = 9",
+        "x² + y² = 6",
+        "x² + y² = 3",
+        "x² + y² = 12"
+      ],
+      "correctAnswer": "x² + y² = 9"
+    },
+    {
+      "question": "Qual é o valor da tangente de um ângulo de 30°?",
+      "options": [
+        "√3/3",
+        "1/√3",
+        "√3",
+        "1"
+      ],
+      "correctAnswer": "√3/3"
+    },
+    {
+      "question": "Qual é a soma dos ângulos internos de um pentágono?",
+      "options": [
+        "540°",
+        "360°",
+        "720°",
+        "600°"
+      ],
+      "correctAnswer": "540°"
+    },
+    {
+      "question": "Qual é a área de um quadrado com diagonal de 10 cm?",
+      "options": [
+        "50 cm²",
+        "40 cm²",
+        "60 cm²",
+        "70 cm²"
+      ],
+      "correctAnswer": "50 cm²"
+    },
+    {
+      "question": "Em uma sala, há 5 pessoas que precisam apertar as mãos umas com as outras uma vez. Quantos apertos de mão acontecerão no total?",
+      "options": [
+        "10",
+        "8",
+        "12",
+        "15"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Um trem precisa percorrer 500 km em 5 horas. Se ele já percorreu 320 km em 3 horas, qual deve ser a velocidade média nos próximos 2 horas?",
+      "options": [
+        "90 km/h",
+        "85 km/h",
+        "80 km/h",
+        "95 km/h"
+      ],
+      "correctAnswer": "90 km/h"
+    },
+    {
+      "question": "Ana tem três vezes a idade de Beto. Em cinco anos, a soma de suas idades será 48. Qual é a idade atual de Ana?",
+      "options": [
+        "33",
+        "30",
+        "36",
+        "27"
+      ],
+      "correctAnswer": "33"
+    },
+    {
+      "question": "João possui o dobro do número de livros que Maria possui. Se João der 5 livros a Maria, ambos terão o mesmo número de livros. Quantos livros João possui atualmente?",
+      "options": [
+        "20",
+        "15",
+        "18",
+        "22"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "question": "Em uma festa, 60% dos convidados são homens e o restante são mulheres. Se há 80 mulheres na festa, quantas pessoas há no total?",
+      "options": [
+        "200",
+        "180",
+        "220",
+        "160"
+      ],
+      "correctAnswer": "200"
+    },
+    {
+      "question": "Uma loja vende um produto por R$150,00 e oferece um desconto de 10% para pagamentos à vista. Qual será o preço final do produto com o desconto?",
+      "options": [
+        "R$135,00",
+        "R$140,00",
+        "R$130,00",
+        "R$145,00"
+      ],
+      "correctAnswer": "R$135,00"
+    },
+    {
+      "question": "Em uma caixa, há 7 bolas vermelhas, 3 bolas azuis e 5 bolas verdes. Qual a probabilidade de se retirar uma bola azul da caixa?",
+      "options": [
+        "1/5",
+        "3/15",
+        "1/4",
+        "1/3"
+      ],
+      "correctAnswer": "1/5"
+    },
+    {
+      "question": "Dois amigos, Lucas e Pedro, têm juntos R$150,00. Se Lucas tem o dobro do que Pedro possui, quanto Lucas possui?",
+      "options": [
+        "R$100,00",
+        "R$90,00",
+        "R$110,00",
+        "R$120,00"
+      ],
+      "correctAnswer": "R$100,00"
+    },
+    {
+      "question": "A soma de três números ímpares consecutivos é 45. Qual é o menor desses números?",
+      "options": [
+        "13",
+        "15",
+        "11",
+        "17"
+      ],
+      "correctAnswer": "13"
+    },
+    {
+      "question": "Uma empresa contrata 3 novos funcionários a cada mês. Quantos funcionários ela terá contratado ao final de um ano?",
+      "options": [
+        "36",
+        "30",
+        "40",
+        "33"
+      ],
+      "correctAnswer": "36"
+    },
+    {
+      "question": "Em uma escola, 30% dos alunos são meninas. Se há 120 meninas, quantos alunos há no total?",
+      "options": [
+        "400",
+        "420",
+        "380",
+        "360"
+      ],
+      "correctAnswer": "400"
+    },
+    {
+      "question": "Carlos tem o triplo da idade de sua irmã Ana. Daqui a 5 anos, a soma de suas idades será 40. Qual é a idade atual de Carlos?",
+      "options": [
+        "21",
+        "18",
+        "24",
+        "27"
+      ],
+      "correctAnswer": "21"
+    },
+    {
+      "question": "Em um cinema, 60% dos ingressos vendidos são para sessões noturnas. Se foram vendidos 90 ingressos para as sessões diurnas, quantos ingressos foram vendidos no total?",
+      "options": [
+        "225",
+        "250",
+        "200",
+        "240"
+      ],
+      "correctAnswer": "225"
+    },
+    {
+      "question": "Uma pessoa tem 24 anos e seu irmão tem 16 anos. Em quantos anos a idade do irmão será metade da idade da pessoa?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "6"
+      ],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Uma loja vendeu 20% de suas camisetas e ainda tem 80 camisetas em estoque. Quantas camisetas a loja tinha inicialmente?",
+      "options": [
+        "100",
+        "120",
+        "110",
+        "125"
+      ],
+      "correctAnswer": "100"
+    },
+    {
+      "question": "Três amigos dividiram igualmente uma quantia de dinheiro. Se cada um recebeu R$200,00, qual era a quantia total?",
+      "options": [
+        "R$600,00",
+        "R$500,00",
+        "R$700,00",
+        "R$650,00"
+      ],
+      "correctAnswer": "R$600,00"
+    },
+    {
+      "question": "Se A é metade de B, e B é o triplo de C, qual é o valor de A em termos de C?",
+      "options": [
+        "3C/2",
+        "2C",
+        "C/2",
+        "C/3"
+      ],
+      "correctAnswer": "3C/2"
+    },
+    {
+      "question": "Um pedreiro construiu um muro de 18 metros em 9 dias. Mantendo o mesmo ritmo, quantos dias ele levará para construir um muro de 24 metros?",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Uma caixa contém 5 bolas vermelhas, 4 bolas amarelas e 3 bolas azuis. Qual a probabilidade de se retirar uma bola amarela da caixa?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/5"
+      ],
+      "correctAnswer": "1/4"
+    },
+    {
+      "question": "Um caminhão percorre 150 km com 20 litros de combustível. Quantos litros serão necessários para percorrer 450 km?",
+      "options": [
+        "60 litros",
+        "45 litros",
+        "50 litros",
+        "55 litros"
+      ],
+      "correctAnswer": "60 litros"
+    },
+    {
+      "question": "Em um zoológico, há 12 zebras e 18 girafas. Qual é a razão entre o número de zebras e o número total de animais?",
+      "options": [
+        "2/5",
+        "3/4",
+        "1/3",
+        "2/3"
+      ],
+      "correctAnswer": "2/5"
+    },
+    {
+      "question": "Um pintor precisa pintar 3 paredes de 4 metros de comprimento cada. Se cada lata de tinta cobre 16 metros quadrados, quantas latas de tinta ele precisa comprar?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Um terreno quadrado tem 64 metros quadrados de área. Qual é o comprimento de cada lado do terreno?",
+      "options": [
+        "8 metros",
+        "10 metros",
+        "6 metros",
+        "12 metros"
+      ],
+      "correctAnswer": "8 metros"
+    },
+    {
+      "question": "Ana tem 5 vezes a idade de Beto. Se somarmos as idades de ambos, obtemos 42 anos. Qual é a idade de Ana?",
+      "options": [
+        "35",
+        "30",
+        "25",
+        "20"
+      ],
+      "correctAnswer": "35"
+    },
+    {
+      "question": "Um automóvel consome 8 litros de combustível para percorrer 100 km. Quantos litros de combustível ele precisará para percorrer 250 km?",
+      "options": [
+        "20 litros",
+        "22 litros",
+        "24 litros",
+        "18 litros"
+      ],
+      "correctAnswer": "20 litros"
+    },
+    {
+      "question": "João tem R$60,00 e quer comprar cadernos que custam R$8,00 cada um. Quantos cadernos ele conseguirá comprar com esse dinheiro?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Uma escada tem 10 metros de comprimento e é encostada em uma parede a 6 metros de altura. Qual é a distância do pé da escada até a parede?",
+      "options": [
+        "8 metros",
+        "6 metros",
+        "5 metros",
+        "4 metros"
+      ],
+      "correctAnswer": "8 metros"
+    },
+    {
+      "question": "Uma loja está vendendo todos os seus produtos com 20% de desconto. Se um produto custa R$200,00, qual será o preço após o desconto?",
+      "options": [
+        "R$160,00",
+        "R$170,00",
+        "R$150,00",
+        "R$180,00"
+      ],
+      "correctAnswer": "R$160,00"
+    },
+    {
+      "question": "Em uma reunião, há 10 pessoas e cada uma aperta a mão das outras. Quantos apertos de mão acontecerão no total?",
+      "options": [
+        "45",
+        "40",
+        "50",
+        "55"
+      ],
+      "correctAnswer": "45"
+    },
+    {
+      "question": "Marcos trabalha em uma empresa que dobra seu salário a cada ano. Se ele começou com um salário de R$1.000,00 por mês, qual será seu salário após 3 anos?",
+      "options": [
+        "R$8.000,00",
+        "R$7.000,00",
+        "R$9.000,00",
+        "R$10.000,00"
+      ],
+      "correctAnswer": "R$8.000,00"
+    },
+    {
+      "question": "Em uma escola, há 5 professores e 10 alunos. Qual é a razão entre o número de alunos e o número total de pessoas na escola?",
+      "options": [
+        "2/3",
+        "1/2",
+        "3/4",
+        "1/3"
+      ],
+      "correctAnswer": "2/3"
+    },
+    {
+      "question": "Carlos e Ana têm idades que somam 60 anos. Se a idade de Carlos é o dobro da idade de Ana, qual é a idade de Ana?",
+      "options": [
+        "20 anos",
+        "18 anos",
+        "22 anos",
+        "24 anos"
+      ],
+      "correctAnswer": "20 anos"
+    },
+    {
+      "question": "Em uma pesquisa, 70% dos entrevistados preferem café e o restante prefere chá. Se 140 pessoas preferem chá, quantas pessoas foram entrevistadas no total?",
+      "options": [
+        "467 pessoas",
+        "480 pessoas",
+        "500 pessoas",
+        "467 pessoas"
+      ],
+      "correctAnswer": "467 pessoas"
+    },
+    {
+      "question": "Uma empresa produz 150 peças por hora. Quantas peças serão produzidas em 8 horas de trabalho?",
+      "options": [
+        "1.200 peças",
+        "1.100 peças",
+        "1.250 peças",
+        "1.150 peças"
+      ],
+      "correctAnswer": "1.200 peças"
+    },
+    {
+      "question": "Um carro percorre 240 km com 20 litros de combustível. Qual é a distância que ele percorrerá com 50 litros?",
+      "options": [
+        "600 km",
+        "500 km",
+        "550 km",
+        "650 km"
+      ],
+      "correctAnswer": "600 km"
+    },
+    {
+      "question": "Se o preço de um produto aumenta 20% e depois diminui 20%, qual será o preço final em relação ao preço inicial?",
+      "options": [
+        "96%",
+        "100%",
+        "104%",
+        "90%"
+      ],
+      "correctAnswer": "96%"
+    },
+    {
+      "question": "Uma piscina é preenchida por duas torneiras. A primeira enche a piscina em 4 horas e a segunda em 6 horas. Se ambas estão abertas, em quanto tempo a piscina será preenchida?",
+      "options": [
+        "2,4 horas",
+        "3,5 horas",
+        "3,0 horas",
+        "2,7 horas"
+      ],
+      "correctAnswer": "2,4 horas"
+    },
+    {
+      "question": "Em uma caixa, há 4 bolas vermelhas, 5 bolas azuis e 6 bolas verdes. Qual a probabilidade de se retirar uma bola verde da caixa?",
+      "options": [
+        "2/5",
+        "1/4",
+        "1/3",
+        "1/5"
+      ],
+      "correctAnswer": "2/5"
+    },
+    {
+      "question": "Um trabalhador recebe R$2.400,00 por mês. Se ele gasta 30% desse valor com aluguel, quanto ele gasta mensalmente com aluguel?",
+      "options": [
+        "R$720,00",
+        "R$600,00",
+        "R$750,00",
+        "R$800,00"
+      ],
+      "correctAnswer": "R$720,00"
+    },
+    {
+      "question": "Uma fábrica produz 250 peças em 5 dias. Mantendo o mesmo ritmo, quantas peças serão produzidas em 12 dias?",
+      "options": [
+        "600 peças",
+        "550 peças",
+        "650 peças",
+        "700 peças"
+      ],
+      "correctAnswer": "600 peças"
+    },
+    {
+      "question": "Em uma biblioteca, há 60 livros distribuídos em 5 prateleiras igualmente. Quantos livros há em cada prateleira?",
+      "options": [
+        "12",
+        "14",
+        "10",
+        "15"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Carlos tem o triplo da idade de Ana. Daqui a 10 anos, a soma de suas idades será 80 anos. Qual é a idade atual de Carlos?",
+      "options": [
+        "45 anos",
+        "50 anos",
+        "40 anos",
+        "35 anos"
+      ],
+      "correctAnswer": "45 anos"
+    },
+    {
+      "question": "Uma loja vende 20% de suas camisetas e ainda tem 80 camisetas em estoque. Quantas camisetas a loja tinha inicialmente?",
+      "options": [
+        "100 camisetas",
+        "120 camisetas",
+        "110 camisetas",
+        "130 camisetas"
+      ],
+      "correctAnswer": "100 camisetas"
+    },
+    {
+      "question": "Uma piscina é preenchida por duas torneiras. A primeira enche a piscina em 3 horas e a segunda em 4 horas. Se ambas estão abertas, em quanto tempo a piscina será preenchida?",
+      "options": [
+        "1,71 horas",
+        "1,86 horas",
+        "2,43 horas",
+        "2,57 horas"
+      ],
+      "correctAnswer": "1,71 horas"
+    },
+    {
+      "question": "Ana percorre a pé uma distância de 6 km em 1,5 horas. Qual é a sua velocidade média?",
+      "options": [
+        "4 km/h",
+        "3 km/h",
+        "5 km/h",
+        "6 km/h"
+      ],
+      "correctAnswer": "4 km/h"
+    },
+    {
+      "question": "Um caminhão transporta 300 caixas de um armazém para outro em 5 viagens. Quantas caixas são transportadas por viagem?",
+      "options": [
+        "60 caixas",
+        "50 caixas",
+        "40 caixas",
+        "70 caixas"
+      ],
+      "correctAnswer": "60 caixas"
+    },
+    {
+      "question": "Em uma reunião, há 10 pessoas, cada uma cumprimentando todas as outras. Quantos cumprimentos são feitos no total?",
+      "options": [
+        "45 cumprimentos",
+        "40 cumprimentos",
+        "50 cumprimentos",
+        "35 cumprimentos"
+      ],
+      "correctAnswer": "45 cumprimentos"
+    },
+    {
+      "question": "Se um quadrado tem uma área de 64 m², qual é o comprimento do lado do quadrado?",
+      "options": [
+        "8 metros",
+        "7 metros",
+        "6 metros",
+        "9 metros"
+      ],
+      "correctAnswer": "8 metros"
+    },
+    {
+      "question": "João comprou 3 camisas por R$25,00 cada uma. Quanto ele gastou no total?",
+      "options": [
+        "R$75,00",
+        "R$70,00",
+        "R$80,00",
+        "R$85,00"
+      ],
+      "correctAnswer": "R$75,00"
+    },
+    {
+      "question": "Uma escola tem 240 alunos, dos quais 60% são meninas. Quantos meninos estudam na escola?",
+      "options": [
+        "96 meninos",
+        "100 meninos",
+        "90 meninos",
+        "110 meninos"
+      ],
+      "correctAnswer": "96 meninos"
+    },
+    {
+      "question": "Em uma festa, há 20 homens e 15 mulheres. Qual é a razão entre o número de mulheres e o número total de pessoas na festa?",
+      "options": [
+        "3/7",
+        "2/5",
+        "3/5",
+        "3/4"
+      ],
+      "correctAnswer": "3/7"
+    },
+    {
+      "question": "Um pedreiro constrói um muro de 15 metros em 5 dias. Mantendo o mesmo ritmo, quantos dias ele levará para construir um muro de 45 metros?",
+      "options": [
+        "15 dias",
+        "12 dias",
+        "14 dias",
+        "13 dias"
+      ],
+      "correctAnswer": "15 dias"
+    },
+    {
+      "question": "Se a soma das idades de Pedro e Ana é 50 anos e Pedro tem o dobro da idade de Ana, qual é a idade de Ana?",
+      "options": [
+        "16 anos",
+        "17 anos",
+        "18 anos",
+        "15 anos"
+      ],
+      "correctAnswer": "16 anos"
+    },
+    {
+      "question": "Uma loja vendeu 80% dos seus produtos e ainda tem 40 produtos em estoque. Quantos produtos a loja tinha inicialmente?",
+      "options": [
+        "200 produtos",
+        "220 produtos",
+        "210 produtos",
+        "240 produtos"
+      ],
+      "correctAnswer": "200 produtos"
+    },
+    {
+      "question": "Um carro consome 10 litros de combustível para percorrer 100 km. Quantos litros serão necessários para percorrer 350 km?",
+      "options": [
+        "35 litros",
+        "30 litros",
+        "40 litros",
+        "25 litros"
+      ],
+      "correctAnswer": "35 litros"
+    },
+    {
+      "question": "Uma pessoa comprou 5 camisas por R$30,00 cada uma e 3 calças por R$50,00 cada uma. Quanto ela gastou no total?",
+      "options": [
+        "R$290,00",
+        "R$280,00",
+        "R$270,00",
+        "R$300,00"
+      ],
+      "correctAnswer": "R$290,00"
+    },
+    {
+      "question": "Em uma pesquisa, 60% dos entrevistados preferem pizza e o restante prefere hambúrguer. Se 180 pessoas preferem hambúrguer, quantas pessoas foram entrevistadas no total?",
+      "options": [
+        "450 pessoas",
+        "480 pessoas",
+        "470 pessoas",
+        "460 pessoas"
+      ],
+      "correctAnswer": "450 pessoas"
+    },
+    {
+      "question": "Ana caminha a uma velocidade média de 5 km/h. Quantos quilômetros ela percorrerá em 3 horas?",
+      "options": [
+        "15 km",
+        "14 km",
+        "16 km",
+        "13 km"
+      ],
+      "correctAnswer": "15 km"
+    },
+    {
+      "question": "Uma fábrica produz 800 peças em 8 horas. Mantendo o mesmo ritmo, quantas peças serão produzidas em 12 horas?",
+      "options": [
+        "1.200 peças",
+        "1.150 peças",
+        "1.250 peças",
+        "1.100 peças"
+      ],
+      "correctAnswer": "1.200 peças"
+    },
+    {
+      "question": "Em uma caixa, há 5 bolas vermelhas, 3 bolas azuis e 2 bolas verdes. Qual a probabilidade de se retirar uma bola vermelha da caixa?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correctAnswer": "1/2"
+    }
+  ]
+}
