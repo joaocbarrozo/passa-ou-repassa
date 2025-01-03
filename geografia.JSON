@@ -1,0 +1,2004 @@
+{
+    "questions": [
+        {
+            "question": "Qual é a maior bacia hidrográfica do Brasil?",
+            "options": [
+                "Bacia Amazônica",
+                "Bacia do Paraná",
+                "Bacia do São Francisco",
+                "Bacia do Tocantins-Araguaia"
+            ],
+            "correctAnswer": "Bacia Amazônica"
+        },
+        {
+            "question": "Qual é a principal formação de relevo no Centro-Oeste do Brasil?",
+            "options": [
+                "Chapada dos Guimarães",
+                "Serra do Mar",
+                "Planície do Pantanal",
+                "Serra da Mantiqueira"
+            ],
+            "correctAnswer": "Chapada dos Guimarães"
+        },
+        {
+            "question": "Qual bioma ocupa a maior área do território brasileiro?",
+            "options": [
+                "Amazônia",
+                "Cerrado",
+                "Mata Atlântica",
+                "Caatinga"
+            ],
+            "correctAnswer": "Amazônia"
+        },
+        {
+            "question": "Qual é a montanha mais alta do Brasil?",
+            "options": [
+                "Pico da Neblina",
+                "Pico das Agulhas Negras",
+                "Monte Roraima",
+                "Pico do Jaraguá"
+            ],
+            "correctAnswer": "Pico da Neblina"
+        },
+        {
+            "question": "Qual rio atravessa a região Nordeste do Brasil e é importante para a agricultura?",
+            "options": [
+                "Rio São Francisco",
+                "Rio Tocantins",
+                "Rio Doce",
+                "Rio Parnaíba"
+            ],
+            "correctAnswer": "Rio São Francisco"
+        },
+        {
+            "question": "Qual é a característica principal do clima semiárido no Brasil?",
+            "options": [
+                "Chuvas escassas e mal distribuídas",
+                "Temperaturas extremamente baixas",
+                "Alta umidade e chuvas frequentes",
+                "Temperaturas amenas e estáveis"
+            ],
+            "correctAnswer": "Chuvas escassas e mal distribuídas"
+        },
+        {
+            "question": "Qual fenômeno natural é comum na região Sul do Brasil durante o inverno?",
+            "options": [
+                "Geadas",
+                "Enchentes",
+                "Secas severas",
+                "Deslizamentos de terra"
+            ],
+            "correctAnswer": "Geadas"
+        },
+        {
+            "question": "Qual é o principal tipo de vegetação encontrada no Pantanal?",
+            "options": [
+                "Campos alagados",
+                "Florestas densas",
+                "Matas de araucárias",
+                "Cerrados secos"
+            ],
+            "correctAnswer": "Campos alagados"
+        },
+        {
+            "question": "Qual rio é famoso por formar a maior planície alagável do mundo?",
+            "options": [
+                "Rio Paraguai",
+                "Rio Amazonas",
+                "Rio Tietê",
+                "Rio Madeira"
+            ],
+            "correctAnswer": "Rio Paraguai"
+        },
+        {
+            "question": "Qual é a característica predominante do solo da região amazônica?",
+            "options": [
+                "Solos pobres em nutrientes",
+                "Solos ricos em minerais",
+                "Solos alcalinos e férteis",
+                "Solos pedregosos e áridos"
+            ],
+            "correctAnswer": "Solos pobres em nutrientes"
+        },
+        {
+            "question": "Qual é o deserto localizado no Brasil?",
+            "options": [
+                "Deserto do Jalapão",
+                "Deserto de Atacama",
+                "Deserto do Namibe",
+                "Deserto de Sonora"
+            ],
+            "correctAnswer": "Deserto do Jalapão"
+        },
+        {
+            "question": "Qual é o nome da floresta tropical densa encontrada na região Norte do Brasil?",
+            "options": [
+                "Floresta Amazônica",
+                "Floresta de Sumatra",
+                "Floresta do Congo",
+                "Floresta da Tasmânia"
+            ],
+            "correctAnswer": "Floresta Amazônica"
+        },
+        {
+            "question": "Qual é a principal característica dos solos de terra roxa do Brasil?",
+            "options": [
+                "Alta fertilidade",
+                "Baixa acidez",
+                "Presença de sal",
+                "Permeabilidade alta"
+            ],
+            "correctAnswer": "Alta fertilidade"
+        },
+        {
+            "question": "Qual é o fenômeno climático conhecido por provocar secas severas no Nordeste do Brasil?",
+            "options": [
+                "El Niño",
+                "La Niña",
+                "Monções",
+                "Sirocos"
+            ],
+            "correctAnswer": "El Niño"
+        },
+        {
+            "question": "Qual é a principal formação de relevo encontrada na região Sudeste do Brasil?",
+            "options": [
+                "Serra do Mar",
+                "Planície do Pantanal",
+                "Chapada dos Guimarães",
+                "Serra Geral"
+            ],
+            "correctAnswer": "Serra do Mar"
+        },
+        {
+            "question": "Qual é o maior rio em volume de água do Brasil?",
+            "options": [
+                "Rio Amazonas",
+                "Rio Paraná",
+                "Rio São Francisco",
+                "Rio Araguaia"
+            ],
+            "correctAnswer": "Rio Amazonas"
+        },
+        {
+            "question": "Qual é o tipo de vegetação predominante na Caatinga?",
+            "options": [
+                "Vegetação xerófita",
+                "Vegetação hidrófila",
+                "Vegetação mesófita",
+                "Vegetação tropófila"
+            ],
+            "correctAnswer": "Vegetação xerófita"
+        },
+        {
+            "question": "Qual é o nome do fenômeno de aumento do nível do mar que afeta as zonas costeiras do Brasil?",
+            "options": [
+                "Maré alta",
+                "Maré negra",
+                "Maré seca",
+                "Maré vermelha"
+            ],
+            "correctAnswer": "Maré alta"
+        },
+        {
+            "question": "Qual é a principal formação geológica que compõe o litoral brasileiro?",
+            "options": [
+                "Planície costeira",
+                "Cordilheira dos Andes",
+                "Depressão periférica",
+                "Chapada Diamantina"
+            ],
+            "correctAnswer": "Planície costeira"
+        },
+        {
+            "question": "Qual é a principal característica do clima equatorial encontrado na região Norte do Brasil?",
+            "options": [
+                "Chuvas abundantes e temperaturas elevadas",
+                "Chuvas esparsas e temperaturas amenas",
+                "Baixa umidade e temperaturas extremas",
+                "Chuvas escassas e temperaturas baixas"
+            ],
+            "correctAnswer": "Chuvas abundantes e temperaturas elevadas"
+        },
+        {
+            "question": "Qual é a principal característica das savanas brasileiras?",
+            "options": [
+                "Vegetação esparsa e arbustos",
+                "Florestas densas e úmidas",
+                "Solo fértil e rios abundantes",
+                "Presença de vulcões ativos"
+            ],
+            "correctAnswer": "Vegetação esparsa e arbustos"
+        },
+        {
+            "question": "Qual é o nome do fenômeno natural que causa enchentes na Amazônia?",
+            "options": [
+                "Cheia dos rios",
+                "Desmoronamento de encostas",
+                "Erupções vulcânicas",
+                "Desertificação"
+            ],
+            "correctAnswer": "Cheia dos rios"
+        },
+        {
+            "question": "Qual é a principal formação montanhosa localizada na região Sudeste do Brasil?",
+            "options": [
+                "Serra da Mantiqueira",
+                "Planalto Central",
+                "Chapada dos Veadeiros",
+                "Serra do Espinhaço"
+            ],
+            "correctAnswer": "Serra da Mantiqueira"
+        },
+        {
+            "question": "Qual é o bioma brasileiro conhecido por sua vegetação de mata atlântica?",
+            "options": [
+                "Mata Atlântica",
+                "Cerrado",
+                "Caatinga",
+                "Pampa"
+            ],
+            "correctAnswer": "Mata Atlântica"
+        },
+        {
+            "question": "Qual é o nome da corrente marítima que influencia o clima do litoral brasileiro?",
+            "options": [
+                "Corrente do Brasil",
+                "Corrente de Humboldt",
+                "Corrente das Malvinas",
+                "Corrente do Golfo"
+            ],
+            "correctAnswer": "Corrente do Brasil"
+        },
+        {
+            "question": "Qual é a principal característica do relevo na região Sul do Brasil?",
+            "options": [
+                "Presença de planaltos e coxilhas",
+                "Existência de desertos extensos",
+                "Presença de grandes cadeias de montanhas",
+                "Predomínio de planícies aluviais"
+            ],
+            "correctAnswer": "Presença de planaltos e coxilhas"
+        },
+        {
+            "question": "Qual é o rio mais extenso que atravessa a floresta Amazônica?",
+            "options": [
+                "Rio Amazonas",
+                "Rio Tapajós",
+                "Rio Xingu",
+                "Rio Negro"
+            ],
+            "correctAnswer": "Rio Amazonas"
+        },
+        {
+            "question": "Qual é a formação geológica conhecida como 'Depressão Sertaneja'?",
+            "options": [
+                "Área de baixa altitude e clima semiárido",
+                "Região de montanhas altas e clima frio",
+                "Planalto com vegetação de mata atlântica",
+                "Planície costeira com clima tropical úmido"
+            ],
+            "correctAnswer": "Área de baixa altitude e clima semiárido"
+        },
+        {
+            "question": "Qual é a principal característica das matas de araucárias no Brasil?",
+            "options": [
+                "Vegetação de coníferas",
+                "Vegetação de palmeiras",
+                "Vegetação de cactos",
+                "Vegetação de manguezais"
+            ],
+            "correctAnswer": "Vegetação de coníferas"
+        },
+        {
+            "question": "Qual é a maior unidade de relevo que domina o Nordeste brasileiro?",
+            "options": [
+                "Planalto da Borborema",
+                "Chapada Diamantina",
+                "Planície Pantaneira",
+                "Serra do Mar"
+            ],
+            "correctAnswer": "Planalto da Borborema"
+        },
+        {
+            "question": "Qual é o principal tipo de solo encontrado no Cerrado?",
+            "options": [
+                "Solo arenoso e ácido",
+                "Solo argiloso e fértil",
+                "Solo pedregoso e seco",
+                "Solo aluvial e úmido"
+            ],
+            "correctAnswer": "Solo arenoso e ácido"
+        },
+        {
+            "question": "Qual é a principal característica do clima tropical de altitude encontrado no Sudeste do Brasil?",
+            "options": [
+                "Verões quentes e invernos amenos",
+                "Verões secos e invernos chuvosos",
+                "Verões frios e invernos rigorosos",
+                "Verões úmidos e invernos secos"
+            ],
+            "correctAnswer": "Verões quentes e invernos amenos"
+        },
+        {
+            "question": "Qual é o nome do fenômeno natural que ocorre devido ao aquecimento das águas do Oceano Pacífico e impacta o clima no Brasil?",
+            "options": [
+                "El Niño",
+                "Furacão",
+                "Monção",
+                "Tornado"
+            ],
+            "correctAnswer": "El Niño"
+        },
+        {
+            "question": "Qual é a principal formação rochosa encontrada na Chapada Diamantina?",
+            "options": [
+                "Quartzito e arenito",
+                "Basalto e granito",
+                "Calcário e mármore",
+                "Gnaisse e xisto"
+            ],
+            "correctAnswer": "Quartzito e arenito"
+        },
+        {
+            "question": "Qual é a principal característica das planícies costeiras brasileiras?",
+            "options": [
+                "Solos aluviais férteis",
+                "Solos calcários secos",
+                "Solos vulcânicos pedregosos",
+                "Solos salinos e áridos"
+            ],
+            "correctAnswer": "Solos aluviais férteis"
+        },
+        {
+            "question": "Qual é a principal bacia hidrográfica da região Sul do Brasil?",
+            "options": [
+                "Bacia do Paraná",
+                "Bacia do Paraguai",
+                "Bacia do Uruguai",
+                "Bacia do São Francisco"
+            ],
+            "correctAnswer": "Bacia do Uruguai"
+        },
+        {
+            "question": "Qual é o tipo de vegetação predominante na região de manguezais brasileiros?",
+            "options": [
+                "Vegetação halófila",
+                "Vegetação xerófita",
+                "Vegetação higrófita",
+                "Vegetação tropófila"
+            ],
+            "correctAnswer": "Vegetação halófila"
+        },
+        {
+            "question": "Qual é o principal rio que atravessa o Pantanal e é vital para o ecossistema local?",
+            "options": [
+                "Rio Paraguai",
+                "Rio Tocantins",
+                "Rio Paraná",
+                "Rio Amazonas"
+            ],
+            "correctAnswer": "Rio Paraguai"
+        },
+        {
+            "question": "Qual é a característica climática predominante da região Norte do Brasil?",
+            "options": [
+                "Clima equatorial úmido",
+                "Clima temperado seco",
+                "Clima mediterrâneo",
+                "Clima continental frio"
+            ],
+            "correctAnswer": "Clima equatorial úmido"
+        },
+        {
+            "question": "Qual é o principal recurso mineral encontrado na Serra dos Carajás?",
+            "options": [
+                "Minério de ferro",
+                "Petróleo",
+                "Cobre",
+                "Ouro"
+            ],
+            "correctAnswer": "Minério de ferro"
+        },
+        {
+            "question": "Qual é a principal característica do clima tropical semiárido do Nordeste?",
+            "options": [
+                "Chuvas irregulares e altas temperaturas",
+                "Chuvas abundantes e temperaturas amenas",
+                "Invernos rigorosos e verões úmidos",
+                "Alta umidade e chuvas constantes"
+            ],
+            "correctAnswer": "Chuvas irregulares e altas temperaturas"
+        },
+        {
+            "question": "Qual é a principal formação de relevo na região Nordeste do Brasil?",
+            "options": [
+                "Planalto da Borborema",
+                "Planície do Pantanal",
+                "Serra do Mar",
+                "Chapada dos Guimarães"
+            ],
+            "correctAnswer": "Planalto da Borborema"
+        },
+        {
+            "question": "Qual é a principal característica dos solos da Amazônia?",
+            "options": [
+                "Solos ácidos e pobres",
+                "Solos férteis e calcários",
+                "Solos arenosos e secos",
+                "Solos aluviais e úmidos"
+            ],
+            "correctAnswer": "Solos ácidos e pobres"
+        },
+        {
+            "question": "Qual é a formação rochosa predominante na Serra do Espinhaço?",
+            "options": [
+                "Quartzito e gnaisse",
+                "Arenito e calcário",
+                "Basalto e granito",
+                "Xisto e mármore"
+            ],
+            "correctAnswer": "Quartzito e gnaisse"
+        },
+        {
+            "question": "Qual é o maior arquipélago fluvial do mundo, localizado na Amazônia?",
+            "options": [
+                "Arquipélago de Marajó",
+                "Arquipélago de Anavilhanas",
+                "Arquipélago de São Pedro e São Paulo",
+                "Arquipélago de Fernando de Noronha"
+            ],
+            "correctAnswer": "Arquipélago de Anavilhanas"
+        },
+        {
+            "question": "Qual é a principal característica do clima subtropical no Sul do Brasil?",
+            "options": [
+                "Invernos frios e verões quentes",
+                "Invernos secos e verões úmidos",
+                "Temperaturas constantes e alta umidade",
+                "Verões amenos e chuvas irregulares"
+            ],
+            "correctAnswer": "Invernos frios e verões quentes"
+        },
+        {
+            "question": "Qual é o principal rio que compõe a Bacia Platina?",
+            "options": [
+                "Rio Paraná",
+                "Rio Paraguai",
+                "Rio Uruguai",
+                "Rio Iguaçu"
+            ],
+            "correctAnswer": "Rio Paraná"
+        },
+        {
+            "question": "Qual é a característica climática predominante da região central do Brasil?",
+            "options": [
+                "Clima tropical úmido",
+                "Clima semiárido",
+                "Clima subtropical",
+                "Clima mediterrâneo"
+            ],
+            "correctAnswer": "Clima tropical úmido"
+        },
+        {
+            "question": "Qual é a formação rochosa mais comum nas Chapadas do Brasil Central?",
+            "options": [
+                "Arenito e quartzito",
+                "Basalto e granito",
+                "Calcário e mármore",
+                "Gnaisse e xisto"
+            ],
+            "correctAnswer": "Arenito e quartzito"
+        },
+        {
+            "question": "Qual é a principal vegetação encontrada no bioma Pantanal?",
+            "options": [
+                "Vegetação de gramíneas e árvores esparsas",
+                "Vegetação de florestas densas e úmidas",
+                "Vegetação de cactos e plantas xerófitas",
+                "Vegetação de manguezais e palmeiras"
+            ],
+            "correctAnswer": "Vegetação de gramíneas e árvores esparsas"
+        },
+        {
+            "question": "Qual é a principal característica do solo dos Campos Sulinos?",
+            "options": [
+                "Solos férteis de terra preta",
+                "Solos áridos e pedregosos",
+                "Solos aluviais e úmidos",
+                "Solos calcários e secos"
+            ],
+            "correctAnswer": "Solos férteis de terra preta"
+        },
+        {
+            "question": "Qual é a formação geológica mais comum na Serra do Mar?",
+            "options": [
+                "Granito e gnaisse",
+                "Arenito e calcário",
+                "Quartzito e mármore",
+                "Basalto e xisto"
+            ],
+            "correctAnswer": "Granito e gnaisse"
+        },
+        {
+            "question": "Qual é o rio que forma a maior bacia sedimentar do Brasil?",
+            "options": [
+                "Rio Tocantins",
+                "Rio São Francisco",
+                "Rio Paraguai",
+                "Rio Tietê"
+            ],
+            "correctAnswer": "Rio Tocantins"
+        },
+        {
+            "question": "Qual é a característica predominante dos solos do Cerrado brasileiro?",
+            "options": [
+                "Solos ácidos e pobres",
+                "Solos alcalinos e férteis",
+                "Solos salinos e áridos",
+                "Solos arenosos e úmidos"
+            ],
+            "correctAnswer": "Solos ácidos e pobres"
+        },
+        {
+            "question": "Qual é a principal característica do relevo da Amazônia?",
+            "options": [
+                "Predomínio de planícies e florestas densas",
+                "Grande presença de montanhas e vulcões",
+                "Desertos e vegetação esparsa",
+                "Vales profundos e rios congelados"
+            ],
+            "correctAnswer": "Predomínio de planícies e florestas densas"
+        },
+        {
+            "question": "Qual é a principal formação rochosa do Planalto Central?",
+            "options": [
+                "Arenito e quartzito",
+                "Basalto e granito",
+                "Calcário e mármore",
+                "Xisto e gnaisse"
+            ],
+            "correctAnswer": "Arenito e quartzito"
+        },
+        {
+            "question": "Qual é o bioma que ocupa a maior parte do território brasileiro?",
+            "options": [
+                "Amazônia",
+                "Cerrado",
+                "Mata Atlântica",
+                "Caatinga"
+            ],
+            "correctAnswer": "Amazônia"
+        },
+        {
+            "question": "Qual é o nome do fenômeno natural que ocorre devido ao encontro das águas do Rio Negro com o Rio Solimões?",
+            "options": [
+                "Encontro das Águas",
+                "Confluência dos Rios",
+                "Fusão Fluvial",
+                "Mistura das Águas"
+            ],
+            "correctAnswer": "Encontro das Águas"
+        },
+        {
+            "question": "Qual é a principal característica climática da região Sul do Brasil?",
+            "options": [
+                "Invernos frios com geadas",
+                "Verões extremamente quentes",
+                "Secas prolongadas e temperaturas altas",
+                "Chuvas escassas e clima desértico"
+            ],
+            "correctAnswer": "Invernos frios com geadas"
+        },
+        {
+            "question": "Qual é o principal tipo de vegetação encontrado na Mata dos Cocais?",
+            "options": [
+                "Palmeiras e babaçu",
+                "Cactos e arbustos xerófitos",
+                "Gramíneas e árvores esparsas",
+                "Manguezais e vegetação halófila"
+            ],
+            "correctAnswer": "Palmeiras e babaçu"
+        },
+        {
+            "question": "Qual é a montanha mais alta do mundo?",
+            "options": [
+                "Monte Everest",
+                "Monte Kilimanjaro",
+                "Monte McKinley",
+                "Monte Aconcágua"
+            ],
+            "correctAnswer": "Monte Everest"
+        },
+        {
+            "question": "Qual é o maior deserto do mundo?",
+            "options": [
+                "Deserto do Saara",
+                "Deserto de Gobi",
+                "Deserto de Atacama",
+                "Deserto de Kalahari"
+            ],
+            "correctAnswer": "Deserto do Saara"
+        },
+        {
+            "question": "Qual é o maior rio do mundo em volume de água?",
+            "options": [
+                "Rio Amazonas",
+                "Rio Nilo",
+                "Rio Yangtzé",
+                "Rio Mississipi"
+            ],
+            "correctAnswer": "Rio Amazonas"
+        },
+        {
+            "question": "Qual é a maior floresta tropical do mundo?",
+            "options": [
+                "Floresta Amazônica",
+                "Floresta do Congo",
+                "Floresta de Bornéu",
+                "Floresta Daintree"
+            ],
+            "correctAnswer": "Floresta Amazônica"
+        },
+        {
+            "question": "Qual é o maior oceano da Terra?",
+            "options": [
+                "Oceano Pacífico",
+                "Oceano Atlântico",
+                "Oceano Índico",
+                "Oceano Ártico"
+            ],
+            "correctAnswer": "Oceano Pacífico"
+        },
+        {
+            "question": "Qual é o vulcão mais ativo do mundo?",
+            "options": [
+                "Vulcão Kilauea",
+                "Vulcão Vesúvio",
+                "Vulcão Etna",
+                "Vulcão Krakatoa"
+            ],
+            "correctAnswer": "Vulcão Kilauea"
+        },
+        {
+            "question": "Qual é a principal característica do clima mediterrâneo?",
+            "options": [
+                "Verões quentes e secos",
+                "Verões frios e úmidos",
+                "Invernos secos e frios",
+                "Invernos chuvosos e quentes"
+            ],
+            "correctAnswer": "Verões quentes e secos"
+        },
+        {
+            "question": "Qual é o ponto mais baixo da superfície terrestre?",
+            "options": [
+                "Mar Morto",
+                "Vale da Morte",
+                "Lago Baikal",
+                "Grande Vale do Rift"
+            ],
+            "correctAnswer": "Mar Morto"
+        },
+        {
+            "question": "Qual é o maior lago em volume de água doce do mundo?",
+            "options": [
+                "Lago Baikal",
+                "Lago Vitória",
+                "Lago Superior",
+                "Lago Michigan"
+            ],
+            "correctAnswer": "Lago Baikal"
+        },
+        {
+            "question": "Qual é a maior ilha do mundo?",
+            "options": [
+                "Groenlândia",
+                "Nova Guiné",
+                "Bornéu",
+                "Madagascar"
+            ],
+            "correctAnswer": "Groenlândia"
+        },
+        {
+            "question": "Qual é o maior arquipélago do mundo?",
+            "options": [
+                "Arquipélago Malaio",
+                "Arquipélago das Maldivas",
+                "Arquipélago de Fiji",
+                "Arquipélago de Galápagos"
+            ],
+            "correctAnswer": "Arquipélago Malaio"
+        },
+        {
+            "question": "Qual é a formação montanhosa mais extensa do mundo?",
+            "options": [
+                "Cordilheira dos Andes",
+                "Montanhas Rochosas",
+                "Himalaias",
+                "Alpes"
+            ],
+            "correctAnswer": "Cordilheira dos Andes"
+        },
+        {
+            "question": "Qual é a principal característica do clima polar?",
+            "options": [
+                "Temperaturas extremamente baixas e gelo permanente",
+                "Altas temperaturas e umidade elevada",
+                "Chuvas escassas e solo arenoso",
+                "Estações bem definidas com verões amenos"
+            ],
+            "correctAnswer": "Temperaturas extremamente baixas e gelo permanente"
+        },
+        {
+            "question": "Qual é a maior bacia hidrográfica do mundo?",
+            "options": [
+                "Bacia do Amazonas",
+                "Bacia do Congo",
+                "Bacia do Mississipi",
+                "Bacia do Nilo"
+            ],
+            "correctAnswer": "Bacia do Amazonas"
+        },
+        {
+            "question": "Qual é a formação geológica mais antiga do mundo?",
+            "options": [
+                "Cráton de Pilbara",
+                "Cráton de Kaapvaal",
+                "Cráton de Laurentia",
+                "Cráton de São Francisco"
+            ],
+            "correctAnswer": "Cráton de Pilbara"
+        },
+        {
+            "question": "Qual é o maior glaciar do mundo?",
+            "options": [
+                "Glaciar Lambert",
+                "Glaciar Perito Moreno",
+                "Glaciar Vatnajökull",
+                "Glaciar Franz Josef"
+            ],
+            "correctAnswer": "Glaciar Lambert"
+        },
+        {
+            "question": "Qual é a principal característica do clima desértico?",
+            "options": [
+                "Baixa precipitação e alta evaporação",
+                "Altas chuvas e umidade constante",
+                "Temperaturas amenas e vegetação densa",
+                "Verões frios e invernos chuvosos"
+            ],
+            "correctAnswer": "Baixa precipitação e alta evaporação"
+        },
+        {
+            "question": "Qual é o maior lago de água salgada do mundo?",
+            "options": [
+                "Mar Cáspio",
+                "Mar de Aral",
+                "Mar Morto",
+                "Lago Urmia"
+            ],
+            "correctAnswer": "Mar Cáspio"
+        },
+        {
+            "question": "Qual é a maior floresta temperada do mundo?",
+            "options": [
+                "Floresta Temperada do Pacífico",
+                "Floresta Temperada dos Apalaches",
+                "Floresta Temperada de Valdai",
+                "Floresta Temperada de Ural"
+            ],
+            "correctAnswer": "Floresta Temperada do Pacífico"
+        },
+        {
+            "question": "Qual é o maior conjunto de recifes de corais do mundo?",
+            "options": [
+                "Grande Barreira de Corais",
+                "Recife de Belize",
+                "Recife de Mesoamérica",
+                "Recife de Andros"
+            ],
+            "correctAnswer": "Grande Barreira de Corais"
+        },
+        {
+            "question": "Qual é a maior cordilheira do mundo?",
+            "options": [
+                "Cordilheira dos Andes",
+                "Montanhas Rochosas",
+                "Cordilheira do Himalaia",
+                "Alpes Suíços"
+            ],
+            "correctAnswer": "Cordilheira dos Andes"
+        },
+        {
+            "question": "Qual é o maior lago de água doce por área superficial?",
+            "options": [
+                "Lago Superior",
+                "Lago Vitória",
+                "Lago Baikal",
+                "Lago Michigan"
+            ],
+            "correctAnswer": "Lago Superior"
+        },
+        {
+            "question": "Qual é a maior ilha do Japão?",
+            "options": [
+                "Honshu",
+                "Hokkaido",
+                "Kyushu",
+                "Shikoku"
+            ],
+            "correctAnswer": "Honshu"
+        },
+        {
+            "question": "Qual é a principal característica do clima tropical úmido?",
+            "options": [
+                "Altas temperaturas e chuvas abundantes",
+                "Temperaturas amenas e baixa precipitação",
+                "Clima seco e quente com pouca vegetação",
+                "Invernos frios e verões quentes"
+            ],
+            "correctAnswer": "Altas temperaturas e chuvas abundantes"
+        },
+        {
+            "question": "Qual é o nome do ponto mais alto da América do Norte?",
+            "options": [
+                "Monte Denali",
+                "Pico do Canadá",
+                "Monte Rainier",
+                "Monte Whitney"
+            ],
+            "correctAnswer": "Monte Denali"
+        },
+        {
+            "question": "Qual é a maior península do mundo?",
+            "options": [
+                "Península Arábica",
+                "Península Ibérica",
+                "Península Indiana",
+                "Península Malaia"
+            ],
+            "correctAnswer": "Península Arábica"
+        },
+        {
+            "question": "Qual é o maior rio da Europa?",
+            "options": [
+                "Rio Volga",
+                "Rio Danúbio",
+                "Rio Reno",
+                "Rio Tâmisa"
+            ],
+            "correctAnswer": "Rio Volga"
+        },
+        {
+            "question": "Qual é a principal característica do bioma tundra?",
+            "options": [
+                "Solo permanentemente congelado",
+                "Altas temperaturas e vegetação densa",
+                "Desertos arenosos e secos",
+                "Florestas tropicais úmidas"
+            ],
+            "correctAnswer": "Solo permanentemente congelado"
+        },
+        {
+            "question": "Qual é a maior caverna do mundo em comprimento?",
+            "options": [
+                "Caverna Mammoth",
+                "Caverna Sơn Đoòng",
+                "Caverna Lascaux",
+                "Caverna Waitomo"
+            ],
+            "correctAnswer": "Caverna Mammoth"
+        },
+        {
+            "question": "Qual é o maior deserto quente do mundo?",
+            "options": [
+                "Deserto do Saara",
+                "Deserto da Arábia",
+                "Deserto de Gobi",
+                "Deserto de Kalahari"
+            ],
+            "correctAnswer": "Deserto do Saara"
+        },
+        {
+            "question": "Qual é a principal característica do bioma savana?",
+            "options": [
+                "Vegetação esparsa com árvores e gramíneas",
+                "Florestas densas e úmidas",
+                "Desertos com solo arenoso",
+                "Vegetação alpina com neve"
+            ],
+            "correctAnswer": "Vegetação esparsa com árvores e gramíneas"
+        },
+        {
+            "question": "Qual é o maior arquipélago de ilhas em extensão territorial?",
+            "options": [
+                "Arquipélago Indonésio",
+                "Arquipélago do Havaí",
+                "Arquipélago das Filipinas",
+                "Arquipélago das Canárias"
+            ],
+            "correctAnswer": "Arquipélago Indonésio"
+        },
+        {
+            "question": "Qual é o nome da maior cordilheira subaquática do mundo?",
+            "options": [
+                "Dorsal Mesoatlântica",
+                "Dorsal do Pacífico Leste",
+                "Dorsal Indiana",
+                "Dorsal do Atlântico Sul"
+            ],
+            "correctAnswer": "Dorsal Mesoatlântica"
+        },
+        {
+            "question": "Qual é o maior deserto de gelo do mundo?",
+            "options": [
+                "Antártida",
+                "Ártico",
+                "Deserto de Gobi",
+                "Deserto de Patagônia"
+            ],
+            "correctAnswer": "Antártida"
+        },
+        {
+            "question": "Qual é o ponto mais profundo dos oceanos?",
+            "options": [
+                "Fossa das Marianas",
+                "Fossa de Tonga",
+                "Fossa do Peru-Chile",
+                "Fossa de Java"
+            ],
+            "correctAnswer": "Fossa das Marianas"
+        },
+        {
+            "question": "Qual é o maior sistema de recifes de coral do mundo?",
+            "options": [
+                "Grande Barreira de Corais",
+                "Recife de Belize",
+                "Recife das Maldivas",
+                "Recife de Andros"
+            ],
+            "correctAnswer": "Grande Barreira de Corais"
+        },
+        {
+            "question": "Qual é o maior vulcão ativo do planeta?",
+            "options": [
+                "Mauna Loa",
+                "Monte Etna",
+                "Monte Vesúvio",
+                "Monte Santa Helena"
+            ],
+            "correctAnswer": "Mauna Loa"
+        },
+        {
+            "question": "Qual é a principal característica do bioma tundra?",
+            "options": [
+                "Solo permanentemente congelado",
+                "Florestas densas e úmidas",
+                "Desertos quentes e áridos",
+                "Vegetação tropical"
+            ],
+            "correctAnswer": "Solo permanentemente congelado"
+        },
+        {
+            "question": "Qual é o lago mais profundo do mundo?",
+            "options": [
+                "Lago Baikal",
+                "Lago Tanganica",
+                "Lago Superior",
+                "Lago Vitória"
+            ],
+            "correctAnswer": "Lago Baikal"
+        },
+        {
+            "question": "Qual é a maior cadeia montanhosa da Europa?",
+            "options": [
+                "Alpes",
+                "Cárpatos",
+                "Caucaso",
+                "Pirineus"
+            ],
+            "correctAnswer": "Alpes"
+        },
+        {
+            "question": "Qual é a maior metrópole do Brasil em termos de população?",
+            "options": [
+                "São Paulo",
+                "Rio de Janeiro",
+                "Belo Horizonte",
+                "Brasília"
+            ],
+            "correctAnswer": "São Paulo"
+        },
+        {
+            "question": "Qual é a principal atividade econômica da região Sul do Brasil?",
+            "options": [
+                "Agricultura e pecuária",
+                "Petróleo e gás",
+                "Mineração de ferro",
+                "Indústria automobilística"
+            ],
+            "correctAnswer": "Agricultura e pecuária"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida como a 'capital do agronegócio'?",
+            "options": [
+                "Ribeirão Preto",
+                "Campinas",
+                "Cuiabá",
+                "Porto Alegre"
+            ],
+            "correctAnswer": "Ribeirão Preto"
+        },
+        {
+            "question": "Qual é o principal meio de transporte urbano na cidade de São Paulo?",
+            "options": [
+                "Metrô",
+                "Táxi",
+                "Barco",
+                "Avião"
+            ],
+            "correctAnswer": "Metrô"
+        },
+        {
+            "question": "Qual é a maior economia regional do Brasil?",
+            "options": [
+                "Sudeste",
+                "Nordeste",
+                "Sul",
+                "Centro-Oeste"
+            ],
+            "correctAnswer": "Sudeste"
+        },
+        {
+            "question": "Qual é a principal fonte de energia utilizada no Brasil?",
+            "options": [
+                "Hidrelétrica",
+                "Eólica",
+                "Nuclear",
+                "Carvão"
+            ],
+            "correctAnswer": "Hidrelétrica"
+        },
+        {
+            "question": "Qual é a principal atividade econômica da região Norte do Brasil?",
+            "options": [
+                "Extrativismo vegetal",
+                "Turismo",
+                "Automobilística",
+                "Petróleo"
+            ],
+            "correctAnswer": "Extrativismo vegetal"
+        },
+        {
+            "question": "Qual é a cidade brasileira com o maior porto em volume de cargas?",
+            "options": [
+                "Santos",
+                "Rio de Janeiro",
+                "Salvador",
+                "Fortaleza"
+            ],
+            "correctAnswer": "Santos"
+        },
+        {
+            "question": "Qual é a principal área de exportação do Brasil?",
+            "options": [
+                "Soja e produtos agrícolas",
+                "Tecnologia da informação",
+                "Indústria de moda",
+                "Serviços financeiros"
+            ],
+            "correctAnswer": "Soja e produtos agrícolas"
+        },
+        {
+            "question": "Qual é a maior festa popular do Brasil, conhecida mundialmente?",
+            "options": [
+                "Carnaval",
+                "Festa Junina",
+                "Oktoberfest",
+                "Réveillon"
+            ],
+            "correctAnswer": "Carnaval"
+        },
+        {
+            "question": "Qual é a principal etnia indígena na região Amazônica?",
+            "options": [
+                "Yanomami",
+                "Guarani",
+                "Tupinambá",
+                "Karajá"
+            ],
+            "correctAnswer": "Yanomami"
+        },
+        {
+            "question": "Qual é a cidade mais populosa da região Nordeste do Brasil?",
+            "options": [
+                "Salvador",
+                "Recife",
+                "Fortaleza",
+                "Natal"
+            ],
+            "correctAnswer": "Salvador"
+        },
+        {
+            "question": "Qual é a principal atividade econômica na Zona Franca de Manaus?",
+            "options": [
+                "Indústria de eletrônicos",
+                "Agricultura de subsistência",
+                "Pesca artesanal",
+                "Mineração de ouro"
+            ],
+            "correctAnswer": "Indústria de eletrônicos"
+        },
+        {
+            "question": "Qual é o estado brasileiro com a maior produção de café?",
+            "options": [
+                "Minas Gerais",
+                "São Paulo",
+                "Espírito Santo",
+                "Bahia"
+            ],
+            "correctAnswer": "Minas Gerais"
+        },
+        {
+            "question": "Qual é a cidade brasileira que é um importante centro financeiro?",
+            "options": [
+                "São Paulo",
+                "Rio de Janeiro",
+                "Belo Horizonte",
+                "Curitiba"
+            ],
+            "correctAnswer": "São Paulo"
+        },
+        {
+            "question": "Qual é a maior festa popular da região Norte do Brasil?",
+            "options": [
+                "Círio de Nazaré",
+                "Festa de São João",
+                "Carnaval de Salvador",
+                "Oktoberfest"
+            ],
+            "correctAnswer": "Círio de Nazaré"
+        },
+        {
+            "question": "Qual é a principal língua indígena falada no Brasil?",
+            "options": [
+                "Tupi-Guarani",
+                "Nheengatu",
+                "Xavante",
+                "Ticuna"
+            ],
+            "correctAnswer": "Tupi-Guarani"
+        },
+        {
+            "question": "Qual é a cidade sede da maior hidrelétrica do Brasil, a Usina de Itaipu?",
+            "options": [
+                "Foz do Iguaçu",
+                "Porto Alegre",
+                "Belém",
+                "Maceió"
+            ],
+            "correctAnswer": "Foz do Iguaçu"
+        },
+        {
+            "question": "Qual é a principal característica demográfica da região Sul do Brasil?",
+            "options": [
+                "Alta concentração de descendentes de europeus",
+                "Predominância de comunidades quilombolas",
+                "Alta taxa de imigração recente de asiáticos",
+                "Predominância de população indígena"
+            ],
+            "correctAnswer": "Alta concentração de descendentes de europeus"
+        },
+        {
+            "question": "Qual é o estado brasileiro com a maior extensão de costa marítima?",
+            "options": [
+                "Bahia",
+                "Rio de Janeiro",
+                "São Paulo",
+                "Ceará"
+            ],
+            "correctAnswer": "Bahia"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida como a 'capital do frevo'?",
+            "options": [
+                "Recife",
+                "Salvador",
+                "Fortaleza",
+                "Rio de Janeiro"
+            ],
+            "correctAnswer": "Recife"
+        },
+        {
+            "question": "Qual é o principal estado produtor de cana-de-açúcar no Brasil?",
+            "options": [
+                "São Paulo",
+                "Pernambuco",
+                "Alagoas",
+                "Paraná"
+            ],
+            "correctAnswer": "São Paulo"
+        },
+        {
+            "question": "Qual é a maior comunidade de descendentes de japoneses fora do Japão?",
+            "options": [
+                "São Paulo",
+                "Rio de Janeiro",
+                "Curitiba",
+                "Manaus"
+            ],
+            "correctAnswer": "São Paulo"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida por seu grande carnaval de rua?",
+            "options": [
+                "Salvador",
+                "Belo Horizonte",
+                "Porto Alegre",
+                "Brasília"
+            ],
+            "correctAnswer": "Salvador"
+        },
+        {
+            "question": "Qual é a principal região produtora de soja no Brasil?",
+            "options": [
+                "Centro-Oeste",
+                "Nordeste",
+                "Sul",
+                "Norte"
+            ],
+            "correctAnswer": "Centro-Oeste"
+        },
+        {
+            "question": "Qual é a cidade sede do maior evento de Parintins?",
+            "options": [
+                "Parintins",
+                "Belém",
+                "Manaus",
+                "Macapá"
+            ],
+            "correctAnswer": "Parintins"
+        },
+        {
+            "question": "Qual é o estado brasileiro com maior produção de petróleo?",
+            "options": [
+                "Rio de Janeiro",
+                "Bahia",
+                "Espírito Santo",
+                "Alagoas"
+            ],
+            "correctAnswer": "Rio de Janeiro"
+        },
+        {
+            "question": "Qual é o maior município brasileiro em extensão territorial?",
+            "options": [
+                "Altamira",
+                "São Félix do Xingu",
+                "Lábrea",
+                "Barcelos"
+            ],
+            "correctAnswer": "Altamira"
+        },
+        {
+            "question": "Qual é a principal atividade econômica da região Nordeste do Brasil?",
+            "options": [
+                "Agricultura e turismo",
+                "Mineração e pesca",
+                "Pecuária e siderurgia",
+                "Tecnologia e aviação"
+            ],
+            "correctAnswer": "Agricultura e turismo"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida como a 'capital nacional do vinho'?",
+            "options": [
+                "Bento Gonçalves",
+                "Caxias do Sul",
+                "Pelotas",
+                "Santa Maria"
+            ],
+            "correctAnswer": "Bento Gonçalves"
+        },
+        {
+            "question": "Qual é a principal cidade brasileira conhecida pelo turismo de praia?",
+            "options": [
+                "Natal",
+                "Cuiabá",
+                "Porto Velho",
+                "Belém"
+            ],
+            "correctAnswer": "Natal"
+        },
+        {
+            "question": "Qual é o estado brasileiro com a maior produção de minério de ferro?",
+            "options": [
+                "Minas Gerais",
+                "Piauí",
+                "Acre",
+                "Pará"
+            ],
+            "correctAnswer": "Minas Gerais"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida como a 'capital nacional do forró'?",
+            "options": [
+                "Caruaru",
+                "Campina Grande",
+                "Recife",
+                "Fortaleza"
+            ],
+            "correctAnswer": "Caruaru"
+        },
+        {
+            "question": "Qual é o principal setor econômico da cidade de Manaus?",
+            "options": [
+                "Indústria",
+                "Pesca",
+                "Agricultura",
+                "Turismo"
+            ],
+            "correctAnswer": "Indústria"
+        },
+        {
+            "question": "Qual é a cidade brasileira famosa por suas festas juninas?",
+            "options": [
+                "Campina Grande",
+                "Belo Horizonte",
+                "São Luís",
+                "Vitória"
+            ],
+            "correctAnswer": "Campina Grande"
+        },
+        {
+            "question": "Qual é a principal atividade econômica da região Centro-Oeste do Brasil?",
+            "options": [
+                "Agropecuária",
+                "Petróleo e gás",
+                "Turismo",
+                "Indústria têxtil"
+            ],
+            "correctAnswer": "Agropecuária"
+        },
+        {
+            "question": "Qual é o estado brasileiro mais populoso?",
+            "options": [
+                "São Paulo",
+                "Amazonas",
+                "Santa Catarina",
+                "Goiás"
+            ],
+            "correctAnswer": "São Paulo"
+        },
+        {
+            "question": "Qual é a principal característica econômica da cidade de Santos?",
+            "options": [
+                "Porto",
+                "Agricultura",
+                "Indústria automobilística",
+                "Mineração"
+            ],
+            "correctAnswer": "Porto"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida como a 'capital do chimarrão'?",
+            "options": [
+                "Porto Alegre",
+                "Pelotas",
+                "Santa Maria",
+                "Uruguaiana"
+            ],
+            "correctAnswer": "Porto Alegre"
+        },
+        {
+            "question": "Qual é o maior estado do Brasil em termos de área territorial?",
+            "options": [
+                "Amazonas",
+                "Bahia",
+                "Mato Grosso",
+                "Minas Gerais"
+            ],
+            "correctAnswer": "Amazonas"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida como a 'capital nacional da tecnologia'?",
+            "options": [
+                "Campinas",
+                "São Paulo",
+                "Curitiba",
+                "Manaus"
+            ],
+            "correctAnswer": "Campinas"
+        },
+        {
+            "question": "Qual é a principal cidade turística da região Nordeste?",
+            "options": [
+                "Salvador",
+                "Recife",
+                "Fortaleza",
+                "João Pessoa"
+            ],
+            "correctAnswer": "Salvador"
+        },
+        {
+            "question": "Qual é o estado brasileiro com a maior produção de grãos?",
+            "options": [
+                "Mato Grosso",
+                "Paraná",
+                "São Paulo",
+                "Rio Grande do Sul"
+            ],
+            "correctAnswer": "Mato Grosso"
+        },
+        {
+            "question": "Qual é a principal cidade portuária do Brasil?",
+            "options": [
+                "Santos",
+                "Rio de Janeiro",
+                "Salvador",
+                "Paranaguá"
+            ],
+            "correctAnswer": "Santos"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida como a 'capital nacional do calçado'?",
+            "options": [
+                "Franca",
+                "Jaú",
+                "Bento Gonçalves",
+                "Sapiranga"
+            ],
+            "correctAnswer": "Franca"
+        },
+        {
+            "question": "Qual é a cidade brasileira com o maior parque industrial?",
+            "options": [
+                "São Bernardo do Campo",
+                "Contagem",
+                "Caxias do Sul",
+                "Volta Redonda"
+            ],
+            "correctAnswer": "São Bernardo do Campo"
+        },
+        {
+            "question": "Qual é a principal atividade econômica da região Norte?",
+            "options": [
+                "Extrativismo mineral",
+                "Turismo",
+                "Agricultura",
+                "Tecnologia"
+            ],
+            "correctAnswer": "Extrativismo mineral"
+        },
+        {
+            "question": "Qual é a cidade brasileira famosa por sua festa de Parintins?",
+            "options": [
+                "Parintins",
+                "Belém",
+                "Manaus",
+                "Macapá"
+            ],
+            "correctAnswer": "Parintins"
+        },
+        {
+            "question": "Qual é o principal setor econômico da cidade de Fortaleza?",
+            "options": [
+                "Turismo",
+                "Indústria",
+                "Pecuária",
+                "Mineração"
+            ],
+            "correctAnswer": "Turismo"
+        },
+        {
+            "question": "Qual é a cidade brasileira conhecida como a 'capital do agronegócio'?",
+            "options": [
+                "Ribeirão Preto",
+                "Goiânia",
+                "Campo Grande",
+                "Porto Alegre"
+            ],
+            "correctAnswer": "Ribeirão Preto"
+        },
+        {
+            "question": "Qual é a cidade mais populosa do mundo?",
+            "options": [
+                "Tóquio",
+                "Nova York",
+                "Xangai",
+                "São Paulo"
+            ],
+            "correctAnswer": "Tóquio"
+        },
+        {
+            "question": "Qual país tem a maior densidade populacional do mundo?",
+            "options": [
+                "Mônaco",
+                "Cingapura",
+                "Vaticano",
+                "Bahrain"
+            ],
+            "correctAnswer": "Mônaco"
+        },
+        {
+            "question": "Qual é a língua mais falada no mundo?",
+            "options": [
+                "Mandarim",
+                "Espanhol",
+                "Inglês",
+                "Hindi"
+            ],
+            "correctAnswer": "Mandarim"
+        },
+        {
+            "question": "Qual é o país mais extenso em área territorial?",
+            "options": [
+                "Rússia",
+                "Canadá",
+                "China",
+                "Estados Unidos"
+            ],
+            "correctAnswer": "Rússia"
+        },
+        {
+            "question": "Qual é o maior exportador de petróleo do mundo?",
+            "options": [
+                "Arábia Saudita",
+                "Estados Unidos",
+                "Rússia",
+                "Irã"
+            ],
+            "correctAnswer": "Arábia Saudita"
+        },
+        {
+            "question": "Qual é a cidade mais visitada por turistas no mundo?",
+            "options": [
+                "Bangkok",
+                "Paris",
+                "Londres",
+                "Dubai"
+            ],
+            "correctAnswer": "Bangkok"
+        },
+        {
+            "question": "Qual é a maior economia do mundo em termos de PIB?",
+            "options": [
+                "Estados Unidos",
+                "China",
+                "Japão",
+                "Alemanha"
+            ],
+            "correctAnswer": "Estados Unidos"
+        },
+        {
+            "question": "Qual é o maior país produtor de café do mundo?",
+            "options": [
+                "Brasil",
+                "Vietnã",
+                "Colômbia",
+                "Etiópia"
+            ],
+            "correctAnswer": "Brasil"
+        },
+        {
+            "question": "Qual é o país com a maior diversidade linguística?",
+            "options": [
+                "Papua Nova Guiné",
+                "Índia",
+                "Indonésia",
+                "Nigéria"
+            ],
+            "correctAnswer": "Papua Nova Guiné"
+        },
+        {
+            "question": "Qual é a cidade mais rica do mundo em termos de PIB per capita?",
+            "options": [
+                "Luxemburgo",
+                "Zurique",
+                "Genebra",
+                "Oslo"
+            ],
+            "correctAnswer": "Luxemburgo"
+        },
+        {
+            "question": "Qual é a cidade mais densamente populada do mundo?",
+            "options": [
+                "Manila",
+                "Mumbai",
+                "Tóquio",
+                "Cidade do México"
+            ],
+            "correctAnswer": "Manila"
+        },
+        {
+            "question": "Qual é o país com a maior população de língua francesa?",
+            "options": [
+                "França",
+                "Canadá",
+                "República Democrática do Congo",
+                "Bélgica"
+            ],
+            "correctAnswer": "República Democrática do Congo"
+        },
+        {
+            "question": "Qual é a maior cidade em termos de área no mundo?",
+            "options": [
+                "Xangai",
+                "Nova York",
+                "Tóquio",
+                "Londres"
+            ],
+            "correctAnswer": "Xangai"
+        },
+        {
+            "question": "Qual é o país com maior diversidade étnica do mundo?",
+            "options": [
+                "Papua Nova Guiné",
+                "Índia",
+                "Indonésia",
+                "Nigéria"
+            ],
+            "correctAnswer": "Papua Nova Guiné"
+        },
+        {
+            "question": "Qual é o principal destino turístico do mundo?",
+            "options": [
+                "França",
+                "Espanha",
+                "Estados Unidos",
+                "China"
+            ],
+            "correctAnswer": "França"
+        },
+        {
+            "question": "Qual é a cidade com maior número de arranha-céus no mundo?",
+            "options": [
+                "Hong Kong",
+                "Nova York",
+                "Dubai",
+                "Tóquio"
+            ],
+            "correctAnswer": "Hong Kong"
+        },
+        {
+            "question": "Qual é a língua oficial mais falada na África?",
+            "options": [
+                "Inglês",
+                "Francês",
+                "Português",
+                "Árabe"
+            ],
+            "correctAnswer": "Inglês"
+        },
+        {
+            "question": "Qual é a cidade mais antiga continuamente habitada do mundo?",
+            "options": [
+                "Damasco",
+                "Jerusalém",
+                "Atenas",
+                "Roma"
+            ],
+            "correctAnswer": "Damasco"
+        },
+        {
+            "question": "Qual é o país com maior número de patrimônios mundiais da UNESCO?",
+            "options": [
+                "Itália",
+                "China",
+                "Espanha",
+                "Alemanha"
+            ],
+            "correctAnswer": "Itália"
+        },
+        {
+            "question": "Qual é a cidade mais multicultural do mundo?",
+            "options": [
+                "Toronto",
+                "Nova York",
+                "Londres",
+                "Sidney"
+            ],
+            "correctAnswer": "Toronto"
+        },
+        {
+            "question": "Qual é a cidade mais populosa da Europa?",
+            "options": [
+                "Istambul",
+                "Paris",
+                "Londres",
+                "Berlim"
+            ],
+            "correctAnswer": "Istambul"
+        },
+        {
+            "question": "Qual é o país com a maior área de florestas tropicais?",
+            "options": [
+                "Brasil",
+                "Indonésia",
+                "República Democrática do Congo",
+                "Peru"
+            ],
+            "correctAnswer": "Brasil"
+        },
+        {
+            "question": "Qual é o país com a maior população de língua espanhola?",
+            "options": [
+                "México",
+                "Espanha",
+                "Argentina",
+                "Colômbia"
+            ],
+            "correctAnswer": "México"
+        },
+        {
+            "question": "Qual é a cidade mais populosa da África?",
+            "options": [
+                "Lagos",
+                "Cairo",
+                "Kinshasa",
+                "Johanesburgo"
+            ],
+            "correctAnswer": "Lagos"
+        },
+        {
+            "question": "Qual é o país com maior número de falantes nativos de inglês?",
+            "options": [
+                "Estados Unidos",
+                "Reino Unido",
+                "Índia",
+                "Canadá"
+            ],
+            "correctAnswer": "Estados Unidos"
+        },
+        {
+            "question": "Qual é a cidade mais rica da Ásia em termos de PIB per capita?",
+            "options": [
+                "Singapura",
+                "Tóquio",
+                "Hong Kong",
+                "Seul"
+            ],
+            "correctAnswer": "Singapura"
+        },
+        {
+            "question": "Qual é o maior exportador de grãos do mundo?",
+            "options": [
+                "Estados Unidos",
+                "Brasil",
+                "Canadá",
+                "Argentina"
+            ],
+            "correctAnswer": "Estados Unidos"
+        },
+        {
+            "question": "Qual é o país com a maior população muçulmana?",
+            "options": [
+                "Indonésia",
+                "Paquistão",
+                "Índia",
+                "Bangladesh"
+            ],
+            "correctAnswer": "Indonésia"
+        },
+        {
+            "question": "Qual é a cidade com maior número de museus no mundo?",
+            "options": [
+                "Londres",
+                "Paris",
+                "Roma",
+                "Berlim"
+            ],
+            "correctAnswer": "Londres"
+        },
+        {
+            "question": "Qual é a maior cidade da América do Sul em termos de população?",
+            "options": [
+                "São Paulo",
+                "Buenos Aires",
+                "Rio de Janeiro",
+                "Lima"
+            ],
+            "correctAnswer": "São Paulo"
+        },
+        {
+            "question": "Qual é o maior país do mundo em termos de população?",
+            "options": [
+                "China",
+                "Índia",
+                "Estados Unidos",
+                "Indonésia"
+            ],
+            "correctAnswer": "China"
+        },
+        {
+            "question": "Qual país é conhecido por ter o maior número de parques nacionais?",
+            "options": [
+                "Estados Unidos",
+                "Canadá",
+                "Austrália",
+                "Brasil"
+            ],
+            "correctAnswer": "Estados Unidos"
+        },
+        {
+            "question": "Qual cidade é considerada o maior centro financeiro do mundo?",
+            "options": [
+                "Nova York",
+                "Londres",
+                "Tóquio",
+                "Hong Kong"
+            ],
+            "correctAnswer": "Nova York"
+        },
+        {
+            "question": "Qual país tem a maior diversidade cultural do mundo?",
+            "options": [
+                "Índia",
+                "Estados Unidos",
+                "Brasil",
+                "Indonésia"
+            ],
+            "correctAnswer": "Índia"
+        },
+        {
+            "question": "Qual país é o maior exportador de produtos eletrônicos?",
+            "options": [
+                "China",
+                "Japão",
+                "Coreia do Sul",
+                "Estados Unidos"
+            ],
+            "correctAnswer": "China"
+        },
+        {
+            "question": "Qual país é conhecido por ter o maior número de idiomas falados?",
+            "options": [
+                "Papua Nova Guiné",
+                "Índia",
+                "Nigéria",
+                "Indonésia"
+            ],
+            "correctAnswer": "Papua Nova Guiné"
+        },
+        {
+            "question": "Qual cidade é conhecida como a 'capital mundial da moda'?",
+            "options": [
+                "Paris",
+                "Milão",
+                "Nova York",
+                "Londres"
+            ],
+            "correctAnswer": "Paris"
+        },
+        {
+            "question": "Qual é o maior país da África em termos de área territorial?",
+            "options": [
+                "Argélia",
+                "Sudão",
+                "República Democrática do Congo",
+                "Líbia"
+            ],
+            "correctAnswer": "Argélia"
+        },
+        {
+            "question": "Qual país tem a maior produção de vinho no mundo?",
+            "options": [
+                "Itália",
+                "França",
+                "Espanha",
+                "Estados Unidos"
+            ],
+            "correctAnswer": "Itália"
+        },
+        {
+            "question": "Qual cidade é conhecida por ter a maior rede de transporte público do mundo?",
+            "options": [
+                "Tóquio",
+                "Londres",
+                "Nova York",
+                "Paris"
+            ],
+            "correctAnswer": "Tóquio"
+        },
+        {
+            "question": "Qual é o país com a maior população muçulmana do mundo?",
+            "options": [
+                "Indonésia",
+                "Paquistão",
+                "Índia",
+                "Bangladesh"
+            ],
+            "correctAnswer": "Indonésia"
+        },
+        {
+            "question": "Qual é a cidade mais populosa da América do Norte?",
+            "options": [
+                "Cidade do México",
+                "Nova York",
+                "Toronto",
+                "Los Angeles"
+            ],
+            "correctAnswer": "Cidade do México"
+        },
+        {
+            "question": "Qual é a cidade com o maior número de arranha-céus no mundo?",
+            "options": [
+                "Hong Kong",
+                "Dubai",
+                "Nova York",
+                "Xangai"
+            ],
+            "correctAnswer": "Hong Kong"
+        },
+        {
+            "question": "Qual é o maior exportador de café do mundo?",
+            "options": [
+                "Brasil",
+                "Vietnã",
+                "Colômbia",
+                "Etiópia"
+            ],
+            "correctAnswer": "Brasil"
+        },
+        {
+            "question": "Qual país tem a maior diversidade étnica do mundo?",
+            "options": [
+                "Papua Nova Guiné",
+                "Índia",
+                "Nigéria",
+                "Indonésia"
+            ],
+            "correctAnswer": "Papua Nova Guiné"
+        },
+        {
+            "question": "Qual é a cidade mais antiga continuamente habitada do mundo?",
+            "options": [
+                "Damasco",
+                "Jerusalém",
+                "Atenas",
+                "Roma"
+            ],
+            "correctAnswer": "Damasco"
+        },
+        {
+            "question": "Qual país tem a maior população de língua espanhola?",
+            "options": [
+                "México",
+                "Espanha",
+                "Argentina",
+                "Colômbia"
+            ],
+            "correctAnswer": "México"
+        },
+        {
+            "question": "Qual é o maior produtor de vinho do mundo?",
+            "options": [
+                "Itália",
+                "França",
+                "Espanha",
+                "Estados Unidos"
+            ],
+            "correctAnswer": "Itália"
+        },
+        {
+            "question": "Qual é a cidade mais visitada por turistas no mundo?",
+            "options": [
+                "Bangkok",
+                "Paris",
+                "Londres",
+                "Dubai"
+            ],
+            "correctAnswer": "Bangkok"
+        },
+        {
+            "question": "Qual é a cidade mais multicultural do mundo?",
+            "options": [
+                "Toronto",
+                "Nova York",
+                "Londres",
+                "Sydney"
+            ],
+            "correctAnswer": "Toronto"
+        }
+    ]
+}
