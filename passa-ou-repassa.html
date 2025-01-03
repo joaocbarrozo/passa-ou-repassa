@@ -141,7 +141,7 @@
             divThemeSelection.classList.remove('d-none');
             divQuestion.classList.add("d-none");
             divCorrectAnswer.classList.add("d-none");
-            
+
             btnScience.addEventListener('click', () => randomQuestion(scienceUrl));
             btnChemistry.addEventListener('click', () => randomQuestion(chemistryUrl));
             btnPhysics.addEventListener('click', () => randomQuestion(physicsUrl));
@@ -181,7 +181,6 @@
                     correctAnswer.textContent = question.correctAnswer;
                     // Check answer
                     btnAnswer.addEventListener('click', () => {
-                        divCorrectAnswer.classList.remove('d-none');
                         //Disable radios
                         radios.forEach(el => {
                             el.disabled = true;
@@ -201,11 +200,15 @@
                         console.log(question.correctAnswer);
                         if (answer == question.correctAnswer) {
                             teamPlaying.score.textContent = parseInt(teamPlaying.score.textContent) + 100;
+                            correctAnswer.classList.remove("bg-danger");
                             correctAnswer.classList.add("bg-success")
                         } else {
                             teamPlaying = teams[(teams.indexOf(teamPlaying) + 1) % 2];
+                            correctAnswer.classList.remove("bg-success");
                             correctAnswer.classList.add("bg-danger")
                         }
+                        // Show container
+                        divCorrectAnswer.classList.remove('d-none');
                     })
                 })
                 .catch(error => {
